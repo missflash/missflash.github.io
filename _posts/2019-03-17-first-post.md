@@ -2,7 +2,6 @@
 title: "Welcome to Jekyll!"
 date: 2019-03-17 10:47:28 -0400
 categories: jekyll update
-use_math: true
 mathjax: true
 ---
 
