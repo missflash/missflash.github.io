@@ -15,6 +15,7 @@
     {% if page.use_math %}
        {% include mathjax_support.html %}
     {% endif %}
+    {% include mathjax.html %}
   </head>
 
   <body class="layout--{{ page.layout | default: layout.layout }}{% if page.classes or layout.classes %}{{ page.classes | default: layout.classes | join: ' ' | prepend: ' ' }}{% endif %}">
