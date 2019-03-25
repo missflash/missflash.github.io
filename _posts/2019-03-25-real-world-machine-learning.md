@@ -116,7 +116,7 @@ use_math: true
     * 벡터화 (Vectorization)
     * 정지어 (Stop Words)
   * 주제 모델링
-    * 용어 빈도-역문서 빈도 (Term Frequency-Inverse Document Frequency, tf-idf)
+    * 용어 빈도-역문서 빈도 (Term Frequency-Inverse Document Frequency, TF-IDF)<br>
 $tf-idf(용어, 문서, 문서들)=개수(문서내 용어)\frac{개수(문서들)}{개수(용어가 들어있는 문서들)}$
     * 잠재 의미 분석 (Latent Sementic Analysis, LSA)
       * T : 용어(개집, 짖는 소리)-개념(개) 행렬
@@ -132,7 +132,7 @@ $tf-idf(용어, 문서, 문서들)=개수(문서내 용어)\frac{개수(문서�
     * 색상
     * 메타데이터
   * 물체와 형태 추출
-    * 윤곽선 검출 (Edge Detection)
+    * 윤곽선 검출 (Edge Detection)<br>
 $EdgeScore=\frac{\Sigma(edges)}{res_x*res_y}$
     * 고급 형태 특성 (HOG)
 <script src="https://gist.github.com/missflash/e040bf8ae14abec32525e8e87c01aabc.js"></script>
