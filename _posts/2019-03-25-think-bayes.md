@@ -6,11 +6,11 @@ use_math: true
 ---
 
 # 1. 베이즈 이론
-$p(A|B) = \frac {p(A)p(B|A)}{p(B)}$
-$p(A)$ : 사전 확률
-$p(A|B)$ : 사후 확률
-$p(B|A)$ : 우도
-$p(B)$ : 한정 상수
+$p(A|B) = \frac {p(A)p(B|A)}{p(B)}$<br>
+$p(A)$ : 사전 확률<br>
+$p(A|B)$ : 사후 확률<br>
+$p(B|A)$ : 우도<br>
+$p(B)$ : 한정 상수<br>
 
 M&M 문제
 
