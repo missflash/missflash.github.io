@@ -1,7 +1,7 @@
 ---
 title: "Real World Machine Learning"
 date: 2019. 3. 25. 오후 8:56:55
-categories: 
+categories:
 use_math: true
 ---
 
@@ -118,6 +118,6 @@ use_math: true
 
 
 # 참고자료
-* https://github.com/brinkar/real-world-machine-learning
-* https://www.manning.com/books/real-world-machine-learning
-* http://wikibook.co.kr
+* [https://github.com/brinkar/real-world-machine-learning](https://github.com/brinkar/real-world-machine-learning)
+* [https://www.manning.com/books/real-world-machine-learning](https://www.manning.com/books/real-world-machine-learning)
+* [http://wikibook.co.kr](http://wikibook.co.kr)
