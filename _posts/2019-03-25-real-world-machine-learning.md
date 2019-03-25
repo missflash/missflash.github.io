@@ -1,7 +1,7 @@
 ---
 title: "Real World Machine Learning"
 date: 2019. 3. 25. 오후 8:56:55
-categories: Review Machine-Learning AI
+categories: 
 use_math: true
 ---
 
