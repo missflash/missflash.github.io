@@ -106,6 +106,57 @@ use_math: true
 
 
 # 7장 고급 특성 추출 기법
+* 고급 텍스트 특성
+  * 단어 주머니 모델
+    * 토큰화 : 텍스트를 조각들로 분해하는 일
+      * n-gram : n개 글자로 구성된 문서
+      * unigram, bigram, trigram...
+    * 변형 : fox vs. Fox
+    * 어간 추출 : jump, jumping, jumps, ...
+    * 벡터화 (Vectorization)
+    * 정지어 (Stop Words)
+  * 주제 모델링
+    * 용어 빈도-역문서 빈도 (Term Frequency-Inverse Document Frequency, tf-idf)
+$tf-idf(용어, 문서, 문서들)=개수(문서내 용어)\frac{개수(문서들)}{개수(용어가 들어있는 문서들)}$
+    * 잠재 의미 분석 (Latent Sementic Analysis, LSA)
+      * T : 용어(개집, 짖는 소리)-개념(개) 행렬
+      * D : 개념-문서 행렬
+      * S : 특이값 행렬
+    * 확률론적 방법 (Latent Dirichlet Analysis, LDA)
+  * 내용 확장
+    * 링크
+    * 지식베이스 확장
+    * 텍스트 메타 특성
+* 이미지 특성
+  * 간단한 이미지 특성
+    * 색상
+    * 메타데이터
+  * 물체와 형태 추출
+    * 윤곽선 검출 (Edge Detection)
+$EdgeScore=\frac{\Sigma(edges)}{res_x*res_y}$
+    * 고급 형태 특성 (HOG)
+<script src="https://gist.github.com/missflash/e040bf8ae14abec32525e8e87c01aabc.js"></script>
+    * 차원 감소 (PCA, Diffusion Map)
+    * 자동 특성 추출 (DNN, DBN)
+* 시계열 특성
+  * 시계열 데이터의 유형
+    * 고전적 시계열 : 시간의 흐름에 맞춰 수치를 측정한 값으로 구성
+    * 점 과정 (Point Processes) : 시간이 지나면서 때때로 발생하는 사건을 모은 것
+  * 시계열 데이터를 바탕으로 한 예측
+    * 시계열 예측 : 단일 시계열 대상
+    * 시계열 분류 or 시계열 회귀 : 다수의 시계열 대상
+  * 고전적 시계열 특성
+    * 간단한 시계열 특성 : 평균, 확산(표준편차), 이상점(Outliers), 분포
+    * 고급 시계열 특성
+      * 자기상관 (Autocorrelation) : 자신과 시차가 이쓴 버전의 통계적 상관관계 측정
+      * 푸리에 분석 : 시계열을 데이터 집합에서 발생하는 주파수 범위 내 Sin, Cos 함수의 합계로 분해
+      * 이산 푸리에 변환 : 시계열의 스펙트럼 밀도를 주파수 함수로 계산
+      * 주기도 : 주기를 나타낸 그림
+    * 시계열 모델 예
+      * 자기회귀
+      * 자기회귀 이동 평균
+      * 가치 모델
+      * 은닉 마르코프 모델
 
 
 # 8장 고급 자연 언어 처리 예제: 영화 감상평 평점
