@@ -180,13 +180,13 @@ $EdgeScore=\frac{\Sigma(edges)}{res_x*res_y}$
     * 가지고 있는 데이터가 이 사용사례를 해결하기에 충분한가?
 * 기초 자연 언어 처리 특성 추출 및 초기 모델 구축
   * 나이브 베이즈 알고리즘
-    * $p(C_k|x)$ ~ $p(C_k)p(x|C_k)$
-    * $p(C_k|x)$ ~ $p(C_k)p(x_1|C_k)p(x_2|C_k)p(x_3|C_k)...$
-    * $p(C_k|x)$ ~ $p(C_k)\prod_{i}^n p(x_i|C_k)$
-    * $p(x_i|C_k)$ ~ $\prod_{i}p^{x_i}_{k_i}$
-    * $log[p(C_k|x_i)]$ ~ $log[p(C_k)\prod_{i}p^{x_i}_{k_i}]$
-    * $log[p(C_k|x_i)]$ ~ $log[p(C_k)]+\sum_{i}^n x_i log(p_{k_i})$
-    * $log[p(C_k|x_i)]$ ~ $b+w_kx$
+$p(C_k|x)$ ~ $p(C_k)p(x|C_k)$<br>
+$p(C_k|x)$ ~ $p(C_k)p(x_1|C_k)p(x_2|C_k)p(x_3|C_k)...$<br>
+$p(C_k|x)$ ~ $p(C_k)\prod_{i}^n p(x_i|C_k)$<br>
+$p(x_i|C_k)$ ~ $\prod_{i}p^{x_i}_{k_i}$<br>
+$log[p(C_k|x_i)]$ ~ $log[p(C_k)\prod_{i}p^{x_i}_{k_i}]$<br>
+$log[p(C_k|x_i)]$ ~ $log[p(C_k)]+\sum_{i}^n x_i log(p_{k_i})$<br>
+$log[p(C_k|x_i)]$ ~ $b+w_kx$<br>
     * $b$는 데이터를 통해 알수 있고, $x$는 예측하고자 하는 사례의 특성을 나타냄, $w_k$는 좋은 문서 또는 나쁜 문서에서 단어가 출연하는 비율을 의미
 <script src="https://gist.github.com/missflash/80fd6c8fe74a7f9ef9b7b594c6584704.js"></script>
   * tf-idf 알고리즘으로 단어 주머니의 특성들을 정규화하기
