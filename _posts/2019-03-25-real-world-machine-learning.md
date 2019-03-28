@@ -188,6 +188,7 @@ $log[p(C_k|x_i)]$ ~ $log[p(C_k)\prod_i$ $p^{x_i}_{k_i}]$<br>
 $log[p(C_k|x_i)]$ ~ $log[p(C_k)]+\sum_i^n x_i log(p_{k_i})$<br>
 $log[p(C_k|x_i)]$ ~ $b+w_kx$<br>
     * $b$는 데이터를 통해 알수 있고, $x$는 예측하고자 하는 사례의 특성을 나타냄, $w_k$는 좋은 문서 또는 나쁜 문서에서 단어가 출연하는 비율을 의미
+    * 초기 모델 평가하기
 <script src="https://gist.github.com/missflash/80fd6c8fe74a7f9ef9b7b594c6584704.js"></script>
   * tf-idf 알고리즘으로 단어 주머니의 특성들을 정규화하기
     * Scikit-learn의 TfidfVectorizer 활용
