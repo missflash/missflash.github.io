@@ -19,6 +19,7 @@ use_math: true
 
 
 # 2장 실무현장 데이터
+* [Github Notebook](https://nbviewer.jupyter.org/github/brinkar/real-world-machine-learning/blob/master/Chapter%202%20-%20Data%20Processing.ipynb)
 * 데이터 수집시 고려해야 하는 사항들
   * 어떤 특성을 포함해야 하는가?
   * 목표 변수에 대한 실측 자료를 어떻게 얻을 수 있는가?
@@ -34,6 +35,7 @@ use_math: true
 
 
 # 3장 모델링과 예측
+* [Github Notebook](https://nbviewer.jupyter.org/github/brinkar/real-world-machine-learning/blob/master/Chapter%203%20-%20Modeling%20and%20prediction.ipynb)
 * $Y = f(X)$
   * $Y$ : 예측
   * $f$ : 추정
@@ -46,6 +48,7 @@ use_math: true
 
 
 # 4장 모델 평가와 최적화
+* [Github Notebook](https://nbviewer.jupyter.org/github/brinkar/real-world-machine-learning/blob/master/Chapter%204%20-%20Evaluation%20and%20Optimization.ipynb)
 * 커널 스무딩 (Kernel Smoothing)
 * 대역폭 매개변수 (Bandwidth Parameter)
   * 작으면 : 과적합
@@ -95,6 +98,7 @@ use_math: true
 
 
 # 6장 예제: 뉴욕 시 택시 데이터
+* [Github Notebook](https://nbviewer.jupyter.org/github/brinkar/real-world-machine-learning/blob/master/Chapter%206%20-%20NYC%20Taxi%20Full%20Example.ipynb)
 * 데이터
   * 데이터 시각화
   * 머신러닝 작업에서의 두 가지 함정
@@ -106,6 +110,7 @@ use_math: true
 
 
 # 7장 고급 특성 추출 기법
+* [Github Notebook](https://nbviewer.jupyter.org/github/brinkar/real-world-machine-learning/blob/master/Chapter%207%20-%20Advanced%20Feature%20Engineering.ipynb)
 * 고급 텍스트 특성
   * 단어 주머니 모델
     * 토큰화 : 텍스트를 조각들로 분해하는 일
@@ -160,12 +165,46 @@ $EdgeScore=\frac{\Sigma(edges)}{res_x*res_y}$
 
 
 # 8장 고급 자연 언어 처리 예제: 영화 감상평 평점
+* [Github Notebook](https://nbviewer.jupyter.org/github/brinkar/real-world-machine-learning/blob/master/Chapter%208%20-%20Movie%20Review%20Full%20Example.ipynb)
+* 데이터 및 사용사례 탐구
+  * 사용사례의 목적
+    * 목표 변수를 변환하는 방법 (Ex. 2진 분류, 다중 분류, 실제값 등)
+    * 최적화할 평가 기준
+    * 고려할 학습 알고리즘
+    * 데이터 입력 사용 가능 여부
+  * 사용사례 고려사항
+    * 사용사례가 가치 있는 이유는?
+    * 어떤 훈련 데이터가 필요한가?
+    * 적절한 머신러닝 모델링 전략은?
+    * 예측에 어떤 평가 측정을 사용해야 하는가?
+    * 가지고 있는 데이터가 이 사용사례를 해결하기에 충분한가?
+* 기초 자연 언어 처리 특성 추출 및 초기 모델 구축
+  * 나이브 베이즈 알고리즘
+    * $p(C_k|x)$ ~ $p(C_k)p(x|C_k)$
+    * $p(C_k|x)$ ~ $p(C_k)p(x_1|C_k)p(x_2|C_k)p(x_3|C_k)...$
+    * $p(C_k|x)$ ~ $p(C_k)\prod_{i}^n p(x_i|C_k)$
+    * $p(x_i|C_k)$ ~ $\prod_{i}p^{x_i}_{k_i}$
+    * $log[p(C_k|x_i)]$ ~ $log[p(C_k)\prod_{i}p^{x_i}_{k_i}]$
+    * $log[p(C_k|x_i)]$ ~ $log[p(C_k)]+\sum_{i}^n x_i log(p_{k_i})$
+    * $log[p(C_k|x_i)]$ ~ $b+w_kx$
+    * $b$는 데이터를 통해 알수 있고, $x$는 예측하고자 하는 사례의 특성을 나타냄, $w_k$는 좋은 문서 또는 나쁜 문서에서 단어가 출연하는 비율을 의미
+<script src="https://gist.github.com/missflash/80fd6c8fe74a7f9ef9b7b594c6584704.js"></script>
+  * tf-idf 알고리즘으로 단어 주머니의 특성들을 정규화하기
+    * Scikit-learn의 TfidfVectorizer 활용
+  * 모델 매개변수 최적화
+* 고급 알고리즘과 모델 배치 고려사항
+  * word2vec 특성
+    * Gensim 라이브러리의 word2vec 활용
+  * 랜덤 포레스트 모델
+    * RandomForestClassifier 활용
 
 
 # 9장 머신러닝 작업 흐름 확장
+* [Github Notebook](https://nbviewer.jupyter.org/github/brinkar/real-world-machine-learning/blob/master/Chapter%209%20-%20Scaling%20ML%20Workflows.ipynb)
 
 
 # 10장 예제: 디지털 디스플레이 광고
+* [Github Notebook](https://nbviewer.jupyter.org/github/brinkar/real-world-machine-learning/blob/master/Chapter%2010%20-%20Advertising%20Example.ipynb)
 
 
 # 참고자료
