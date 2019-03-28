@@ -179,11 +179,11 @@ $EdgeScore=\frac{\Sigma(edges)}{res_x*res_y}$
     * 예측에 어떤 평가 측정을 사용해야 하는가?
     * 가지고 있는 데이터가 이 사용사례를 해결하기에 충분한가?
 * 기초 자연 언어 처리 특성 추출 및 초기 모델 구축
-  * 나이브 베이즈 알고리즘
+  * 나이브 베이즈 알고리즘<br>
 $p(C_k|x)$ ~ $p(C_k)p(x|C_k)$<br>
 $p(C_k|x)$ ~ $p(C_k)p(x_1|C_k)p(x_2|C_k)p(x_3|C_k)...$<br>
-$p(C_k|x)$ ~ $p(C_k)\prod_{i}^n p(x_i|C_k)$<br>
-$p(x_i|C_k)$ ~ $\prod_{i}p^{x_i}_{k_i}$<br>
+$p(C_k|x)$ ~ $p(C_k)\prod_i^n p(x_i|C_k)$<br>
+$p(x_i|C_k)$ ~ $\prod_ip^{x_i}_{k_i}$<br>
 $log[p(C_k|x_i)]$ ~ $log[p(C_k)\prod_{i}p^{x_i}_{k_i}]$<br>
 $log[p(C_k|x_i)]$ ~ $log[p(C_k)]+\sum_{i}^n x_i log(p_{k_i})$<br>
 $log[p(C_k|x_i)]$ ~ $b+w_kx$<br>
