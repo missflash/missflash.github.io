@@ -227,6 +227,25 @@ $log[p(C_k|x_i)]$ ~ $b+w_kx$<br>
 
 # 10장 예제: 디지털 디스플레이 광고
 * [Github Notebook](https://nbviewer.jupyter.org/github/brinkar/real-world-machine-learning/blob/master/Chapter%2010%20-%20Advertising%20Example.ipynb)
+* 특성 추출과 모델링 전략
+  * 고차원 공간으로 인한 차원의 저주 (The Curse of Dimensionality)
+* 데이터의 크기와 모양
+  * Cardinality : 집합의 크기 또는 사상 개수
+* 특잇값 분해
+  * Singular Value Decomposition (SVD)<br>
+$A_{[n*p]}=U_{[n*n]}S_{[n*p]}V_{[p*p]}^T$<br>
+$U$ 왼쪽 특이 벡터, $V$ 오른쪽 특이 벡터<br>
+$S$ 특잇값 : 해당 특성 벡터가 어느정도 독립적인지 확인 가능<br>
+* 자원 추정 및 최적화
+  * 병렬 처리를 통한 데이터 수집 시간 단축
+* k 최근접 이웃
+  * 훈련 공간에서 가장 가까운 관측값에 대한 예측이 목적
+  * 유클리드 거리 사용
+* 랜덤 포레스트
+  * 다중 결정 트리 분류기나 회귀기를 훈련 데이터와 특성 부분집합에 맞추고 결합된 모델을 토대로 예측할 수 있는 앙상블 학습방법
+  * Bootstrap Aggregating
+  * Bagging (집어넣기) : 랜덤 포레스트와 다른 알고리즘에 사용되는 복원 표집 반복 과정
+  * Stacking (쌓기) : 최종 합의된 예측을 도출하기 위해 로지스틱 회귀 같은 다른 알고리즘 예측을 결합하는 방법
 
 
 # 참고자료
