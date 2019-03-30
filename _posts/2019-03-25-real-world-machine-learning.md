@@ -13,9 +13,9 @@ use_math: true
   * 맞춤화
   * 확장성
 * 모델 성능 최적화
-  * 모델 매개변수 조정
-  * 특성의 부차 집합을 선택
-  * 데이터 전처리
+  * 모델 매개변수 조정 (Tuning the model parameters)
+  * 특성의 부차 집합을 선택 (Selecting a subset of features)
+  * 데이터 전처리 (Preprocessing the data)
 
 
 # 2장 실무현장 데이터
