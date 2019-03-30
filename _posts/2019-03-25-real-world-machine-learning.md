@@ -202,6 +202,27 @@ $log[p(C_k|x_i)]$ ~ $b+w_kx$<br>
 
 # 9장 머신러닝 작업 흐름 확장
 * [Github Notebook](https://nbviewer.jupyter.org/github/brinkar/real-world-machine-learning/blob/master/Chapter%209%20-%20Scaling%20ML%20Workflows.ipynb)
+* 확장하기 전에
+  * 중요 차원 식별 : 자원 제약이 모델 훈련과 예측에 미치는 영향
+  * 훈련 데이터 Subsampling 하기
+    * 특성 선택 : N-그램, Lasso 등
+    * 사례 군집화 : 계층적 병합 군집화 등
+  * 확장 가능한 데이터 관리 시스템
+    * 수평 확장 : 새로운 노트 추가 및 노드간 고르게 데이터 분포
+    * 수직 확장 : 메모리, CPU 코어 추가 등
+    * Hadoop Distributed File System (HDFS) : MapReduce 알고리즘 사용
+    * 데이터 집약성 (Data Locality)
+    * 머아웃 (Mahout) : HDFS와 함께 작동하는 머신러닝 알고리즘
+    * 아파치 스파크 : 하둡 기반 AI 플랫폼
+    * MLlib : 머신러닝 알고리즘 및 도구
+* 머신러닝 모델링 파이프라인 확장
+  * 학습 알고리즘 확장
+    * 다항식 특성 : 특성1*특성2, 특성1의 제곱 등
+    * 데이터와 알고리즘 근사 : 히스토그램 근사
+    * 심층 신경망 : 딥러닝과 같은 블랙박스 모델
+* 예측 확장
+  * 예측량 높이기
+  * 예측속도 높이기
 
 
 # 10장 예제: 디지털 디스플레이 광고
