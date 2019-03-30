@@ -248,6 +248,21 @@ $S$ 특잇값 : 해당 특성 벡터가 어느정도 독립적인지 확인 가�
   * Stacking (쌓기) : 최종 합의된 예측을 도출하기 위해 로지스틱 회귀 같은 다른 알고리즘 예측을 결합하는 방법
 
 
+# 부록. 인기 있는 머신러닝 알고리즘
+* Linear Regression (선형 회귀)
+* Logistic Regression (로지스틱 회귀)
+* Support Vector Machine (서포트 벡터 머신)
+* SVM with Kernel (커널을 가진 서포트 벡터 머신)
+* k-nearest neighbors (k 최근접 이웃)
+* Decision Trees (결정 트리)
+* Random Forest (랜덤 포레스트)
+* Boosting (부스팅)
+* Naive Bayes (나이브 베이즈)
+* Neural Network (신경망)
+* Vowpal Wabbit (보우팰 웨빗)
+* XGBoost (엑스지부스트)
+
+
 # 참고자료
 * [https://github.com/brinkar/real-world-machine-learning](https://github.com/brinkar/real-world-machine-learning)
 * [https://www.manning.com/books/real-world-machine-learning](https://www.manning.com/books/real-world-machine-learning)
