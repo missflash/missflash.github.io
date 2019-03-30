@@ -233,7 +233,7 @@ $log[p(C_k|x_i)]$ ~ $b+w_kx$<br>
   * Cardinality : 집합의 크기 또는 사상 개수
 * 특잇값 분해
   * Singular Value Decomposition (SVD)<br>
-$A_{n by p}=U_{n by n}S_{n by p}V_{p by p}^T$<br>
+$A_{n~by~p}=U_{n~by~n}S_{n~by~p}V_{p~by~p}^T$<br>
 $U$ 왼쪽 특이 벡터, $V$ 오른쪽 특이 벡터<br>
 $S$ 특잇값 : 해당 특성 벡터가 어느정도 독립적인지 확인 가능<br>
 * 자원 추정 및 최적화
