@@ -123,7 +123,7 @@ $\frac {p(A|D)}{p(B|D)} = \frac {p(H)p(D|H)}{p(B)P(D|B)}$<br>
   * 3~10 : 적당함 (Substantial)
   * 10~30 : 강력함 (Strong)
   * 30~100 : 매우 강력함 (Very Strong)
-  * > 100 : 확실함 (Decisive)
+  * 100 이상 : 확실함 (Decisive)
 
 
 # 12. 증거
