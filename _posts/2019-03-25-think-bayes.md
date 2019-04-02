@@ -5,7 +5,7 @@ categories:
 use_math: true
 ---
 
-![Think Bayes](https://github.com/missflash/missflash.github.io/tree/master/_files/think_bayes.jpg)
+![Think Bayes](https://raw.githubusercontent.com/missflash/missflash.github.io/master/_files/think_bayes.jpg)
 
 
 # 1. 베이즈 이론

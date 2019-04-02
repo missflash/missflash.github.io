@@ -5,7 +5,7 @@ categories:
 use_math: true
 ---
 
-![리얼월드 머신러닝](https://github.com/missflash/missflash.github.io/tree/master/_files/real_world_machine_learning.jpg)
+![리얼월드 머신러닝](https://raw.githubusercontent.com/missflash/missflash.github.io/master/_files/real_world_machine_learning.jpg)
 
 
 # 1장 머신러닝이란 무엇인가?
