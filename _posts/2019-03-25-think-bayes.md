@@ -5,6 +5,9 @@ categories:
 use_math: true
 ---
 
+![Think Bayes](https://github.com/missflash/missflash.github.io/tree/master/_files/think_bayes.jpg)
+
+
 # 1. 베이즈 이론
 * 베이즈 이론
 $p(A|B) = \frac {p(A)p(B|A)}{p(B)}$<br>

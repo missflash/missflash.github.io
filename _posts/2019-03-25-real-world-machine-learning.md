@@ -5,6 +5,9 @@ categories:
 use_math: true
 ---
 
+![리얼월드 머신러닝](https://github.com/missflash/missflash.github.io/tree/master/_files/real_world_machine_learning.jpg)
+
+
 # 1장 머신러닝이란 무엇인가?
 * 머신러닝의 다섯 가지 이점
   * 정확성
