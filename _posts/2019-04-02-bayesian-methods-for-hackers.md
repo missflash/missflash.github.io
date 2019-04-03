@@ -34,6 +34,19 @@ $E[Z|\lambda] = \frac {1}{\lambda}$<br>
 
 
 # 2. PyMC 더 알아보기
+* 서론
+  * Stochastic 변수 : 값이 정해지지 않은 변수
+  * Deterministic 변수 : 변수의 부모를 모두 알고있는 경우에 랜덤하지 않은 변수
+    * @pymc.deterministic 파이썬 래퍼 (데코레이터)를 써서 구분
+* 모델링 방법
+  * 관측된 빈도와 실제 빈도간에는 차이가 발생
+  * 베르누이 분포<br>
+$X$ ~ $Berp(p)$ : X는 p의 확률로 1, 1-p의 확률로 0<br>
+  * 이항분포<br>
+$X$ ~ $Bin(N, p)$<br>
+$P(X=k)=\binom {n} {k} p^k (1-p)^{N-k}$<br>
+기댓값 : $Np$<br>
+
 
 
 # 3. MCMC 블랙박스 열기
