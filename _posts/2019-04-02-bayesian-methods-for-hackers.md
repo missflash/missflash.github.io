@@ -13,16 +13,16 @@ use_math: true
   * 사전확률 P(A) : 사건 A에 대한 우리의 믿음의 양
   * 사후확률 P(A|X) : 증거 X가 주어진 상황에서 A의 확률
 * 베이지안 프레임워크
-  * 베이즈 정리
+  * 베이즈 정리<br>
 $P(A|X) = \frac {p(A)p(X|A)}{p(X)}$<br>
 
 * 확률분포
-  * 확률변수 Z가 이산적인 경우, 확률질량함수
+  * 확률변수 Z가 이산적인 경우, 확률질량함수<br>
 $P(Z=k) = \frac {\lambda^k e^{-\lambda}}{k!}$, $k=0,1,2,...$<br>
 $Z$ ~ $Poi(\lambda)$<br>
 $E[Z|\lambda] = \lambda$<br>
 
-  * 확률변수 Z가 연속적인 경우, 확률밀도함수
+  * 확률변수 Z가 연속적인 경우, 확률밀도함수<br>
 $f_Z(z|\lambda) = \lambda e^{-\lambda z}, z \ge 0$<br>
 $Z$ ~ $Exp(\lambda)$<br>
 $E[Z|\lambda] = \frac {1}{\lambda}$<br>
