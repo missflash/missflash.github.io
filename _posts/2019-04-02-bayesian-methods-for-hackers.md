@@ -15,20 +15,20 @@ use_math: true
 * 베이지안 프레임워크
   * 베이즈 정리
 
-$P(A|X)=\frac {p(A)p(B|A)}{p(B)}$
+$P(A|X) = \frac {p(A)p(B|A)}{p(B)}$
 
 * 확률분포
   * 확률변수 Z가 이산적인 경우, 확률질량함수
 
-$P(Z=k)=\frac {\lambda^k e^{-k}}{k!}$, $k=0,1,2,...$<br>
+$P(Z=k) = \frac {\lambda^k e^{-k}}{k!}$, $k=0,1,2,...$<br>
 $Z$ ~ $Poi(\lambda)$<br>
-$E[Z|\lambda]=\lambda$
+$E[Z|\lambda] = \lambda$
 
   * 확률변수 Z가 연속적인 경우, 확률밀도함수
 
-$f_Z(z|\lambda)=\lambda e^{-\lambda z}, z \ge 0$<br>
+$f_Z(z|\lambda) = \lambda e^{-\lambda z}, z \ge 0$<br>
 $Z$ ~ $Exp(\lambda)$<br>
-$E[Z|\lambda]=\frac {1}{\lambda}$
+$E[Z|\lambda] = \frac {1}{\lambda}$
 
 * 컴퓨터를 사용하여 베이지안 추론하기
   * [PyMC를 사용한 베이지안](https://nbviewer.jupyter.org/github/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/blob/master/Chapter1_Introduction/Ch1_Introduction_PyMC3.ipynb)
