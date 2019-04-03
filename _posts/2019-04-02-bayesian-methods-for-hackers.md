@@ -18,7 +18,7 @@ $P(A|X) = \frac {p(A)p(X|A)}{p(X)}$<br>
 
 * 확률분포
   * 확률변수 Z가 이산적인 경우, 확률질량함수
-$P(Z=k) = \frac {\lambda^k e^{-k}}{k!}$, $k=0,1,2,...$<br>
+$P(Z=k) = \frac {\lambda^k e^{-\lambda}}{k!}$, $k=0,1,2,...$<br>
 $Z$ ~ $Poi(\lambda)$<br>
 $E[Z|\lambda] = \lambda$<br>
 
