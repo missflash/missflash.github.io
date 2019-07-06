@@ -61,7 +61,6 @@ $v_\pi(s)=\Sigma_{a\in A}\pi(a|s)(R_{t+1}+\gamma v_\pi(s'))$ : 상태 변환 확
   * 벨만 최적 방정식<br>
 $v_{k+1}(s)=\Sigma_{a\in A}\pi(a|s)(R^a_s+\gamma v_k(s'))$ : 계산 가능한 형태의 벨만 기대 방정식<br>
 $v_*(s)=max_\pi[v_\pi(s)]$ : 최적의 가치함수<br>
-$v_*(s)=max_\pi[v_\pi(s)]$ : 최적의 가치함수<br>
 
 # 3. 강화학습 기초 2: 그리드월드와 다이내믹 프로그래밍
 *
