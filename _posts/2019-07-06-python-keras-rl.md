@@ -53,14 +53,13 @@ $v_\pi(s)=E_\pi[R_{t+1}+\gamma v_\pi(S_{t+1})|S_t=s]$ : 정책을 고려한 가�
 $v_\pi(s)=\Sigma_{a\in A}\pi(a|s)q_\pi(s,a)$<br>
 $q_\pi(s,a)=E_\pi[R_{t+1}+\gamma q_\pi(S_{t+1},A_{t+1})|S_t=s,A_t=a]$<br>
 
-* 벨만 방정식
-  * 벨만 기대 방정식<br>
+* 벨만 기대 방정식<br>
 $v_\pi(s)=E_\pi[R_{t+1}+\gamma v_\pi(S_{t+1})|S_t=s]$ : 벨만 기대 방정식<br>
 $v_\pi(s)=\Sigma_{a\in A}\pi(a|s)(R_{t+1}+\gamma \Sigma_{s'\in S}P^a_{ss'}v_\pi(s'))$ : 벨만 기대 방정식<br>
 $v_\pi(s)=\Sigma_{a\in A}\pi(a|s)(R_{t+1}+\gamma v_\pi(s'))$ : 상태 변환 확률이 1인 벨만 기대 방정식<br>
 
 * 벨만 최적 방정식<br>
-$v_{k+1}(s)=\Sigma_{a\in A}\pi(a|s)(R^a_s+\gamma v_k(s'))$ : 계산 가능한 형태의 벨만 기대 방정식<br>
+$v_{k+1}(s)=\Sigma_{a\in A}\pi(a|s)(R^a_s + \gamma v_k(s'))$ : 계산 가능한 형태의 벨만 기대 방정식<br>
 $v_*(s)=\max_\pi[v_\pi(s)]$ : 최적의 가치함수<br>
 $q_*(s,a)=\max_\pi[q_\pi(s,a)]$ : 최적의 큐함수<br>
 $\pi_*(s,a)=\cases{1 & if a=argmax_{a\in A}q_*(s,a)\cr 0 & otherwise}$ : 최적 정책<br>
