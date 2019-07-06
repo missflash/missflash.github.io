@@ -62,7 +62,7 @@ $v_\pi(s)=\Sigma_{a\in A}\pi(a|s)(R_{t+1}+\gamma v_\pi(s'))$ : 상태 변환 확
 $v_{k+1}(s)=\Sigma_{a\in A}\pi(a|s)(R^a_s+\gamma v_k(s'))$ : 계산 가능한 형태의 벨만 기대 방정식<br>
 $v_\ast(s)=\max_\pi[v_\pi(s)]$ : 최적의 가치함수<br>
 $q_\ast(s,a)=\max_\pi[q_\pi(s,a)]$ : 최적의 큐함수<br>
-$\pi_\ast(s,a)=\cases{1\space if a=argmax_{a\in A} q_\ast(s,a)\cr 0\space otherwise}$ : 최적 정책<br>
+$\pi_\ast(s,a)=\cases{1\space \text{if}\space a=argmax_{a\in A} q_\ast(s,a)\cr 0\space \text{otherwise}}$ : 최적 정책<br>
 $v_\ast(s)=\max_a[q_\ast(s,a)|S_t=s,A_t=a]$ : 큐함수 중 최대를 선택하는 최적 가치함수<br>
 $v_\ast(s)=\max_a E[R_{t+1}+\gamma v_\ast(S_{t+1})|S_t=s,A_t=a]$ : 벨만 최적 방정식<br>
 $q_\ast(s,a)=E[R_{t+1}+\gamma \max_{a'} q_\ast(S_{t+1},a')|S_t=s,A_t=a]$ : 큐함수에 대한 벨만 최적 방정식<br>
