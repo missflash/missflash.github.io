@@ -25,7 +25,7 @@ $A_t = a$ : 시간 t에서의 행동<br>
   * 보상 함수<br>
 $R^a_s = E[R_{t+1} | S_t=s,A_t=a]$ : 시간 t에서 상태가 s이고 행동이 a일때 에이전트가 받을 보상<br>
   * 상태 변환 확률 (State Transition Probability)<br>
-$P^a_{ss} = P[S_{t+1}=s | S_t=s,A_t=a]$ : 상태 s에서 행동 a를 취했을 때 다른 상태 s에 도달할 확률<br>
+$P^a_{ss'} = P[S_{t+1}=s' | S_t=s,A_t=a]$ : 상태 s에서 행동 a를 취했을 때 다른 상태 s에 도달할 확률<br>
   * 감가율 (Discount Factor)<br>
 $\gamma\in[0,1]$<br>
 $\gamma^{k-1}R_{t+k}$ : 현재 시간 t로부터 k가 지난후의 보상<br>
