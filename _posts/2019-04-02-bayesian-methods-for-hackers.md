@@ -5,7 +5,7 @@ categories:
 use_math: true
 ---
 
-![Think Bayes](https://raw.githubusercontent.com/missflash/missflash.github.io/master/_files/bayesian_methods_for_hackers.jpg)
+![Bayesian Methods for Hackers](https://raw.githubusercontent.com/missflash/missflash.github.io/master/_files/bayesian_methods_for_hackers.jpg)
 
 
 # 1. 베이지안 추론의 철학
