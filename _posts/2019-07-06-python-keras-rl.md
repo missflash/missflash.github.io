@@ -25,7 +25,7 @@ $A_t = a$ : 시간 t에서의 행동<br>
   * 보상 함수<br>
 $R^a_s = E[R_{t+1} | S_t=s,A_t=a]$ : 시간 t에서 상태가 s이고 행동이 a일때 에이전트가 받을 보상<br>
   * 상태 변환 확률 (State Transition Probability)<br>
-$P^a_{ss'} = P[S_{t+1}=s' | S_t=s,A_t=a]$ : 상태 s에서 행동 a를 취했을 때 다른 상태 s에 도달할 확률<br>
+$P^a_{ss'} = P[S_{t+1}=s' | S_t=s,A_t=a]$ : 상태 s에서 행동 a를 취했을 때 다른 상태 s'에 도달할 확률<br>
   * 감가율 (Discount Factor)<br>
 $\gamma\in[0,1]$<br>
 $\gamma^{k-1}R_{t+k}$ : 현재 시간 t로부터 k가 지난후의 보상<br>
@@ -55,14 +55,14 @@ $q_\pi(s,a)=E_\pi[R_{t+1}+\gamma q_\pi(S_{t+1},A_{t+1})|S_t=s,A_t=a]$<br>
 
 * 벨만 기대 방정식<br>
 $v_\pi(s)=E_\pi[R_{t+1}+\gamma v_\pi(S_{t+1})|S_t=s]$ : 벨만 기대 방정식<br>
-$v_\pi(s)=\Sigma_{a\in A}\pi(a|s)(R_{t+1}+\gamma \Sigma_{s'\in S}P^a_{ss'}v_\pi(s'))$ : 벨만 기대 방정식<br>
+$v_\pi(s)=\Sigma_{a\in A}\pi(a|s)(R_{t+1}+\gamma \Sigma_{s'\in S}P^a_{ss'}v_\pi(s'))$ : 계산 가능한 벨만 기대 방정식<br>
 $v_\pi(s)=\Sigma_{a\in A}\pi(a|s)(R_{t+1}+\gamma v_\pi(s'))$ : 상태 변환 확률이 1인 벨만 기대 방정식<br>
 
 * 벨만 최적 방정식<br>
 $v_{k+1}(s)=\Sigma_{a\in A}\pi(a|s)(R^a_s+\gamma v_k(s'))$ : 계산 가능한 형태의 벨만 기대 방정식<br>
 $v_\ast(s)=\max_\pi[v_\pi(s)]$ : 최적의 가치함수<br>
 $q_\ast(s,a)=\max_\pi[q_\pi(s,a)]$ : 최적의 큐함수<br>
-$\pi_\ast(s,a)=\cases{1\space \text{if}\space a=argmax_{a\in A} q_\ast(s,a)\cr 0\space \text{otherwise}}$ : 최적 정책<br>
+$\pi_\ast(s,a)=\cases{1\space \text{if}\space a=\text{argmax}_{a\in A} q_\ast(s,a)\cr 0\space \text{otherwise}}$ : 최적 정책<br>
 $v_\ast(s)=\max_a[q_\ast(s,a)|S_t=s,A_t=a]$ : 큐함수 중 최대를 선택하는 최적 가치함수<br>
 $v_\ast(s)=\max_a E[R_{t+1}+\gamma v_\ast(S_{t+1})|S_t=s,A_t=a]$ : 벨만 최적 방정식<br>
 $q_\ast(s,a)=E[R_{t+1}+\gamma \max_{a'} q_\ast(S_{t+1},a')|S_t=s,A_t=a]$ : 큐함수에 대한 벨만 최적 방정식<br>
