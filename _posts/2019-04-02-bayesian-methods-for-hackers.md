@@ -51,6 +51,12 @@ $P(X=k)=\binom {n} {k} p^k (1-p)^{N-k}$<br>
   * Logistic Function<br>
 <script src="https://gist.github.com/missflash/c3f69cb3ced7ca2d178bec16fa42a4ce.js"></script>
 ![Logistic Function](https://raw.githubusercontent.com/missflash/missflash.github.io/master/_files/logistic_function.png)
+  * 정규분포<br>
+정규확률변수 : $X \sim N(\mu, 1/\tau)$<br>
+확률밀도함수 : $f(x|\mu,\tau)=\sqrt{\frac {\tau}{2\pi}}exp(-\frac{\tau}{2}(x-\mu)^2)$<br>
+정규분포의 기댓값 : $E[X|\mu, \tau]=\mu$<br>
+정규분포의 분산 : $Var(X|\mu, \tau)=\frac{1}{\tau}$<br>
+
 
 
 
