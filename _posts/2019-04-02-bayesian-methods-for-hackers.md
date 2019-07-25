@@ -46,6 +46,8 @@ $X$ ~ $Berp(p)$ : X는 p의 확률로 1, 1-p의 확률로 0<br>
 $X$ ~ $Bin(N, p)$<br>
 $P(X=k)=\binom {n} {k} p^k (1-p)^{N-k}$<br>
 기댓값 : $Np$<br>
+  * 데이터 Import 예시<br>
+<script src="https://gist.github.com/missflash/f7dc4640fb695217997a3766c6ef0223.js"></script>
 
 
 
