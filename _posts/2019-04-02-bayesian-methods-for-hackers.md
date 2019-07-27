@@ -58,8 +58,6 @@ $P(X=k)=\binom {n} {k} p^k (1-p)^{N-k}$<br>
 정규분포의 분산 : $Var(X|\mu, \tau)=\frac{1}{\tau}$<br>
 
 
-
-
 # 3. MCMC 블랙박스 열기
 
 

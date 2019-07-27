@@ -68,7 +68,13 @@ $v_\ast(s)=\max_a E[R_{t+1}+\gamma v_\ast(S_{t+1})|S_t=s,A_t=a]$ : 벨만 최적
 $q_\ast(s,a)=E[R_{t+1}+\gamma \max_{a'} q_\ast(S_{t+1},a')|S_t=s,A_t=a]$ : 큐함수에 대한 벨만 최적 방정식<br>
 
 # 3. 강화학습 기초 2: 그리드월드와 다이내믹 프로그래밍
-*
+* 정책 이터레이션<br>
+$v_\pi(s)=E_\pi[R_{t+1}+\gamma v_\pi(S_{t+1})|S_t=s]$ : 벨만 기대 방정식을 통한 효율적인 가치함수 계산<br>
+$v_\pi(s)=\Sigma_{a\in A}\pi(a|s)(R_{t+1}+\gamma v_\pi(s'))$ : 합의 형태로 표현한 벨만 기대 방정식<br>
+$v_{k+1}(s)=\Sigma_{a\in A}\pi(a|s)(R_s^a+\gamma v_k(s'))$ : k번째 가치함수를 통해 k+1번째 가치함수 계산<br>
+  * [environment](https://github.com/missflash/reinforcement-learning-kr/blob/master/1-grid-world/1-policy-iteration/environment.py)
+  * [policy_iteration](https://github.com/missflash/reinforcement-learning-kr/blob/master/1-grid-world/1-policy-iteration/policy_iteration.py)
+
 
 # 4. 강화학습 기초 3: 그리드월드와 큐러닝
 *
