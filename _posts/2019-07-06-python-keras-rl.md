@@ -75,6 +75,11 @@ $v_\pi(s)=\Sigma_{a\in A}\pi(a|s)(R_{t+1}+\gamma v_\pi(s'))$ : 합의 형태로 
 $v_{k+1}(s)=\Sigma_{a\in A}\pi(a|s)(R_s^a+\gamma v_k(s'))$ : k번째 가치함수를 통해 k+1번째 가치함수 계산<br>
   * [environment](https://github.com/missflash/reinforcement-learning-kr/blob/master/1-grid-world/1-policy-iteration/environment.py)
   * [policy_iteration](https://github.com/missflash/reinforcement-learning-kr/blob/master/1-grid-world/1-policy-iteration/policy_iteration.py)
+* 다이나믹 프로그래밍의 한계
+  * 다이나믹 프로그래밍 : 순차적 행동 결정 문제를 벨만 방정식을 통해 푸는 것
+  * 계산 복잡도
+  * 차원의 저주
+  * 환경에 대한 완벽한 정보 필요
 
 
 # 4. 강화학습 기초 3: 그리드월드와 큐러닝
