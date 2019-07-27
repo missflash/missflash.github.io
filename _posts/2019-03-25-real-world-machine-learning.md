@@ -6,7 +6,7 @@ use_math: true
 classes: wide
 ---
 
-![리얼월드 머신러닝](https://raw.githubusercontent.com/missflash/missflash.github.io/master/_files/real_world_machine_learning.jpg)
+![리얼월드 머신러닝](https://raw.githubusercontent.com/missflash/missflash.github.io/master/_files/real_world_machine_learning.jpg){: width="30%" height="30%"}
 
 
 # 1장 머신러닝이란 무엇인가?

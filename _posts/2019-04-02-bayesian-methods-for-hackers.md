@@ -6,7 +6,7 @@ use_math: true
 classes: wide
 ---
 
-![Bayesian Methods for Hackers](https://raw.githubusercontent.com/missflash/missflash.github.io/master/_files/bayesian_methods_for_hackers.jpg)
+![Bayesian Methods for Hackers](https://raw.githubusercontent.com/missflash/missflash.github.io/master/_files/bayesian_methods_for_hackers.jpg){: width="30%" height="30%"}
 
 
 # 1. 베이지안 추론의 철학

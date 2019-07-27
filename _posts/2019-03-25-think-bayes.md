@@ -6,7 +6,7 @@ use_math: true
 classes: wide
 ---
 
-![Think Bayes](https://raw.githubusercontent.com/missflash/missflash.github.io/master/_files/think_bayes.jpg)
+![Think Bayes](https://raw.githubusercontent.com/missflash/missflash.github.io/master/_files/think_bayes.jpg){: width="30%" height="30%"}
 
 
 # 1. 베이즈 이론
