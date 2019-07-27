@@ -4,6 +4,9 @@ date: 2019. 3. 25. 오후 9:23:22
 categories:
 use_math: true
 classes: wide
+toc: true
+toc_label: "My Table of Contents"
+toc_icon: "cog"
 ---
 
 ![Think Bayes](https://raw.githubusercontent.com/missflash/missflash.github.io/master/_files/think_bayes.jpg){: width="30%" height="30%"}
