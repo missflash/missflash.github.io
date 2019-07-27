@@ -3,6 +3,7 @@ title: "Think Bayes"
 date: 2019. 3. 25. 오후 9:23:22
 categories:
 use_math: true
+classes: wide
 ---
 
 ![Think Bayes](https://raw.githubusercontent.com/missflash/missflash.github.io/master/_files/think_bayes.jpg)
