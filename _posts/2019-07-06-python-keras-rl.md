@@ -4,9 +4,11 @@ date: 2019. 7. 6. 오전 11:04:01
 categories:
 use_math: true
 classes: wide
+<!--
 toc: true
 toc_label: "My Table of Contents"
 toc_icon: "cog"
+-->
 ---
 
 ![RL with Python and Keras](https://raw.githubusercontent.com/missflash/missflash.github.io/master/_files/python_keras_rl.jpg){: width="30%" height="30%"}
