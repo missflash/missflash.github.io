@@ -81,8 +81,9 @@ $v_{k+1}(s)=\Sigma_{a\in A}\pi(a|s)(R_s^a+\gamma v_k(s'))$ : k번째 가치함�
   * 차원의 저주
   * 환경에 대한 완벽한 정보 필요
 
+
 # 4. 강화학습 기초 3: 그리드월드와 큐러닝
-* 강화학습과 정책 평가 1: 몬테카를로 예측
+* 강화학습과 정책 평가 1: 몬테카를로 예측<br>
 $v_\pi(s)\thicksim \frac {1}{N(s)}\Sigma_{i=1}^{N(s)}G_i(s)$ : 반환값($G$)의 평균으로 가치함수($v$)를 추정<br>
 $V_{n+1}=\frac {1}{n}\Sigma_{i=1}^{n}G_i=\frac {1}{n}(G_n+\Sigma_{i=1}^{n-1}G_i)$<br>
 $=\frac {1}{n}(G_n+(n-1)\frac {1}{n-1}\Sigma_{i=1}^{n-1}G_i)$<br>
@@ -90,7 +91,7 @@ $=\frac {1}{n}(G_n+(n-1)V_n)$<br>
 $=V_n+\frac {1}{n}(G_n-V_n)$<br>
 $V(s)\gets V(s)+\frac {1}{n}(G(s)-V(s))$<br>
 $V(s)\gets V(s)+\alpha(G(s)-V(s))$<br>
-* 강화학습과 정책 평가 2: 시간차 예측
+* 강화학습과 정책 평가 2: 시간차 예측<br>
 $v_\pi(s)=E_\pi[R_{t+1}+\gamma v_\pi(S_{t+1})|S_t=s]$ : 정책을 고려한 가치함수의 표현 (벨만 기대 방정식)<br>
 $V(S_t)\gets V(S_t)+\alpha(R+\gamma V(S_{t+1})-V(S_t))$ : 시간차 예측에서 가치함수 업데이트<br>
 $R+\gamma V(S_{t+1})$ : 업데이트의 목표<br>
@@ -102,7 +103,7 @@ $\pi(s)=argmax_{a \in A} Q(s,a)$ : 큐함수를 사용한 탐욕 정책<br>
 $Q(S_t,A_t)\gets Q(S_t,A_t)+\alpha(R+\gamma Q(S_{t+1},A_{t+1})-Q(S_t,A_t))$ : 시간차 예측에서 큐함수 업데이트<br>
 $[S_t,A_t,R_{t+1},S_{t+1},A_{t+1}]$ : 시간차 제어에서 사용하는 샘플<br>
   * 탐욕정책 : 초기의 에이전트는 탐욕 정책으로 잘못된 학습을 하게 될 가능성이 큼
-$\pi(s)=\cases{a^*=argmax_{a\in A} Q(s,a), 1-\varepsilon \cr a \ne a^* , \varepsilon}$ : $\varepsilon$-탐욕 정책<br>
+$\pi(s)=\cases{a^* = argmax_{a\in A} Q(s,a), 1-\varepsilon \cr a \ne a^* , \varepsilon}$ : $\varepsilon$-탐욕 정책<br>
   * [살사 코드](https://github.com/rlcode/reinforcement-learning-kr/tree/master/1-grid-world/4-sarsa)
   * 에이전트 작동 방식
     * 현재 상태에서 $\varepsilon$-탐욕 정책에 따라 행동 선택
@@ -115,11 +116,12 @@ $\pi(s)=\cases{a^*=argmax_{a\in A} Q(s,a), 1-\varepsilon \cr a \ne a^* , \vareps
     * 온폴리시 시간차 제어 (On-Policy Temporal-Difference Control) 때문에 자신이 행동하는대로 학습
     * 탐험을 위해 선택한 $\varepsilon$-탐욕 정책때문에 에이전트가 최적 정책을 학습하지 못하는 문제 발생
   * 큐러닝
-    * 오프폴리시 시간차 제어 (Off-Policy Temporal-Difference Control), 또는 큐러닝
-    * $(s,a,r,s')$을 통해 큐함수 업데이트
+    * 오프폴리시 시간차 제어 (Off-Policy Temporal-Difference Control), 또는 큐러닝<br>
 $Q(S_t,A_t)\gets Q(S_t,A_t)+\alpha(R_{t+1}+\gamma max_{a'}Q(S_{t+1},a')-Q(S_t,A_t))$ : 큐러닝을 통한 큐함수 업데이트<br>
 $q^*(s,a)=E[R_{t+1}+\gamma max_{a'}q^*(S_{t+1},a')|S_t=s,A_t=a]$ : 큐함수에 대한 벨만 최적 방정식<br>
-  * [큐러닝 코드](https://github.com/rlcode/reinforcement-learning-kr/tree/master/1-grid-world/5-q-learning)
+  * [큐러닝 코드](https://github.com/rlcode/reinforcement-learning-kr/tree/master/1-grid-world/4-sarsa)
+
+
 
 # 5. 강화학습 심화 1: 그리드월드와 근사함수
 *
