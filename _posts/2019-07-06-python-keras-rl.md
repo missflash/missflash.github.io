@@ -98,12 +98,13 @@ $R+\gamma V(S_{t+1})$ : 업데이트의 목표<br>
 $\alpha(R+\gamma V(S_{t+1})-V(S_t))$ : 업데이트의 크기<br>
 * 강화학습과 알고리즘 1: 살사
   * 정책 이터레이션 (GPI : Generalized Policy Iteration)<br>
+
 $\pi'(s)=argmax_{a \in A} [R_s^a+\gamma P^a_{ss'}V(s')]$ : GPI의 탐욕 정책 발전<br>
 $\pi(s)=argmax_{a \in A} Q(s,a)$ : 큐함수를 사용한 탐욕 정책<br>
 $Q(S_t,A_t)\gets Q(S_t,A_t)+\alpha(R+\gamma Q(S_{t+1},A_{t+1})-Q(S_t,A_t))$ : 시간차 예측에서 큐함수 업데이트<br>
 $[S_t,A_t,R_{t+1},S_{t+1},A_{t+1}]$ : 시간차 제어에서 사용하는 샘플<br>
   * 탐욕정책 : 초기의 에이전트는 탐욕 정책으로 잘못된 학습을 하게 될 가능성이 큼
-$\pi(s)=\cases{a^* = argmax_{a\in A} Q(s,a), 1-\varepsilon \cr a \ne a^* , \varepsilon}$ : $\varepsilon$-탐욕 정책<br>
+$\pi(s)=\cases{a^\ast=argmax_{a\in A} Q(s,a), 1-\varepsilon \cr a \ne a^\ast, \varepsilon}$ : $\varepsilon$-탐욕 정책<br>
   * [살사 코드](https://github.com/rlcode/reinforcement-learning-kr/tree/master/1-grid-world/4-sarsa)
   * 에이전트 작동 방식
     * 현재 상태에서 $\varepsilon$-탐욕 정책에 따라 행동 선택
@@ -117,8 +118,9 @@ $\pi(s)=\cases{a^* = argmax_{a\in A} Q(s,a), 1-\varepsilon \cr a \ne a^* , \vare
     * 탐험을 위해 선택한 $\varepsilon$-탐욕 정책때문에 에이전트가 최적 정책을 학습하지 못하는 문제 발생
   * 큐러닝
     * 오프폴리시 시간차 제어 (Off-Policy Temporal-Difference Control), 또는 큐러닝<br>
+
 $Q(S_t,A_t)\gets Q(S_t,A_t)+\alpha(R_{t+1}+\gamma max_{a'}Q(S_{t+1},a')-Q(S_t,A_t))$ : 큐러닝을 통한 큐함수 업데이트<br>
-$q^*(s,a)=E[R_{t+1}+\gamma max_{a'}q^*(S_{t+1},a')|S_t=s,A_t=a]$ : 큐함수에 대한 벨만 최적 방정식<br>
+$q^\ast(s,a)=E[R_{t+1}+\gamma max_{a'}q^\ast(S_{t+1},a')|S_t=s,A_t=a]$ : 큐함수에 대한 벨만 최적 방정식<br>
   * [큐러닝 코드](https://github.com/rlcode/reinforcement-learning-kr/tree/master/1-grid-world/4-sarsa)
 
 
