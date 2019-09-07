@@ -4,7 +4,7 @@ date: 2019. 3. 25. 오후 9:23:22
 categories:
 use_math: true
 toc: true
-toc_label: "My Table of Contents"
+toc_label: "Table of Contents"
 toc_icon: "cog"
 ---
 
