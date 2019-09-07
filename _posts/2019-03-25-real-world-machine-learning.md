@@ -3,7 +3,9 @@ title: "Real World Machine Learning"
 date: 2019. 3. 25. 오후 8:56:55
 categories:
 use_math: true
-classes: wide
+toc: true
+toc_label: "Table of Contents"
+toc_icon: "cog"
 ---
 
 ![리얼월드 머신러닝](https://raw.githubusercontent.com/missflash/missflash.github.io/master/_files/real_world_machine_learning.jpg){: width="30%" height="30%"}
