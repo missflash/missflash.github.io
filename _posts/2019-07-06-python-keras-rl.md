@@ -121,11 +121,12 @@ $\pi(s)=\cases{a^\ast=argmax_{a\in A} Q(s,a), 1-\varepsilon \cr a \ne a^\ast, \v
     * 온폴리시 시간차 제어 (On-Policy Temporal-Difference Control) 때문에 자신이 행동하는대로 학습
     * 탐험을 위해 선택한 $\varepsilon$-탐욕 정책때문에 에이전트가 최적 정책을 학습하지 못하는 문제 발생
   * 큐러닝
-    * 오프폴리시 시간차 제어 (Off-Policy Temporal-Difference Control), 또는 큐러닝으로 해결 가능<br>
+    * `오프폴리시` 시간차 제어 (Off-Policy Temporal-Difference Control), 또는 큐러닝으로 해결 가능<br>
 
 $Q(S_t,A_t)\gets Q(S_t,A_t)+\alpha(R_{t+1}+\gamma max_{a'}Q(S_{t+1},a')-Q(S_t,A_t))$ : 큐러닝을 통한 큐함수 업데이트<br>
 $q^\ast(s,a)=E[R_{t+1}+\gamma max_{a'}q^\ast(S_{t+1},a')|S_t=s,A_t=a]$ : 큐함수에 대한 벨만 최적 방정식<br>
   * [큐러닝 코드](https://github.com/rlcode/reinforcement-learning-kr/tree/master/1-grid-world/4-sarsa)<br>
+
 비슷한 수식들이 여러개 있어 복잡해 보이지만, 개념을 이해하면 이해하기 어렵지 않음!{: .notice}
 
 
