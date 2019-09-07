@@ -128,7 +128,7 @@ $q^\ast(s,a)=E[R_{t+1}+\gamma max_{a'}q^\ast(S_{t+1},a')|S_t=s,A_t=a]$ : 큐함�
   * [큐러닝 코드](https://github.com/rlcode/reinforcement-learning-kr/tree/master/1-grid-world/4-sarsa)<br>
 
 비슷한 수식들이 여러개 있어 확실한 이해 필요!
-{: .notice--warning}
+{: .notice--info}
 
 
 
