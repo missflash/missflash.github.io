@@ -3,8 +3,12 @@ title: "RL with Python and Keras"
 date: 2019. 7. 6. 오전 11:04:01
 categories:
 use_math: true
-classes: wide
+toc: true
+toc_label: "Table of Contents"
+toc_icon: "cog"
 ---
+
+[comment]: <> (포스트 화면 넓게 설정하고 싶을 때 추가, classes: wide)
 
 ![RL with Python and Keras](https://raw.githubusercontent.com/missflash/missflash.github.io/master/_files/python_keras_rl.jpg){: width="30%" height="30%"}
 
