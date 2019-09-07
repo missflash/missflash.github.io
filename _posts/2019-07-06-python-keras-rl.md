@@ -118,7 +118,7 @@ $\pi(s)=\cases{a^\ast=argmax_{a\in A} Q(s,a), 1-\varepsilon \cr a \ne a^\ast, \v
     * $(s,a,r,s',a')$을 통해 큐함수 업데이트
 * 강화학습과 알고리즘 2: 큐러닝
   * 살사
-    * 온폴리시 시간차 제어 (On-Policy Temporal-Difference Control) 때문에 자신이 행동하는대로 학습
+    * `온폴리시` 시간차 제어 (On-Policy Temporal-Difference Control) 때문에 자신이 행동하는대로 학습
     * 탐험을 위해 선택한 $\varepsilon$-탐욕 정책때문에 에이전트가 최적 정책을 학습하지 못하는 문제 발생
   * 큐러닝
     * `오프폴리시` 시간차 제어 (Off-Policy Temporal-Difference Control), 또는 큐러닝으로 해결 가능<br>
