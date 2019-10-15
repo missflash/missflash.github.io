@@ -169,9 +169,61 @@ $R_{t+1}+\gamma Q(S_{t+1},A_{t+1})$<br>
 $Q(S_t,A_t)$<br>
   * 딥살사의 오차함수<br>
 $MSE = (정답 - 예측)^2 = (R_{t+1}+\gamma Q(S_{t+1},A_{t+1}) - Q(S_t,A_t))^2$<br>
+  * 딥살사의 활성함수 : 선형함수
   * [딥살사 코드](https://github.com/rlcode/reinforcement-learning-kr/tree/master/1-grid-world/6-deep-sarsa)<br>
-* 폴리시 그레이디언트
-  * 
+* 정책신경망 (Policy Gradient)
+  * 정책신경망의 활성함수 : Softmax<br>
+$s(y_i)=\frac{e^{y_i}} {\Sigma_j e^{y_j}}$<br>
+  * 정책의 표현<br>
+$정책 = \pi_\theta (a|s) : \theta = 가중치$<br>
+  * 정책 기반 강화학습의 목표<br>
+$maximize J(\theta)$<br>
+  * 목표함수의 경사에 따라 정책신경망 업데이트<br>
+$\theta_{t+1} = \theta_t + \alpha \nabla_\theta J(\theta)$<br>
+  * 가치함수로 표현한 목표함수의 정의<br>
+$J(\theta) = v_{\pi_\theta} (s_0)$<br>
+  * 목표함수의 미분<br>
+$\nabla_\theta J(\theta) = \nabla_\theta v_{\pi_\theta} (s_0)$<br>
+  * Policy Gradient<br>
+$\nabla_\theta J(\theta) = \sum_s d_{\pi_\theta}(s) \sum_a \nabla_\theta \pi_\theta (a|s) q_\pi (s,a)$<br>
+$\nabla_\theta J(\theta) = \sum_s d_{\pi_\theta}(s) \sum_a \pi_\theta(a|s) \frac {\nabla_\theta \pi_\theta (a|s)} {\pi_\theta (a|s)} q_\pi (s,a)$<br>
+$\nabla_\theta J(\theta) = \sum_s d_{\pi_\theta}(s) \sum_a \pi_\theta(a|s) \nabla_\theta log \pi_\theta (a|s) q_\pi (s,a)$<br>
+  * 기댓값의 형태로 표현한 목표함수의 미분<br>
+$\nabla_\theta J(\theta) = E_{\pi_\theta} [\nabla_\theta log \pi_\theta (a|s) q_\pi (s,a)]$<br>
+  * Policy Gradient의 업데이트 식<br>
+$\theta_{t+1} = \theta_t + \alpha \nabla_\theta J(\theta) \approx \theta_t + \alpha[\nabla_\theta log \pi_\theta (a|s) q_\pi (s,a)]$<br>
+  * 강화학습의 업데이트 식<br>
+$\theta_{t+1} \approx \theta_t + \alpha[\nabla_\theta log \pi_\theta (a|s) G_t]$<br>
+  * [강화학습 코드](https://github.com/rlcode/reinforcement-learning-kr/tree/master/1-grid-world/7-reinforce)<br>
+  * 에이전트가 환경과 상호작용하는 방법
+    * 상태에 따른 행동 선택
+    * 선택한 행동으로 환경으로 한 타임스텝 진행
+    * 환경으로부터 다음 상태와 보상 받음
+    * 다음 상태에 대한 행동 선택 (에피소드가 끝날 때까지 반복)
+    * 환경으로부터 받은 정보를 토대로 에피소드마다 학습 진행
+  * 보상들의 정산 (반환값)<br>
+$G_1=R_2+\gamma R_3+\gamma^2 R_4+\gamma^3 R_5+\gamma^4 R_6$<br>
+$G_2=R_3+\gamma R_4+\gamma^2 R_5+\gamma^3 R_6$<br>
+$G_3=R_4+\gamma R_5+\gamma^2 R_6$<br>
+$G_4=R_5+\gamma R_6$<br>
+$G_5=R_6$<br>
+  * 효율적인 반환값 계산<br>
+$G_5=R_6$<br>
+$G_4=R_5+\gamma R_5$<br>
+$G_3=R_4+\gamma R_4$<br>
+$G_2=R_3+\gamma R_3$<br>
+$G_1=R_2+\gamma R_2$<br>
+  * 네트워크 업데이트를 위한 오류함수<br>
+$\nabla_\theta log \pi_\theta (a|s) G_t$<br>
+$\nabla_\theta [log \pi_\theta (a|s) G_t]$<br>
+  * 엔트로피<br>
+$엔트로피 = -\sum_i p_i log p_i$<br>
+  * 크로스 엔트로피<br>
+$크로스 엔트로피 = -\sum_i y_i log p_i : y_i = 정답$<br>
+  * Policy Gradient의 크로스 엔트로피<br>
+$크로스 엔트로피 = -\sum_i y_i log p_i = -log~p_{action}$<br>
+  * 강화학습의 업데이트 식<br>
+$\theta_{t+1} \approx \theta_t + \alpha[\nabla_\theta log \pi_\theta (a|s) G_t] = \theta_t - \alpha[\nabla_\theta -log \pi_\theta (a|s) G_t]$<br>
 
 
 
