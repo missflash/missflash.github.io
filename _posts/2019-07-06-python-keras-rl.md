@@ -232,7 +232,7 @@ $\theta_{t+1} \approx \theta_t + \alpha[\nabla_\theta log \pi_\theta (a|s) G_t] 
   * [Playing Atari with Deep Reinforcement Learning](https://www.cs.toronto.edu/~vmnih/docs/dqn.pdf)
   * 경험 리플레이 : 에이전트가 환경에서 탐험하며 얻은 샘플 $(s, a, r, s')$ 을 메모리에 저장
   * 리플레이 메모리 : (과거) 샘플을 저장하는 메모리 → 오프폴리시 알고리즘
-  * 타깃 신경망
+  * 타깃 신경망<br>
 $Q(S_t,A_t)\gets Q(S_t,A_t)+\alpha(R_{t+1}+\gamma max_{a'}Q(S_{t+1},a')-Q(S_t,A_t))$ : 큐러닝의 큐함수 업데이트 식<br>
 $MSE = (정답 - 예측)^2 = (R_{t+1}+\gamma max_{a'}Q(s',a',\theta) - Q(s,a,\theta))^2$ : DQN의 오류함수<br>
 $MSE = (정답 - 예측)^2 = (R_{t+1}+\gamma max_{a'}Q(S_{t+1},a',\theta^-) - Q(S_t,A_t,\theta))^2$ : 타깃 네트워크를 이용한 DQN 오류함수<br>
@@ -245,7 +245,7 @@ $MSE = (정답 - 예측)^2 = (R_{t+1}+\gamma max_{a'}Q(S_{t+1},a',\theta^-) - Q(
     * 리플레이 메모리에서 무작위 추출한 샘플로 학습
     * 에피소드마다 타깃 모델 업데이트
 * 알고리즘2: 액터-크리틱
-  * [Reinforcement Learning: Introduction](https://web.stanford.edu/class/psych209/Readings/SuttonBartoIPRLBook2ndEd.pdf)
+  * [Reinforcement Learning: Introduction](https://web.stanford.edu/class/psych209/Readings/SuttonBartoIPRLBook2ndEd.pdf)<br>
 $\theta_{t+1} = \theta_t + \alpha \nabla_\theta J(\theta) \approx \theta_t + \alpha[\nabla_\theta log \pi_\theta (a|s) q_\pi (s,a)]$ : 폴리시 그레디언트의 정책신경망 업데이트 식<br>
 $\theta_{t+1} \approx \theta_t + \alpha[\nabla_\theta log \pi_\theta (a|s) G_t]$ : Reinforce 알고리즘의 업데이트 식<br>
 $\theta_{t+1} \approx \theta_t + \alpha[\nabla_\theta log \pi_\theta (a|s) Q_w(s,a)]$ : 액터-크리틱 업데이트 식<br>
@@ -261,7 +261,7 @@ $MSE = (정답 - 예측)^2 = (R_{t+1}+\gamma V_v(S_{t+1})-V_v(S_t))^2$ : 가치�
     * 선택한 행동으로 환경에서 한 타임스텝 진행
     * 환경으로부터 다음 상태와 보상 받음
     * 샘플 $(s, a, r, s')$ 을 통해 시간차 에러를 구하고 어드밴티지 함수 구함
-    * 시간차 에러로 가치신경망을, 어드밴티지 함수로 정책신경망을 업데이트
+    * 시간차 에러로 가치신경망을, 어드밴티지 함수로 정책신경망을 업데이트<br>
 $\theta_{t+1} \approx \theta_t + \alpha[\nabla_\theta log \pi_\theta (a|s) \delta_v]$ : 액터 업데이트 식<br>
 $\theta_{t+1} \approx \theta_t + \alpha \nabla_\theta [log \pi_\theta (a|s) \delta_v]$ : 액터 업데이트 식 변형<br>
 $MSE = (정답 - 예측)^2 = (R_{t+1}+\gamma V_v(S_{t+1})-V_v(S_t))^2$ : 크리틱 오류함수<br>
