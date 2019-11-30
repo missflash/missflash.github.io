@@ -270,7 +270,54 @@ $MSE = (정답 - 예측)^2 = (R_{t+1}+\gamma V_v(S_{t+1})-V_v(S_t))^2$ : 크리�
 
 
 # 7. 강화학습 심화 3: 아타리
-*
+* 브레이크아웃 DQN
+  * 브레이크아웃의 컨볼루션 신경망
+    * 필터의 개수
+    * 필터의 크기
+    * 컨볼루션 연산시 필터가 이동하는 폭 (Strides)
+    * 활성함수
+  * DQN 학습 전 준비사항
+    * Preprocessing
+    * Frame Skip
+  * [DQN 코드](https://github.com/rlcode/reinforcement-learning-kr/tree/master/3-atari/1-breakout)<br>
+  * 에이전트가 환경과 상호작용하는 방법
+    * 상태에 따른 행동 선택
+    * 선택한 행동으로 환경에서 한 타임스텝 진행
+    * 환경으로부터 다음 상태와 보상 받음
+    * 샘플 $(s, a, r, s')$ 을 리플레이 메모리에 저장
+    * 리플레이 메모리에서 무작위로 추출한 32개의 샘플로 학습
+    * 50,000 타임스텝마다 타깃 네트워크 업데이트<br>
+$MSE = (정답 - 예측)^2 = (R_{t+1}+\gamma max_{a'}Q(S_{t+1},a',\theta^-) - Q(S_t,A_t,\theta))^2$ : DQN의 오류함수 식<br>
+  * [후버로스 오류함수](https://en.wikipedia.org/wiki/Huber_loss)
+  * 텐서보드 사용방법
+* 브레이크아웃 A3C
+  * DQN의 한계
+    * 학습에 사용된 샘플끼리의 연관성에 영향을 받음 (경험 리플레이 기반 한계)
+    * 메모리 사용량 높음 (느린 학습속도 유발)
+  * A3C (Asynchronous Advantage Actor-Critic) 학습 과정
+    * 글로벌신경망의 생성과 여러개의 (환경 + 액터러너) 생성
+    * 각 액터러너는 일정 타임스텝 동안 환경에서 자신의 모델로 샘플 수집
+    * 일정 타임스텝이 끝나면 각 액터러너는 수집한 샘플로 글로벌 네트워크 업데이트
+    * 글로벌 네트워크를 업데이트 한 액터러너는 다시 글로벌 네트워크로 자신을 업데이트
+  * 멀티스레딩
+    * 하나의 프로그램에서 여러개의 프로세스 생성 : 멀티 프로세싱
+    * 하나의 프로세스에서 여러개의 스레드 생성 : 멀티 스레딩
+    * 파이썬에서는 GIL (Global Interpreter Lock) 장치 사용
+  * [A3C 코드](https://github.com/rlcode/reinforcement-learning-kr/tree/master/3-atari/1-breakout)<br>
+  * 액터러너의 Run 함수 순서
+    * 액터러너의 로컬 네트워크에 따라 액션 선택
+    * 환경으로부터 다음 상태와 보상 받음
+    * 샘플 저장
+    * 에이전트가 목숨을 잃거나 t_max 타임스텝 동안 반복
+    * 저장한 샘플을 글로벌 네트워크로 보냄
+    * 글로벌 네트워크는 로컬 네트워크로부터 받은 샘플로 자신을 업데이트
+    * 업데이트 된 글로벌 네트워크로 액터러너 업데이트
+$Advantage = R_{t+1}+\gamma V_v (S_{t+1})-V_v (S_t)$ : 액터-크리틱에서의 어드밴티지 함수<br>
+$Advantage = R_{t+1}+\gamma R_{t+2}+\cdots+\gamma^k V_v(S_{t+k})-V_v (S_t)$ : k-타임스텝 어드밴티지 함수<br>
+$엔트로피 = -\Sigma_i p_i log(p_i)$<br>
+$오류함수 = R_{t+1}+\gamma R_{t+2}+\cdots+\gamma^k V_v(S_{t+k})-V_v (S_t)$ : 가치신경망의 오류함수<br>
+
+
 
 # 참고자료
 * [https://github.com/rlcode/reinforcement-learning-kr](https://github.com/rlcode/reinforcement-learning-kr)
