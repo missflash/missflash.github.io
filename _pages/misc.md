@@ -1,5 +1,6 @@
 ---
 title: "Personal Stuff."
+date: 2020. 1. 4. 오후 3:13:15
 permalink: /misc/
 layout: single
 ---
