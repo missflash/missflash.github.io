@@ -4,5 +4,7 @@ main:
     url: https://missflash.github.io
   - title: "About"
     url: /about/
+  - title: "Misc."
+    url: /misc/
   - title: "Github"
     url: https://github.com/missflash
