@@ -3,7 +3,10 @@ title: "Bayesian Methods for Hackers"
 date: 2019. 4. 2. 오후 10:45:33
 categories:
 use_math: true
-classes: wide
+toc: true
+toc_label: "Table of Contents"
+toc_icon: "cog"
+toc_sticky: true
 ---
 
 ![Bayesian Methods for Hackers](https://raw.githubusercontent.com/missflash/missflash.github.io/master/_files/bayesian_methods_for_hackers.jpg){: width="30%" height="30%"}

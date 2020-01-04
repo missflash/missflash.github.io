@@ -6,6 +6,7 @@ use_math: true
 toc: true
 toc_label: "Table of Contents"
 toc_icon: "cog"
+toc_sticky: true
 ---
 
 [comment]: <> (포스트 화면 넓게 설정하고 싶을 때 추가, classes: wide)

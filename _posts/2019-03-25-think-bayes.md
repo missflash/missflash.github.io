@@ -6,6 +6,7 @@ use_math: true
 toc: true
 toc_label: "Table of Contents"
 toc_icon: "cog"
+toc_sticky: true
 ---
 
 ![Think Bayes](https://raw.githubusercontent.com/missflash/missflash.github.io/master/_files/think_bayes.jpg){: width="30%" height="30%"}
