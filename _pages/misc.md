@@ -8,6 +8,7 @@ author_profile: true
 # Useful Codes
 * [본문 폰트크기 변경](https://github.com/missflash/missflash.github.io/commit/273d4b95a962c96d531974ba378b272666dc6824)
 * [Page 추가](https://github.com/missflash/missflash.github.io/commit/126a484a364cc69c44785f341d617a68620d8706)
+  * [Others](https://github.com/mmistakes/minimal-mistakes/tree/master/docs/_pages)
 * [Navigation 메뉴 추가](https://github.com/missflash/missflash.github.io/commit/39267d309f3adb76be11be2be28036c9d64f7574)
 * Post 설정 예시
 
