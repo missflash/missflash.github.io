@@ -12,6 +12,12 @@ author_profile: true
 * [Navigation 메뉴 추가](https://github.com/missflash/missflash.github.io/commit/39267d309f3adb76be11be2be28036c9d64f7574)
 * Anchor 추가
 
+```
+[다음](/think-bayes/#More)
+...
+<a id="More"></a>이하는 여담, 간만에 빠른 의식의 흐름으로 전개...
+```
+
 * Post 설정 예시
 
 ```
