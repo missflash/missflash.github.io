@@ -1,11 +1,11 @@
 # main links
 main:
   - title: "Home"
-    url: https://missflash.github.io
+    url: /
   - title: "About"
     url: /about/
   - title: "Study Log"
-    url: https://missflash.github.io/study-log/
+    url: /study-log/
   - title: "Misc."
     url: /misc/
   - title: "Github"
