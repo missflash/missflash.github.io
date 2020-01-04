@@ -18,6 +18,8 @@ author_profile: true
 <a id="More"></a>이하는 여담, 간만에 빠른 의식의 흐름으로 전개...
 ```
 
+  * [다음](/think-bayes/#More)
+
 * Post 설정 예시
 
 ```
