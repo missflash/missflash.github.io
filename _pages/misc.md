@@ -3,6 +3,7 @@ title: "Personal Stuff."
 date: 2020. 1. 4. 오후 3:13:15
 permalink: /misc/
 layout: single
+author_profile: true
 ---
 
 # Useful Codes
@@ -42,6 +43,7 @@ classes: wide
 title: "Personal Stuff."
 permalink: /misc/
 layout: single
+author_profile: true
 ---
 ```
 
@@ -50,7 +52,7 @@ layout: single
 title: "Page Not Found"
 excerpt: "Page not found. Your pixels are in another canvas."
 permalink: /404.html
-author_profile: false
+author_profile: true
 ---
 ```
 
