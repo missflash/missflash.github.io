@@ -2,14 +2,15 @@
 title: "Personal Stuff."
 date: 2020. 1. 4. 오후 3:13:15
 permalink: /misc/
-layout: single
+classes: wide
 ---
 
 # Useful Codes
 * [본문 폰트크기 변경](https://github.com/missflash/missflash.github.io/commit/273d4b95a962c96d531974ba378b272666dc6824)
 * [Page 추가](https://github.com/missflash/missflash.github.io/commit/126a484a364cc69c44785f341d617a68620d8706)
 * [Navigation 메뉴 추가](https://github.com/missflash/missflash.github.io/commit/39267d309f3adb76be11be2be28036c9d64f7574)
-* Post 설정 예시<br>
+* Post 설정 예시
+
 ```
 ---
 title: "Think Bayes"
@@ -34,7 +35,8 @@ classes: wide
 ---
 ```
 
-* Page 설정 예시<br>
+* Page 설정 예시
+
 ```
 ---
 title: "Personal Stuff."
@@ -53,6 +55,7 @@ author_profile: false
 ```
 
 * 문장 강조
+
 ```
 문장 강조
 {: .notice--info}
