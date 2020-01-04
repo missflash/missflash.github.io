@@ -10,6 +10,8 @@ author_profile: true
 * [Page 추가](https://github.com/missflash/missflash.github.io/commit/126a484a364cc69c44785f341d617a68620d8706)
   * [Others](https://github.com/mmistakes/minimal-mistakes/tree/master/docs/_pages)
 * [Navigation 메뉴 추가](https://github.com/missflash/missflash.github.io/commit/39267d309f3adb76be11be2be28036c9d64f7574)
+* Anchor 추가
+
 * Post 설정 예시
 
 ```
