@@ -2,7 +2,6 @@
 title: "Personal Stuff."
 date: 2020. 1. 4. 오후 3:13:15
 permalink: /misc/
-classes: wide
 ---
 
 # Useful Codes

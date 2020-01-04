@@ -2,7 +2,6 @@
 title: "MissFlash"
 date: 2020. 1. 4. 오후 3:12:51
 permalink: /about/
-classes: wide
 ---
 
 # missflash.github.io
