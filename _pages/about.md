@@ -8,6 +8,7 @@ layout: single
 
 ***
 
+본 블로그 작성 경위는 [다음](https://missflash.github.io/think-bayes/#More) 참고...
 이하는 여담, 간만에 빠른 의식의 흐름으로 전개...
 
 * 5.3 올리버의 혈액형 설명이 조금 이상해서 구글 검색

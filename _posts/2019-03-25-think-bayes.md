@@ -201,7 +201,7 @@ $\frac {p(A|D)}{p(B|D)} = \frac {p(H)p(D|H)}{p(B)P(D|B)}$<br>
 
 ***
 
-[More](#More) 이하는 여담, 간만에 빠른 의식의 흐름으로 전개...
+이하는 여담, 간만에 빠른 의식의 흐름으로 전개...<a id="More"></a>
 
 * 5.3 올리버의 혈액형 설명이 조금 이상해서 구글 검색
 * [John Grib 님의 친절한 설명](https://johngrib.github.io/wiki/Oliver-s-blood/) 확인
