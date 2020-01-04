@@ -6,6 +6,8 @@ main:
     url: /about/
   - title: "Study Log"
     url: /study-log/
+  - title: "Archive"
+    url: /year-archive/
   - title: "Misc."
     url: /misc/
   - title: "Github"
