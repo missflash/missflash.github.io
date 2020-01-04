@@ -1,6 +1,8 @@
 # main links
 main:
-  - title: "MissFlash"
+  - title: "Home"
     url: https://missflash.github.io
   - title: "About"
     url: /about/
+  - title: "Github"
+    url: https://github.com/missflash
