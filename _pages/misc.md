@@ -9,7 +9,7 @@ layout: single
 * [Page 추가](https://github.com/missflash/missflash.github.io/commit/126a484a364cc69c44785f341d617a68620d8706)
 * [Navigation 메뉴 추가](https://github.com/missflash/missflash.github.io/commit/39267d309f3adb76be11be2be28036c9d64f7574)
 * Post 설정 예시
-'''
+```
 ---
 title: "Think Bayes"
 date: 2019. 3. 25. 오후 9:23:22
@@ -20,9 +20,9 @@ toc: true
 toc_label: "Table of Contents"
 toc_icon: "cog"
 ---
-'''
+```
 
-'''
+```
 ---
 title: "Bayesian Methods for Hackers"
 date: 2019. 4. 2. 오후 10:45:33
@@ -31,15 +31,34 @@ tags:
 use_math: true
 classes: wide
 ---
-'''
+```
+
 * Page 설정 예시
-'''
+```
 ---
 title: "Personal Stuff."
 permalink: /misc/
 layout: single
 ---
-'''
+```
+
+```
+---
+title: "Page Not Found"
+excerpt: "Page not found. Your pixels are in another canvas."
+permalink: /404.html
+author_profile: false
+---
+```
+
+* 문장 강조
+```
+문장 강조
+{: .notice--info}
+```
+문장 강조
+{: .notice--info}
+
 ---
 
 # github.io
