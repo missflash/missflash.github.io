@@ -12,6 +12,10 @@ classes: wide
 
 ---
 
+# [Palo Alto Log (2020.02)](https://missflash.github.io/palo-alto-log-202002/)
+
+---
+
 # [Palo Alto Log (2020.01)](https://missflash.github.io/palo-alto-log-202001/)
 
 ---
