@@ -2,7 +2,7 @@
 title: "Python Setup on Mac"
 date: 2020. 2. 16. 오후 4:47:00
 categories:
-use_math: true
+use_math: false
 classes: wide
 ---
 
