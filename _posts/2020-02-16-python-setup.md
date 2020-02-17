@@ -34,7 +34,7 @@ export PATH
     * Base Interpreter : /usr/local/bin/python3.7
     * Inherit global site-packages 체크 (Console상에서 설치한 패키지 그대로 상속)
   * 하단 패키지 목록 확인
-  * + 표시 눌러서 패키지 추가 가능하나 Console에서 추가해야 함
+  * \+ 표시 눌러서 패키지 추가 가능하나 Console에서 추가해야 함
     * PyCharm에서 추가시 Console에서 사용 불가!
 
 ---
