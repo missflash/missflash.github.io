@@ -15,10 +15,10 @@ classes: wide
 * Path 추가
   * vi ~/.bash_profile
 
-export PATH=/usr/local/bin:/usr/local/sbin:${PATH}
-\# Setting PATH for Python 3.7
-\# The original version is saved in .bash_profile.pysave
-PATH="/Library/Frameworks/Python.framework/Versions/3.7/bin:${PATH}"
+export PATH=/usr/local/bin:/usr/local/sbin:${PATH}<br>
+\# Setting PATH for Python 3.7<br>
+\# The original version is saved in .bash_profile.pysave<br>
+PATH="/Library/Frameworks/Python.framework/Versions/3.7/bin:${PATH}"<br>
 export PATH
 {: .notice--info}
 
