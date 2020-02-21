@@ -94,3 +94,30 @@ author_profile: true
 # MathJax
 * [문법 참고](http://www.onemathematicalcat.org/MathJaxDocumentation/MathJaxKorean/TeXSyntax_ko.html)
 * [실시간 확인](https://cdn.rawgit.com/mathjax/MathJax/2.7.1/test/sample-dynamic-2.html)
+
+---
+
+# 실행 스크립트
+* github_push.sh
+
+\#!/bin/sh
+cd /Users/kimsanghun/MissFlash/Github
+git remote add origin https://github.com/missflash/missflash.github.io.git
+git remote -v
+git pull origin master
+git add .
+git commit -m "$@"
+git push -u origin master
+{: .notice--info}
+
+* github_push2.sh
+
+\#!/bin/sh
+cd /Users/kimsanghun/Dropbox/MissFlash/Personal/Visiting_Scholars/4.Research/Samsung-KAIST
+git remote add origin https://github.com/missflash/Reinforcement_Project.git
+git remote -v
+git pull origin master
+git add .
+git commit -m "$@"
+git push -u origin master
+{: .notice--info}
