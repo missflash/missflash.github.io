@@ -98,26 +98,26 @@ author_profile: true
 ---
 
 # 실행 스크립트
-* github_push.sh
+* github_push.sh (sh github_push.sh "Modify-Post.")
 
-\#!/bin/sh
-cd /Users/kimsanghun/MissFlash/Github
-git remote add origin https://github.com/missflash/missflash.github.io.git
-git remote -v
-git pull origin master
-git add .
-git commit -m "$@"
+\#!/bin/sh<br>
+cd /Users/kimsanghun/MissFlash/Github<br>
+git remote add origin https://github.com/missflash/missflash.github.io.git<br>
+git remote -v<br>
+git pull origin master<br>
+git add .<br>
+git commit -m "$@"<br>
 git push -u origin master
 {: .notice--info}
 
-* github_push2.sh
+* github_push2.sh (sh github_push2.sh "Update-Repository.")
 
-\#!/bin/sh
-cd /Users/kimsanghun/Dropbox/MissFlash/Personal/Visiting_Scholars/4.Research/Samsung-KAIST
-git remote add origin https://github.com/missflash/Reinforcement_Project.git
-git remote -v
-git pull origin master
-git add .
-git commit -m "$@"
+\#!/bin/sh<br>
+cd /Users/kimsanghun/Dropbox/MissFlash/Personal/Visiting_Scholars/4.Research/Samsung-KAIST<br>
+git remote add origin https://github.com/missflash/Reinforcement_Project.git<br>
+git remote -v<br>
+git pull origin master<br>
+git add .<br>
+git commit -m "$@"<br>
 git push -u origin master
 {: .notice--info}
