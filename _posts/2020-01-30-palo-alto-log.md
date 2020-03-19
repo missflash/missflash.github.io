@@ -3,7 +3,11 @@ title: "Palo Alto Log"
 date: 2020. 1. 30. 오후 11:09:11
 categories:
 use_math: true
-classes: wide
+toc: true
+toc_label: "Table of Contents"
+toc_icon: "cog"
+toc_sticky: true
+
 ---
 
 # 이 글은...
