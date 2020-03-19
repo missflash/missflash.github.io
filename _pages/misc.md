@@ -88,6 +88,10 @@ author_profile: true
 # Markdown
 * [문법 참고1](https://seoulrain.net/2014/12/03/writemonkey05/)
 * [문법 참고2](http://taewan.kim/post/markdown/)
+* Markdown을 Html로 변환하기
+  * [Pandoc 설치](https://pandoc.org/installing.html)
+  * 터미널 실행
+  * pandoc 2020-01-30-palo-alto-log.md -f markdown -t html -s -o 2020-01-30-palo-alto-log.html
 
 ---
 
