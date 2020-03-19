@@ -13,15 +13,10 @@ classes: wide
 
 ---
 
-# [Palo Alto Log (2020.03)](https://missflash.github.io/palo-alto-log-202003/)
-
----
-
-# [Palo Alto Log (2020.02)](https://missflash.github.io/palo-alto-log-202002/)
-
----
-
-# [Palo Alto Log (2020.01)](https://missflash.github.io/palo-alto-log-202001/)
+# 월별 분류
+* [Palo Alto Log (2020.03)](https://missflash.github.io/palo-alto-log-202003/)
+* [Palo Alto Log (2020.02)](https://missflash.github.io/palo-alto-log-202002/)
+* [Palo Alto Log (2020.01)](https://missflash.github.io/palo-alto-log-202001/)
 
 ---
 
