@@ -61,7 +61,9 @@ toc_sticky: true
   * [Stanford Friday Morning Coffee 후기2](/palo-alto-log-202002/#FMC2)
   * [초등학교 입학 전 필수서류 준비 방법](/palo-alto-log-202002/#Almond_Documents)
   * [Stanford 유용 정보 모음](/palo-alto-log-202003/#Stanford_Information)
-  * [Stanford 빈 주차장을 지나친 사연](/palo-alto-log-202003/#SH_Permit)
+  * [Stanford 빈 주차장을 지나친 사연](/palo-alto-log-202003/#SH_Permit1)
+  * [Stanford에서 안전하게 산책하는 방법](/palo-alto-log-202003/#Walk_Safely)
+  * [Stanford SH Parking Permit의 정체는?](/palo-alto-log-202003/#SH_Permit2)
 * 생활
   * [렌트카 조기 반납 방법](/palo-alto-log-202002/#Rentcar_Return)
   * [각종 서비스 이용시 최적의 문의 방법](/palo-alto-log-202002/#Customer_Contact)
@@ -280,4 +282,6 @@ toc_sticky: true
   * [은행에 SSN 정보 업데이트해야 하는 이유?!](/palo-alto-log-202003/#SSN_Update)
   * [BOA 무료 체크 100장 득템 방법!](/palo-alto-log-202003/#Free_Check)
   * [Stanford Dish Hiking Trail 방문 후기](/palo-alto-log-202003/#Stanford_Dish1)
-  * [Stanford 빈 주차장을 지나친 사연](/palo-alto-log-202003/#SH_Permit)
+  * [Stanford 빈 주차장을 지나친 사연](/palo-alto-log-202003/#SH_Permit1)
+  * [Stanford에서 안전하게 산책하는 방법](/palo-alto-log-202003/#Walk_Safely)
+  * [Stanford SH Parking Permit의 정체는?](/palo-alto-log-202003/#SH_Permit2)
