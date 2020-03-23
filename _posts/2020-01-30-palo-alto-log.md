@@ -123,6 +123,7 @@ toc_sticky: true
   * [Stanford Bechtel International, 1:1 영어회화 후기2](/palo-alto-log-202003/#EIA_Lesson2)
   * [One-on-One 영어회화 수업 후기3](/palo-alto-log-202003/#One-on-One3)
   * [골프 레슨 후기4](/palo-alto-log-202002/#Golf_Lesson4)
+  * [온라인 무료 영어 수업시작한 노하우](/palo-alto-log-202003/#Free_Class)
 * 여행/장소
   * [커뮤니티 번개 후기1](/palo-alto-log-202002/#Community_Event1)
   * [Half Moon Bay, Pigeon Point, Shark Fin Cove 등 관광 후기](/palo-alto-log-202002/#Half_Moon_Bay)
@@ -154,6 +155,7 @@ toc_sticky: true
   * [지역 최고 피자 맛집, Spinato 방문 후기](/palo-alto-log-202002/#Spinato)
   * [남자 둘이서 햄버거 4개 먹은 사연](/palo-alto-log-202003/#Two_Burgers)
   * [슈퍼왕초보요리사의 첫 번째 스테이크 요리 후기](/palo-alto-log-202003/#1st_Steak)
+  * [코스트코 추천 음식 모음!](/palo-alto-log-202003/#Recommended_Foods1)
 
 ---
 
@@ -285,3 +287,5 @@ toc_sticky: true
   * [Stanford 빈 주차장을 지나친 사연](/palo-alto-log-202003/#SH_Permit1)
   * [Stanford에서 안전하게 산책하는 방법](/palo-alto-log-202003/#Walk_Safely)
   * [Stanford SH Parking Permit의 정체는?](/palo-alto-log-202003/#SH_Permit2)
+  * [온라인 무료 영어 수업시작한 노하우](/palo-alto-log-202003/#Free_Class)
+  * [코스트코 추천 음식 모음!](/palo-alto-log-202003/#Recommended_Foods1)
