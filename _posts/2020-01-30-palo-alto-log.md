@@ -111,7 +111,9 @@ toc_sticky: true
   * [Costco에서 이전 구매 상품에 대해 할인가격 보상받는 방법](/palo-alto-log-202003/#Price_Adjustment)
   * [자가격리 명령 후 마트 사재기 현황](/palo-alto-log-202003/#Bulk_Buying2)
   * [나도 모르게 결제된 유료서비스 해지 후기](/palo-alto-log-202003/#Refund)
+  * [Amazon Prime 무료 가입&가격 모니터링 방법](/palo-alto-log-202003/#Amazon_Prime)
   * [월마트 구입상품 한달후 환불 후기](/palo-alto-log-202003/#Walmart_Return)
+  * [Amazon Prime 회원 대상 USD 5 Credit 얻는 방법](/palo-alto-log-202003/#Amazon_Credit)
 * 운동/교육
   * [골프 클럽 구입 후기](/palo-alto-log-202002/#Golf_Lesson0)
   * [Menlo Park 도서관 1:1 영어회화 신청 후기](/palo-alto-log-202002/#Menlo_Park_Library)
@@ -127,6 +129,7 @@ toc_sticky: true
   * [One-on-One 영어회화 수업 후기3](/palo-alto-log-202003/#One-on-One3)
   * [골프 레슨 후기4](/palo-alto-log-202002/#Golf_Lesson4)
   * [온라인 무료 영어 수업시작한 노하우](/palo-alto-log-202003/#Free_Class)
+  * [One-on-One 영어회화 수업 후기4](/palo-alto-log-202003/#One-on-One4)
 * 여행/장소
   * [커뮤니티 번개 후기1](/palo-alto-log-202002/#Community_Event1)
   * [Half Moon Bay, Pigeon Point, Shark Fin Cove 등 관광 후기](/palo-alto-log-202002/#Half_Moon_Bay)
@@ -292,6 +295,9 @@ toc_sticky: true
   * [Stanford SH Parking Permit의 정체는?](/palo-alto-log-202003/#SH_Permit2)
   * [온라인 무료 영어 수업시작한 노하우](/palo-alto-log-202003/#Free_Class)
   * [코스트코 추천 음식 모음!](/palo-alto-log-202003/#Recommended_Foods1)
+  * [Amazon Prime 무료 가입&가격 모니터링 방법](/palo-alto-log-202003/#Amazon_Prime)
   * [월마트 구입상품 한달후 환불 후기](/palo-alto-log-202003/#Walmart_Return)
   * [한국인샵에서 엔진오일 교체 후기](/palo-alto-log-202003/#Engine_Oil)
   * [이웃주민과 티타임 진행한 사연2](/palo-alto-log-202003/#Tea_Time2)
+  * [One-on-One 영어회화 수업 후기4](/palo-alto-log-202003/#One-on-One4)
+  * [Amazon Prime 회원 대상 USD 5 Credit 얻는 방법](/palo-alto-log-202003/#Amazon_Credit)
