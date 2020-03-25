@@ -92,6 +92,7 @@ toc_sticky: true
   * [이웃주민과 티타임 진행한 사연1](/palo-alto-log-202003/#Tea_Time1)
   * [한국인샵에서 엔진오일 교체 후기](/palo-alto-log-202003/#Engine_Oil)
   * [이웃주민과 티타임 진행한 사연2](/palo-alto-log-202003/#Tea_Time2)
+  * [연수 동기들과 화상채팅한 사연](/palo-alto-log-202003/#Zoom_Meeting1)
 * 쇼핑
   * [저렴한 핸드폰 요금제 선택 방법](/palo-alto-log-202001/#Prepaid_Plan)
   * [중고차 구입 방법](/palo-alto-log-202001/#Used_Car)
@@ -130,6 +131,7 @@ toc_sticky: true
   * [골프 레슨 후기4](/palo-alto-log-202002/#Golf_Lesson4)
   * [온라인 무료 영어 수업시작한 노하우](/palo-alto-log-202003/#Free_Class)
   * [One-on-One 영어회화 수업 후기4](/palo-alto-log-202003/#One-on-One4)
+  * [Stanford Bechtel International, 1:1 영어회화 후기3](/palo-alto-log-202003/#EIA_Lesson3)
 * 여행/장소
   * [커뮤니티 번개 후기1](/palo-alto-log-202002/#Community_Event1)
   * [Half Moon Bay, Pigeon Point, Shark Fin Cove 등 관광 후기](/palo-alto-log-202002/#Half_Moon_Bay)
@@ -161,7 +163,8 @@ toc_sticky: true
   * [지역 최고 피자 맛집, Spinato 방문 후기](/palo-alto-log-202002/#Spinato)
   * [남자 둘이서 햄버거 4개 먹은 사연](/palo-alto-log-202003/#Two_Burgers)
   * [슈퍼왕초보요리사의 첫 번째 스테이크 요리 후기](/palo-alto-log-202003/#1st_Steak)
-  * [코스트코 추천 음식 모음!](/palo-alto-log-202003/#Recommended_Foods1)
+  * [코스트코 추천 음식 모음 1탄!](/palo-alto-log-202003/#Recommended_Foods1)
+  * [코스트코 추천 음식 모음 2탄!](/palo-alto-log-202003/#Recommended_Foods2)
 
 ---
 
@@ -302,3 +305,5 @@ toc_sticky: true
   * [One-on-One 영어회화 수업 후기4](/palo-alto-log-202003/#One-on-One4)
   * [Amazon Prime 회원 대상 USD 5 Credit 얻는 방법](/palo-alto-log-202003/#Amazon_Credit)
   * [코스트코 추천 음식 모음 2탄!](/palo-alto-log-202003/#Recommended_Foods2)
+  * [Stanford Bechtel International, 1:1 영어회화 후기3](/palo-alto-log-202003/#EIA_Lesson3)
+  * [연수 동기들과 화상채팅한 사연](/palo-alto-log-202003/#Zoom_Meeting1)
