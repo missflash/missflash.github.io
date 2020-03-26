@@ -115,6 +115,7 @@ toc_sticky: true
   * [Amazon Prime 무료 가입&가격 모니터링 방법](/palo-alto-log-202003/#Amazon_Prime)
   * [월마트 구입상품 한달후 환불 후기](/palo-alto-log-202003/#Walmart_Return)
   * [Amazon Prime 회원 대상 USD 5 Credit 얻는 방법](/palo-alto-log-202003/#Amazon_Credit)
+  * [종이호일은 영어로 뭘까? (아마존 주문 방법)](/palo-alto-log-202003/#Parchment_Paper)
 * 운동/교육
   * [골프 클럽 구입 후기](/palo-alto-log-202002/#Golf_Lesson0)
   * [Menlo Park 도서관 1:1 영어회화 신청 후기](/palo-alto-log-202002/#Menlo_Park_Library)
@@ -132,6 +133,7 @@ toc_sticky: true
   * [온라인 무료 영어 수업시작한 노하우](/palo-alto-log-202003/#Free_Class)
   * [One-on-One 영어회화 수업 후기4](/palo-alto-log-202003/#One-on-One4)
   * [Stanford Bechtel International, 1:1 영어회화 후기3](/palo-alto-log-202003/#EIA_Lesson3)
+  * [One-on-One 영어회화 수업 후기5](/palo-alto-log-202003/#One-on-One5)
 * 여행/장소
   * [커뮤니티 번개 후기1](/palo-alto-log-202002/#Community_Event1)
   * [Half Moon Bay, Pigeon Point, Shark Fin Cove 등 관광 후기](/palo-alto-log-202002/#Half_Moon_Bay)
@@ -307,3 +309,5 @@ toc_sticky: true
   * [코스트코 추천 음식 모음 2탄!](/palo-alto-log-202003/#Recommended_Foods2)
   * [Stanford Bechtel International, 1:1 영어회화 후기3](/palo-alto-log-202003/#EIA_Lesson3)
   * [연수 동기들과 화상채팅한 사연](/palo-alto-log-202003/#Zoom_Meeting1)
+  * [종이호일은 영어로 뭘까? (아마존 주문 방법)](/palo-alto-log-202003/#Parchment_Paper)
+  * [One-on-One 영어회화 수업 후기5](/palo-alto-log-202003/#One-on-One5)
