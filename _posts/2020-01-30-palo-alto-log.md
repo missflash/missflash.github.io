@@ -116,9 +116,9 @@ toc_sticky: true
   * [월마트 구입상품 한달후 환불 후기](/palo-alto-log-202003/#Walmart_Return)
   * [Amazon Prime 회원 대상 USD 5 Credit 얻는 방법](/palo-alto-log-202003/#Amazon_Credit)
   * [종이호일은 영어로 뭘까? (아마존 주문 방법)](/palo-alto-log-202003/#Parchment_Paper)
-  * [아마존에서 재포장된 제품 받은 후기1](/palo-alto-log-202002/#Dyson_Repackage)
-  * [아마존에서 USD 30 크레딧 받은 후기](/palo-alto-log-202002/#Dyson_Partial_Refund)
-  * [사회적 거리를 지켜주는 무료 게임 근황](/palo-alto-log-202002/#Free_Games)
+  * [아마존에서 재포장된 제품 받은 후기1](/palo-alto-log-202003/#Dyson_Repackage)
+  * [아마존에서 USD 30 크레딧 받은 후기](/palo-alto-log-202003/#Dyson_Partial_Refund)
+  * [사회적 거리를 지켜주는 무료 게임 근황](/palo-alto-log-202003/#Free_Games)
 * 운동/교육
   * [골프 클럽 구입 후기](/palo-alto-log-202002/#Golf_Lesson0)
   * [Menlo Park 도서관 1:1 영어회화 신청 후기](/palo-alto-log-202002/#Menlo_Park_Library)
@@ -170,7 +170,7 @@ toc_sticky: true
   * [슈퍼왕초보요리사의 첫 번째 스테이크 요리 후기](/palo-alto-log-202003/#1st_Steak)
   * [코스트코 추천 음식 모음 1탄!](/palo-alto-log-202003/#Recommended_Foods1)
   * [코스트코 추천 음식 모음 2탄!](/palo-alto-log-202003/#Recommended_Foods2)
-  * [점심식사 초대받은 후기1](/palo-alto-log-202002/#Lunch_Invitation1)
+  * [점심식사 초대받은 후기1](/palo-alto-log-202003/#Lunch_Invitation1)
 
 ---
 
@@ -315,7 +315,7 @@ toc_sticky: true
   * [연수 동기들과 화상채팅한 사연](/palo-alto-log-202003/#Zoom_Meeting1)
   * [종이호일은 영어로 뭘까? (아마존 주문 방법)](/palo-alto-log-202003/#Parchment_Paper)
   * [One-on-One 영어회화 수업 후기5](/palo-alto-log-202003/#One-on-One5)
-  * [아마존에서 재포장된 제품 받은 후기1](/palo-alto-log-202002/#Dyson_Repackage)
-  * [점심식사 초대받은 후기1](/palo-alto-log-202002/#Lunch_Invitation1)
-  * [아마존에서 USD 30 크레딧 받은 후기](/palo-alto-log-202002/#Dyson_Partial_Refund)
-  * [사회적 거리를 지켜주는 무료 게임 근황](/palo-alto-log-202002/#Free_Games)
+  * [아마존에서 재포장된 제품 받은 후기1](/palo-alto-log-202003/#Dyson_Repackage)
+  * [점심식사 초대받은 후기1](/palo-alto-log-202003/#Lunch_Invitation1)
+  * [아마존에서 USD 30 크레딧 받은 후기](/palo-alto-log-202003/#Dyson_Partial_Refund)
+  * [사회적 거리를 지켜주는 무료 게임 근황](/palo-alto-log-202003/#Free_Games)
