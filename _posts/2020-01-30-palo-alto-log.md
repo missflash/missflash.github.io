@@ -46,6 +46,7 @@ toc_sticky: true
   * [은행에 SSN 정보 업데이트해야 하는 이유?!](/palo-alto-log-202003/#SSN_Update)
   * [BOA 무료 체크 100장 득템 방법!](/palo-alto-log-202003/#Free_Check)
   * [미국 계좌를 PayPal에 추가하는 방법](/palo-alto-log-202003/#PayPal)
+  * [미국 타은행간 무료 계좌 이체 방법](/palo-alto-log-202003/#Zelle)
 * Stanford/자녀
   * [Stanford ID Card 발급 방법](/palo-alto-log-202001/#Stanford_ID)
   * [Stanford 주차권 발급 방법](/palo-alto-log-202002/#Parking_Permit)
@@ -121,6 +122,7 @@ toc_sticky: true
   * [아마존에서 USD 30 크레딧 받은 후기](/palo-alto-log-202003/#Dyson_Partial_Refund)
   * [사회적 거리를 지켜주는 무료 게임 근황](/palo-alto-log-202003/#Free_Games)
   * [미국 신용카드를 Apple Pay에 추가하는 방법](/palo-alto-log-202003/#Apple_Pay)
+  * [애플 직원 통해 15% 할인받은 사연](/palo-alto-log-202003/#Apple_Discount)
 * 운동/교육
   * [골프 클럽 구입 후기](/palo-alto-log-202002/#Golf_Lesson0)
   * [Menlo Park 도서관 1:1 영어회화 신청 후기](/palo-alto-log-202002/#Menlo_Park_Library)
@@ -323,3 +325,5 @@ toc_sticky: true
   * [사회적 거리를 지켜주는 무료 게임 근황](/palo-alto-log-202003/#Free_Games)
   * [미국 신용카드를 Apple Pay에 추가하는 방법](/palo-alto-log-202003/#Apple_Pay)
   * [미국 계좌를 PayPal에 추가하는 방법](/palo-alto-log-202003/#PayPal)
+  * [애플 직원 통해 15% 할인받은 사연](/palo-alto-log-202003/#Apple_Discount)
+  * [미국 타은행간 무료 계좌 이체 방법](/palo-alto-log-202003/#Zelle)
