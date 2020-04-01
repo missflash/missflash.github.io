@@ -99,6 +99,8 @@ toc_sticky: true
   * [Callbox가 무엇에 쓰는 물건인고?](/palo-alto-log-202003/#Callbox)
   * [생일날 미국 친구에게 축하 인사 받은 사연](/palo-alto-log-202003/#OO_Message)
   * [생일날 미국 친구와 영상통화 한 사연](/palo-alto-log-202003/#OO_Skype)
+  * [자전거 펌프 빌려서 바람넣은 사연](/palo-alto-log-202003/#Bicycle_Pump)
+  * [미국 이사 파손물품 보험 청구한 사연](/palo-alto-log-202003/#Moving_Insurance)
 * 쇼핑
   * [저렴한 핸드폰 요금제 선택 방법](/palo-alto-log-202001/#Prepaid_Plan)
   * [중고차 구입 방법](/palo-alto-log-202001/#Used_Car)
@@ -146,6 +148,7 @@ toc_sticky: true
   * [Stanford Bechtel International, 1:1 영어회화 후기3](/palo-alto-log-202003/#EIA_Lesson3)
   * [One-on-One 영어회화 수업 후기5](/palo-alto-log-202003/#One-on-One5)
   * [One-on-One 영어회화 수업 후기6](/palo-alto-log-202003/#One-on-One6)
+  * [Stanford Bechtel International, 1:1 영어회화 후기4](/palo-alto-log-202003/#EIA_Lesson4)
 * 여행/장소
   * [커뮤니티 번개 후기1](/palo-alto-log-202002/#Community_Event1)
   * [Half Moon Bay, Pigeon Point, Shark Fin Cove 등 관광 후기](/palo-alto-log-202002/#Half_Moon_Bay)
@@ -340,3 +343,6 @@ toc_sticky: true
   * [생일날 미국 친구에게 축하 인사 받은 사연](/palo-alto-log-202003/#OO_Message)
   * [One-on-One 영어회화 수업 후기6](/palo-alto-log-202003/#One-on-One6)
   * [생일날 미국 친구와 영상통화 한 사연](/palo-alto-log-202003/#OO_Skype)
+  * [자전거 펌프 빌려서 바람넣은 사연](/palo-alto-log-202003/#Bicycle_Pump)
+  * [미국 이사 파손물품 보험 청구한 사연](/palo-alto-log-202003/#Moving_Insurance)
+  * [Stanford Bechtel International, 1:1 영어회화 후기4](/palo-alto-log-202003/#EIA_Lesson4)
