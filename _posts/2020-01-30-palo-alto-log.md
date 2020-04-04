@@ -67,6 +67,8 @@ toc_sticky: true
   * [Stanford 빈 주차장을 지나친 사연](/palo-alto-log-202003/#SH_Permit1)
   * [Stanford에서 안전하게 산책하는 방법](/palo-alto-log-202003/#Walk_Safely)
   * [Stanford SH Parking Permit의 정체는?](/palo-alto-log-202003/#SH_Permit2)
+  * [Stanford 캠퍼스 Running 코스 소개](/palo-alto-log-202003/#Stanford_Trail)
+  * [Stanford Dish 문닫은 사연](/palo-alto-log-202003/#Last_Dish)
 * 생활
   * [렌트카 조기 반납 방법](/palo-alto-log-202002/#Rentcar_Return)
   * [각종 서비스 이용시 최적의 문의 방법](/palo-alto-log-202002/#Customer_Contact)
@@ -102,6 +104,7 @@ toc_sticky: true
   * [자전거 펌프 빌려서 바람넣은 사연](/palo-alto-log-202003/#Bicycle_Pump)
   * [미국 이사 파손물품 보험 청구한 사연](/palo-alto-log-202003/#Moving_Insurance)
   * [미국과 한국의 만우절 차이](/palo-alto-log-202003/#April_Fool)
+  * [회사에서 구호물품 4박스 지급받은 사연](/palo-alto-log-202003/#Love_Boxes)
 * 쇼핑
   * [저렴한 핸드폰 요금제 선택 방법](/palo-alto-log-202001/#Prepaid_Plan)
   * [중고차 구입 방법](/palo-alto-log-202001/#Used_Car)
@@ -349,6 +352,11 @@ toc_sticky: true
   * [자전거 펌프 빌려서 바람넣은 사연](/palo-alto-log-202003/#Bicycle_Pump)
   * [미국 이사 파손물품 보험 청구한 사연](/palo-alto-log-202003/#Moving_Insurance)
   * [Stanford Bechtel International, 1:1 영어회화 후기4](/palo-alto-log-202003/#EIA_Lesson4)
-  * [Costco에서 저렴하게 주유하는 방법](/palo-alto-log-202003/#Costco_Membership)
-  * [One-on-One 영어회화 수업 후기7](/palo-alto-log-202003/#One-on-One7)
-  * [미국과 한국의 만우절 차이](/palo-alto-log-202003/#April_Fool)
+
+* 2020년 4월
+  * [Costco에서 저렴하게 주유하는 방법](/palo-alto-log-202004/#Costco_Membership)
+  * [One-on-One 영어회화 수업 후기7](/palo-alto-log-202004/#One-on-One7)
+  * [미국과 한국의 만우절 차이](/palo-alto-log-202004/#April_Fool)
+  * [Stanford 캠퍼스 Running 코스 소개](/palo-alto-log-202004/#Stanford_Trail)
+  * [Stanford Dish 문닫은 사연](/palo-alto-log-202004/#Last_Dish)
+  * [회사에서 구호물품 4박스 지급받은 사연](/palo-alto-log-202004/#Love_Boxes)
