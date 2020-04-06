@@ -105,6 +105,7 @@ toc_sticky: true
   * [미국 이사 파손물품 보험 청구한 사연](/palo-alto-log-202003/#Moving_Insurance)
   * [미국과 한국의 만우절 차이](/palo-alto-log-202003/#April_Fool)
   * [회사에서 구호물품 4박스 지급받은 사연](/palo-alto-log-202003/#Love_Boxes)
+  * [캘리포니아 환경부담금 CRV 환급 방법](/palo-alto-log-202004/#CRV)
 * 쇼핑
   * [저렴한 핸드폰 요금제 선택 방법](/palo-alto-log-202001/#Prepaid_Plan)
   * [중고차 구입 방법](/palo-alto-log-202001/#Used_Car)
@@ -364,3 +365,4 @@ toc_sticky: true
   * [회사에서 구호물품 4박스 지급받은 사연](/palo-alto-log-202004/#Love_Boxes)
   * [Dyson 배터리 불량으로 교환신청한 사연](/palo-alto-log-202004/#Dyson_Return)
   * [점심식사 초대한 후기3](/palo-alto-log-202004/#Lunch_Invitation3)
+  * [캘리포니아 환경부담금 CRV 환급 방법](/palo-alto-log-202004/#CRV)
