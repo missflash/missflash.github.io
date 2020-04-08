@@ -106,6 +106,7 @@ toc_sticky: true
   * [미국과 한국의 만우절 차이](/palo-alto-log-202003/#April_Fool)
   * [회사에서 구호물품 4박스 지급받은 사연](/palo-alto-log-202003/#Love_Boxes)
   * [캘리포니아 환경부담금 CRV 환급 방법](/palo-alto-log-202004/#CRV)
+  * [FasTrak 가입 후기](/palo-alto-log-202004/#FasTrak_Join)
 * 쇼핑
   * [저렴한 핸드폰 요금제 선택 방법](/palo-alto-log-202001/#Prepaid_Plan)
   * [중고차 구입 방법](/palo-alto-log-202001/#Used_Car)
@@ -136,6 +137,8 @@ toc_sticky: true
   * [애플 직원 통해 15% 할인받은 사연](/palo-alto-log-202003/#Apple_Discount)
   * [Costco에서 저렴하게 주유하는 방법](/palo-alto-log-202003/#Costco_Membership)
   * [Dyson 배터리 불량으로 교환신청한 사연](/palo-alto-log-202004/#Dyson_Return)
+  * [Dyson 신규 제품 교환받은 사연](/palo-alto-log-202004/#Receive_New_Dyson)
+  * [Vehicle Health Monitor 설치 후기](/palo-alto-log-202004/#Vehicle_Health_Monitor)
 * 운동/교육
   * [골프 클럽 구입 후기](/palo-alto-log-202002/#Golf_Lesson0)
   * [Menlo Park 도서관 1:1 영어회화 신청 후기](/palo-alto-log-202002/#Menlo_Park_Library)
@@ -157,6 +160,7 @@ toc_sticky: true
   * [One-on-One 영어회화 수업 후기6](/palo-alto-log-202003/#One-on-One6)
   * [Stanford Bechtel International, 1:1 영어회화 후기4](/palo-alto-log-202003/#EIA_Lesson4)
   * [One-on-One 영어회화 수업 후기7](/palo-alto-log-202003/#One-on-One7)
+  * [Stanford Bechtel International, 1:1 영어회화 후기5](/palo-alto-log-202003/#EIA_Lesson5)
 * 여행/장소
   * [커뮤니티 번개 후기1](/palo-alto-log-202002/#Community_Event1)
   * [Half Moon Bay, Pigeon Point, Shark Fin Cove 등 관광 후기](/palo-alto-log-202002/#Half_Moon_Bay)
@@ -178,6 +182,7 @@ toc_sticky: true
   * [미국에서의 첫 번째 장거리 운전 후기2](/palo-alto-log-202003/#1st_Long_Drive2)
   * [철새의 천국, Shoreline Lake Park 방문 후기](/palo-alto-log-202003/#Shoreline_Lake_Park)
   * [Stanford Dish Hiking Trail 방문 후기](/palo-alto-log-202003/#Stanford_Dish1)
+  * [Mitchell Park 방문 후기](/palo-alto-log-202004/#Mitchell_Park)
 * 요리/식당
   * [호텔 무료 서비스를 즐기는 방법](/palo-alto-log-202002/#RI_MIX)
   * [저녁식사 초대받은 후기1](/palo-alto-log-202002/#Dinner_Invitation1)
@@ -367,3 +372,8 @@ toc_sticky: true
   * [점심식사 초대한 후기3](/palo-alto-log-202004/#Lunch_Invitation3)
   * [캘리포니아 환경부담금 CRV 환급 방법](/palo-alto-log-202004/#CRV)
   * [One-on-One 영어회화 수업 후기8](/palo-alto-log-202004/#One-on-One8)
+  * [Dyson 신규 제품 교환받은 사연](/palo-alto-log-202004/#Receive_New_Dyson)
+  * [Stanford Bechtel International, 1:1 영어회화 후기5](/palo-alto-log-202003/#EIA_Lesson5)
+  * [Mitchell Park 방문 후기](/palo-alto-log-202004/#Mitchell_Park)
+  * [Vehicle Health Monitor 설치 후기](/palo-alto-log-202004/#Vehicle_Health_Monitor)
+  * [FasTrak 가입 후기](/palo-alto-log-202004/#FasTrak_Join)
