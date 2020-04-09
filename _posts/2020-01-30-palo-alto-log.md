@@ -139,6 +139,7 @@ toc_sticky: true
   * [Dyson 배터리 불량으로 교환신청한 사연](/palo-alto-log-202004/#Dyson_Return)
   * [Dyson 신규 제품 교환받은 사연](/palo-alto-log-202004/#Receive_New_Dyson)
   * [Vehicle Health Monitor 설치 후기](/palo-alto-log-202004/#Vehicle_Health_Monitor)
+  * [Dyson Stand 구입한 사연](/palo-alto-log-202004/#Dyson_Stand)
 * 운동/교육
   * [골프 클럽 구입 후기](/palo-alto-log-202002/#Golf_Lesson0)
   * [Menlo Park 도서관 1:1 영어회화 신청 후기](/palo-alto-log-202002/#Menlo_Park_Library)
@@ -160,7 +161,9 @@ toc_sticky: true
   * [One-on-One 영어회화 수업 후기6](/palo-alto-log-202003/#One-on-One6)
   * [Stanford Bechtel International, 1:1 영어회화 후기4](/palo-alto-log-202003/#EIA_Lesson4)
   * [One-on-One 영어회화 수업 후기7](/palo-alto-log-202003/#One-on-One7)
+  * [One-on-One 영어회화 수업 후기8](/palo-alto-log-202004/#One-on-One8)
   * [Stanford Bechtel International, 1:1 영어회화 후기5](/palo-alto-log-202003/#EIA_Lesson5)
+  * [One-on-One 영어회화 수업 후기9](/palo-alto-log-202004/#One-on-One9)
 * 여행/장소
   * [커뮤니티 번개 후기1](/palo-alto-log-202002/#Community_Event1)
   * [Half Moon Bay, Pigeon Point, Shark Fin Cove 등 관광 후기](/palo-alto-log-202002/#Half_Moon_Bay)
@@ -377,3 +380,5 @@ toc_sticky: true
   * [Mitchell Park 방문 후기](/palo-alto-log-202004/#Mitchell_Park)
   * [Vehicle Health Monitor 설치 후기](/palo-alto-log-202004/#Vehicle_Health_Monitor)
   * [FasTrak 가입 후기](/palo-alto-log-202004/#FasTrak_Join)
+  * [Dyson Stand 구입한 사연](/palo-alto-log-202004/#Dyson_Stand)
+  * [One-on-One 영어회화 수업 후기9](/palo-alto-log-202004/#One-on-One9)
