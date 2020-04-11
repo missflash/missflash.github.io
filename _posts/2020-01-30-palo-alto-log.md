@@ -140,6 +140,8 @@ toc_sticky: true
   * [Dyson 신규 제품 교환받은 사연](/palo-alto-log-202004/#Receive_New_Dyson)
   * [Vehicle Health Monitor 설치 후기](/palo-alto-log-202004/#Vehicle_Health_Monitor)
   * [Dyson Stand 구입한 사연](/palo-alto-log-202004/#Dyson_Stand)
+  * [iPad Pro 4세대 구입 사연](/palo-alto-log-202004/#iPad_Pro)
+  * [FedEx 직접 방문해 반품한 후기](/palo-alto-log-202004/#Return_Keyboard)
 * 운동/교육
   * [골프 클럽 구입 후기](/palo-alto-log-202002/#Golf_Lesson0)
   * [Menlo Park 도서관 1:1 영어회화 신청 후기](/palo-alto-log-202002/#Menlo_Park_Library)
@@ -186,6 +188,7 @@ toc_sticky: true
   * [철새의 천국, Shoreline Lake Park 방문 후기](/palo-alto-log-202003/#Shoreline_Lake_Park)
   * [Stanford Dish Hiking Trail 방문 후기](/palo-alto-log-202003/#Stanford_Dish1)
   * [Mitchell Park 방문 후기](/palo-alto-log-202004/#Mitchell_Park)
+  * [조용하고 평화로운 Shoup Park 방문 후기](/palo-alto-log-202004/#Shoup_Park)
 * 요리/식당
   * [호텔 무료 서비스를 즐기는 방법](/palo-alto-log-202002/#RI_MIX)
   * [저녁식사 초대받은 후기1](/palo-alto-log-202002/#Dinner_Invitation1)
@@ -382,3 +385,6 @@ toc_sticky: true
   * [FasTrak 가입 후기](/palo-alto-log-202004/#FasTrak_Join)
   * [Dyson Stand 구입한 사연](/palo-alto-log-202004/#Dyson_Stand)
   * [One-on-One 영어회화 수업 후기9](/palo-alto-log-202004/#One-on-One9)
+  * [조용하고 평화로운 Shoup Park 방문 후기](/palo-alto-log-202004/#Shoup_Park)
+  * [iPad Pro 4세대 구입 사연](/palo-alto-log-202004/#iPad_Pro)
+  * [FedEx 직접 방문해 반품한 후기](/palo-alto-log-202004/#Return_Keyboard)
