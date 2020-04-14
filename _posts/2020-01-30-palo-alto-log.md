@@ -388,3 +388,6 @@ toc_sticky: true
   * [조용하고 평화로운 Shoup Park 방문 후기](/palo-alto-log-202004/#Shoup_Park)
   * [iPad Pro 4세대 구입 사연](/palo-alto-log-202004/#iPad_Pro)
   * [FedEx 직접 방문해 반품한 후기](/palo-alto-log-202004/#Return_Keyboard)
+  * [One-on-One 영어회화 수업 후기10](/palo-alto-log-202004/#One-on-One10)
+  * [KAIST 산학과제 미팅 후기](/palo-alto-log-202004/#KAIST_Conference1)
+  * [Stanford 수업 청강 방법](/palo-alto-log-202004/#Audit_Request)
