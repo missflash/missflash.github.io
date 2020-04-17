@@ -166,7 +166,9 @@ toc_sticky: true
   * [One-on-One 영어회화 수업 후기8](/palo-alto-log-202004/#One-on-One8)
   * [Stanford Bechtel International, 1:1 영어회화 후기5](/palo-alto-log-202003/#EIA_Lesson5)
   * [One-on-One 영어회화 수업 후기9](/palo-alto-log-202004/#One-on-One9)
+  * [One-on-One 영어회화 수업 후기10](/palo-alto-log-202004/#One-on-One10)
   * [Stanford Bechtel International, 1:1 영어회화 후기6](/palo-alto-log-202003/#EIA_Lesson6)
+  * [One-on-One 영어회화 수업 후기11](/palo-alto-log-202004/#One-on-One11)
 * 여행/장소
   * [커뮤니티 번개 후기1](/palo-alto-log-202002/#Community_Event1)
   * [Half Moon Bay, Pigeon Point, Shark Fin Cove 등 관광 후기](/palo-alto-log-202002/#Half_Moon_Bay)
@@ -393,3 +395,4 @@ toc_sticky: true
   * [KAIST 산학과제 미팅 후기](/palo-alto-log-202004/#KAIST_Conference1)
   * [Stanford 수업 청강 방법](/palo-alto-log-202004/#Audit_Request)
   * [Stanford Bechtel International, 1:1 영어회화 후기6](/palo-alto-log-202003/#EIA_Lesson6)
+  * [One-on-One 영어회화 수업 후기11](/palo-alto-log-202004/#One-on-One11)
