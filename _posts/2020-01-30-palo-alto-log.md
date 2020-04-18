@@ -69,6 +69,8 @@ toc_sticky: true
   * [Stanford SH Parking Permit의 정체는?](/palo-alto-log-202003/#SH_Permit2)
   * [Stanford 캠퍼스 Running 코스 소개](/palo-alto-log-202003/#Stanford_Trail)
   * [Stanford Dish 문닫은 사연](/palo-alto-log-202003/#Last_Dish)
+  * [KAIST 산학과제 미팅 후기](/palo-alto-log-202004/#KAIST_Conference1)
+  * [Stanford 수업 청강 방법](/palo-alto-log-202004/#Audit_Request)
 * 생활
   * [렌트카 조기 반납 방법](/palo-alto-log-202002/#Rentcar_Return)
   * [각종 서비스 이용시 최적의 문의 방법](/palo-alto-log-202002/#Customer_Contact)
@@ -142,6 +144,7 @@ toc_sticky: true
   * [Dyson Stand 구입한 사연](/palo-alto-log-202004/#Dyson_Stand)
   * [iPad Pro 4세대 구입 사연](/palo-alto-log-202004/#iPad_Pro)
   * [FedEx 직접 방문해 반품한 후기](/palo-alto-log-202004/#Return_Keyboard)
+  * [우편함에서 택배 발견한 사연](/palo-alto-log-202004/#USPS_Delivery)
 * 운동/교육
   * [골프 클럽 구입 후기](/palo-alto-log-202002/#Golf_Lesson0)
   * [Menlo Park 도서관 1:1 영어회화 신청 후기](/palo-alto-log-202002/#Menlo_Park_Library)
@@ -208,6 +211,7 @@ toc_sticky: true
   * [점심식사 초대한 후기2](/palo-alto-log-202003/#Lunch_Invitation2)
   * [생일날 혼자 미역국 끓여먹은 사연](/palo-alto-log-202003/#1st_Seaweed_Soup)
   * [점심식사 초대한 후기3](/palo-alto-log-202004/#Lunch_Invitation3)
+  * [점심식사 초대받은 후기4](/palo-alto-log-202004/#Lunch_Invitation4)
 
 ---
 
@@ -396,3 +400,5 @@ toc_sticky: true
   * [Stanford 수업 청강 방법](/palo-alto-log-202004/#Audit_Request)
   * [Stanford Bechtel International, 1:1 영어회화 후기6](/palo-alto-log-202003/#EIA_Lesson6)
   * [One-on-One 영어회화 수업 후기11](/palo-alto-log-202004/#One-on-One11)
+  * [점심식사 초대받은 후기4](/palo-alto-log-202004/#Lunch_Invitation4)
+  * [우편함에서 택배 발견한 사연](/palo-alto-log-202004/#USPS_Delivery)
