@@ -109,6 +109,7 @@ toc_sticky: true
   * [회사에서 구호물품 4박스 지급받은 사연](/palo-alto-log-202003/#Love_Boxes)
   * [캘리포니아 환경부담금 CRV 환급 방법](/palo-alto-log-202004/#CRV)
   * [FasTrak 가입 후기](/palo-alto-log-202004/#FasTrak_Join)
+  * [Orthomol Immune 비타민 섭취한 사연](/palo-alto-log-202004/#Orthomol_Immune)
 * 쇼핑
   * [저렴한 핸드폰 요금제 선택 방법](/palo-alto-log-202001/#Prepaid_Plan)
   * [중고차 구입 방법](/palo-alto-log-202001/#Used_Car)
@@ -172,6 +173,7 @@ toc_sticky: true
   * [One-on-One 영어회화 수업 후기10](/palo-alto-log-202004/#One-on-One10)
   * [Stanford Bechtel International, 1:1 영어회화 후기6](/palo-alto-log-202003/#EIA_Lesson6)
   * [One-on-One 영어회화 수업 후기11](/palo-alto-log-202004/#One-on-One11)
+  * [One-on-One 영어회화 수업 후기12](/palo-alto-log-202004/#One-on-One12)
 * 여행/장소
   * [커뮤니티 번개 후기1](/palo-alto-log-202002/#Community_Event1)
   * [Half Moon Bay, Pigeon Point, Shark Fin Cove 등 관광 후기](/palo-alto-log-202002/#Half_Moon_Bay)
@@ -402,3 +404,5 @@ toc_sticky: true
   * [One-on-One 영어회화 수업 후기11](/palo-alto-log-202004/#One-on-One11)
   * [점심식사 초대받은 후기4](/palo-alto-log-202004/#Lunch_Invitation4)
   * [우편함에서 택배 발견한 사연](/palo-alto-log-202004/#USPS_Delivery)
+  * [Orthomol Immune 비타민 섭취한 사연](/palo-alto-log-202004/#Orthomol_Immune)
+  * [One-on-One 영어회화 수업 후기12](/palo-alto-log-202004/#One-on-One12)
