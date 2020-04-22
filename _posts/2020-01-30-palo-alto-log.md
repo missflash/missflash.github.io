@@ -174,6 +174,7 @@ toc_sticky: true
   * [Stanford Bechtel International, 1:1 영어회화 후기6](/palo-alto-log-202003/#EIA_Lesson6)
   * [One-on-One 영어회화 수업 후기11](/palo-alto-log-202004/#One-on-One11)
   * [One-on-One 영어회화 수업 후기12](/palo-alto-log-202004/#One-on-One12)
+  * [Stanford Bechtel International, 1:1 영어회화 후기7](/palo-alto-log-202003/#EIA_Lesson7)
 * 여행/장소
   * [커뮤니티 번개 후기1](/palo-alto-log-202002/#Community_Event1)
   * [Half Moon Bay, Pigeon Point, Shark Fin Cove 등 관광 후기](/palo-alto-log-202002/#Half_Moon_Bay)
@@ -406,3 +407,4 @@ toc_sticky: true
   * [우편함에서 택배 발견한 사연](/palo-alto-log-202004/#USPS_Delivery)
   * [Orthomol Immune 비타민 섭취한 사연](/palo-alto-log-202004/#Orthomol_Immune)
   * [One-on-One 영어회화 수업 후기12](/palo-alto-log-202004/#One-on-One12)
+  * [Stanford Bechtel International, 1:1 영어회화 후기7](/palo-alto-log-202003/#EIA_Lesson7)
