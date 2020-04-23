@@ -175,6 +175,8 @@ toc_sticky: true
   * [One-on-One 영어회화 수업 후기11](/palo-alto-log-202004/#One-on-One11)
   * [One-on-One 영어회화 수업 후기12](/palo-alto-log-202004/#One-on-One12)
   * [Stanford Bechtel International, 1:1 영어회화 후기7](/palo-alto-log-202003/#EIA_Lesson7)
+  * [One-on-One 영어회화 수업 후기13](/palo-alto-log-202004/#One-on-One13)
+  * [Menlo Park 도서관 Conversation Club 후기1](/palo-alto-log-202004/#Conversation_Club1)
 * 여행/장소
   * [커뮤니티 번개 후기1](/palo-alto-log-202002/#Community_Event1)
   * [Half Moon Bay, Pigeon Point, Shark Fin Cove 등 관광 후기](/palo-alto-log-202002/#Half_Moon_Bay)
@@ -408,3 +410,5 @@ toc_sticky: true
   * [Orthomol Immune 비타민 섭취한 사연](/palo-alto-log-202004/#Orthomol_Immune)
   * [One-on-One 영어회화 수업 후기12](/palo-alto-log-202004/#One-on-One12)
   * [Stanford Bechtel International, 1:1 영어회화 후기7](/palo-alto-log-202003/#EIA_Lesson7)
+  * [One-on-One 영어회화 수업 후기13](/palo-alto-log-202004/#One-on-One13)
+  * [Menlo Park 도서관 Conversation Club 후기1](/palo-alto-log-202004/#Conversation_Club1)
