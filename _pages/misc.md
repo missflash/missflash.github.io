@@ -127,43 +127,32 @@ git push -u origin master
 {: .notice--info}
 
 * github 참고사항
-
-- sh 실행
+  - sh 실행
 cd /Users/kimsanghun/MissFlash
 sh github_push.sh "Modify-Post."
-
-- 초기 설정
+  - 초기 설정
 git config --global user.name "missflash"
 git config --global user.email "missflash@gmail.com"
-
-- 로컬 경로 확인
+  - 로컬 경로 확인
 git init
-
-- 로컬 경로 이동
+  - 로컬 경로 이동
 cd /Users/kimsanghun/MissFlash/Github
-
-- 리모트 저장소 연결
+  - 리모트 저장소 연결
 git remote add origin https://github.com/missflash/missflash.github.io.git
-
-- 리모트 저장소 확인
+  - 리모트 저장소 확인
 git remote -v
-
-- 다운로드
+  - 다운로드
 git pull origin master
 git pull https://github.com/missflash/missflash.github.io.git master
 // -- fatal: refusing to merge unrelated histories 에러 발생시 아래 명령 수행
 // git pull origin master --allow-unrelated-histories
-
-- 로컬 경로 모든 파일 업로드 (\_post 폴더에 글 작성 후)
+  - 로컬 경로 모든 파일 업로드 (\_post 폴더에 글 작성 후)
 git add .
 git commit -m ""
-
-- 업로드
+  - 업로드
 git push -u origin master
 git push https://github.com/missflash/missflash.github.io.git master
-
-- remote 제거
+  - remote 제거
 git remote remove origin
-
-- Commit 삭제 : https://gmlwjd9405.github.io/2018/05/25/git-add-cancle.html
+  - Commit 삭제 : https://gmlwjd9405.github.io/2018/05/25/git-add-cancle.html
 git reset --hard HEAD~3
