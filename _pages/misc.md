@@ -131,6 +131,7 @@ git push -u origin master
     * cd /Users/kimsanghun/MissFlash
     * sh github_push.sh "Modify-Post."
   * 초기 설정
+    * Project 디렉토리로 이동
     * git config --global user.name "missflash"
     * git config --global user.email "missflash@gmail.com"
   * 로컬 경로 확인
