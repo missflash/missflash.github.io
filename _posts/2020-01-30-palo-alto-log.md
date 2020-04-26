@@ -110,6 +110,7 @@ toc_sticky: true
   * [캘리포니아 환경부담금 CRV 환급 방법](/palo-alto-log-202004/#CRV)
   * [FasTrak 가입 후기](/palo-alto-log-202004/#FasTrak_Join)
   * [Orthomol Immune 비타민 섭취한 사연](/palo-alto-log-202004/#Orthomol_Immune)
+  * [처음으로 아파트 에어컨 가동한 사연](/palo-alto-log-202004/#First_Cooling)
 * 쇼핑
   * [저렴한 핸드폰 요금제 선택 방법](/palo-alto-log-202001/#Prepaid_Plan)
   * [중고차 구입 방법](/palo-alto-log-202001/#Used_Car)
@@ -412,3 +413,4 @@ toc_sticky: true
   * [Stanford Bechtel International, 1:1 영어회화 후기7](/palo-alto-log-202003/#EIA_Lesson7)
   * [One-on-One 영어회화 수업 후기13](/palo-alto-log-202004/#One-on-One13)
   * [Menlo Park 도서관 Conversation Club 후기1](/palo-alto-log-202004/#Conversation_Club1)
+  * [처음으로 아파트 에어컨 가동한 사연](/palo-alto-log-202004/#First_Cooling)
