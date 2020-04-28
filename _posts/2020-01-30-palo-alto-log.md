@@ -178,6 +178,8 @@ toc_sticky: true
   * [Stanford Bechtel International, 1:1 영어회화 후기7](/palo-alto-log-202003/#EIA_Lesson7)
   * [One-on-One 영어회화 수업 후기13](/palo-alto-log-202004/#One-on-One13)
   * [Menlo Park 도서관 Conversation Club 후기1](/palo-alto-log-202004/#Conversation_Club1)
+  * [Nike Training Club으로 운동한 사연](/palo-alto-log-202004/#NTC_Plan)
+  * [One-on-One 영어회화 수업 후기14](/palo-alto-log-202004/#One-on-One14)
 * 여행/장소
   * [커뮤니티 번개 후기1](/palo-alto-log-202002/#Community_Event1)
   * [Half Moon Bay, Pigeon Point, Shark Fin Cove 등 관광 후기](/palo-alto-log-202002/#Half_Moon_Bay)
@@ -218,6 +220,7 @@ toc_sticky: true
   * [생일날 혼자 미역국 끓여먹은 사연](/palo-alto-log-202003/#1st_Seaweed_Soup)
   * [점심식사 초대한 후기3](/palo-alto-log-202004/#Lunch_Invitation3)
   * [점심식사 초대받은 후기4](/palo-alto-log-202004/#Lunch_Invitation4)
+  * [알콜이 들어간 사이다 구입 사연](/palo-alto-log-202004/#Apple_Cider)
 
 ---
 
@@ -414,3 +417,6 @@ toc_sticky: true
   * [One-on-One 영어회화 수업 후기13](/palo-alto-log-202004/#One-on-One13)
   * [Menlo Park 도서관 Conversation Club 후기1](/palo-alto-log-202004/#Conversation_Club1)
   * [처음으로 아파트 에어컨 가동한 사연](/palo-alto-log-202004/#First_Cooling)
+  * [Nike Training Club으로 운동한 사연](/palo-alto-log-202004/#NTC_Plan)
+  * [One-on-One 영어회화 수업 후기14](/palo-alto-log-202004/#One-on-One14)
+  * [알콜이 들어간 사이다 구입 사연](/palo-alto-log-202004/#Apple_Cider)
