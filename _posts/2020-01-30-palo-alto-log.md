@@ -422,3 +422,9 @@ toc_sticky: true
   * [알콜이 들어간 사이다 구입 사연](/palo-alto-log-202004/#Apple_Cider)
   * [Stanford Bechtel International, 1:1 영어회화 후기8](/palo-alto-log-202004/#EIA_Lesson8)
   * [Trade Joe's 추천제품 쇼핑 후기](/palo-alto-log-202004/#Trade_Joe_Shopping)
+
+
+
+
+* 2020년 5월
+  *
