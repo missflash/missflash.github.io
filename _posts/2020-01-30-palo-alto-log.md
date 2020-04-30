@@ -180,6 +180,8 @@ toc_sticky: true
   * [Menlo Park 도서관 Conversation Club 후기1](/palo-alto-log-202004/#Conversation_Club1)
   * [Nike Training Club으로 운동한 사연](/palo-alto-log-202004/#NTC_Plan)
   * [One-on-One 영어회화 수업 후기14](/palo-alto-log-202004/#One-on-One14)
+  * [One-on-One 영어회화 수업 후기15](/palo-alto-log-202004/#One-on-One15)
+  * [Menlo Park 도서관 Conversation Club 후기2](/palo-alto-log-202004/#Conversation_Club2)
 * 여행/장소
   * [커뮤니티 번개 후기1](/palo-alto-log-202002/#Community_Event1)
   * [Half Moon Bay, Pigeon Point, Shark Fin Cove 등 관광 후기](/palo-alto-log-202002/#Half_Moon_Bay)
@@ -422,6 +424,8 @@ toc_sticky: true
   * [알콜이 들어간 사이다 구입 사연](/palo-alto-log-202004/#Apple_Cider)
   * [Stanford Bechtel International, 1:1 영어회화 후기8](/palo-alto-log-202004/#EIA_Lesson8)
   * [Trade Joe's 추천제품 쇼핑 후기](/palo-alto-log-202004/#Trade_Joe_Shopping)
+  * [One-on-One 영어회화 수업 후기15](/palo-alto-log-202004/#One-on-One15)
+  * [Menlo Park 도서관 Conversation Club 후기2](/palo-alto-log-202004/#Conversation_Club2)
 
 
 
