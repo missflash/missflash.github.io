@@ -223,6 +223,7 @@ toc_sticky: true
   * [점심식사 초대한 후기3](/palo-alto-log-202004/#Lunch_Invitation3)
   * [점심식사 초대받은 후기4](/palo-alto-log-202004/#Lunch_Invitation4)
   * [알콜이 들어간 사이다 구입 사연](/palo-alto-log-202004/#Apple_Cider)
+  * [점심식사 초대받은 후기5](/palo-alto-log-202004/#Lunch_Invitation5)
 
 ---
 
@@ -427,8 +428,5 @@ toc_sticky: true
   * [One-on-One 영어회화 수업 후기15](/palo-alto-log-202004/#One-on-One15)
   * [Menlo Park 도서관 Conversation Club 후기2](/palo-alto-log-202004/#Conversation_Club2)
 
-
-
-
 * 2020년 5월
-  *
+  * [점심식사 초대받은 후기5](/palo-alto-log-202004/#Lunch_Invitation5)
