@@ -18,6 +18,7 @@ toc_sticky: true
 ---
 
 # 월별 분류
+* [Palo Alto Log (2020.05)](https://missflash.github.io/palo-alto-log-202005/)
 * [Palo Alto Log (2020.04)](https://missflash.github.io/palo-alto-log-202004/)
 * [Palo Alto Log (2020.03)](https://missflash.github.io/palo-alto-log-202003/)
 * [Palo Alto Log (2020.02)](https://missflash.github.io/palo-alto-log-202002/)
@@ -67,8 +68,8 @@ toc_sticky: true
   * [Stanford 빈 주차장을 지나친 사연](/palo-alto-log-202003/#SH_Permit1)
   * [Stanford에서 안전하게 산책하는 방법](/palo-alto-log-202003/#Walk_Safely)
   * [Stanford SH Parking Permit의 정체는?](/palo-alto-log-202003/#SH_Permit2)
-  * [Stanford 캠퍼스 Running 코스 소개](/palo-alto-log-202003/#Stanford_Trail)
-  * [Stanford Dish 문닫은 사연](/palo-alto-log-202003/#Last_Dish)
+  * [Stanford 캠퍼스 Running 코스 소개](/palo-alto-log-202004/#Stanford_Trail)
+  * [Stanford Dish 문닫은 사연](/palo-alto-log-202004/#Last_Dish)
   * [KAIST 산학과제 미팅 후기](/palo-alto-log-202004/#KAIST_Conference1)
   * [Stanford 수업 청강 방법](/palo-alto-log-202004/#Audit_Request)
 * 생활
@@ -105,8 +106,8 @@ toc_sticky: true
   * [생일날 미국 친구와 영상통화 한 사연](/palo-alto-log-202003/#OO_Skype)
   * [자전거 펌프 빌려서 바람넣은 사연](/palo-alto-log-202003/#Bicycle_Pump)
   * [미국 이사 파손물품 보험 청구한 사연](/palo-alto-log-202003/#Moving_Insurance)
-  * [미국과 한국의 만우절 차이](/palo-alto-log-202003/#April_Fool)
-  * [회사에서 구호물품 4박스 지급받은 사연](/palo-alto-log-202003/#Love_Boxes)
+  * [미국과 한국의 만우절 차이](/palo-alto-log-202004/#April_Fool)
+  * [회사에서 구호물품 4박스 지급받은 사연](/palo-alto-log-202004/#Love_Boxes)
   * [캘리포니아 환경부담금 CRV 환급 방법](/palo-alto-log-202004/#CRV)
   * [FasTrak 가입 후기](/palo-alto-log-202004/#FasTrak_Join)
   * [Orthomol Immune 비타민 섭취한 사연](/palo-alto-log-202004/#Orthomol_Immune)
@@ -139,7 +140,7 @@ toc_sticky: true
   * [사회적 거리를 지켜주는 무료 게임 근황](/palo-alto-log-202003/#Free_Games)
   * [미국 신용카드를 Apple Pay에 추가하는 방법](/palo-alto-log-202003/#Apple_Pay)
   * [애플 직원 통해 15% 할인받은 사연](/palo-alto-log-202003/#Apple_Discount)
-  * [Costco에서 저렴하게 주유하는 방법](/palo-alto-log-202003/#Costco_Membership)
+  * [Costco에서 저렴하게 주유하는 방법](/palo-alto-log-202004/#Costco_Membership)
   * [Dyson 배터리 불량으로 교환신청한 사연](/palo-alto-log-202004/#Dyson_Return)
   * [Dyson 신규 제품 교환받은 사연](/palo-alto-log-202004/#Receive_New_Dyson)
   * [Vehicle Health Monitor 설치 후기](/palo-alto-log-202004/#Vehicle_Health_Monitor)
@@ -160,14 +161,14 @@ toc_sticky: true
   * [One-on-One 영어회화 수업 후기2](/palo-alto-log-202003/#One-on-One2)
   * [Stanford Bechtel International, 1:1 영어회화 후기2](/palo-alto-log-202003/#EIA_Lesson2)
   * [One-on-One 영어회화 수업 후기3](/palo-alto-log-202003/#One-on-One3)
-  * [골프 레슨 후기4](/palo-alto-log-202002/#Golf_Lesson4)
+  * [골프 레슨 후기4](/palo-alto-log-202003/#Golf_Lesson4)
   * [온라인 무료 영어 수업시작한 노하우](/palo-alto-log-202003/#Free_Class)
   * [One-on-One 영어회화 수업 후기4](/palo-alto-log-202003/#One-on-One4)
   * [Stanford Bechtel International, 1:1 영어회화 후기3](/palo-alto-log-202003/#EIA_Lesson3)
   * [One-on-One 영어회화 수업 후기5](/palo-alto-log-202003/#One-on-One5)
   * [One-on-One 영어회화 수업 후기6](/palo-alto-log-202003/#One-on-One6)
   * [Stanford Bechtel International, 1:1 영어회화 후기4](/palo-alto-log-202003/#EIA_Lesson4)
-  * [One-on-One 영어회화 수업 후기7](/palo-alto-log-202003/#One-on-One7)
+  * [One-on-One 영어회화 수업 후기7](/palo-alto-log-202004/#One-on-One7)
   * [One-on-One 영어회화 수업 후기8](/palo-alto-log-202004/#One-on-One8)
   * [Stanford Bechtel International, 1:1 영어회화 후기5](/palo-alto-log-202003/#EIA_Lesson5)
   * [One-on-One 영어회화 수업 후기9](/palo-alto-log-202004/#One-on-One9)
@@ -223,7 +224,7 @@ toc_sticky: true
   * [점심식사 초대한 후기3](/palo-alto-log-202004/#Lunch_Invitation3)
   * [점심식사 초대받은 후기4](/palo-alto-log-202004/#Lunch_Invitation4)
   * [알콜이 들어간 사이다 구입 사연](/palo-alto-log-202004/#Apple_Cider)
-  * [점심식사 초대받은 후기5](/palo-alto-log-202004/#Lunch_Invitation5)
+  * [점심식사 초대받은 후기5](/palo-alto-log-202005/#Lunch_Invitation5)
 
 ---
 
@@ -341,7 +342,7 @@ toc_sticky: true
   * [슈퍼왕초보요리사의 첫 번째 스테이크 요리 후기](/palo-alto-log-202003/#1st_Steak)
   * [철새의 천국, Shoreline Lake Park 방문 후기](/palo-alto-log-202003/#Shoreline_Lake_Park)
   * [Los Altos Walmart 사재기 돌입한 사연](/palo-alto-log-202003/#Bulk_Buying1)
-  * [골프 레슨 후기4](/palo-alto-log-202002/#Golf_Lesson4)
+  * [골프 레슨 후기4](/palo-alto-log-202003/#Golf_Lesson4)
   * [Costco에서 이전 구매 상품에 대해 할인가격 보상받는 방법](/palo-alto-log-202003/#Price_Adjustment)
   * [Luxer 택배보관함 사용 방법](/palo-alto-log-202003/#Luxer)
   * [Shelter-in-place (자가격리) 명령 발급된 사연](/palo-alto-log-202003/#Shelter-in-place)
