@@ -429,4 +429,4 @@ toc_sticky: true
   * [Menlo Park 도서관 Conversation Club 후기2](/palo-alto-log-202004/#Conversation_Club2)
 
 * 2020년 5월
-  * [점심식사 초대받은 후기5](/palo-alto-log-202004/#Lunch_Invitation5)
+  * [점심식사 초대받은 후기5](/palo-alto-log-202005/#Lunch_Invitation5)
