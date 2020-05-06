@@ -77,6 +77,14 @@ author_profile: true
 문장 강조
 {: .notice--info}
 
+* Inline 강조
+
+```
+`Inline 강조` 예시
+```
+
+`Inline 강조` 예시
+
 ---
 
 # github.io
