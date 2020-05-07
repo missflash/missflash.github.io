@@ -434,3 +434,5 @@ toc_sticky: true
   * [Costco/Trader Joe's 추천 음식 모음 3탄!](/palo-alto-log-202005/#Recommended_Foods3)
   * [One-on-One 영어회화 수업 후기16](/palo-alto-log-202004/#One-on-One16)
   * [Stanford Bechtel International, 1:1 영어회화 후기9](/palo-alto-log-202004/#EIA_Lesson9)
+  * [One-on-One 영어회화 수업 후기17](/palo-alto-log-202004/#One-on-One17)
+  * [Menlo Park 도서관 Conversation Club 후기3](/palo-alto-log-202004/#Conversation_Club3)
