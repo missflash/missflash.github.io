@@ -183,6 +183,11 @@ toc_sticky: true
   * [One-on-One 영어회화 수업 후기14](/palo-alto-log-202004/#One-on-One14)
   * [One-on-One 영어회화 수업 후기15](/palo-alto-log-202004/#One-on-One15)
   * [Menlo Park 도서관 Conversation Club 후기2](/palo-alto-log-202004/#Conversation_Club2)
+  * [One-on-One 영어회화 수업 후기16](/palo-alto-log-202005/#One-on-One16)
+  * [Stanford Bechtel International, 1:1 영어회화 후기9](/palo-alto-log-202005/#EIA_Lesson9)
+  * [One-on-One 영어회화 수업 후기17](/palo-alto-log-202005/#One-on-One17)
+  * [Menlo Park 도서관 Conversation Club 후기3](/palo-alto-log-202005/#Conversation_Club3)
+  * [골프 레슨 후기5](/palo-alto-log-202005/#Golf_Lesson5)
 * 여행/장소
   * [커뮤니티 번개 후기1](/palo-alto-log-202002/#Community_Event1)
   * [Half Moon Bay, Pigeon Point, Shark Fin Cove 등 관광 후기](/palo-alto-log-202002/#Half_Moon_Bay)
@@ -206,6 +211,7 @@ toc_sticky: true
   * [Stanford Dish Hiking Trail 방문 후기](/palo-alto-log-202003/#Stanford_Dish1)
   * [Mitchell Park 방문 후기](/palo-alto-log-202004/#Mitchell_Park)
   * [조용하고 평화로운 Shoup Park 방문 후기](/palo-alto-log-202004/#Shoup_Park)
+  * [Mission Peak Trail 무료 주차 후 소떼 만난 후기](/palo-alto-log-202005/#Mission_Peak_Trail)
 * 요리/식당
   * [호텔 무료 서비스를 즐기는 방법](/palo-alto-log-202002/#RI_MIX)
   * [저녁식사 초대받은 후기1](/palo-alto-log-202002/#Dinner_Invitation1)
@@ -225,6 +231,7 @@ toc_sticky: true
   * [점심식사 초대받은 후기4](/palo-alto-log-202004/#Lunch_Invitation4)
   * [알콜이 들어간 사이다 구입 사연](/palo-alto-log-202004/#Apple_Cider)
   * [점심식사 초대받은 후기5](/palo-alto-log-202005/#Lunch_Invitation5)
+  * [Costco/Trader Joe's 추천 음식 모음 3탄!](/palo-alto-log-202005/#Recommended_Foods3)
 
 ---
 
@@ -432,7 +439,9 @@ toc_sticky: true
 * 2020년 5월
   * [점심식사 초대받은 후기5](/palo-alto-log-202005/#Lunch_Invitation5)
   * [Costco/Trader Joe's 추천 음식 모음 3탄!](/palo-alto-log-202005/#Recommended_Foods3)
-  * [One-on-One 영어회화 수업 후기16](/palo-alto-log-202004/#One-on-One16)
-  * [Stanford Bechtel International, 1:1 영어회화 후기9](/palo-alto-log-202004/#EIA_Lesson9)
-  * [One-on-One 영어회화 수업 후기17](/palo-alto-log-202004/#One-on-One17)
-  * [Menlo Park 도서관 Conversation Club 후기3](/palo-alto-log-202004/#Conversation_Club3)
+  * [One-on-One 영어회화 수업 후기16](/palo-alto-log-202005/#One-on-One16)
+  * [Stanford Bechtel International, 1:1 영어회화 후기9](/palo-alto-log-202005/#EIA_Lesson9)
+  * [One-on-One 영어회화 수업 후기17](/palo-alto-log-202005/#One-on-One17)
+  * [Menlo Park 도서관 Conversation Club 후기3](/palo-alto-log-202005/#Conversation_Club3)
+  * [골프 레슨 후기5](/palo-alto-log-202005/#Golf_Lesson5)
+  * [Mission Peak Trail 무료 주차 후 소떼 만난 후기](/palo-alto-log-202005/#Mission_Peak_Trail)
