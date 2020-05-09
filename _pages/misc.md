@@ -46,6 +46,8 @@ classes: wide
 ---
 ```
 
+  * 비공개 전환 필요시 `published : false` 추가
+
 * Page 설정 예시
 
 ```
