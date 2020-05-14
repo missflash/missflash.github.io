@@ -112,6 +112,7 @@ toc_sticky: true
   * [FasTrak 가입 후기](/palo-alto-log-202004/#FasTrak_Join)
   * [Orthomol Immune 비타민 섭취한 사연](/palo-alto-log-202004/#Orthomol_Immune)
   * [처음으로 아파트 에어컨 가동한 사연](/palo-alto-log-202004/#First_Cooling)
+  * [미국에서 한국으로 무료 국제통화 하는 방법](/palo-alto-log-202005/#Free_International_Call)
 * 쇼핑
   * [저렴한 핸드폰 요금제 선택 방법](/palo-alto-log-202001/#Prepaid_Plan)
   * [중고차 구입 방법](/palo-alto-log-202001/#Used_Car)
@@ -190,6 +191,8 @@ toc_sticky: true
   * [골프 레슨 후기5](/palo-alto-log-202005/#Golf_Lesson5)
   * [One-on-One 영어회화 수업 후기18](/palo-alto-log-202005/#One-on-One18)
   * [Stanford Bechtel International, 1:1 영어회화 후기10](/palo-alto-log-202005/#EIA_Lesson10)
+  * [One-on-One 영어회화 수업 후기19](/palo-alto-log-202005/#One-on-One19)
+  * [Menlo Park 도서관 Conversation Club 후기4](/palo-alto-log-202005/#Conversation_Club4)
 * 여행/장소
   * [커뮤니티 번개 후기1](/palo-alto-log-202002/#Community_Event1)
   * [Half Moon Bay, Pigeon Point, Shark Fin Cove 등 관광 후기](/palo-alto-log-202002/#Half_Moon_Bay)
@@ -449,3 +452,6 @@ toc_sticky: true
   * [Mission Peak Trail 무료 주차 후 소떼 만난 후기](/palo-alto-log-202005/#Mission_Peak_Trail)
   * [One-on-One 영어회화 수업 후기18](/palo-alto-log-202005/#One-on-One18)
   * [Stanford Bechtel International, 1:1 영어회화 후기10](/palo-alto-log-202005/#EIA_Lesson10)
+  * [One-on-One 영어회화 수업 후기19](/palo-alto-log-202005/#One-on-One19)
+  * [미국에서 한국으로 무료 국제통화 하는 방법](/palo-alto-log-202005/#Free_International_Call)
+  * [Menlo Park 도서관 Conversation Club 후기4](/palo-alto-log-202005/#Conversation_Club4)
