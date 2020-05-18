@@ -238,6 +238,7 @@ toc_sticky: true
   * [알콜이 들어간 사이다 구입 사연](/palo-alto-log-202004/#Apple_Cider)
   * [점심식사 초대받은 후기5](/palo-alto-log-202005/#Lunch_Invitation5)
   * [Costco/Trader Joe's 추천 음식 모음 3탄!](/palo-alto-log-202005/#Recommended_Foods3)
+  * [점심식사 초대받은 후기6](/palo-alto-log-202005/#Lunch_Invitation6)
 
 ---
 
@@ -457,3 +458,4 @@ toc_sticky: true
   * [미국에서 한국으로 무료 국제통화 하는 방법](/palo-alto-log-202005/#Free_International_Call)
   * [Menlo Park 도서관 Conversation Club 후기4](/palo-alto-log-202005/#Conversation_Club4)
   * [골프 레슨 후기6](/palo-alto-log-202005/#Golf_Lesson6)
+  * [점심식사 초대받은 후기6](/palo-alto-log-202005/#Lunch_Invitation6)
