@@ -195,6 +195,9 @@ toc_sticky: true
   * [One-on-One 영어회화 수업 후기19](/palo-alto-log-202005/#One-on-One19)
   * [Menlo Park 도서관 Conversation Club 후기4](/palo-alto-log-202005/#Conversation_Club4)
   * [골프 레슨 후기6](/palo-alto-log-202005/#Golf_Lesson6)
+  * [아이들과 재미있는 영어공부 시작한 후기](/palo-alto-log-202005/#KhanAcademy)
+  * [One-on-One 영어회화 수업 후기20](/palo-alto-log-202005/#One-on-One20)
+  * [Menlo Park 도서관 Conversation Club 후기5](/palo-alto-log-202005/#Conversation_Club5)
 * 여행/장소
   * [커뮤니티 번개 후기1](/palo-alto-log-202002/#Community_Event1)
   * [Half Moon Bay, Pigeon Point, Shark Fin Cove 등 관광 후기](/palo-alto-log-202002/#Half_Moon_Bay)
@@ -461,3 +464,6 @@ toc_sticky: true
   * [골프 레슨 후기6](/palo-alto-log-202005/#Golf_Lesson6)
   * [점심식사 초대받은 후기6](/palo-alto-log-202005/#Lunch_Invitation6)
   * [San Francisco 국제공항에서 가족들 픽업한 후기](/palo-alto-log-202005/#SFO_Pickup)
+  * [아이들과 재미있는 영어공부 시작한 후기](/palo-alto-log-202005/#KhanAcademy)
+  * [One-on-One 영어회화 수업 후기20](/palo-alto-log-202005/#One-on-One20)
+  * [Menlo Park 도서관 Conversation Club 후기5](/palo-alto-log-202005/#Conversation_Club5)
