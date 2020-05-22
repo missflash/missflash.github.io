@@ -467,3 +467,4 @@ toc_sticky: true
   * [아이들과 재미있는 영어공부 시작한 후기](/palo-alto-log-202005/#KhanAcademy)
   * [One-on-One 영어회화 수업 후기20](/palo-alto-log-202005/#One-on-One20)
   * [Menlo Park 도서관 Conversation Club 후기5](/palo-alto-log-202005/#Conversation_Club5)
+  * [아이들과 처음으로 공원 다녀온 후기](/palo-alto-log-202005/#1st_Picnic)
