@@ -468,3 +468,5 @@ toc_sticky: true
   * [One-on-One 영어회화 수업 후기20](/palo-alto-log-202005/#One-on-One20)
   * [Menlo Park 도서관 Conversation Club 후기5](/palo-alto-log-202005/#Conversation_Club5)
   * [아이들과 처음으로 공원 다녀온 후기](/palo-alto-log-202005/#1st_Picnic)
+  * [아이들과 체리농장 체험한 후기](/palo-alto-log-202005/#Cherry_Picking)
+  * [저녁식사 초대한 후기3](/palo-alto-log-202002/#Dinner_Invitation3)
