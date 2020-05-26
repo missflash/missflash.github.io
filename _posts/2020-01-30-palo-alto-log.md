@@ -199,6 +199,7 @@ toc_sticky: true
   * [One-on-One 영어회화 수업 후기20](/palo-alto-log-202005/#One-on-One20)
   * [Menlo Park 도서관 Conversation Club 후기5](/palo-alto-log-202005/#Conversation_Club5)
   * [One-on-One 영어회화 수업 후기20](/palo-alto-log-202005/#One-on-One21)
+  * [Stanford Bechtel International, 1:1 영어회화 후기11](/palo-alto-log-202005/#EIA_Lesson11)
 * 여행/장소
   * [커뮤니티 번개 후기1](/palo-alto-log-202002/#Community_Event1)
   * [Half Moon Bay, Pigeon Point, Shark Fin Cove 등 관광 후기](/palo-alto-log-202002/#Half_Moon_Bay)
@@ -477,3 +478,4 @@ toc_sticky: true
   * [저녁식사 초대한 후기3](/palo-alto-log-202002/#Dinner_Invitation3)
   * [One-on-One 영어회화 수업 후기20](/palo-alto-log-202005/#One-on-One21)
   * [점심식사 초대받은 후기7](/palo-alto-log-202005/#Lunch_Invitation7)
+  * [Stanford Bechtel International, 1:1 영어회화 후기11](/palo-alto-log-202005/#EIA_Lesson11)
