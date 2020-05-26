@@ -198,6 +198,7 @@ toc_sticky: true
   * [아이들과 재미있는 영어공부 시작한 후기](/palo-alto-log-202005/#KhanAcademy)
   * [One-on-One 영어회화 수업 후기20](/palo-alto-log-202005/#One-on-One20)
   * [Menlo Park 도서관 Conversation Club 후기5](/palo-alto-log-202005/#Conversation_Club5)
+  * [One-on-One 영어회화 수업 후기20](/palo-alto-log-202005/#One-on-One21)
 * 여행/장소
   * [커뮤니티 번개 후기1](/palo-alto-log-202002/#Community_Event1)
   * [Half Moon Bay, Pigeon Point, Shark Fin Cove 등 관광 후기](/palo-alto-log-202002/#Half_Moon_Bay)
@@ -222,6 +223,8 @@ toc_sticky: true
   * [Mitchell Park 방문 후기](/palo-alto-log-202004/#Mitchell_Park)
   * [조용하고 평화로운 Shoup Park 방문 후기](/palo-alto-log-202004/#Shoup_Park)
   * [Mission Peak Trail 무료 주차 후 소떼 만난 후기](/palo-alto-log-202005/#Mission_Peak_Trail)
+  * [아이들과 처음으로 공원 다녀온 후기](/palo-alto-log-202005/#1st_Picnic)
+  * [아이들과 체리농장 체험한 후기](/palo-alto-log-202005/#Cherry_Picking)
 * 요리/식당
   * [호텔 무료 서비스를 즐기는 방법](/palo-alto-log-202002/#RI_MIX)
   * [저녁식사 초대받은 후기1](/palo-alto-log-202002/#Dinner_Invitation1)
@@ -243,6 +246,8 @@ toc_sticky: true
   * [점심식사 초대받은 후기5](/palo-alto-log-202005/#Lunch_Invitation5)
   * [Costco/Trader Joe's 추천 음식 모음 3탄!](/palo-alto-log-202005/#Recommended_Foods3)
   * [점심식사 초대받은 후기6](/palo-alto-log-202005/#Lunch_Invitation6)
+  * [저녁식사 초대한 후기3](/palo-alto-log-202002/#Dinner_Invitation3)
+  * [점심식사 초대받은 후기7](/palo-alto-log-202005/#Lunch_Invitation7)
 
 ---
 
@@ -470,3 +475,5 @@ toc_sticky: true
   * [아이들과 처음으로 공원 다녀온 후기](/palo-alto-log-202005/#1st_Picnic)
   * [아이들과 체리농장 체험한 후기](/palo-alto-log-202005/#Cherry_Picking)
   * [저녁식사 초대한 후기3](/palo-alto-log-202002/#Dinner_Invitation3)
+  * [One-on-One 영어회화 수업 후기20](/palo-alto-log-202005/#One-on-One21)
+  * [점심식사 초대받은 후기7](/palo-alto-log-202005/#Lunch_Invitation7)
