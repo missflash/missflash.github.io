@@ -72,6 +72,7 @@ toc_sticky: true
   * [Stanford Dish 문닫은 사연](/palo-alto-log-202004/#Last_Dish)
   * [KAIST 산학과제 미팅 후기](/palo-alto-log-202004/#KAIST_Conference1)
   * [Stanford 수업 청강 방법](/palo-alto-log-202004/#Audit_Request)
+  * [자녀 온라인 영어교육 사이트 소개](/palo-alto-log-202005/#Wyzant)
 * 생활
   * [렌트카 조기 반납 방법](/palo-alto-log-202002/#Rentcar_Return)
   * [각종 서비스 이용시 최적의 문의 방법](/palo-alto-log-202002/#Customer_Contact)
@@ -487,3 +488,4 @@ toc_sticky: true
   * [아이들과 처음으로 레크레이션 게임한 후기](/palo-alto-log-202005/#1st_Recreation)
   * [One-on-One 영어회화 수업 후기22](/palo-alto-log-202005/#One-on-One22)
   * [Menlo Park 도서관 Conversation Club 후기6](/palo-alto-log-202005/#Conversation_Club6)
+  * [자녀 온라인 영어교육 사이트 소개](/palo-alto-log-202005/#Wyzant)
