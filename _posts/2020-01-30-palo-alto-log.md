@@ -205,6 +205,7 @@ toc_sticky: true
   * [Stanford Bechtel International, 1:1 영어회화 후기12](/palo-alto-log-202005/#EIA_Lesson12)
   * [One-on-One 영어회화 수업 후기22](/palo-alto-log-202005/#One-on-One22)
   * [Menlo Park 도서관 Conversation Club 후기6](/palo-alto-log-202005/#Conversation_Club6)
+  * [Stanford Golf Learning Center 이용 후기](/palo-alto-log-202005/#Stanford_Golf_Learning_Center)
 * 여행/장소
   * [커뮤니티 번개 후기1](/palo-alto-log-202002/#Community_Event1)
   * [Half Moon Bay, Pigeon Point, Shark Fin Cove 등 관광 후기](/palo-alto-log-202002/#Half_Moon_Bay)
@@ -231,6 +232,7 @@ toc_sticky: true
   * [Mission Peak Trail 무료 주차 후 소떼 만난 후기](/palo-alto-log-202005/#Mission_Peak_Trail)
   * [아이들과 처음으로 공원 다녀온 후기](/palo-alto-log-202005/#1st_Picnic)
   * [아이들과 체리농장 체험한 후기](/palo-alto-log-202005/#Cherry_Picking)
+  * [Shoreline Lake Park 나들이 후기](/palo-alto-log-202005/#Shoreline_Lake_Park)
 * 요리/식당
   * [호텔 무료 서비스를 즐기는 방법](/palo-alto-log-202002/#RI_MIX)
   * [저녁식사 초대받은 후기1](/palo-alto-log-202002/#Dinner_Invitation1)
@@ -252,8 +254,9 @@ toc_sticky: true
   * [점심식사 초대받은 후기5](/palo-alto-log-202005/#Lunch_Invitation5)
   * [Costco/Trader Joe's 추천 음식 모음 3탄!](/palo-alto-log-202005/#Recommended_Foods3)
   * [점심식사 초대받은 후기6](/palo-alto-log-202005/#Lunch_Invitation6)
-  * [저녁식사 초대한 후기3](/palo-alto-log-202002/#Dinner_Invitation3)
+  * [저녁식사 초대한 후기3](/palo-alto-log-202005/#Dinner_Invitation3)
   * [점심식사 초대받은 후기7](/palo-alto-log-202005/#Lunch_Invitation7)
+  * [점심식사 초대받은 후기8](/palo-alto-log-202005/#Lunch_Invitation8)
 
 ---
 
@@ -481,7 +484,7 @@ toc_sticky: true
   * [Menlo Park 도서관 Conversation Club 후기5](/palo-alto-log-202005/#Conversation_Club5)
   * [아이들과 처음으로 공원 다녀온 후기](/palo-alto-log-202005/#1st_Picnic)
   * [아이들과 체리농장 체험한 후기](/palo-alto-log-202005/#Cherry_Picking)
-  * [저녁식사 초대한 후기3](/palo-alto-log-202002/#Dinner_Invitation3)
+  * [저녁식사 초대한 후기3](/palo-alto-log-202005/#Dinner_Invitation3)
   * [One-on-One 영어회화 수업 후기20](/palo-alto-log-202005/#One-on-One21)
   * [점심식사 초대받은 후기7](/palo-alto-log-202005/#Lunch_Invitation7)
   * [Stanford Bechtel International, 1:1 영어회화 후기12](/palo-alto-log-202005/#EIA_Lesson12)
@@ -489,3 +492,6 @@ toc_sticky: true
   * [One-on-One 영어회화 수업 후기22](/palo-alto-log-202005/#One-on-One22)
   * [Menlo Park 도서관 Conversation Club 후기6](/palo-alto-log-202005/#Conversation_Club6)
   * [자녀 온라인 영어교육 사이트 소개](/palo-alto-log-202005/#Wyzant)
+  * [Stanford Golf Learning Center 이용 후기](/palo-alto-log-202005/#Stanford_Golf_Learning_Center)
+  * [Shoreline Lake Park 나들이 후기](/palo-alto-log-202005/#Shoreline_Lake_Park)
+  * [점심식사 초대받은 후기8](/palo-alto-log-202005/#Lunch_Invitation8)
