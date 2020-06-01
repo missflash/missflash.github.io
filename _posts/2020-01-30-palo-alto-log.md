@@ -49,6 +49,7 @@ toc_sticky: true
   * [BOA 무료 체크 100장 득템 방법!](/palo-alto-log-202003/#Free_Check)
   * [미국 계좌를 PayPal에 추가하는 방법](/palo-alto-log-202003/#PayPal)
   * [미국 타은행간 무료 계좌 이체 방법](/palo-alto-log-202003/#Zelle)
+  * [미국 주별 운전면허 발급규정 차이](/palo-alto-log-202005/#Driver_License)
 * Stanford/자녀
   * [Stanford ID Card 발급 방법](/palo-alto-log-202001/#Stanford_ID)
   * [Stanford 주차권 발급 방법](/palo-alto-log-202002/#Parking_Permit)
@@ -116,6 +117,7 @@ toc_sticky: true
   * [미국에서 한국으로 무료 국제통화 하는 방법](/palo-alto-log-202005/#Free_International_Call)
   * [San Francisco 국제공항에서 가족들 픽업한 후기](/palo-alto-log-202005/#SFO_Pickup)
   * [아이들과 처음으로 레크레이션 게임한 후기](/palo-alto-log-202005/#1st_Recreation)
+  * [샤워하다 안전사고 발생한 사연](/palo-alto-log-202005/#Safety_Accidents)
 * 쇼핑
   * [저렴한 핸드폰 요금제 선택 방법](/palo-alto-log-202001/#Prepaid_Plan)
   * [중고차 구입 방법](/palo-alto-log-202001/#Used_Car)
@@ -233,6 +235,7 @@ toc_sticky: true
   * [아이들과 처음으로 공원 다녀온 후기](/palo-alto-log-202005/#1st_Picnic)
   * [아이들과 체리농장 체험한 후기](/palo-alto-log-202005/#Cherry_Picking)
   * [Shoreline Lake Park 나들이 후기](/palo-alto-log-202005/#Shoreline_Lake_Park)
+  * [Stanford Oval 나들이 후기](/palo-alto-log-202005/#Stanford_Oval)
 * 요리/식당
   * [호텔 무료 서비스를 즐기는 방법](/palo-alto-log-202002/#RI_MIX)
   * [저녁식사 초대받은 후기1](/palo-alto-log-202002/#Dinner_Invitation1)
@@ -495,3 +498,9 @@ toc_sticky: true
   * [Stanford Golf Learning Center 이용 후기](/palo-alto-log-202005/#Stanford_Golf_Learning_Center)
   * [Shoreline Lake Park 나들이 후기](/palo-alto-log-202005/#Shoreline_Lake_Park)
   * [점심식사 초대받은 후기8](/palo-alto-log-202005/#Lunch_Invitation8)
+  * [Stanford Oval 나들이 후기](/palo-alto-log-202005/#Stanford_Oval)
+  * [미국 주별 운전면허 발급규정 차이](/palo-alto-log-202005/#Driver_License)
+  * [샤워하다 안전사고 발생한 사연](/palo-alto-log-202005/#Safety_Accidents)
+
+* 2020년 6월
+  *
