@@ -210,6 +210,7 @@ toc_sticky: true
   * [Stanford Golf Learning Center 이용 후기](/palo-alto-log-202005/#Stanford_Golf_Learning_Center)
   * [One-on-One 영어회화 수업 후기23](/palo-alto-log-202006/#One-on-One23)
   * [아이들 Wyzant 수업 후기0](/palo-alto-log-202006/#Wyzant0)
+  * [Stanford Bechtel International, 1:1 영어회화 후기13](/palo-alto-log-202006/#EIA_Lesson13)
 * 여행/장소
   * [커뮤니티 번개 후기1](/palo-alto-log-202002/#Community_Event1)
   * [Half Moon Bay, Pigeon Point, Shark Fin Cove 등 관광 후기](/palo-alto-log-202002/#Half_Moon_Bay)
@@ -509,3 +510,4 @@ toc_sticky: true
   * [One-on-One 영어회화 수업 후기23](/palo-alto-log-202006/#One-on-One23)
   * [아이들 Wyzant 수업 후기0](/palo-alto-log-202006/#Wyzant0)
   * [Stanford내 Arizona Garden 방문 후기](/palo-alto-log-202006/#Arizona_Garden)
+  * [Stanford Bechtel International, 1:1 영어회화 후기13](/palo-alto-log-202006/#EIA_Lesson13)
