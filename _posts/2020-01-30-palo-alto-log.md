@@ -240,6 +240,7 @@ toc_sticky: true
   * [Shoreline Lake Park 나들이 후기](/palo-alto-log-202005/#Shoreline_Lake_Park)
   * [Stanford Oval 나들이 후기](/palo-alto-log-202005/#Stanford_Oval)
   * [Stanford내 Arizona Garden 방문 후기](/palo-alto-log-202006/#Arizona_Garden)
+  * [연수동기들과 Shoreline Lake Park 나들이 후기](/palo-alto-log-202006/#Shoreline_Lake_Park)
 * 요리/식당
   * [호텔 무료 서비스를 즐기는 방법](/palo-alto-log-202002/#RI_MIX)
   * [저녁식사 초대받은 후기1](/palo-alto-log-202002/#Dinner_Invitation1)
@@ -511,3 +512,4 @@ toc_sticky: true
   * [아이들 Wyzant 수업 후기0](/palo-alto-log-202006/#Wyzant0)
   * [Stanford내 Arizona Garden 방문 후기](/palo-alto-log-202006/#Arizona_Garden)
   * [Stanford Bechtel International, 1:1 영어회화 후기13](/palo-alto-log-202006/#EIA_Lesson13)
+  * [연수동기들과 Shoreline Lake Park 나들이 후기](/palo-alto-log-202006/#Shoreline_Lake_Park)
