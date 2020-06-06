@@ -118,6 +118,7 @@ toc_sticky: true
   * [San Francisco 국제공항에서 가족들 픽업한 후기](/palo-alto-log-202005/#SFO_Pickup)
   * [아이들과 처음으로 레크레이션 게임한 후기](/palo-alto-log-202005/#1st_Recreation)
   * [샤워하다 안전사고 발생한 사연](/palo-alto-log-202005/#Safety_Accidents)
+  * [몇 달만에 웨이트 트레이닝 한 후기](/palo-alto-log-202006/#Gym_Again)
 * 쇼핑
   * [저렴한 핸드폰 요금제 선택 방법](/palo-alto-log-202001/#Prepaid_Plan)
   * [중고차 구입 방법](/palo-alto-log-202001/#Used_Car)
@@ -212,8 +213,9 @@ toc_sticky: true
   * [아이들 Wyzant 수업 후기0](/palo-alto-log-202006/#Wyzant0)
   * [Stanford Bechtel International, 1:1 영어회화 후기13](/palo-alto-log-202006/#EIA_Lesson13)
   * [One-on-One 영어회화 수업 후기24](/palo-alto-log-202006/#One-on-One24)
-  * [Menlo Park 도서관 Conversation Club 후기7](/palo-alto-log-202005/#Conversation_Club7)
+  * [Menlo Park 도서관 Conversation Club 후기7](/palo-alto-log-202006/#Conversation_Club7)
   * [재미있는 수학게임 시작한 사연](/palo-alto-log-202006/#Prodigy)
+  * [아이들 Wyzant 수업 후기1](/palo-alto-log-202006/#Wyzant1)  
 * 여행/장소
   * [커뮤니티 번개 후기1](/palo-alto-log-202002/#Community_Event1)
   * [Half Moon Bay, Pigeon Point, Shark Fin Cove 등 관광 후기](/palo-alto-log-202002/#Half_Moon_Bay)
@@ -244,6 +246,8 @@ toc_sticky: true
   * [Stanford Oval 나들이 후기](/palo-alto-log-202005/#Stanford_Oval)
   * [Stanford내 Arizona Garden 방문 후기](/palo-alto-log-202006/#Arizona_Garden)
   * [연수동기들과 Shoreline Lake Park 나들이 후기](/palo-alto-log-202006/#Shoreline_Lake_Park)
+  * [2번째 장거리 운전 후기](/palo-alto-log-202006/#2nd_Long_Drive1)
+  * [오픈 2주된 호텔 숙박 후기](/palo-alto-log-202006/#New_Hotel)
 * 요리/식당
   * [호텔 무료 서비스를 즐기는 방법](/palo-alto-log-202002/#RI_MIX)
   * [저녁식사 초대받은 후기1](/palo-alto-log-202002/#Dinner_Invitation1)
@@ -268,6 +272,8 @@ toc_sticky: true
   * [저녁식사 초대한 후기3](/palo-alto-log-202005/#Dinner_Invitation3)
   * [점심식사 초대받은 후기7](/palo-alto-log-202005/#Lunch_Invitation7)
   * [점심식사 초대받은 후기8](/palo-alto-log-202005/#Lunch_Invitation8)
+  * [점심식사 초대한 후기9](/palo-alto-log-202006/#Lunch_Invitation9)
+  * [가족들 모두 만족한 IN-N-OUT 버거 테이크아웃 후기](/palo-alto-log-202006/#Family_Burger)
 
 ---
 
@@ -517,7 +523,11 @@ toc_sticky: true
   * [Stanford Bechtel International, 1:1 영어회화 후기13](/palo-alto-log-202006/#EIA_Lesson13)
   * [연수동기들과 Shoreline Lake Park 나들이 후기](/palo-alto-log-202006/#Shoreline_Lake_Park)
   * [One-on-One 영어회화 수업 후기24](/palo-alto-log-202006/#One-on-One24)
-  * [Menlo Park 도서관 Conversation Club 후기7](/palo-alto-log-202005/#Conversation_Club7)
+  * [Menlo Park 도서관 Conversation Club 후기7](/palo-alto-log-202006/#Conversation_Club7)
   * [재미있는 수학게임 시작한 사연](/palo-alto-log-202006/#Prodigy)
   * [아이들 Wyzant 수업 후기1](/palo-alto-log-202006/#Wyzant1)  
-  * [점심식사 초대한 후기9](/palo-alto-log-202005/#Lunch_Invitation9)
+  * [점심식사 초대한 후기9](/palo-alto-log-202006/#Lunch_Invitation9)
+  * [2번째 장거리 운전 후기](/palo-alto-log-202006/#2nd_Long_Drive1)
+  * [가족들 모두 만족한 IN-N-OUT 버거 테이크아웃 후기](/palo-alto-log-202006/#Family_Burger)
+  * [오픈 2주된 호텔 숙박 후기](/palo-alto-log-202006/#New_Hotel)
+  * [몇 달만에 웨이트 트레이닝 한 후기](/palo-alto-log-202006/#Gym_Again)
