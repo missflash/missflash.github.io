@@ -18,6 +18,7 @@ toc_sticky: true
 ---
 
 # 월별 분류
+* [Palo Alto Log (2020.06)](https://missflash.github.io/palo-alto-log-202006/)
 * [Palo Alto Log (2020.05)](https://missflash.github.io/palo-alto-log-202005/)
 * [Palo Alto Log (2020.04)](https://missflash.github.io/palo-alto-log-202004/)
 * [Palo Alto Log (2020.03)](https://missflash.github.io/palo-alto-log-202003/)
@@ -188,6 +189,7 @@ toc_sticky: true
   * [Menlo Park 도서관 Conversation Club 후기1](/palo-alto-log-202004/#Conversation_Club1)
   * [Nike Training Club으로 운동한 사연](/palo-alto-log-202004/#NTC_Plan)
   * [One-on-One 영어회화 수업 후기14](/palo-alto-log-202004/#One-on-One14)
+  * [Stanford Bechtel International, 1:1 영어회화 후기8](/palo-alto-log-202004/#EIA_Lesson8)
   * [One-on-One 영어회화 수업 후기15](/palo-alto-log-202004/#One-on-One15)
   * [Menlo Park 도서관 Conversation Club 후기2](/palo-alto-log-202004/#Conversation_Club2)
   * [One-on-One 영어회화 수업 후기16](/palo-alto-log-202005/#One-on-One16)
@@ -266,6 +268,7 @@ toc_sticky: true
   * [점심식사 초대한 후기3](/palo-alto-log-202004/#Lunch_Invitation3)
   * [점심식사 초대받은 후기4](/palo-alto-log-202004/#Lunch_Invitation4)
   * [알콜이 들어간 사이다 구입 사연](/palo-alto-log-202004/#Apple_Cider)
+  * [Trader Joe's 추천제품 쇼핑 후기](/palo-alto-log-202004/#Trade_Joe_Shopping)
   * [점심식사 초대받은 후기5](/palo-alto-log-202005/#Lunch_Invitation5)
   * [Costco/Trader Joe's 추천 음식 모음 3탄!](/palo-alto-log-202005/#Recommended_Foods3)
   * [점심식사 초대받은 후기6](/palo-alto-log-202005/#Lunch_Invitation6)
