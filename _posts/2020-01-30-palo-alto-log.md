@@ -536,3 +536,6 @@ toc_sticky: true
   * [오픈 2주된 호텔 숙박 후기](/palo-alto-log-202006/#New_Hotel)
   * [몇 달만에 웨이트 트레이닝 한 후기](/palo-alto-log-202006/#Gym_Again)
   * [2번째 장거리 운전 후기2](/palo-alto-log-202006/#2nd_Long_Drive2)
+  * [One-on-One 영어회화 수업 후기25](/palo-alto-log-202006/#One-on-One25)
+  * [아이들 Wyzant 수업 후기1-2](/palo-alto-log-202006/#Wyzant1_2)
+  * [아이들 영어강습 갔다가 중단한 사연](/palo-alto-log-202006/#Aqua_Tots)
