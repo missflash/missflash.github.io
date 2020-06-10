@@ -156,6 +156,7 @@ toc_sticky: true
   * [iPad Pro 4세대 구입 사연](/palo-alto-log-202004/#iPad_Pro)
   * [FedEx 직접 방문해 반품한 후기](/palo-alto-log-202004/#Return_Keyboard)
   * [우편함에서 택배 발견한 사연](/palo-alto-log-202004/#USPS_Delivery)
+  * [Phoenix Premium Outlets 쇼핑 후기](/palo-alto-log-202006/#Phoenix_Premium_Outlets)
 * 운동/교육
   * [골프 클럽 구입 후기](/palo-alto-log-202002/#Golf_Lesson0)
   * [Menlo Park 도서관 1:1 영어회화 신청 후기](/palo-alto-log-202002/#Menlo_Park_Library)
@@ -217,7 +218,11 @@ toc_sticky: true
   * [One-on-One 영어회화 수업 후기24](/palo-alto-log-202006/#One-on-One24)
   * [Menlo Park 도서관 Conversation Club 후기7](/palo-alto-log-202006/#Conversation_Club7)
   * [재미있는 수학게임 시작한 사연](/palo-alto-log-202006/#Prodigy)
-  * [아이들 Wyzant 수업 후기1](/palo-alto-log-202006/#Wyzant1)  
+  * [아이들 Wyzant 수업 후기1](/palo-alto-log-202006/#Wyzant1)
+  * [One-on-One 영어회화 수업 후기25](/palo-alto-log-202006/#One-on-One25)
+  * [아이들 Wyzant 수업 후기1-2](/palo-alto-log-202006/#Wyzant1_2)
+  * [아이들 영어강습 갔다가 중단한 사연](/palo-alto-log-202006/#Aqua_Tots)
+  * [Stanford Bechtel International, 1:1 영어회화 후기14](/palo-alto-log-202006/#EIA_Lesson14)
 * 여행/장소
   * [커뮤니티 번개 후기1](/palo-alto-log-202002/#Community_Event1)
   * [Half Moon Bay, Pigeon Point, Shark Fin Cove 등 관광 후기](/palo-alto-log-202002/#Half_Moon_Bay)
@@ -278,6 +283,7 @@ toc_sticky: true
   * [점심식사 초대받은 후기8](/palo-alto-log-202005/#Lunch_Invitation8)
   * [점심식사 초대한 후기9](/palo-alto-log-202006/#Lunch_Invitation9)
   * [가족들 모두 만족한 IN-N-OUT 버거 테이크아웃 후기](/palo-alto-log-202006/#Family_Burger)
+  * [교회목사님댁에 초대받아서 점심식사한 후기](/palo-alto-log-202006/#Pastor_Lunch)
 
 ---
 
@@ -539,3 +545,6 @@ toc_sticky: true
   * [One-on-One 영어회화 수업 후기25](/palo-alto-log-202006/#One-on-One25)
   * [아이들 Wyzant 수업 후기1-2](/palo-alto-log-202006/#Wyzant1_2)
   * [아이들 영어강습 갔다가 중단한 사연](/palo-alto-log-202006/#Aqua_Tots)
+  * [Stanford Bechtel International, 1:1 영어회화 후기14](/palo-alto-log-202006/#EIA_Lesson14)
+  * [교회목사님댁에 초대받아서 점심식사한 후기](/palo-alto-log-202006/#Pastor_Lunch)
+  * [Phoenix Premium Outlets 쇼핑 후기](/palo-alto-log-202006/#Phoenix_Premium_Outlets)
