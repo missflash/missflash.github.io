@@ -158,6 +158,8 @@ toc_sticky: true
   * [iPad Pro 4세대 구입 사연](/palo-alto-log-202004/#iPad_Pro)
   * [FedEx 직접 방문해 반품한 후기](/palo-alto-log-202004/#Return_Keyboard)
   * [우편함에서 택배 발견한 사연](/palo-alto-log-202004/#USPS_Delivery)
+  * [미국의 다이소, Dollar Tree 방문 후기](/palo-alto-log-202006/#Dollar_Tree)
+  * [대규모 중고물품 매장, GoodWill 방문 후기](/palo-alto-log-202006/#GoodWill)
   * [Phoenix Premium Outlets 쇼핑 후기](/palo-alto-log-202006/#Phoenix_Premium_Outlets)
   * [Superstition Ranch Market 방문 후기](/palo-alto-log-202006/#Superstition_Ranch_Market)
 * 운동/교육
@@ -550,6 +552,8 @@ toc_sticky: true
   * [처제집 단지 수영장 이용 후기1](/palo-alto-log-202006/#Swimming_Pool1)  
   * [One-on-One 영어회화 수업 후기25](/palo-alto-log-202006/#One-on-One25)
   * [아이들 Wyzant 수업 후기1-2](/palo-alto-log-202006/#Wyzant1_2)
+  * [미국의 다이소, Dollar Tree 방문 후기](/palo-alto-log-202006/#Dollar_Tree)
+  * [대규모 중고물품 매장, GoodWill 방문 후기](/palo-alto-log-202006/#GoodWill)
   * [아이들 영어강습 갔다가 중단한 사연](/palo-alto-log-202006/#Aqua_Tots)
   * [Stanford Bechtel International, 1:1 영어회화 후기14](/palo-alto-log-202006/#EIA_Lesson14)
   * [교회목사님댁에 초대받아서 점심식사한 후기](/palo-alto-log-202006/#Pastor_Lunch)
@@ -558,3 +562,7 @@ toc_sticky: true
   * [Superstition Ranch Market 방문 후기](/palo-alto-log-202006/#Superstition_Ranch_Market)
   * [처제집 단지 수영장 이용 후기2](/palo-alto-log-202006/#Swimming_Pool2)
   * [Menlo Park 도서관 Conversation Club 후기8](/palo-alto-log-202006/#Conversation_Club8)
+
+  Wyzant2
+  Self_Present
+  360_Thrift
