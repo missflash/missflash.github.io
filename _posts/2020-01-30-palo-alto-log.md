@@ -162,6 +162,8 @@ toc_sticky: true
   * [대규모 중고물품 매장, GoodWill 방문 후기](/palo-alto-log-202006/#GoodWill)
   * [Phoenix Premium Outlets 쇼핑 후기](/palo-alto-log-202006/#Phoenix_Premium_Outlets)
   * [Superstition Ranch Market 방문 후기](/palo-alto-log-202006/#Superstition_Ranch_Market)
+  * [애들 용돈으로 Dollar Tree 쇼핑한 후기](/palo-alto-log-202006/#Self_Present)
+  * [중고용품 가게, 360 Thrift 방문 후기](/palo-alto-log-202006/#360_Thrift)
 * 운동/교육
   * [골프 클럽 구입 후기](/palo-alto-log-202002/#Golf_Lesson0)
   * [Menlo Park 도서관 1:1 영어회화 신청 후기](/palo-alto-log-202002/#Menlo_Park_Library)
@@ -230,6 +232,7 @@ toc_sticky: true
   * [Stanford Bechtel International, 1:1 영어회화 후기14](/palo-alto-log-202006/#EIA_Lesson14)
   * [One-on-One 영어회화 수업 후기26](/palo-alto-log-202006/#One-on-One26)
   * [Menlo Park 도서관 Conversation Club 후기8](/palo-alto-log-202006/#Conversation_Club8)
+  * [아이들 Wyzant 수업 후기2](/palo-alto-log-202006/#Wyzant2)
 * 여행/장소
   * [커뮤니티 번개 후기1](/palo-alto-log-202002/#Community_Event1)
   * [Half Moon Bay, Pigeon Point, Shark Fin Cove 등 관광 후기](/palo-alto-log-202002/#Half_Moon_Bay)
@@ -263,6 +266,11 @@ toc_sticky: true
   * [2번째 장거리 운전 후기1](/palo-alto-log-202006/#2nd_Long_Drive1)
   * [오픈 2주된 호텔 숙박 후기](/palo-alto-log-202006/#New_Hotel)
   * [2번째 장거리 운전 후기2](/palo-alto-log-202006/#2nd_Long_Drive2)
+  * [Sedona 명소, Chapel of the Holy Cross 방문 후기](/palo-alto-log-202006/#Chapel_of_the_Holy_Cross)
+  * [전세계에서 유일한 파란색 맥도날드 방문 후기](/palo-alto-log-202006/#McDonalds)
+  * [Sedona 명소, Sedona Airport Overlook 방문 후기](/palo-alto-log-202006/#Sedona_Airport_Overlook)
+  * [Sedona 명소, Sedona Airport Mesa 방문 후기](/palo-alto-log-202006/#Sedona_Airport_Mesa)
+  * [Sedona 명소, Bell Rock 방문 후기](/palo-alto-log-202006/#Bell_Rock)
 * 요리/식당
   * [호텔 무료 서비스를 즐기는 방법](/palo-alto-log-202002/#RI_MIX)
   * [저녁식사 초대받은 후기1](/palo-alto-log-202002/#Dinner_Invitation1)
@@ -562,7 +570,11 @@ toc_sticky: true
   * [Superstition Ranch Market 방문 후기](/palo-alto-log-202006/#Superstition_Ranch_Market)
   * [처제집 단지 수영장 이용 후기2](/palo-alto-log-202006/#Swimming_Pool2)
   * [Menlo Park 도서관 Conversation Club 후기8](/palo-alto-log-202006/#Conversation_Club8)
-
-  Wyzant2
-  Self_Present
-  360_Thrift
+  * [아이들 Wyzant 수업 후기2](/palo-alto-log-202006/#Wyzant2)
+  * [애들 용돈으로 Dollar Tree 쇼핑한 후기](/palo-alto-log-202006/#Self_Present)
+  * [중고용품 가게, 360 Thrift 방문 후기](/palo-alto-log-202006/#360_Thrift)
+  * [Sedona 명소, Chapel of the Holy Cross 방문 후기](/palo-alto-log-202006/#Chapel_of_the_Holy_Cross)
+  * [전세계에서 유일한 파란색 맥도날드 방문 후기](/palo-alto-log-202006/#McDonalds)
+  * [Sedona 명소, Sedona Airport Overlook 방문 후기](/palo-alto-log-202006/#Sedona_Airport_Overlook)
+  * [Sedona 명소, Sedona Airport Mesa 방문 후기](/palo-alto-log-202006/#Sedona_Airport_Mesa)
+  * [Sedona 명소, Bell Rock 방문 후기](/palo-alto-log-202006/#Bell_Rock)
