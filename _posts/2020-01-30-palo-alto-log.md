@@ -122,6 +122,7 @@ toc_sticky: true
   * [몇 달만에 웨이트 트레이닝 한 후기](/palo-alto-log-202006/#Gym_Again)
   * [처제집 단지 수영장 이용 후기1](/palo-alto-log-202006/#Swimming_Pool1)
   * [처제집 단지 수영장 이용 후기2](/palo-alto-log-202006/#Swimming_Pool2)
+  * [마지막 수영장 이용 후기](/palo-alto-log-202006/#Last_Swimmingpool)
 * 쇼핑
   * [저렴한 핸드폰 요금제 선택 방법](/palo-alto-log-202001/#Prepaid_Plan)
   * [중고차 구입 방법](/palo-alto-log-202001/#Used_Car)
@@ -164,6 +165,7 @@ toc_sticky: true
   * [Superstition Ranch Market 방문 후기](/palo-alto-log-202006/#Superstition_Ranch_Market)
   * [애들 용돈으로 Dollar Tree 쇼핑한 후기](/palo-alto-log-202006/#Self_Present)
   * [중고용품 가게, 360 Thrift 방문 후기](/palo-alto-log-202006/#360_Thrift)
+  * [Costco 가족 카드 발급 후기](/palo-alto-log-202006/#Costco_Membership)
 * 운동/교육
   * [골프 클럽 구입 후기](/palo-alto-log-202002/#Golf_Lesson0)
   * [Menlo Park 도서관 1:1 영어회화 신청 후기](/palo-alto-log-202002/#Menlo_Park_Library)
@@ -271,6 +273,7 @@ toc_sticky: true
   * [Sedona 명소, Sedona Airport Overlook 방문 후기](/palo-alto-log-202006/#Sedona_Airport_Overlook)
   * [Sedona 명소, Sedona Airport Mesa 방문 후기](/palo-alto-log-202006/#Sedona_Airport_Mesa)
   * [Sedona 명소, Bell Rock 방문 후기](/palo-alto-log-202006/#Bell_Rock)
+  * [Mesa 지역 Riverview Water Park 방문 후기](/palo-alto-log-202006/#Riverview_Water_Park)
 * 요리/식당
   * [호텔 무료 서비스를 즐기는 방법](/palo-alto-log-202002/#RI_MIX)
   * [저녁식사 초대받은 후기1](/palo-alto-log-202002/#Dinner_Invitation1)
@@ -578,3 +581,6 @@ toc_sticky: true
   * [Sedona 명소, Sedona Airport Overlook 방문 후기](/palo-alto-log-202006/#Sedona_Airport_Overlook)
   * [Sedona 명소, Sedona Airport Mesa 방문 후기](/palo-alto-log-202006/#Sedona_Airport_Mesa)
   * [Sedona 명소, Bell Rock 방문 후기](/palo-alto-log-202006/#Bell_Rock)
+  * [Mesa 지역 Riverview Water Park 방문 후기](/palo-alto-log-202006/#Riverview_Water_Park)
+  * [마지막 수영장 이용 후기](/palo-alto-log-202006/#Last_Swimmingpool)
+  * [Costco 가족 카드 발급 후기](/palo-alto-log-202006/#Costco_Membership)
