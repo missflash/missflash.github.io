@@ -638,3 +638,7 @@ toc_sticky: true
   * [Jockey Club의 이해가 안되는 엘리베이터 이용 후기](/palo-alto-log-202006/#Ridiculous_Elevator)
 
   Cold_Swimming_Pool
+  Cosmopolitan
+  Bellagio
+  Casino_Fail
+  
