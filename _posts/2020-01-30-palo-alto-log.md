@@ -123,6 +123,7 @@ toc_sticky: true
   * [처제집 단지 수영장 이용 후기1](/palo-alto-log-202006/#Swimming_Pool1)
   * [처제집 단지 수영장 이용 후기2](/palo-alto-log-202006/#Swimming_Pool2)
   * [마지막 수영장 이용 후기](/palo-alto-log-202006/#Last_Swimmingpool)
+  * [미국에서 최저가 주유소 검색하는 방법](/palo-alto-log-202006/#Gas_Buddy)
 * 쇼핑
   * [저렴한 핸드폰 요금제 선택 방법](/palo-alto-log-202001/#Prepaid_Plan)
   * [중고차 구입 방법](/palo-alto-log-202001/#Used_Car)
@@ -284,6 +285,14 @@ toc_sticky: true
   * [Las Vegas 최악의 호텔, Jockey Club 숙박 후기](/palo-alto-log-202006/#Jockey_Club)
   * [Las Vegas Fremont Street 감상 후기](/palo-alto-log-202006/#Fremont_Street)
   * [Jockey Club의 이해가 안되는 엘리베이터 이용 후기](/palo-alto-log-202006/#Ridiculous_Elevator)
+  * [차가운 물에서 수영한 사연](/palo-alto-log-202006/#Cold_Swimming_Pool)
+  * [Cosmopolitan 호텔 관람 후기](/palo-alto-log-202006/#Cosmopolitan)
+  * [Bellagio 호텔 관람 후기](/palo-alto-log-202006/#Bellagio)
+  * [카지노 이용 실패한 사연](/palo-alto-log-202006/#Casino_Fail)
+  * [M&M's World Las Vegas 관람 후기](/palo-alto-log-202006/#M_M)
+  * [Las Vegas 무료 주차장 이용 후기](/palo-alto-log-202006/#NY_NY)
+  * [Welcome to Fabulous Las Vegas Sign 기념사진 촬영 후기](/palo-alto-log-202006/#Welcome_to_Fabulous_Las_Vegas_Sign)
+  * [Four Points by Sheraton Bakersfield 체크인 후기](/palo-alto-log-202006/#Four_Points)
 * 요리/식당
   * [호텔 무료 서비스를 즐기는 방법](/palo-alto-log-202002/#RI_MIX)
   * [저녁식사 초대받은 후기1](/palo-alto-log-202002/#Dinner_Invitation1)
@@ -312,6 +321,7 @@ toc_sticky: true
   * [점심식사 초대한 후기9](/palo-alto-log-202006/#Lunch_Invitation9)
   * [가족들 모두 만족한 IN-N-OUT 버거 테이크아웃 후기](/palo-alto-log-202006/#Family_Burger)
   * [교회목사님댁에 초대받아서 점심식사한 후기](/palo-alto-log-202006/#Pastor_Lunch)
+  * [Shake Shake 버거 이용 후기](/palo-alto-log-202006/#Shake_Shake)
 
 ---
 
@@ -633,12 +643,16 @@ toc_sticky: true
   * [Maswik Lodge 체크아웃 후기](/palo-alto-log-202006/#Maswik_Lodge_Checkout)
   * [Grand Canyon Trail of Time 체험 후기](/palo-alto-log-202006/#Trail_of_Time)
   * [Grand Canyon과 Las Vegas 정보교환 후기](/palo-alto-log-202006/#Data_Exchange)
+  * [미국에서 최저가 주유소 검색하는 방법](/palo-alto-log-202006/#Gas_Buddy)
   * [Las Vegas 최악의 호텔, Jockey Club 숙박 후기](/palo-alto-log-202006/#Jockey_Club)
   * [Las Vegas Fremont Street 감상 후기](/palo-alto-log-202006/#Fremont_Street)
   * [Jockey Club의 이해가 안되는 엘리베이터 이용 후기](/palo-alto-log-202006/#Ridiculous_Elevator)
-
-  Cold_Swimming_Pool
-  Cosmopolitan
-  Bellagio
-  Casino_Fail
-  
+  * [차가운 물에서 수영한 사연](/palo-alto-log-202006/#Cold_Swimming_Pool)
+  * [Cosmopolitan 호텔 관람 후기](/palo-alto-log-202006/#Cosmopolitan)
+  * [Bellagio 호텔 관람 후기](/palo-alto-log-202006/#Bellagio)
+  * [카지노 이용 실패한 사연](/palo-alto-log-202006/#Casino_Fail)
+  * [M&M's World Las Vegas 관람 후기](/palo-alto-log-202006/#M_M)
+  * [Shake Shake 버거 이용 후기](/palo-alto-log-202006/#Shake_Shake)
+  * [Las Vegas 무료 주차장 이용 후기](/palo-alto-log-202006/#NY_NY)
+  * [Welcome to Fabulous Las Vegas Sign 기념사진 촬영 후기](/palo-alto-log-202006/#Welcome_to_Fabulous_Las_Vegas_Sign)
+  * [Four Points by Sheraton Bakersfield 체크인 후기](/palo-alto-log-202006/#Four_Points)
