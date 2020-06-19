@@ -670,3 +670,5 @@ toc_sticky: true
   * [호텔 카드키 작동되지 않은 사연](/palo-alto-log-202006/#Late_Checkout)
   * [고속도로 주유소 최저가 낚인 사연](/palo-alto-log-202006/#Fake_Gas)
   * [아이들 선물 M&M 디스펜서 쏟은 사연](/palo-alto-log-202006/#M_M_Accident)
+
+  * [One-on-One 영어회화 수업 후기27](/palo-alto-log-202006/#One-on-One27)
