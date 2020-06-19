@@ -124,6 +124,7 @@ toc_sticky: true
   * [처제집 단지 수영장 이용 후기2](/palo-alto-log-202006/#Swimming_Pool2)
   * [마지막 수영장 이용 후기](/palo-alto-log-202006/#Last_Swimmingpool)
   * [미국에서 최저가 주유소 검색하는 방법](/palo-alto-log-202006/#Gas_Buddy)
+  * [아이들 선물 M&M 디스펜서 쏟은 사연](/palo-alto-log-202006/#M_M_Accident)
 * 쇼핑
   * [저렴한 핸드폰 요금제 선택 방법](/palo-alto-log-202001/#Prepaid_Plan)
   * [중고차 구입 방법](/palo-alto-log-202001/#Used_Car)
@@ -236,6 +237,7 @@ toc_sticky: true
   * [One-on-One 영어회화 수업 후기26](/palo-alto-log-202006/#One-on-One26)
   * [Menlo Park 도서관 Conversation Club 후기8](/palo-alto-log-202006/#Conversation_Club8)
   * [아이들 Wyzant 수업 후기2](/palo-alto-log-202006/#Wyzant2)
+  * [아이들 Wyzant 수업 후기3](/palo-alto-log-202006/#Wyzant3)
 * 여행/장소
   * [커뮤니티 번개 후기1](/palo-alto-log-202002/#Community_Event1)
   * [Half Moon Bay, Pigeon Point, Shark Fin Cove 등 관광 후기](/palo-alto-log-202002/#Half_Moon_Bay)
@@ -293,6 +295,9 @@ toc_sticky: true
   * [Las Vegas 무료 주차장 이용 후기](/palo-alto-log-202006/#NY_NY)
   * [Welcome to Fabulous Las Vegas Sign 기념사진 촬영 후기](/palo-alto-log-202006/#Welcome_to_Fabulous_Las_Vegas_Sign)
   * [Four Points by Sheraton Bakersfield 체크인 후기](/palo-alto-log-202006/#Four_Points)
+  * [놀이터와 물놀이장이 멋진 Jastro Park 나들이 후기](/palo-alto-log-202006/#Jastro_Park)
+  * [호텔 카드키 작동되지 않은 사연](/palo-alto-log-202006/#Late_Checkout)
+  * [고속도로 주유소 최저가 낚인 사연](/palo-alto-log-202006/#Fake_Gas)
 * 요리/식당
   * [호텔 무료 서비스를 즐기는 방법](/palo-alto-log-202002/#RI_MIX)
   * [저녁식사 초대받은 후기1](/palo-alto-log-202002/#Dinner_Invitation1)
@@ -322,6 +327,8 @@ toc_sticky: true
   * [가족들 모두 만족한 IN-N-OUT 버거 테이크아웃 후기](/palo-alto-log-202006/#Family_Burger)
   * [교회목사님댁에 초대받아서 점심식사한 후기](/palo-alto-log-202006/#Pastor_Lunch)
   * [Shake Shake 버거 이용 후기](/palo-alto-log-202006/#Shake_Shake)
+  * [호텔제공 맛있는 아침식사 이용 후기](/palo-alto-log-202006/#Nice_Breakfast)
+  * [미국에서 처음으로 스시 먹은 후기](/palo-alto-log-202006/#1st_Sushi)
 
 ---
 
@@ -656,8 +663,10 @@ toc_sticky: true
   * [Las Vegas 무료 주차장 이용 후기](/palo-alto-log-202006/#NY_NY)
   * [Welcome to Fabulous Las Vegas Sign 기념사진 촬영 후기](/palo-alto-log-202006/#Welcome_to_Fabulous_Las_Vegas_Sign)
   * [Four Points by Sheraton Bakersfield 체크인 후기](/palo-alto-log-202006/#Four_Points)
-
-Nice_Breakfast
-Wyzant3
-Jastro_Park
-1st_Sushi
+  * [호텔제공 맛있는 아침식사 이용 후기](/palo-alto-log-202006/#Nice_Breakfast)
+  * [아이들 Wyzant 수업 후기3](/palo-alto-log-202006/#Wyzant3)
+  * [놀이터와 물놀이장이 멋진 Jastro Park 나들이 후기](/palo-alto-log-202006/#Jastro_Park)
+  * [미국에서 처음으로 스시 먹은 후기](/palo-alto-log-202006/#1st_Sushi)
+  * [호텔 카드키 작동되지 않은 사연](/palo-alto-log-202006/#Late_Checkout)
+  * [고속도로 주유소 최저가 낚인 사연](/palo-alto-log-202006/#Fake_Gas)
+  * [아이들 선물 M&M 디스펜서 쏟은 사연](/palo-alto-log-202006/#M_M_Accident)
