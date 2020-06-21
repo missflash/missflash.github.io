@@ -168,6 +168,7 @@ toc_sticky: true
   * [애들 용돈으로 Dollar Tree 쇼핑한 후기](/palo-alto-log-202006/#Self_Present)
   * [중고용품 가게, 360 Thrift 방문 후기](/palo-alto-log-202006/#360_Thrift)
   * [Costco 가족 카드 발급 후기](/palo-alto-log-202006/#Costco_Membership)
+  * [Amazon 반품 실패한 사연](/palo-alto-log-202006/#Return_Fail)
 * 운동/교육
   * [골프 클럽 구입 후기](/palo-alto-log-202002/#Golf_Lesson0)
   * [Menlo Park 도서관 1:1 영어회화 신청 후기](/palo-alto-log-202002/#Menlo_Park_Library)
@@ -238,6 +239,7 @@ toc_sticky: true
   * [Menlo Park 도서관 Conversation Club 후기8](/palo-alto-log-202006/#Conversation_Club8)
   * [아이들 Wyzant 수업 후기2](/palo-alto-log-202006/#Wyzant2)
   * [아이들 Wyzant 수업 후기3](/palo-alto-log-202006/#Wyzant3)
+  * [One-on-One 영어회화 수업 후기27](/palo-alto-log-202006/#One-on-One27)
 * 여행/장소
   * [커뮤니티 번개 후기1](/palo-alto-log-202002/#Community_Event1)
   * [Half Moon Bay, Pigeon Point, Shark Fin Cove 등 관광 후기](/palo-alto-log-202002/#Half_Moon_Bay)
@@ -329,6 +331,7 @@ toc_sticky: true
   * [Shake Shake 버거 이용 후기](/palo-alto-log-202006/#Shake_Shake)
   * [호텔제공 맛있는 아침식사 이용 후기](/palo-alto-log-202006/#Nice_Breakfast)
   * [미국에서 처음으로 스시 먹은 후기](/palo-alto-log-202006/#1st_Sushi)
+  * [Stanford Oval에서 연수동기 가족들과 점심식사한 후기](/palo-alto-log-202006/#M_M_Accident)
 
 ---
 
@@ -670,5 +673,9 @@ toc_sticky: true
   * [호텔 카드키 작동되지 않은 사연](/palo-alto-log-202006/#Late_Checkout)
   * [고속도로 주유소 최저가 낚인 사연](/palo-alto-log-202006/#Fake_Gas)
   * [아이들 선물 M&M 디스펜서 쏟은 사연](/palo-alto-log-202006/#M_M_Accident)
-
   * [One-on-One 영어회화 수업 후기27](/palo-alto-log-202006/#One-on-One27)
+  * [Amazon 반품 실패한 사연](/palo-alto-log-202006/#Return_Fail)
+  * [Stanford Oval에서 연수동기 가족들과 점심식사한 후기](/palo-alto-log-202006/#M_M_Accident)
+
+
+Oval_Lunch
