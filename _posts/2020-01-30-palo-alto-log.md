@@ -675,7 +675,8 @@ toc_sticky: true
   * [아이들 선물 M&M 디스펜서 쏟은 사연](/palo-alto-log-202006/#M_M_Accident)
   * [One-on-One 영어회화 수업 후기27](/palo-alto-log-202006/#One-on-One27)
   * [Amazon 반품 실패한 사연](/palo-alto-log-202006/#Return_Fail)
-  * [Stanford Oval에서 연수동기 가족들과 점심식사한 후기](/palo-alto-log-202006/#M_M_Accident)
-
-
-Oval_Lunch
+  * [주차장에서 M&M 디스펜서 쏟은 사연](/palo-alto-log-202006/#M_M_Accident)
+  * [Stanford Oval에서 연수동기 가족들과 점심식사한 후기](/palo-alto-log-202006/#Oval_Lunch)
+  * [호텔 10박 이용후 무료 1박 쿠폰받는 방법](/palo-alto-log-202006/#Hotels_Coupon)
+  * [Stanford Bechtel International, 1:1 영어회화 후기15](/palo-alto-log-202006/#EIA_Lesson15)
+  * [부모님과 사진과 동영상 공유하는 방법](/palo-alto-log-202006/#How_to_Share_Media)
