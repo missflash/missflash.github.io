@@ -243,6 +243,8 @@ toc_sticky: true
   * [One-on-One 영어회화 수업 후기27](/palo-alto-log-202006/#One-on-One27)
   * [One-on-One 영어회화 수업 후기28](/palo-alto-log-202006/#One-on-One28)
   * [아이들 Wyzant 수업 후기4](/palo-alto-log-202006/#Wyzant4)
+  * [One-on-One 영어회화 수업 후기29](/palo-alto-log-202006/#One-on-One29)
+  * [아파트 Fitness Center 및 Spa 이용 후기](/palo-alto-log-202006/#Reopen_Fitness)
 * 여행/장소
   * [커뮤니티 번개 후기1](/palo-alto-log-202002/#Community_Event1)
   * [Half Moon Bay, Pigeon Point, Shark Fin Cove 등 관광 후기](/palo-alto-log-202002/#Half_Moon_Bay)
@@ -361,6 +363,7 @@ toc_sticky: true
   * [호텔제공 맛있는 아침식사 이용 후기](/palo-alto-log-202006/#Nice_Breakfast)
   * [미국에서 처음으로 스시 먹은 후기](/palo-alto-log-202006/#1st_Sushi)
   * [Stanford Oval에서 연수동기 가족들과 점심식사한 후기](/palo-alto-log-202006/#M_M_Accident)
+  * [저녁식사 초대받은 후기4](/palo-alto-log-202006/#Dinner_Invitation4)
 
 ---
 
@@ -738,8 +741,6 @@ toc_sticky: true
   * [Yosemite Swinging Bridge 물놀이&정리 후기](/palo-alto-log-202006/#Swinging_Bridge_Comeback)
   * [주차장에서 짐정리 한 사연](/palo-alto-log-202006/#Baggages_Repackaging)
   * [Fremont 지역에서 화장실 찾은 사연](/palo-alto-log-202006/#Finding_Restroom)
-
-
-
   * [One-on-One 영어회화 수업 후기29](/palo-alto-log-202006/#One-on-One29)
   * [아파트 Fitness Center 및 Spa 이용 후기](/palo-alto-log-202006/#Reopen_Fitness)
+  * [저녁식사 초대받은 후기4](/palo-alto-log-202006/#Dinner_Invitation4)
