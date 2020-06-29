@@ -75,6 +75,7 @@ toc_sticky: true
   * [KAIST 산학과제 미팅 후기](/palo-alto-log-202004/#KAIST_Conference1)
   * [Stanford 수업 청강 방법](/palo-alto-log-202004/#Audit_Request)
   * [자녀 온라인 영어교육 사이트 소개](/palo-alto-log-202005/#Wyzant)
+  * [Stanford 식당에서 테이크아웃 한 후기](/palo-alto-log-202006/#Stanford_Takeout)
 * 생활
   * [렌트카 조기 반납 방법](/palo-alto-log-202002/#Rentcar_Return)
   * [각종 서비스 이용시 최적의 문의 방법](/palo-alto-log-202002/#Customer_Contact)
@@ -125,6 +126,7 @@ toc_sticky: true
   * [마지막 수영장 이용 후기](/palo-alto-log-202006/#Last_Swimmingpool)
   * [미국에서 최저가 주유소 검색하는 방법](/palo-alto-log-202006/#Gas_Buddy)
   * [아이들 선물 M&M 디스펜서 쏟은 사연](/palo-alto-log-202006/#M_M_Accident)
+  * [헬륨풍선 구입 30분만에 하늘로 날려버린 사연](/palo-alto-log-202006/#Goodbye_Balloon)
 * 쇼핑
   * [저렴한 핸드폰 요금제 선택 방법](/palo-alto-log-202001/#Prepaid_Plan)
   * [중고차 구입 방법](/palo-alto-log-202001/#Used_Car)
@@ -744,3 +746,5 @@ toc_sticky: true
   * [One-on-One 영어회화 수업 후기29](/palo-alto-log-202006/#One-on-One29)
   * [아파트 Fitness Center 및 Spa 이용 후기](/palo-alto-log-202006/#Reopen_Fitness)
   * [저녁식사 초대받은 후기4](/palo-alto-log-202006/#Dinner_Invitation4)
+  * [Stanford 식당에서 테이크아웃 한 후기](/palo-alto-log-202006/#Stanford_Takeout)
+  * [헬륨풍선 구입 30분만에 하늘로 날려버린 사연](/palo-alto-log-202006/#Goodbye_Balloon)
