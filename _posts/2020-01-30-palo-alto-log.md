@@ -247,6 +247,8 @@ toc_sticky: true
   * [아이들 Wyzant 수업 후기4](/palo-alto-log-202006/#Wyzant4)
   * [One-on-One 영어회화 수업 후기29](/palo-alto-log-202006/#One-on-One29)
   * [아파트 Fitness Center 및 Spa 이용 후기](/palo-alto-log-202006/#Reopen_Fitness)
+  * [One-on-One 영어회화 수업 후기30](/palo-alto-log-202006/#One-on-One30)
+  * [아이들 Wyzant 수업 후기5](/palo-alto-log-202006/#Wyzant5)
 * 여행/장소
   * [커뮤니티 번개 후기1](/palo-alto-log-202002/#Community_Event1)
   * [Half Moon Bay, Pigeon Point, Shark Fin Cove 등 관광 후기](/palo-alto-log-202002/#Half_Moon_Bay)
@@ -748,3 +750,5 @@ toc_sticky: true
   * [저녁식사 초대받은 후기4](/palo-alto-log-202006/#Dinner_Invitation4)
   * [Stanford 식당에서 테이크아웃 한 후기](/palo-alto-log-202006/#Stanford_Takeout)
   * [헬륨풍선 구입 30분만에 하늘로 날려버린 사연](/palo-alto-log-202006/#Goodbye_Balloon)
+  * [One-on-One 영어회화 수업 후기30](/palo-alto-log-202006/#One-on-One30)
+  * [아이들 Wyzant 수업 후기5](/palo-alto-log-202006/#Wyzant5)
