@@ -772,3 +772,5 @@ toc_sticky: true
   * [One-on-One 영어회화 수업 후기31](/palo-alto-log-202006/#One-on-One31)
   * [Stanford - KAIST 첫 번째 연구미팅 후기](/palo-alto-log-202006/#1st_Research_Meeting)
   * [Menlo Park 도서관 Conversation Club 후기9](/palo-alto-log-202006/#Conversation_Club9)
+  * [QCWare 온라인 미팅 후기](/palo-alto-log-202007/#QCWare)
+  * [아이들 Wyzant 수업 후기6](/palo-alto-log-202007/#Wyzant6)
