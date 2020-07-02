@@ -768,3 +768,7 @@ toc_sticky: true
   * [평화로운 분위기의 The Palace of Fine Arts 방문 후기](/palo-alto-log-202006/#The_Palace_of_Fine_Arts)
   * [낭만이 있는 꼬불꼬불 Lombard Street 방문 후기](/palo-alto-log-202006/#Lombard_Street)
   * [물개가 없는 Pier39 방문 후기](/palo-alto-log-202006/#Pier39)
+
+  * [One-on-One 영어회화 수업 후기31](/palo-alto-log-202006/#One-on-One31)
+  * [Stanford - KAIST 첫 번째 연구미팅 후기](/palo-alto-log-202006/#1st_Research_Meeting)
+  * [Menlo Park 도서관 Conversation Club 후기9](/palo-alto-log-202006/#Conversation_Club9)
