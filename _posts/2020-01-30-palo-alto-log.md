@@ -76,6 +76,8 @@ toc_sticky: true
   * [Stanford 수업 청강 방법](/palo-alto-log-202004/#Audit_Request)
   * [자녀 온라인 영어교육 사이트 소개](/palo-alto-log-202005/#Wyzant)
   * [Stanford 식당에서 테이크아웃 한 후기](/palo-alto-log-202006/#Stanford_Takeout)
+  * [Stanford - KAIST 첫 번째 연구미팅 후기](/palo-alto-log-202006/#1st_Research_Meeting)
+  * [QCWare 온라인 미팅 후기](/palo-alto-log-202007/#QCWare)
 * 생활
   * [렌트카 조기 반납 방법](/palo-alto-log-202002/#Rentcar_Return)
   * [각종 서비스 이용시 최적의 문의 방법](/palo-alto-log-202002/#Customer_Contact)
@@ -251,6 +253,9 @@ toc_sticky: true
   * [One-on-One 영어회화 수업 후기30](/palo-alto-log-202006/#One-on-One30)
   * [아이들 Wyzant 수업 후기5](/palo-alto-log-202006/#Wyzant5)
   * [Stanford Bechtel International, 1:1 영어회화 후기16](/palo-alto-log-202006/#EIA_Lesson16)
+  * [One-on-One 영어회화 수업 후기31](/palo-alto-log-202006/#One-on-One31)
+  * [Menlo Park 도서관 Conversation Club 후기9](/palo-alto-log-202006/#Conversation_Club9)
+  * [아이들 Wyzant 수업 후기6](/palo-alto-log-202007/#Wyzant6)
 * 여행/장소
   * [커뮤니티 번개 후기1](/palo-alto-log-202002/#Community_Event1)
   * [Half Moon Bay, Pigeon Point, Shark Fin Cove 등 관광 후기](/palo-alto-log-202002/#Half_Moon_Bay)
@@ -376,6 +381,7 @@ toc_sticky: true
   * [미국에서 처음으로 스시 먹은 후기](/palo-alto-log-202006/#1st_Sushi)
   * [Stanford Oval에서 연수동기 가족들과 점심식사한 후기](/palo-alto-log-202006/#M_M_Accident)
   * [저녁식사 초대받은 후기4](/palo-alto-log-202006/#Dinner_Invitation4)
+  * [저녁식사 초대한 후기5](/palo-alto-log-202006/#Dinner_Invitation5)
 
 ---
 
@@ -768,7 +774,6 @@ toc_sticky: true
   * [평화로운 분위기의 The Palace of Fine Arts 방문 후기](/palo-alto-log-202006/#The_Palace_of_Fine_Arts)
   * [낭만이 있는 꼬불꼬불 Lombard Street 방문 후기](/palo-alto-log-202006/#Lombard_Street)
   * [물개가 없는 Pier39 방문 후기](/palo-alto-log-202006/#Pier39)
-
   * [One-on-One 영어회화 수업 후기31](/palo-alto-log-202006/#One-on-One31)
   * [Stanford - KAIST 첫 번째 연구미팅 후기](/palo-alto-log-202006/#1st_Research_Meeting)
   * [Menlo Park 도서관 Conversation Club 후기9](/palo-alto-log-202006/#Conversation_Club9)
