@@ -167,3 +167,11 @@ git push -u origin master
     * git remote remove origin
   * Commit 삭제 : https://gmlwjd9405.github.io/2018/05/25/git-add-cancle.html
     * git reset --hard HEAD~3
+  * 100MB 이상 파일 Commit 불가
+  * Your branch is ahead of 'origin/master' by 3 commits 에러 메시지 발생시
+    * git push -u origin master 으로 정상 push 시도
+    * 위 방법으로 안될 경우,
+      * local 수정 파일을 다른 경로로 이동
+      * git reset --hard origin/master 으로 remote의 버전으로 local 리셋
+      * local 수정 파일 다시 복원
+      * git push -u origin master 으로 정상 push 시도
