@@ -264,6 +264,8 @@ toc_sticky: true
   * [아이들 Wyzant 수업 후기7](/palo-alto-log-202007/#Wyzant7)
   * [Stanford Bechtel International, 1:1 영어회화 후기17](/palo-alto-log-202007/#EIA_Lesson17)
   * [Menlo Park 도서관 Conversation Club 후기10](/palo-alto-log-202007/#Conversation_Club10)
+  * [One-on-One 영어회화 수업 후기32](/palo-alto-log-202007/#One-on-One32)
+  * [아이들 Wyzant 수업 후기8](/palo-alto-log-202007/#Wyzant8)
 * 여행/장소
   * [커뮤니티 번개 후기1](/palo-alto-log-202002/#Community_Event1)
   * [Half Moon Bay, Pigeon Point, Shark Fin Cove 등 관광 후기](/palo-alto-log-202002/#Half_Moon_Bay)
@@ -825,3 +827,5 @@ toc_sticky: true
   * [Stanford Bechtel International, 1:1 영어회화 후기17](/palo-alto-log-202007/#EIA_Lesson17)
   * [Whole Foods 할인받는 방법](/palo-alto-log-202007/#Whole_Foods_Discount)
   * [Menlo Park 도서관 Conversation Club 후기10](/palo-alto-log-202007/#Conversation_Club10)
+  * [One-on-One 영어회화 수업 후기32](/palo-alto-log-202007/#One-on-One32)
+  * [아이들 Wyzant 수업 후기8](/palo-alto-log-202007/#Wyzant8)
