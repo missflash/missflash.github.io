@@ -839,3 +839,6 @@ toc_sticky: true
   * [가족들과 함께 찾은 Half Moon Bay 관람 후기](/palo-alto-log-202007/#Half_Moon_Bay)
   * [평화로운 Manhattan Beach 관람 후기](/palo-alto-log-202007/#Manhattan_Beach)
   * [한국식 바베큐 식당 GEN 이용 후기](/palo-alto-log-202007/#1st_GEN)
+
+Stanford_Picnic
+Johnson_Park
