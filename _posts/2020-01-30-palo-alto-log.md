@@ -266,6 +266,7 @@ toc_sticky: true
   * [Menlo Park 도서관 Conversation Club 후기10](/palo-alto-log-202007/#Conversation_Club10)
   * [One-on-One 영어회화 수업 후기32](/palo-alto-log-202007/#One-on-One32)
   * [아이들 Wyzant 수업 후기8](/palo-alto-log-202007/#Wyzant8)
+  * [첫 번째 Chin Up 성공 후기](/palo-alto-log-202007/#First_Chin_Up)
 * 여행/장소
   * [커뮤니티 번개 후기1](/palo-alto-log-202002/#Community_Event1)
   * [Half Moon Bay, Pigeon Point, Shark Fin Cove 등 관광 후기](/palo-alto-log-202002/#Half_Moon_Bay)
@@ -393,6 +394,8 @@ toc_sticky: true
   * [넓은 호수를 바라보며 Sawyer Camp Trail에서 산책한 후기](/palo-alto-log-202007/#Sawyer_Camp_Trail)
   * [가족들과 함께 찾은 Half Moon Bay 관람 후기](/palo-alto-log-202007/#Half_Moon_Bay)
   * [평화로운 Manhattan Beach 관람 후기](/palo-alto-log-202007/#Manhattan_Beach)
+  * [Stanford 피크닉 후기](/palo-alto-log-202007/#Stanford_Picnic)
+  * [평화로운 분위기의 Dr. Edith Eugenie Johnson Park 방문 후기](/palo-alto-log-202007/#Johnson_Park)
 * 요리/식당
   * [호텔 무료 서비스를 즐기는 방법](/palo-alto-log-202002/#RI_MIX)
   * [저녁식사 초대받은 후기1](/palo-alto-log-202002/#Dinner_Invitation1)
@@ -839,6 +842,6 @@ toc_sticky: true
   * [가족들과 함께 찾은 Half Moon Bay 관람 후기](/palo-alto-log-202007/#Half_Moon_Bay)
   * [평화로운 Manhattan Beach 관람 후기](/palo-alto-log-202007/#Manhattan_Beach)
   * [한국식 바베큐 식당 GEN 이용 후기](/palo-alto-log-202007/#1st_GEN)
-
-Stanford_Picnic
-Johnson_Park
+  * [Stanford 피크닉 후기](/palo-alto-log-202007/#Stanford_Picnic)
+  * [평화로운 분위기의 Dr. Edith Eugenie Johnson Park 방문 후기](/palo-alto-log-202007/#Johnson_Park)
+  * [첫 번째 Chin Up 성공 후기](/palo-alto-log-202007/#First_Chin_Up)
