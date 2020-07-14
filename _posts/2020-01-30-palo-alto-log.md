@@ -133,6 +133,8 @@ toc_sticky: true
   * [부모님과 사진과 동영상 공유하는 방법](/palo-alto-log-202006/#How_to_Share_Media)
   * [헬륨풍선 구입 30분만에 하늘로 날려버린 사연](/palo-alto-log-202006/#Goodbye_Balloon)
   * [San Francisco에서 신호위반 카메라 걸린 사연](/palo-alto-log-202006/#1st_Ticket)
+  * [핸드폰 Referral 미등록 확인한 사연](/palo-alto-log-202007/#Referral_Check)
+  * [집 인터넷 무제한으로 변경하게 된 사연](/palo-alto-log-202007/#Unlimited_Internet)
 * 쇼핑
   * [저렴한 핸드폰 요금제 선택 방법](/palo-alto-log-202001/#Prepaid_Plan)
   * [중고차 구입 방법](/palo-alto-log-202001/#Used_Car)
@@ -268,6 +270,9 @@ toc_sticky: true
   * [아이들 Wyzant 수업 후기8](/palo-alto-log-202007/#Wyzant8)
   * [첫 번째 Chin Up 성공 후기](/palo-alto-log-202007/#First_Chin_Up)
   * [골프 초심자에게 괜찮은 Blackberry Farm Golf Course 이용 후기](/palo-alto-log-202007/#Blackberry_Farm_Golf_Course1)
+  * [One-on-One 영어회화 수업 후기33](/palo-alto-log-202007/#One-on-One33)
+  * [무료 온라인 수업, Stanford Camp Cardinal 참여 후기](/palo-alto-log-202007/#Stanford_Camp_Cardinal)
+  * [아이들 Wyzant 수업 후기9](/palo-alto-log-202007/#Wyzant9)
 * 여행/장소
   * [커뮤니티 번개 후기1](/palo-alto-log-202002/#Community_Event1)
   * [Half Moon Bay, Pigeon Point, Shark Fin Cove 등 관광 후기](/palo-alto-log-202002/#Half_Moon_Bay)
@@ -434,6 +439,7 @@ toc_sticky: true
   * [7-Eleven에서 무료 슬러시 이용하는 방법](/palo-alto-log-202007/#Free_Slush)
   * [한국식 바베큐 식당 GEN 이용 후기](/palo-alto-log-202007/#1st_GEN)
   * [저녁식사 초대한 후기6](/palo-alto-log-202007/#Dinner_Invitation6)
+  * [Stanford 나들이 및 테이크아웃 후기](/palo-alto-log-202007/#Stanford_Takeout)
 
 ---
 
@@ -849,3 +855,9 @@ toc_sticky: true
   * [첫 번째 Chin Up 성공 후기](/palo-alto-log-202007/#First_Chin_Up)
   * [골프 초심자에게 괜찮은 Blackberry Farm Golf Course 이용 후기](/palo-alto-log-202007/#Blackberry_Farm_Golf_Course1)
   * [저녁식사 초대한 후기6](/palo-alto-log-202007/#Dinner_Invitation6)
+  * [One-on-One 영어회화 수업 후기33](/palo-alto-log-202007/#One-on-One33)
+  * [무료 온라인 수업, Stanford Camp Cardinal 참여 후기](/palo-alto-log-202007/#Stanford_Camp_Cardinal)
+  * [아이들 Wyzant 수업 후기9](/palo-alto-log-202007/#Wyzant9)
+  * [핸드폰 Referral 미등록 확인한 사연](/palo-alto-log-202007/#Referral_Check)
+  * [집 인터넷 무제한으로 변경하게 된 사연](/palo-alto-log-202007/#Unlimited_Internet)
+  * [Stanford 나들이 및 테이크아웃 후기](/palo-alto-log-202007/#Stanford_Takeout)
