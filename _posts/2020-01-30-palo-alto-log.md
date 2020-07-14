@@ -273,6 +273,7 @@ toc_sticky: true
   * [One-on-One 영어회화 수업 후기33](/palo-alto-log-202007/#One-on-One33)
   * [무료 온라인 수업, Stanford Camp Cardinal 참여 후기](/palo-alto-log-202007/#Stanford_Camp_Cardinal)
   * [아이들 Wyzant 수업 후기9](/palo-alto-log-202007/#Wyzant9)
+  * [Stanford Bechtel International, 1:1 영어회화 후기18](/palo-alto-log-202007/#EIA_Lesson18)
 * 여행/장소
   * [커뮤니티 번개 후기1](/palo-alto-log-202002/#Community_Event1)
   * [Half Moon Bay, Pigeon Point, Shark Fin Cove 등 관광 후기](/palo-alto-log-202002/#Half_Moon_Bay)
@@ -861,3 +862,4 @@ toc_sticky: true
   * [핸드폰 Referral 미등록 확인한 사연](/palo-alto-log-202007/#Referral_Check)
   * [집 인터넷 무제한으로 변경하게 된 사연](/palo-alto-log-202007/#Unlimited_Internet)
   * [Stanford 나들이 및 테이크아웃 후기](/palo-alto-log-202007/#Stanford_Takeout)
+  * [Stanford Bechtel International, 1:1 영어회화 후기18](/palo-alto-log-202007/#EIA_Lesson18)
