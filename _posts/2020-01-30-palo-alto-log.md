@@ -135,6 +135,8 @@ toc_sticky: true
   * [San Francisco에서 신호위반 카메라 걸린 사연](/palo-alto-log-202006/#1st_Ticket)
   * [핸드폰 Referral 미등록 확인한 사연](/palo-alto-log-202007/#Referral_Check)
   * [집 인터넷 무제한으로 변경하게 된 사연](/palo-alto-log-202007/#Unlimited_Internet)
+  * [KOA 캠핑 직접 예약한 사연](/palo-alto-log-202007/#KOA_Camping)
+  * [호텔 예약중간에 에러 발생했는데 출금 정상 진행된 사연](/palo-alto-log-202007/#Unexpected_Payment)
 * 쇼핑
   * [저렴한 핸드폰 요금제 선택 방법](/palo-alto-log-202001/#Prepaid_Plan)
   * [중고차 구입 방법](/palo-alto-log-202001/#Used_Car)
@@ -274,6 +276,7 @@ toc_sticky: true
   * [무료 온라인 수업, Stanford Camp Cardinal 참여 후기](/palo-alto-log-202007/#Stanford_Camp_Cardinal)
   * [아이들 Wyzant 수업 후기9](/palo-alto-log-202007/#Wyzant9)
   * [Stanford Bechtel International, 1:1 영어회화 후기18](/palo-alto-log-202007/#EIA_Lesson18)
+  * [One-on-One 영어회화 수업 후기34](/palo-alto-log-202007/#One-on-One34)
 * 여행/장소
   * [커뮤니티 번개 후기1](/palo-alto-log-202002/#Community_Event1)
   * [Half Moon Bay, Pigeon Point, Shark Fin Cove 등 관광 후기](/palo-alto-log-202002/#Half_Moon_Bay)
@@ -863,5 +866,8 @@ toc_sticky: true
   * [집 인터넷 무제한으로 변경하게 된 사연](/palo-alto-log-202007/#Unlimited_Internet)
   * [Stanford 나들이 및 테이크아웃 후기](/palo-alto-log-202007/#Stanford_Takeout)
   * [Stanford Bechtel International, 1:1 영어회화 후기18](/palo-alto-log-202007/#EIA_Lesson18)
+
   * [KOA 캠핑 직접 예약한 사연](/palo-alto-log-202007/#KOA_Camping)
   * [호텔 예약중간에 에러 발생했는데 출금 정상 진행된 사연](/palo-alto-log-202007/#Unexpected_Payment)
+
+  * [One-on-One 영어회화 수업 후기34](/palo-alto-log-202007/#One-on-One34)
