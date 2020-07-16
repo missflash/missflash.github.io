@@ -866,8 +866,8 @@ toc_sticky: true
   * [집 인터넷 무제한으로 변경하게 된 사연](/palo-alto-log-202007/#Unlimited_Internet)
   * [Stanford 나들이 및 테이크아웃 후기](/palo-alto-log-202007/#Stanford_Takeout)
   * [Stanford Bechtel International, 1:1 영어회화 후기18](/palo-alto-log-202007/#EIA_Lesson18)
-
   * [KOA 캠핑 직접 예약한 사연](/palo-alto-log-202007/#KOA_Camping)
   * [호텔 예약중간에 에러 발생했는데 출금 정상 진행된 사연](/palo-alto-log-202007/#Unexpected_Payment)
 
   * [One-on-One 영어회화 수업 후기34](/palo-alto-log-202007/#One-on-One34)
+  * [Menlo Park 도서관 Conversation Club 후기11](/palo-alto-log-202007/#Conversation_Club11)
