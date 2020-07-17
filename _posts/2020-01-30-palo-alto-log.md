@@ -277,6 +277,10 @@ toc_sticky: true
   * [아이들 Wyzant 수업 후기9](/palo-alto-log-202007/#Wyzant9)
   * [Stanford Bechtel International, 1:1 영어회화 후기18](/palo-alto-log-202007/#EIA_Lesson18)
   * [One-on-One 영어회화 수업 후기34](/palo-alto-log-202007/#One-on-One34)
+  * [Menlo Park 도서관 Conversation Club 후기11](/palo-alto-log-202007/#Conversation_Club11)
+  * [생애 첫 골프 라운딩 다녀온 후기](/palo-alto-log-202007/#1st_Golf_Round)
+  * [18Buddies 앱으로 골프장 예약 할인받는 방법](/palo-alto-log-202007/#18Buddies)
+  * [첫 라운딩에서 거의 홀인원 할뻔한 사연](/palo-alto-log-202007/#Nice_Shot)
 * 여행/장소
   * [커뮤니티 번개 후기1](/palo-alto-log-202002/#Community_Event1)
   * [Half Moon Bay, Pigeon Point, Shark Fin Cove 등 관광 후기](/palo-alto-log-202002/#Half_Moon_Bay)
@@ -868,6 +872,8 @@ toc_sticky: true
   * [Stanford Bechtel International, 1:1 영어회화 후기18](/palo-alto-log-202007/#EIA_Lesson18)
   * [KOA 캠핑 직접 예약한 사연](/palo-alto-log-202007/#KOA_Camping)
   * [호텔 예약중간에 에러 발생했는데 출금 정상 진행된 사연](/palo-alto-log-202007/#Unexpected_Payment)
-
   * [One-on-One 영어회화 수업 후기34](/palo-alto-log-202007/#One-on-One34)
   * [Menlo Park 도서관 Conversation Club 후기11](/palo-alto-log-202007/#Conversation_Club11)
+  * [생애 첫 골프 라운딩 다녀온 후기](/palo-alto-log-202007/#1st_Golf_Round)
+  * [18Buddies 앱으로 골프장 예약 할인받는 방법](/palo-alto-log-202007/#18Buddies)
+  * [첫 라운딩에서 거의 홀인원 할뻔한 사연](/palo-alto-log-202007/#Nice_Shot)
