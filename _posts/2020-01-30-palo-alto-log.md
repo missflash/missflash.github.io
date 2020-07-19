@@ -137,6 +137,7 @@ toc_sticky: true
   * [집 인터넷 무제한으로 변경하게 된 사연](/palo-alto-log-202007/#Unlimited_Internet)
   * [KOA 캠핑 직접 예약한 사연](/palo-alto-log-202007/#KOA_Camping)
   * [호텔 예약중간에 에러 발생했는데 출금 정상 진행된 사연](/palo-alto-log-202007/#Unexpected_Payment)
+  * [KOA 캠핑 무료 1박 예약한 사연](/palo-alto-log-202007/#KOA_Event)
 * 쇼핑
   * [저렴한 핸드폰 요금제 선택 방법](/palo-alto-log-202001/#Prepaid_Plan)
   * [중고차 구입 방법](/palo-alto-log-202001/#Used_Car)
@@ -281,6 +282,7 @@ toc_sticky: true
   * [생애 첫 골프 라운딩 다녀온 후기](/palo-alto-log-202007/#1st_Golf_Round)
   * [18Buddies 앱으로 골프장 예약 할인받는 방법](/palo-alto-log-202007/#18Buddies)
   * [첫 라운딩에서 거의 홀인원 할뻔한 사연](/palo-alto-log-202007/#Nice_Shot)
+  * [연수동기와 헬스장에서 운동한 사연](/palo-alto-log-202007/#Fitness_Buddy)
 * 여행/장소
   * [커뮤니티 번개 후기1](/palo-alto-log-202002/#Community_Event1)
   * [Half Moon Bay, Pigeon Point, Shark Fin Cove 등 관광 후기](/palo-alto-log-202002/#Half_Moon_Bay)
@@ -448,6 +450,7 @@ toc_sticky: true
   * [한국식 바베큐 식당 GEN 이용 후기](/palo-alto-log-202007/#1st_GEN)
   * [저녁식사 초대한 후기6](/palo-alto-log-202007/#Dinner_Invitation6)
   * [Stanford 나들이 및 테이크아웃 후기](/palo-alto-log-202007/#Stanford_Takeout)
+  * [점심식사 초대한 후기10](/palo-alto-log-202007/#Lunch_Invitation10)
 
 ---
 
@@ -877,5 +880,6 @@ toc_sticky: true
   * [생애 첫 골프 라운딩 다녀온 후기](/palo-alto-log-202007/#1st_Golf_Round)
   * [18Buddies 앱으로 골프장 예약 할인받는 방법](/palo-alto-log-202007/#18Buddies)
   * [첫 라운딩에서 거의 홀인원 할뻔한 사연](/palo-alto-log-202007/#Nice_Shot)
-
-Lunch_Invitation10
+  * [점심식사 초대한 후기10](/palo-alto-log-202007/#Lunch_Invitation10)
+  * [연수동기와 헬스장에서 운동한 사연](/palo-alto-log-202007/#Fitness_Buddy)
+  * [KOA 캠핑 무료 1박 예약한 사연](/palo-alto-log-202007/#KOA_Event)
