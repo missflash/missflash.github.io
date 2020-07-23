@@ -138,6 +138,7 @@ toc_sticky: true
   * [KOA 캠핑 직접 예약한 사연](/palo-alto-log-202007/#KOA_Camping)
   * [호텔 예약중간에 에러 발생했는데 출금 정상 진행된 사연](/palo-alto-log-202007/#Unexpected_Payment)
   * [KOA 캠핑 무료 1박 예약한 사연](/palo-alto-log-202007/#KOA_Event)
+  * [주유소 Pump에서 일부만 주유하는 방법](/palo-alto-log-202007/#Partial_Pump)
 * 쇼핑
   * [저렴한 핸드폰 요금제 선택 방법](/palo-alto-log-202001/#Prepaid_Plan)
   * [중고차 구입 방법](/palo-alto-log-202001/#Used_Car)
@@ -184,6 +185,8 @@ toc_sticky: true
   * [Amazon 반품 실패한 사연](/palo-alto-log-202006/#Return_Fail)
   * [Amazon 구매 청소기 반품 성공 후기](/palo-alto-log-202006/#Return_Success)
   * [Whole Foods 할인받는 방법](/palo-alto-log-202007/#Whole_Foods_Discount)
+  * [Costco 침낭 구입 실패 후기](/palo-alto-log-202007/#Costco_Fail)
+  * [Walmart 침낭 구입 성공 후기](/palo-alto-log-202007/#Walmart_Success)
 * 운동/교육
   * [골프 클럽 구입 후기](/palo-alto-log-202002/#Golf_Lesson0)
   * [Menlo Park 도서관 1:1 영어회화 신청 후기](/palo-alto-log-202002/#Menlo_Park_Library)
@@ -417,6 +420,16 @@ toc_sticky: true
   * [Hedge Creek Falls 관람 후기](/palo-alto-log-202007/#Hedge_Creek_Falls)
   * [Mount Shasta City KOA 숙박 후기](/palo-alto-log-202007/#Mount_Shasta_City_KOA)
   * [Bunny Flat Trailhead 관람 후기](/palo-alto-log-202007/#Bunny_Flat_Trailhead)
+  * [Shasta KOA 캠핑장 이튿날 후기](/palo-alto-log-202007/#Goodbye_Shasta_KOA)
+  * [Mt Shasta City Park 후기](/palo-alto-log-202007/#Mt_Shasta_City_Park)
+  * [Crater National Park 입장 후기](/palo-alto-log-202007/#Crater_National_Park)
+  * [미국 국립공원 연간회원권 (Annual Pass) 구입하는 방법](/palo-alto-log-202007/#How_to_Buy_Annual_Pass)
+  * [Crater - Rim Village Visitor Center 이용 및 주변 관람 후기](/palo-alto-log-202007/#Rim_Village_Visitor_Center)
+  * [Crater - 멋진 경치의 Watchman Overlook 관람 후기](/palo-alto-log-202007/#Watchman_Overlook)
+  * [Waldport / Newport KOA 셀프 체크인 후기](/palo-alto-log-202007/#Newport_KOA)
+  * [Waldport / Newport KOA 캠핑장 이튿날 후기](/palo-alto-log-202007/#Goodbye_Newport_KOA)
+  * [해무가 가득한 Seal Rock 관람 후기](/palo-alto-log-202007/#Seal_Rock)
+  * [여행 일정 모두 취소하고 숙소에서 쉰 사연](/palo-alto-log-202007/#Cancel_Vacation)
 * 요리/식당
   * [호텔 무료 서비스를 즐기는 방법](/palo-alto-log-202002/#RI_MIX)
   * [저녁식사 초대받은 후기1](/palo-alto-log-202002/#Dinner_Invitation1)
@@ -456,6 +469,7 @@ toc_sticky: true
   * [저녁식사 초대한 후기6](/palo-alto-log-202007/#Dinner_Invitation6)
   * [Stanford 나들이 및 테이크아웃 후기](/palo-alto-log-202007/#Stanford_Takeout)
   * [점심식사 초대한 후기10](/palo-alto-log-202007/#Lunch_Invitation10)
+  * [Panda Express TakeOut 후기](/palo-alto-log-202007/#Panda_TakeOut)
 
 ---
 
@@ -893,3 +907,21 @@ toc_sticky: true
   * [Hedge Creek Falls 관람 후기](/palo-alto-log-202007/#Hedge_Creek_Falls)
   * [Mount Shasta City KOA 숙박 후기](/palo-alto-log-202007/#Mount_Shasta_City_KOA)
   * [Bunny Flat Trailhead 관람 후기](/palo-alto-log-202007/#Bunny_Flat_Trailhead)
+  * [Shasta KOA 캠핑장 이튿날 후기](/palo-alto-log-202007/#Goodbye_Shasta_KOA)
+  * [Mt Shasta City Park 후기](/palo-alto-log-202007/#Mt_Shasta_City_Park)
+  * [Crater National Park 입장 후기](/palo-alto-log-202007/#Crater_National_Park)
+  * [미국 국립공원 연간회원권 (Annual Pass) 구입하는 방법](/palo-alto-log-202007/#How_to_Buy_Annual_Pass)
+  * [Crater - Rim Village Visitor Center 이용 및 주변 관람 후기](/palo-alto-log-202007/#Rim_Village_Visitor_Center)
+  * [Crater - 멋진 경치의 Watchman Overlook 관람 후기](/palo-alto-log-202007/#Watchman_Overlook)
+  * [주유소 Pump에서 일부만 주유하는 방법](/palo-alto-log-202007/#Partial_Pump)
+  * [Costco 침낭 구입 실패 후기](/palo-alto-log-202007/#Costco_Fail)
+  * [Walmart 침낭 구입 성공 후기](/palo-alto-log-202007/#Walmart_Success)
+  * [Panda Express TakeOut 후기](/palo-alto-log-202007/#Panda_TakeOut)
+  * [Waldport / Newport KOA 셀프 체크인 후기](/palo-alto-log-202007/#Newport_KOA)
+  * [Waldport / Newport KOA 캠핑장 이튿날 후기](/palo-alto-log-202007/#Goodbye_Newport_KOA)
+  * [해무가 가득한 Seal Rock 관람 후기](/palo-alto-log-202007/#Seal_Rock)
+  * [여행 일정 모두 취소하고 숙소에서 쉰 사연](/palo-alto-log-202007/#Cancel_Vacation)
+
+  Goodbye_Motel6
+  Long_Drive
+  State_Inspection
