@@ -430,6 +430,9 @@ toc_sticky: true
   * [Waldport / Newport KOA 캠핑장 이튿날 후기](/palo-alto-log-202007/#Goodbye_Newport_KOA)
   * [해무가 가득한 Seal Rock 관람 후기](/palo-alto-log-202007/#Seal_Rock)
   * [여행 일정 모두 취소하고 숙소에서 쉰 사연](/palo-alto-log-202007/#Cancel_Vacation)
+  * [Yellowstone 여행 취소 결정 후 숙소 체크아웃 후기](/palo-alto-log-202007/#Goodbye_Motel6)
+  * [10시간 장거리 운전 후기](/palo-alto-log-202007/#Long_Drive)
+  * [주 이동간 검문 통과한 후기](/palo-alto-log-202007/#State_Inspection)
 * 요리/식당
   * [호텔 무료 서비스를 즐기는 방법](/palo-alto-log-202002/#RI_MIX)
   * [저녁식사 초대받은 후기1](/palo-alto-log-202002/#Dinner_Invitation1)
@@ -921,7 +924,6 @@ toc_sticky: true
   * [Waldport / Newport KOA 캠핑장 이튿날 후기](/palo-alto-log-202007/#Goodbye_Newport_KOA)
   * [해무가 가득한 Seal Rock 관람 후기](/palo-alto-log-202007/#Seal_Rock)
   * [여행 일정 모두 취소하고 숙소에서 쉰 사연](/palo-alto-log-202007/#Cancel_Vacation)
-
-  Goodbye_Motel6
-  Long_Drive
-  State_Inspection
+  * [Yellowstone 여행 취소 결정 후 숙소 체크아웃 후기](/palo-alto-log-202007/#Goodbye_Motel6)
+  * [10시간 장거리 운전 후기](/palo-alto-log-202007/#Long_Drive)
+  * [주 이동간 검문 통과한 후기](/palo-alto-log-202007/#State_Inspection)
