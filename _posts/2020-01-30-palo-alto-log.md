@@ -473,6 +473,7 @@ toc_sticky: true
   * [Stanford 나들이 및 테이크아웃 후기](/palo-alto-log-202007/#Stanford_Takeout)
   * [점심식사 초대한 후기10](/palo-alto-log-202007/#Lunch_Invitation10)
   * [Panda Express TakeOut 후기](/palo-alto-log-202007/#Panda_TakeOut)
+  * [저녁식사 초대받은 후기7](/palo-alto-log-202007/#Dinner_Invitation7)
 
 ---
 
@@ -927,3 +928,4 @@ toc_sticky: true
   * [Yellowstone 여행 취소 결정 후 숙소 체크아웃 후기](/palo-alto-log-202007/#Goodbye_Motel6)
   * [10시간 장거리 운전 후기](/palo-alto-log-202007/#Long_Drive)
   * [주 이동간 검문 통과한 후기](/palo-alto-log-202007/#State_Inspection)
+  * [저녁식사 초대받은 후기7](/palo-alto-log-202007/#Dinner_Invitation7)
