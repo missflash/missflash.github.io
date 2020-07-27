@@ -286,6 +286,8 @@ toc_sticky: true
   * [18Buddies 앱으로 골프장 예약 할인받는 방법](/palo-alto-log-202007/#18Buddies)
   * [첫 라운딩에서 거의 홀인원 할뻔한 사연](/palo-alto-log-202007/#Nice_Shot)
   * [연수동기와 헬스장에서 운동한 사연](/palo-alto-log-202007/#Fitness_Buddy)
+  * [One-on-One 영어회화 수업 후기35](/palo-alto-log-202007/#One-on-One35)
+  * [아이들 Wyzant 수업 후기10](/palo-alto-log-202007/#Wyzant10)
 * 여행/장소
   * [커뮤니티 번개 후기1](/palo-alto-log-202002/#Community_Event1)
   * [Half Moon Bay, Pigeon Point, Shark Fin Cove 등 관광 후기](/palo-alto-log-202002/#Half_Moon_Bay)
@@ -929,3 +931,5 @@ toc_sticky: true
   * [10시간 장거리 운전 후기](/palo-alto-log-202007/#Long_Drive)
   * [주 이동간 검문 통과한 후기](/palo-alto-log-202007/#State_Inspection)
   * [저녁식사 초대받은 후기7](/palo-alto-log-202007/#Dinner_Invitation7)
+  * [One-on-One 영어회화 수업 후기35](/palo-alto-log-202007/#One-on-One35)
+  * [아이들 Wyzant 수업 후기10](/palo-alto-log-202007/#Wyzant10)
