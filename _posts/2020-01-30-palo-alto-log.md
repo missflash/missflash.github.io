@@ -477,6 +477,7 @@ toc_sticky: true
   * [점심식사 초대한 후기10](/palo-alto-log-202007/#Lunch_Invitation10)
   * [Panda Express TakeOut 후기](/palo-alto-log-202007/#Panda_TakeOut)
   * [저녁식사 초대받은 후기7](/palo-alto-log-202007/#Dinner_Invitation7)
+  * [점심식사 초대한 후기11](/palo-alto-log-202007/#Lunch_Invitation11)
 
 ---
 
@@ -935,3 +936,4 @@ toc_sticky: true
   * [One-on-One 영어회화 수업 후기35](/palo-alto-log-202007/#One-on-One35)
   * [아이들 Wyzant 수업 후기10](/palo-alto-log-202007/#Wyzant10)
   * [Stanford Bechtel International, 1:1 영어회화 후기19](/palo-alto-log-202007/#EIA_Lesson19)
+  * [점심식사 초대한 후기11](/palo-alto-log-202007/#Lunch_Invitation11)
