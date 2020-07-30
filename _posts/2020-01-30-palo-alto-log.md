@@ -79,6 +79,8 @@ toc_sticky: true
   * [Stanford 식당에서 테이크아웃 한 후기](/palo-alto-log-202006/#Stanford_Takeout)
   * [Stanford - KAIST 첫 번째 연구미팅 후기](/palo-alto-log-202007/#1st_Research_Meeting)
   * [QCWare 온라인 미팅 후기](/palo-alto-log-202007/#QCWare)
+  * [미국 초등학교/유치원 입학시 필요한 TB Test 소개](/palo-alto-log-202007/#TB_Test)
+  * [TB Test 일정 변경한 사연](/palo-alto-log-202007/#Change_TB_Schedule)
 * 생활
   * [렌트카 조기 반납 방법](/palo-alto-log-202002/#Rentcar_Return)
   * [각종 서비스 이용시 최적의 문의 방법](/palo-alto-log-202002/#Customer_Contact)
@@ -139,6 +141,7 @@ toc_sticky: true
   * [호텔 예약중간에 에러 발생했는데 출금 정상 진행된 사연](/palo-alto-log-202007/#Unexpected_Payment)
   * [KOA 캠핑 무료 1박 예약한 사연](/palo-alto-log-202007/#KOA_Event)
   * [주유소 Pump에서 일부만 주유하는 방법](/palo-alto-log-202007/#Partial_Pump)
+  * [Yellowstone Campground 예약 수정하는 방법](/palo-alto-log-202007/#Modify_Yellowstone)
 * 쇼핑
   * [저렴한 핸드폰 요금제 선택 방법](/palo-alto-log-202001/#Prepaid_Plan)
   * [중고차 구입 방법](/palo-alto-log-202001/#Used_Car)
@@ -291,6 +294,7 @@ toc_sticky: true
   * [Stanford Bechtel International, 1:1 영어회화 후기19](/palo-alto-log-202007/#EIA_Lesson19)
   * [One-on-One 영어회화 수업 후기36](/palo-alto-log-202007/#One-on-One36)
   * [Menlo Park 도서관 Conversation Club 후기12](/palo-alto-log-202007/#Conversation_Club12)
+  * [아이들 Wyzant 수업 후기11](/palo-alto-log-202007/#Wyzant11)
 * 여행/장소
   * [커뮤니티 번개 후기1](/palo-alto-log-202002/#Community_Event1)
   * [Half Moon Bay, Pigeon Point, Shark Fin Cove 등 관광 후기](/palo-alto-log-202002/#Half_Moon_Bay)
@@ -941,3 +945,7 @@ toc_sticky: true
   * [점심식사 초대한 후기11](/palo-alto-log-202007/#Lunch_Invitation11)
   * [One-on-One 영어회화 수업 후기36](/palo-alto-log-202007/#One-on-One36)
   * [Menlo Park 도서관 Conversation Club 후기12](/palo-alto-log-202007/#Conversation_Club12)
+  * [미국 초등학교/유치원 입학시 필요한 TB Test 소개](/palo-alto-log-202007/#TB_Test)
+  * [TB Test 일정 변경한 사연](/palo-alto-log-202007/#Change_TB_Schedule)
+  * [아이들 Wyzant 수업 후기11](/palo-alto-log-202007/#Wyzant11)
+  * [Yellowstone Campground 예약 수정하는 방법](/palo-alto-log-202007/#Modify_Yellowstone)
