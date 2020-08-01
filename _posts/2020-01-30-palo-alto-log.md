@@ -484,6 +484,7 @@ toc_sticky: true
   * [Panda Express TakeOut 후기](/palo-alto-log-202007/#Panda_TakeOut)
   * [저녁식사 초대받은 후기7](/palo-alto-log-202007/#Dinner_Invitation7)
   * [점심식사 초대한 후기11](/palo-alto-log-202007/#Lunch_Invitation11)
+  * [점심식사 초대받은 후기12](/palo-alto-log-202007/#Lunch_Invitation12)
 
 ---
 
@@ -949,3 +950,4 @@ toc_sticky: true
   * [TB Test 일정 변경한 사연](/palo-alto-log-202007/#Change_TB_Schedule)
   * [아이들 Wyzant 수업 후기11](/palo-alto-log-202007/#Wyzant11)
   * [Yellowstone Campground 예약 수정하는 방법](/palo-alto-log-202007/#Modify_Yellowstone)
+  * [점심식사 초대받은 후기12](/palo-alto-log-202007/#Lunch_Invitation12)
