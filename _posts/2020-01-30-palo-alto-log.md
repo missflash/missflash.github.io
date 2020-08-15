@@ -1,4 +1,4 @@
----
+CheckOut---
 title: "Palo Alto Log"
 date: 2020. 1. 30. 오후 11:09:11
 categories:
@@ -371,7 +371,7 @@ toc_sticky: true
   * [Grand Canyon 일출보면서 친구 사귄 사연](/palo-alto-log-202006/#Make_A_Friend)
   * [Grand Canyon Trail 도전 실패 후기](/palo-alto-log-202006/#Trail_Fail)
   * [Grand Canyon에서 화가 만난 사연](/palo-alto-log-202006/#Grand_Canyon_Painting)
-  * [Maswik Lodge 체크아웃 후기](/palo-alto-log-202006/#Maswik_Lodge_Checkout)
+  * [Maswik Lodge 체크아웃 후기](/palo-alto-log-202006/#Maswik_Lodge_CheckOut)
   * [Grand Canyon Trail of Time 체험 후기](/palo-alto-log-202006/#Trail_of_Time)
   * [Grand Canyon과 Las Vegas 정보교환 후기](/palo-alto-log-202006/#Data_Exchange)
   * [Las Vegas 최악의 호텔, Jockey Club 숙박 후기](/palo-alto-log-202006/#Jockey_Club)
@@ -386,7 +386,7 @@ toc_sticky: true
   * [Welcome to Fabulous Las Vegas Sign 기념사진 촬영 후기](/palo-alto-log-202006/#Welcome_to_Fabulous_Las_Vegas_Sign)
   * [Four Points by Sheraton Bakersfield 체크인 후기](/palo-alto-log-202006/#Four_Points)
   * [놀이터와 물놀이장이 멋진 Jastro Park 나들이 후기](/palo-alto-log-202006/#Jastro_Park)
-  * [호텔 카드키 작동되지 않은 사연](/palo-alto-log-202006/#Late_Checkout)
+  * [호텔 카드키 작동되지 않은 사연](/palo-alto-log-202006/#Late_CheckOut)
   * [고속도로 주유소 최저가 낚인 사연](/palo-alto-log-202006/#Fake_Gas)
   * [미국에서의 첫 번째 캠핑 후기1](/palo-alto-log-202006/#First_Camping1)
   * [미국에서의 첫 번째 캠핑 후기2](/palo-alto-log-202006/#First_Camping2)
@@ -466,11 +466,11 @@ toc_sticky: true
   * [San Diego Metro KOA 캠핑 마지막 밤 후기](/palo-alto-log-202008/#San_Diego_3rd_Night)
   * [San Diego Metro KOA 캠핑 체크아웃 후기](/palo-alto-log-202008/#San_Diego_4th_Day)
   * [처음으로 하루 10시간 장거리 운전 무사히 마친 후기](/palo-alto-log-202008/#Long_Drive_to_Utah)
-  * [만족스러운 Fillmore KOA 체크인 후기](/palo-alto-log-202008/#Fillmore_KOA_Checkin)
+  * [만족스러운 Fillmore KOA 체크인 후기](/palo-alto-log-202008/#Fillmore_KOA_CheckIn)
   * [Fillmore KOA 마지막 체크아웃 후기](/palo-alto-log-202008/#Fillmore_KOA_CheckOut)
   * [Real Life UP House 관람 후기](/palo-alto-log-202008/#Real_Life_UP_House)
   * [Wheeler Historic Farm 관람 후기](/palo-alto-log-202008/#Wheeler_Historic_Farm)
-  * [Idaho Falls 호텔 체크인 후기](/palo-alto-log-202008/#Idaho_Falls_Checkin)
+  * [Idaho Falls 호텔 체크인 후기](/palo-alto-log-202008/#Idaho_Falls_CheckIn)
 * 요리/식당
   * [호텔 무료 서비스를 즐기는 방법](/palo-alto-log-202002/#RI_MIX)
   * [저녁식사 초대받은 후기1](/palo-alto-log-202002/#Dinner_Invitation1)
@@ -833,7 +833,7 @@ toc_sticky: true
   * [Grand Canyon 일출보면서 친구 사귄 사연](/palo-alto-log-202006/#Make_A_Friend)
   * [Grand Canyon Trail 도전 실패 후기](/palo-alto-log-202006/#Trail_Fail)
   * [Grand Canyon에서 화가 만난 사연](/palo-alto-log-202006/#Grand_Canyon_Painting)
-  * [Maswik Lodge 체크아웃 후기](/palo-alto-log-202006/#Maswik_Lodge_Checkout)
+  * [Maswik Lodge 체크아웃 후기](/palo-alto-log-202006/#Maswik_Lodge_CheckOut)
   * [Grand Canyon Trail of Time 체험 후기](/palo-alto-log-202006/#Trail_of_Time)
   * [Grand Canyon과 Las Vegas 정보교환 후기](/palo-alto-log-202006/#Data_Exchange)
   * [미국에서 최저가 주유소 검색하는 방법](/palo-alto-log-202006/#Gas_Buddy)
@@ -853,7 +853,7 @@ toc_sticky: true
   * [아이들 Wyzant 수업 후기3](/palo-alto-log-202006/#Wyzant3)
   * [놀이터와 물놀이장이 멋진 Jastro Park 나들이 후기](/palo-alto-log-202006/#Jastro_Park)
   * [미국에서 처음으로 스시 먹은 후기](/palo-alto-log-202006/#1st_Sushi)
-  * [호텔 카드키 작동되지 않은 사연](/palo-alto-log-202006/#Late_Checkout)
+  * [호텔 카드키 작동되지 않은 사연](/palo-alto-log-202006/#Late_CheckOut)
   * [고속도로 주유소 최저가 낚인 사연](/palo-alto-log-202006/#Fake_Gas)
   * [아이들 선물 M&M 디스펜서 쏟은 사연](/palo-alto-log-202006/#M_M_Accident)
   * [One-on-One 영어회화 수업 후기27](/palo-alto-log-202006/#One-on-One27)
@@ -1008,8 +1008,8 @@ toc_sticky: true
   * [San Diego Metro KOA 캠핑 마지막 밤 후기](/palo-alto-log-202008/#San_Diego_3rd_Night)
   * [San Diego Metro KOA 캠핑 체크아웃 후기](/palo-alto-log-202008/#San_Diego_4th_Day)
   * [처음으로 하루 10시간 장거리 운전 무사히 마친 후기](/palo-alto-log-202008/#Long_Drive_to_Utah)
-  * [만족스러운 Fillmore KOA 체크인 후기](/palo-alto-log-202008/#Fillmore_KOA_Checkin)
+  * [만족스러운 Fillmore KOA 체크인 후기](/palo-alto-log-202008/#Fillmore_KOA_CheckIn)
   * [Fillmore KOA 마지막 체크아웃 후기](/palo-alto-log-202008/#Fillmore_KOA_CheckOut)
   * [Real Life UP House 관람 후기](/palo-alto-log-202008/#Real_Life_UP_House)
   * [Wheeler Historic Farm 관람 후기](/palo-alto-log-202008/#Wheeler_Historic_Farm)
-  * [Idaho Falls 호텔 체크인 후기](/palo-alto-log-202008/#Idaho_Falls_Checkin)
+  * [Idaho Falls 호텔 체크인 후기](/palo-alto-log-202008/#Idaho_Falls_CheckIn)
