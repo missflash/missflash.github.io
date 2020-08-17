@@ -450,7 +450,7 @@ toc_sticky: true
   * [Solvang 1일차 관람 후기](/palo-alto-log-202008/#Solvang_1st_Day)
   * [Marco Polo 하다가 안전사고 일어날뻔한 사연](/palo-alto-log-202008/#Marco_Polo)
   * [Solvang 2일차 관람 후기](/palo-alto-log-202008/#Solvang_2nd_Day)
-  * [Cosmopoitan 호텔을 최저가로 예약한 사연](/palo-alto-log-202008/#BRG_Success)
+  * [Cosmopolitan 호텔을 최저가로 예약한 사연](/palo-alto-log-202008/#BRG_Success)
   * [드넓은 해변의 Santa Monica 관람 후기](/palo-alto-log-202008/#Santa_Monica)
   * [아내가 운전하다가 사고날뻔한 사연](/palo-alto-log-202008/#Almost_Accident)
   * [San Diego Metro KOA 캠핑 1일차 숙박 후기](/palo-alto-log-202008/#San_Diego_1st_Day)
@@ -517,6 +517,22 @@ toc_sticky: true
   * [오랜 여행으로 발견한 이심전심 주행 에피소드](/palo-alto-log-202008/#Funny_Drive)
   * [Zion Canyon National Park, Narrow Trail 관람 후기](/palo-alto-log-202008/#Zion_Canyon_National_Park)
   * [My Place Hotel 체크인 후기](/palo-alto-log-202008/#My_Place_Hotel_CheckIn)
+  * [My Place Hotel 체크아웃 후기](/palo-alto-log-202008/#My_Place_Hotel_CheckOut)
+  * [멋진 Zion Canyon 드라이브 후기](/palo-alto-log-202008/#Zion_Canyon_Drive)
+  * [Red Canyon 관람 못한 후기](/palo-alto-log-202008/#Red_Canyon)
+  * [Bryce Canyon Visitor Centor 관람 후기](/palo-alto-log-202008/#Bryce_Canyon)
+  * [Inspiration Point 관람 후기](/palo-alto-log-202008/#Inspiration_Point)
+  * [Rainbow Point 관람 후기](/palo-alto-log-202008/#Rainbow_Point)
+  * [Natural Bridge Point 관람 후기](/palo-alto-log-202008/#Natural_Bridge)
+  * [Sunset Point 관람 후기](/palo-alto-log-202008/#Sunset_Point)
+  * [Best Western Plus Ruby's Inn 체크인 후기](/palo-alto-log-202008/#Rubys_Inn_CheckIn)
+  * [Best Western Plus Ruby's Inn 체크아웃 후기](/palo-alto-log-202008/#Rubys_Inn_CheckOut)
+  * [Navajo Loop Trail 첫 번째 후기](/palo-alto-log-202008/#Navajo_Loop_Trail_1st)
+  * [RIM Trail 후기](/palo-alto-log-202008/#RIM_Trail)
+  * [Bryce Canyon Visiting Center에서 Junior Ranger 뱃지 수령한 후기](/palo-alto-log-202008/#Bryce_Canyon_Visiting_Center)
+  * [Navajo Loop Trail 두 번째 후기](/palo-alto-log-202008/#Navajo_Loop_Trail_2nd)
+  * [Las Vegas로 가는 긴 여정 후기](/palo-alto-log-202008/#Long_Drive_to_LV)
+  * [최고의 전망을 자랑하는 Cosmopolitan 체크인 후기](/palo-alto-log-202008/#Cosmopolitan_CheckIn)
 * 요리/식당
   * [호텔 무료 서비스를 즐기는 방법](/palo-alto-log-202002/#RI_MIX)
   * [저녁식사 초대받은 후기1](/palo-alto-log-202002/#Dinner_Invitation1)
@@ -1037,7 +1053,7 @@ toc_sticky: true
   * [Marco Polo 하다가 안전사고 일어날뻔한 사연](/palo-alto-log-202008/#Marco_Polo)
   * [Solvang 2일차 관람 후기](/palo-alto-log-202008/#Solvang_2nd_Day)
   * [주유소에서 차량을 청소하는 꿀팁!](/palo-alto-log-202008/#Cleaning_Car)
-  * [Cosmopoitan 호텔을 최저가로 예약한 사연](/palo-alto-log-202008/#BRG_Success)
+  * [Cosmopolitan 호텔을 최저가로 예약한 사연](/palo-alto-log-202008/#BRG_Success)
   * [드넓은 해변의 Santa Monica 관람 후기](/palo-alto-log-202008/#Santa_Monica)
   * [아내가 운전하다가 사고날뻔한 사연](/palo-alto-log-202008/#Almost_Accident)
   * [San Diego Metro KOA 캠핑 1일차 숙박 후기](/palo-alto-log-202008/#San_Diego_1st_Day)
@@ -1105,3 +1121,27 @@ toc_sticky: true
   * [오랜 여행으로 발견한 이심전심 주행 에피소드](/palo-alto-log-202008/#Funny_Drive)
   * [Zion Canyon National Park, Narrow Trail 관람 후기](/palo-alto-log-202008/#Zion_Canyon_National_Park)
   * [My Place Hotel 체크인 후기](/palo-alto-log-202008/#My_Place_Hotel_CheckIn)
+  * [My Place Hotel 체크아웃 후기](/palo-alto-log-202008/#My_Place_Hotel_CheckOut)
+  * [멋진 Zion Canyon 드라이브 후기](/palo-alto-log-202008/#Zion_Canyon_Drive)
+  * [Red Canyon 관람 못한 후기](/palo-alto-log-202008/#Red_Canyon)
+  * [Bryce Canyon Visitor Centor 관람 후기](/palo-alto-log-202008/#Bryce_Canyon)
+  * [Inspiration Point 관람 후기](/palo-alto-log-202008/#Inspiration_Point)
+  * [Rainbow Point 관람 후기](/palo-alto-log-202008/#Rainbow_Point)
+  * [Natural Bridge Point 관람 후기](/palo-alto-log-202008/#Natural_Bridge)
+  * [Sunset Point 관람 후기](/palo-alto-log-202008/#Sunset_Point)
+  * [Best Western Plus Ruby's Inn 체크인 후기](/palo-alto-log-202008/#Rubys_Inn_CheckIn)
+  * [Best Western Plus Ruby's Inn 체크아웃 후기](/palo-alto-log-202008/#Rubys_Inn_CheckOut)
+  * [Navajo Loop Trail 첫 번째 후기](/palo-alto-log-202008/#Navajo_Loop_Trail_1st)
+  * [RIM Trail 후기](/palo-alto-log-202008/#RIM_Trail)
+  * [Bryce Canyon Visiting Center에서 Junior Ranger 뱃지 수령한 후기](/palo-alto-log-202008/#Bryce_Canyon_Visiting_Center)
+  * [Navajo Loop Trail 두 번째 후기](/palo-alto-log-202008/#Navajo_Loop_Trail_2nd)
+  * [Las Vegas로 가는 긴 여정 후기](/palo-alto-log-202008/#Long_Drive_to_LV)
+  * [최고의 전망을 자랑하는 Cosmopolitan 체크인 후기](/palo-alto-log-202008/#Cosmopolitan_CheckIn)
+
+
+
+
+
+
+
+  Cosmopolitan_CheckIn
