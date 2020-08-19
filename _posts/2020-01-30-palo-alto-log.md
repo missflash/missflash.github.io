@@ -81,6 +81,8 @@ toc_sticky: true
   * [QCWare 온라인 미팅 후기](/palo-alto-log-202007/#QCWare)
   * [미국 초등학교/유치원 입학시 필요한 TB Test 소개](/palo-alto-log-202007/#TB_Test)
   * [TB Test 일정 변경한 사연](/palo-alto-log-202007/#Change_TB_Schedule)
+  * [Santa Rita 초등학교/유치원에서 아이들 교재 수령한 후기](/palo-alto-log-202008/#Santa_Rita_1st_Visit)
+  * [한국의사가 진료하는 소아과에서 TB Test 진행한 후기](/palo-alto-log-202008/#PKS_MD_TB_Test)
 * 생활
   * [렌트카 조기 반납 방법](/palo-alto-log-202002/#Rentcar_Return)
   * [각종 서비스 이용시 최적의 문의 방법](/palo-alto-log-202002/#Customer_Contact)
@@ -1147,7 +1149,9 @@ toc_sticky: true
   * [다시 찾은 m&m World 방문 후기](/palo-alto-log-202008/#mm_World)
   * [어른들을 위한 쇼핑몰, World of Coca Cola 방문 후기](/palo-alto-log-202008/#World_of_Coca_Cola)
   * [여행의 마지막 식사를 위해 다시 찾은 Shake Shake 이용 후기](/palo-alto-log-202008/#Shake_Shake)
+  * [Santa Rita 초등학교/유치원에서 아이들 교재 수령한 후기](/palo-alto-log-202008/#Santa_Rita_1st_Visit)
+  * [한국의사가 진료하는 소아과에서 TB Test 진행한 후기](/palo-alto-log-202008/#PKS_MD_TB_Test)
 
-  Santa_Rita_1st_Visit
-  PKS_MD_TB_Test
-  
+  Kinder_Class1
+  One-on-One37
+  Conversation_Club13
