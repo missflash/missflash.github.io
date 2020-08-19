@@ -533,6 +533,10 @@ toc_sticky: true
   * [Navajo Loop Trail 두 번째 후기](/palo-alto-log-202008/#Navajo_Loop_Trail_2nd)
   * [Las Vegas로 가는 긴 여정 후기](/palo-alto-log-202008/#Long_Drive_to_LV)
   * [최고의 전망을 자랑하는 Cosmopolitan 체크인 후기](/palo-alto-log-202008/#Cosmopolitan_CheckIn)
+  * [최고의 전망을 자랑하는 Cosmopolitan 체크아웃 후기](/palo-alto-log-202008/#Cosmopolitan_CheckOut)
+  * [Las Vegas에서 경험하는 작은 유럽, Venetian Hotel 관람 후기](/palo-alto-log-202008/#Venetian_Hotel)
+  * [다시 찾은 m&m World 방문 후기](/palo-alto-log-202008/#mm_World)
+  * [어른들을 위한 쇼핑몰, World of Coca Cola 방문 후기](/palo-alto-log-202008/#World_of_Coca_Cola)
 * 요리/식당
   * [호텔 무료 서비스를 즐기는 방법](/palo-alto-log-202002/#RI_MIX)
   * [저녁식사 초대받은 후기1](/palo-alto-log-202002/#Dinner_Invitation1)
@@ -577,6 +581,7 @@ toc_sticky: true
   * [점심식사 초대한 후기11](/palo-alto-log-202007/#Lunch_Invitation11)
   * [점심식사 초대받은 후기12](/palo-alto-log-202007/#Lunch_Invitation12)
   * [추천 Mexican 음식점, Cafe Coyote 이용 후기](/palo-alto-log-202008/#Cafe_Coyote)
+  * [여행의 마지막 식사를 위해 다시 찾은 Shake Shake 이용 후기](/palo-alto-log-202008/#Shake_Shake)
 
 ---
 
@@ -1137,11 +1142,12 @@ toc_sticky: true
   * [Navajo Loop Trail 두 번째 후기](/palo-alto-log-202008/#Navajo_Loop_Trail_2nd)
   * [Las Vegas로 가는 긴 여정 후기](/palo-alto-log-202008/#Long_Drive_to_LV)
   * [최고의 전망을 자랑하는 Cosmopolitan 체크인 후기](/palo-alto-log-202008/#Cosmopolitan_CheckIn)
+  * [최고의 전망을 자랑하는 Cosmopolitan 체크아웃 후기](/palo-alto-log-202008/#Cosmopolitan_CheckOut)
+  * [Las Vegas에서 경험하는 작은 유럽, Venetian Hotel 관람 후기](/palo-alto-log-202008/#Venetian_Hotel)
+  * [다시 찾은 m&m World 방문 후기](/palo-alto-log-202008/#mm_World)
+  * [어른들을 위한 쇼핑몰, World of Coca Cola 방문 후기](/palo-alto-log-202008/#World_of_Coca_Cola)
+  * [여행의 마지막 식사를 위해 다시 찾은 Shake Shake 이용 후기](/palo-alto-log-202008/#Shake_Shake)
 
-
-
-
-
-
-
+  Santa_Rita_1st_Visit
+  PKS_MD_TB_Test
   
