@@ -1171,3 +1171,5 @@ toc_sticky: true
   * [San Jose Municipal Rose Garden 방문 후기](/palo-alto-log-202008/#Municipal_Rose_Garden)
   * [처음으로 방문한 패스트푸드, Jack in the Box 이용 후기](/palo-alto-log-202008/#Jack_in_the_Box)
   * [Chase Bank 계좌 개설 후기](/palo-alto-log-202008/#Chase_Bank)
+
+  * [미국 유치원 수업 후기3](/palo-alto-log-202008/#Kinder_Class3)
