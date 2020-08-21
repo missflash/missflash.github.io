@@ -52,6 +52,7 @@ toc_sticky: true
   * [미국 계좌를 PayPal에 추가하는 방법](/palo-alto-log-202003/#PayPal)
   * [미국 타은행간 무료 계좌 이체 방법](/palo-alto-log-202003/#Zelle)
   * [미국 주별 운전면허 발급규정 차이](/palo-alto-log-202005/#Driver_License)
+  * [Chase Bank 계좌 개설 후기](/palo-alto-log-202008/#Chase_Bank)
 * Stanford/자녀
   * [Stanford ID Card 발급 방법](/palo-alto-log-202001/#Stanford_ID)
   * [Stanford 주차권 발급 방법](/palo-alto-log-202002/#Parking_Permit)
@@ -83,6 +84,7 @@ toc_sticky: true
   * [TB Test 일정 변경한 사연](/palo-alto-log-202007/#Change_TB_Schedule)
   * [Santa Rita 초등학교/유치원에서 아이들 교재 수령한 후기](/palo-alto-log-202008/#Santa_Rita_1st_Visit)
   * [한국의사가 진료하는 소아과에서 TB Test 진행한 후기](/palo-alto-log-202008/#PKS_MD_TB_Test)
+  * [TB Test 추가 진행하게 된 사연](/palo-alto-log-202008/#Additional_Test)
 * 생활
   * [렌트카 조기 반납 방법](/palo-alto-log-202002/#Rentcar_Return)
   * [각종 서비스 이용시 최적의 문의 방법](/palo-alto-log-202002/#Customer_Contact)
@@ -193,6 +195,7 @@ toc_sticky: true
   * [Whole Foods 할인받는 방법](/palo-alto-log-202007/#Whole_Foods_Discount)
   * [Costco 침낭 구입 실패 후기](/palo-alto-log-202007/#Costco_Fail)
   * [Walmart 침낭 구입 성공 후기](/palo-alto-log-202007/#Walmart_Success)
+  * [미국 백화점 Macy's 첫 이용 후기](/palo-alto-log-202008/#Macys)
 * 운동/교육
   * [골프 클럽 구입 후기](/palo-alto-log-202002/#Golf_Lesson0)
   * [Menlo Park 도서관 1:1 영어회화 신청 후기](/palo-alto-log-202002/#Menlo_Park_Library)
@@ -298,6 +301,11 @@ toc_sticky: true
   * [One-on-One 영어회화 수업 후기36](/palo-alto-log-202007/#One-on-One36)
   * [Menlo Park 도서관 Conversation Club 후기12](/palo-alto-log-202007/#Conversation_Club12)
   * [아이들 Wyzant 수업 후기11](/palo-alto-log-202007/#Wyzant11)
+  * [미국 유치원 수업 후기1](/palo-alto-log-202008/#Kinder_Class1)
+  * [One-on-One 영어회화 수업 후기37](/palo-alto-log-202008/#One-on-One37)
+  * [Menlo Park 도서관 Conversation Club 후기13](/palo-alto-log-202008/#Conversation_Club13)
+  * [미국 유치원 수업 후기2](/palo-alto-log-202008/#Kinder_Class2)
+  * [Stanford Bechtel International, 1:1 영어회화 후기20](/palo-alto-log-202008/#EIA_Lesson20)
 * 여행/장소
   * [커뮤니티 번개 후기1](/palo-alto-log-202002/#Community_Event1)
   * [Half Moon Bay, Pigeon Point, Shark Fin Cove 등 관광 후기](/palo-alto-log-202002/#Half_Moon_Bay)
@@ -539,6 +547,7 @@ toc_sticky: true
   * [Las Vegas에서 경험하는 작은 유럽, Venetian Hotel 관람 후기](/palo-alto-log-202008/#Venetian_Hotel)
   * [다시 찾은 m&m World 방문 후기](/palo-alto-log-202008/#mm_World)
   * [어른들을 위한 쇼핑몰, World of Coca Cola 방문 후기](/palo-alto-log-202008/#World_of_Coca_Cola)
+  * [San Jose Municipal Rose Garden 방문 후기](/palo-alto-log-202008/#Municipal_Rose_Garden)
 * 요리/식당
   * [호텔 무료 서비스를 즐기는 방법](/palo-alto-log-202002/#RI_MIX)
   * [저녁식사 초대받은 후기1](/palo-alto-log-202002/#Dinner_Invitation1)
@@ -584,6 +593,7 @@ toc_sticky: true
   * [점심식사 초대받은 후기12](/palo-alto-log-202007/#Lunch_Invitation12)
   * [추천 Mexican 음식점, Cafe Coyote 이용 후기](/palo-alto-log-202008/#Cafe_Coyote)
   * [여행의 마지막 식사를 위해 다시 찾은 Shake Shake 이용 후기](/palo-alto-log-202008/#Shake_Shake)
+  * [처음으로 방문한 패스트푸드, Jack in the Box 이용 후기](/palo-alto-log-202008/#Jack_in_the_Box)
 
 ---
 
@@ -1151,7 +1161,13 @@ toc_sticky: true
   * [여행의 마지막 식사를 위해 다시 찾은 Shake Shake 이용 후기](/palo-alto-log-202008/#Shake_Shake)
   * [Santa Rita 초등학교/유치원에서 아이들 교재 수령한 후기](/palo-alto-log-202008/#Santa_Rita_1st_Visit)
   * [한국의사가 진료하는 소아과에서 TB Test 진행한 후기](/palo-alto-log-202008/#PKS_MD_TB_Test)
-
-  Kinder_Class1
-  One-on-One37
-  Conversation_Club13
+  * [미국 유치원 수업 후기1](/palo-alto-log-202008/#Kinder_Class1)
+  * [One-on-One 영어회화 수업 후기37](/palo-alto-log-202008/#One-on-One37)
+  * [Menlo Park 도서관 Conversation Club 후기13](/palo-alto-log-202008/#Conversation_Club13)
+  * [미국 유치원 수업 후기2](/palo-alto-log-202008/#Kinder_Class2)
+  * [Stanford Bechtel International, 1:1 영어회화 후기20](/palo-alto-log-202008/#EIA_Lesson20)
+  * [TB Test 추가 진행하게 된 사연](/palo-alto-log-202008/#Additional_Test)
+  * [미국 백화점 Macy's 첫 이용 후기](/palo-alto-log-202008/#Macys)
+  * [San Jose Municipal Rose Garden 방문 후기](/palo-alto-log-202008/#Municipal_Rose_Garden)
+  * [처음으로 방문한 패스트푸드, Jack in the Box 이용 후기](/palo-alto-log-202008/#Jack_in_the_Box)
+  * [Chase Bank 계좌 개설 후기](/palo-alto-log-202008/#Chase_Bank)
