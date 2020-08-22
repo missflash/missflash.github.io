@@ -306,6 +306,7 @@ toc_sticky: true
   * [Menlo Park 도서관 Conversation Club 후기13](/palo-alto-log-202008/#Conversation_Club13)
   * [미국 유치원 수업 후기2](/palo-alto-log-202008/#Kinder_Class2)
   * [Stanford Bechtel International, 1:1 영어회화 후기20](/palo-alto-log-202008/#EIA_Lesson20)
+  * [미국 유치원 수업 후기3](/palo-alto-log-202008/#Kinder_Class3)
 * 여행/장소
   * [커뮤니티 번개 후기1](/palo-alto-log-202002/#Community_Event1)
   * [Half Moon Bay, Pigeon Point, Shark Fin Cove 등 관광 후기](/palo-alto-log-202002/#Half_Moon_Bay)
@@ -1171,5 +1172,4 @@ toc_sticky: true
   * [San Jose Municipal Rose Garden 방문 후기](/palo-alto-log-202008/#Municipal_Rose_Garden)
   * [처음으로 방문한 패스트푸드, Jack in the Box 이용 후기](/palo-alto-log-202008/#Jack_in_the_Box)
   * [Chase Bank 계좌 개설 후기](/palo-alto-log-202008/#Chase_Bank)
-
   * [미국 유치원 수업 후기3](/palo-alto-log-202008/#Kinder_Class3)
