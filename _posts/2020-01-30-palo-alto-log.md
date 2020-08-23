@@ -147,6 +147,7 @@ toc_sticky: true
   * [주유소 Pump에서 일부만 주유하는 방법](/palo-alto-log-202007/#Partial_Pump)
   * [Yellowstone Campground 예약 수정하는 방법](/palo-alto-log-202007/#Modify_Yellowstone)
   * [주유소에서 차량을 청소하는 꿀팁!](/palo-alto-log-202008/#Cleaning_Car)
+  * [Tesla Model X 시승 후기!](/palo-alto-log-202008/#Tesla_Driving)
 * 쇼핑
   * [저렴한 핸드폰 요금제 선택 방법](/palo-alto-log-202001/#Prepaid_Plan)
   * [중고차 구입 방법](/palo-alto-log-202001/#Used_Car)
@@ -549,6 +550,8 @@ toc_sticky: true
   * [다시 찾은 m&m World 방문 후기](/palo-alto-log-202008/#mm_World)
   * [어른들을 위한 쇼핑몰, World of Coca Cola 방문 후기](/palo-alto-log-202008/#World_of_Coca_Cola)
   * [San Jose Municipal Rose Garden 방문 후기](/palo-alto-log-202008/#Municipal_Rose_Garden)
+  * [Palo Alto Farmers Market 나들이 후기](/palo-alto-log-202008/#Palo_Alto_Farmers_Market)
+  * [Palo Alto Downtown 나들이 후기](/palo-alto-log-202008/#Palo_Alto_Downtown)
 * 요리/식당
   * [호텔 무료 서비스를 즐기는 방법](/palo-alto-log-202002/#RI_MIX)
   * [저녁식사 초대받은 후기1](/palo-alto-log-202002/#Dinner_Invitation1)
@@ -1173,3 +1176,6 @@ toc_sticky: true
   * [처음으로 방문한 패스트푸드, Jack in the Box 이용 후기](/palo-alto-log-202008/#Jack_in_the_Box)
   * [Chase Bank 계좌 개설 후기](/palo-alto-log-202008/#Chase_Bank)
   * [미국 유치원 수업 후기3](/palo-alto-log-202008/#Kinder_Class3)
+  * [Palo Alto Farmers Market 나들이 후기](/palo-alto-log-202008/#Palo_Alto_Farmers_Market)
+  * [Palo Alto Downtown 나들이 후기](/palo-alto-log-202008/#Palo_Alto_Downtown)
+  * [Tesla Model X 시승 후기!](/palo-alto-log-202008/#Tesla_Driving)
