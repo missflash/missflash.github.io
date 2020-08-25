@@ -1183,3 +1183,7 @@ toc_sticky: true
   * [Tesla Model X 시승 후기!](/palo-alto-log-202008/#Tesla_Driving)
   * [Mountain View Farmers Market 나들이 후기](/palo-alto-log-202008/#Mountain_View_Farmers_Market)
   * [점심식사 초대받은 후기13](/palo-alto-log-202007/#Lunch_Invitation13)
+
+  Kinder_Class4
+  * [One-on-One 영어회화 수업 후기38](/palo-alto-log-202008/#One-on-One38)
+  Kinder_Class5
