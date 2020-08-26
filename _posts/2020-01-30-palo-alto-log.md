@@ -197,6 +197,7 @@ toc_sticky: true
   * [Costco 침낭 구입 실패 후기](/palo-alto-log-202007/#Costco_Fail)
   * [Walmart 침낭 구입 성공 후기](/palo-alto-log-202007/#Walmart_Success)
   * [미국 백화점 Macy's 첫 이용 후기](/palo-alto-log-202008/#Macys)
+  * [Pull-up Station 구매 및 설치 후기](/palo-alto-log-202008/#Pullup_Station)
 * 운동/교육
   * [골프 클럽 구입 후기](/palo-alto-log-202002/#Golf_Lesson0)
   * [Menlo Park 도서관 1:1 영어회화 신청 후기](/palo-alto-log-202002/#Menlo_Park_Library)
@@ -308,6 +309,12 @@ toc_sticky: true
   * [미국 유치원 수업 후기2](/palo-alto-log-202008/#Kinder_Class2)
   * [Stanford Bechtel International, 1:1 영어회화 후기20](/palo-alto-log-202008/#EIA_Lesson20)
   * [미국 유치원 수업 후기3](/palo-alto-log-202008/#Kinder_Class3)
+  * [미국 유치원 수업 후기4](/palo-alto-log-202008/#Kinder_Class4)
+  * [One-on-One 영어회화 수업 후기38](/palo-alto-log-202008/#One-on-One38)
+  * [미국 유치원 수업 후기5](/palo-alto-log-202008/#Kinder_Class5)
+  * [미국 유치원 첫 번째 테스트 진행 후기](/palo-alto-log-202008/#Kinder_Test1)
+  * [Stanford Bechtel International, 1:1 영어회화 후기21](/palo-alto-log-202008/#EIA_Lesson21)
+  * [아이들 Wyzant 수업 후기12](/palo-alto-log-202007/#Wyzant12)
 * 여행/장소
   * [커뮤니티 번개 후기1](/palo-alto-log-202002/#Community_Event1)
   * [Half Moon Bay, Pigeon Point, Shark Fin Cove 등 관광 후기](/palo-alto-log-202002/#Half_Moon_Bay)
@@ -553,6 +560,7 @@ toc_sticky: true
   * [Palo Alto Farmers Market 나들이 후기](/palo-alto-log-202008/#Palo_Alto_Farmers_Market)
   * [Palo Alto Downtown 나들이 후기](/palo-alto-log-202008/#Palo_Alto_Downtown)
   * [Mountain View Farmers Market 나들이 후기](/palo-alto-log-202008/#Mountain_View_Farmers_Market)
+  * [어른들도 즐거운 Magical Bridge Playground 방문 후기](/palo-alto-log-202007/#Magical_Bridge_Playground)
 * 요리/식당
   * [호텔 무료 서비스를 즐기는 방법](/palo-alto-log-202002/#RI_MIX)
   * [저녁식사 초대받은 후기1](/palo-alto-log-202002/#Dinner_Invitation1)
@@ -599,7 +607,7 @@ toc_sticky: true
   * [추천 Mexican 음식점, Cafe Coyote 이용 후기](/palo-alto-log-202008/#Cafe_Coyote)
   * [여행의 마지막 식사를 위해 다시 찾은 Shake Shake 이용 후기](/palo-alto-log-202008/#Shake_Shake)
   * [처음으로 방문한 패스트푸드, Jack in the Box 이용 후기](/palo-alto-log-202008/#Jack_in_the_Box)
-  * [점심식사 초대받은 후기13](/palo-alto-log-202007/#Lunch_Invitation13)
+  * [점심식사 초대받은 후기13](/palo-alto-log-202008/#Lunch_Invitation13)
 
 ---
 
@@ -1182,8 +1190,12 @@ toc_sticky: true
   * [Palo Alto Downtown 나들이 후기](/palo-alto-log-202008/#Palo_Alto_Downtown)
   * [Tesla Model X 시승 후기!](/palo-alto-log-202008/#Tesla_Driving)
   * [Mountain View Farmers Market 나들이 후기](/palo-alto-log-202008/#Mountain_View_Farmers_Market)
-  * [점심식사 초대받은 후기13](/palo-alto-log-202007/#Lunch_Invitation13)
-
-  Kinder_Class4
+  * [점심식사 초대받은 후기13](/palo-alto-log-202008/#Lunch_Invitation13)
+  * [미국 유치원 수업 후기4](/palo-alto-log-202008/#Kinder_Class4)
   * [One-on-One 영어회화 수업 후기38](/palo-alto-log-202008/#One-on-One38)
-  Kinder_Class5
+  * [미국 유치원 수업 후기5](/palo-alto-log-202008/#Kinder_Class5)
+  * [Pull-up Station 구매 및 설치 후기](/palo-alto-log-202008/#Pullup_Station)
+  * [미국 유치원 첫 번째 테스트 진행 후기](/palo-alto-log-202008/#Kinder_Test1)
+  * [Stanford Bechtel International, 1:1 영어회화 후기21](/palo-alto-log-202008/#EIA_Lesson21)
+  * [아이들 Wyzant 수업 후기12](/palo-alto-log-202007/#Wyzant12)
+  * [어른들도 즐거운 Magical Bridge Playground 방문 후기](/palo-alto-log-202007/#Magical_Bridge_Playground)
