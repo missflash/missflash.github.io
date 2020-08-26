@@ -1199,3 +1199,5 @@ toc_sticky: true
   * [Stanford Bechtel International, 1:1 영어회화 후기21](/palo-alto-log-202008/#EIA_Lesson21)
   * [아이들 Wyzant 수업 후기12](/palo-alto-log-202007/#Wyzant12)
   * [어른들도 즐거운 Magical Bridge Playground 방문 후기](/palo-alto-log-202007/#Magical_Bridge_Playground)
+
+  Kinder_Class6
