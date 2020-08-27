@@ -315,6 +315,9 @@ toc_sticky: true
   * [미국 유치원 첫 번째 테스트 진행 후기](/palo-alto-log-202008/#Kinder_Test1)
   * [Stanford Bechtel International, 1:1 영어회화 후기21](/palo-alto-log-202008/#EIA_Lesson21)
   * [아이들 Wyzant 수업 후기12](/palo-alto-log-202007/#Wyzant12)
+  * [미국 유치원 수업 후기6](/palo-alto-log-202008/#Kinder_Class6)
+  * [One-on-One 영어회화 수업 후기39](/palo-alto-log-202008/#One-on-One39)
+  * [Menlo Park 도서관 Conversation Club 후기14](/palo-alto-log-202008/#Conversation_Club14)
 * 여행/장소
   * [커뮤니티 번개 후기1](/palo-alto-log-202002/#Community_Event1)
   * [Half Moon Bay, Pigeon Point, Shark Fin Cove 등 관광 후기](/palo-alto-log-202002/#Half_Moon_Bay)
@@ -1199,7 +1202,10 @@ toc_sticky: true
   * [Stanford Bechtel International, 1:1 영어회화 후기21](/palo-alto-log-202008/#EIA_Lesson21)
   * [아이들 Wyzant 수업 후기12](/palo-alto-log-202007/#Wyzant12)
   * [어른들도 즐거운 Magical Bridge Playground 방문 후기](/palo-alto-log-202007/#Magical_Bridge_Playground)
+  * [미국 유치원 수업 후기6](/palo-alto-log-202008/#Kinder_Class6)
+  * [One-on-One 영어회화 수업 후기39](/palo-alto-log-202008/#One-on-One39)
+  * [Menlo Park 도서관 Conversation Club 후기14](/palo-alto-log-202008/#Conversation_Club14)
 
-  Kinder_Class6
-  One-on-One39
-  Conversation_Club14
+  * [미국 유치원 수업 후기7](/palo-alto-log-202008/#Kinder_Class7)
+  * [미국 유치원 수업 후기7](/palo-alto-log-202008/#Kinder_Class7)
+  * [아이들 Wyzant 수업 후기13](/palo-alto-log-202007/#Wyzant13)
