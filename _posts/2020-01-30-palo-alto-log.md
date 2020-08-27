@@ -1201,3 +1201,5 @@ toc_sticky: true
   * [어른들도 즐거운 Magical Bridge Playground 방문 후기](/palo-alto-log-202007/#Magical_Bridge_Playground)
 
   Kinder_Class6
+  One-on-One39
+  Conversation_Club14
