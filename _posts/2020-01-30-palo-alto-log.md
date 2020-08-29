@@ -1209,3 +1209,4 @@ toc_sticky: true
   * [미국 유치원 수업 후기7](/palo-alto-log-202008/#Kinder_Class7)
   * [CCIS English Conversation 후기1](/palo-alto-log-202008/#CCIS_English1)
   * [아이들 Wyzant 수업 후기13](/palo-alto-log-202008/#Wyzant13)
+  * [미국 유치원 수업 후기8](/palo-alto-log-202008/#Kinder_Class8)
