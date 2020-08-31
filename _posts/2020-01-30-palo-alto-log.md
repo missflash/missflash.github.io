@@ -318,6 +318,11 @@ toc_sticky: true
   * [미국 유치원 수업 후기6](/palo-alto-log-202008/#Kinder_Class6)
   * [One-on-One 영어회화 수업 후기39](/palo-alto-log-202008/#One-on-One39)
   * [Menlo Park 도서관 Conversation Club 후기14](/palo-alto-log-202008/#Conversation_Club14)
+  * [미국 유치원 수업 후기7](/palo-alto-log-202008/#Kinder_Class7)
+  * [CCIS English Conversation 후기1](/palo-alto-log-202008/#CCIS_English1)
+  * [아이들 Wyzant 수업 후기13](/palo-alto-log-202008/#Wyzant13)
+  * [미국 유치원 수업 후기8](/palo-alto-log-202008/#Kinder_Class8)
+  * [골프 레슨 후기7](/palo-alto-log-202005/#Golf_Lesson7)
 * 여행/장소
   * [커뮤니티 번개 후기1](/palo-alto-log-202002/#Community_Event1)
   * [Half Moon Bay, Pigeon Point, Shark Fin Cove 등 관광 후기](/palo-alto-log-202002/#Half_Moon_Bay)
@@ -564,6 +569,7 @@ toc_sticky: true
   * [Palo Alto Downtown 나들이 후기](/palo-alto-log-202008/#Palo_Alto_Downtown)
   * [Mountain View Farmers Market 나들이 후기](/palo-alto-log-202008/#Mountain_View_Farmers_Market)
   * [어른들도 즐거운 Magical Bridge Playground 방문 후기](/palo-alto-log-202008/#Magical_Bridge_Playground)
+  * [San Jose Flea Market 방문 후기](/palo-alto-log-202005/#San_Jose_Flea_Market)
 * 요리/식당
   * [호텔 무료 서비스를 즐기는 방법](/palo-alto-log-202002/#RI_MIX)
   * [저녁식사 초대받은 후기1](/palo-alto-log-202002/#Dinner_Invitation1)
@@ -611,6 +617,7 @@ toc_sticky: true
   * [여행의 마지막 식사를 위해 다시 찾은 Shake Shake 이용 후기](/palo-alto-log-202008/#Shake_Shake)
   * [처음으로 방문한 패스트푸드, Jack in the Box 이용 후기](/palo-alto-log-202008/#Jack_in_the_Box)
   * [점심식사 초대받은 후기13](/palo-alto-log-202008/#Lunch_Invitation13)
+  * [점심식사 초대받은 후기14](/palo-alto-log-202008/#Lunch_Invitation14)
 
 ---
 
@@ -1205,8 +1212,10 @@ toc_sticky: true
   * [미국 유치원 수업 후기6](/palo-alto-log-202008/#Kinder_Class6)
   * [One-on-One 영어회화 수업 후기39](/palo-alto-log-202008/#One-on-One39)
   * [Menlo Park 도서관 Conversation Club 후기14](/palo-alto-log-202008/#Conversation_Club14)
-
   * [미국 유치원 수업 후기7](/palo-alto-log-202008/#Kinder_Class7)
   * [CCIS English Conversation 후기1](/palo-alto-log-202008/#CCIS_English1)
   * [아이들 Wyzant 수업 후기13](/palo-alto-log-202008/#Wyzant13)
   * [미국 유치원 수업 후기8](/palo-alto-log-202008/#Kinder_Class8)
+  * [골프 레슨 후기7](/palo-alto-log-202005/#Golf_Lesson7)
+  * [San Jose Flea Market 방문 후기](/palo-alto-log-202005/#San_Jose_Flea_Market)
+  * [점심식사 초대받은 후기14](/palo-alto-log-202008/#Lunch_Invitation14)
