@@ -323,6 +323,8 @@ toc_sticky: true
   * [아이들 Wyzant 수업 후기13](/palo-alto-log-202008/#Wyzant13)
   * [미국 유치원 수업 후기8](/palo-alto-log-202008/#Kinder_Class8)
   * [골프 레슨 후기7](/palo-alto-log-202005/#Golf_Lesson7)
+  * [미국 유치원 수업 후기9](/palo-alto-log-202008/#Kinder_Class9)
+  * [One-on-One 영어회화 수업 후기40](/palo-alto-log-202008/#One-on-One40)
 * 여행/장소
   * [커뮤니티 번개 후기1](/palo-alto-log-202002/#Community_Event1)
   * [Half Moon Bay, Pigeon Point, Shark Fin Cove 등 관광 후기](/palo-alto-log-202002/#Half_Moon_Bay)
@@ -1219,3 +1221,5 @@ toc_sticky: true
   * [골프 레슨 후기7](/palo-alto-log-202005/#Golf_Lesson7)
   * [San Jose Flea Market 방문 후기](/palo-alto-log-202005/#San_Jose_Flea_Market)
   * [점심식사 초대받은 후기14](/palo-alto-log-202008/#Lunch_Invitation14)
+  * [미국 유치원 수업 후기9](/palo-alto-log-202008/#Kinder_Class9)
+  * [One-on-One 영어회화 수업 후기40](/palo-alto-log-202008/#One-on-One40)
