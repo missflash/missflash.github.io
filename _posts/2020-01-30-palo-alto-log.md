@@ -1231,3 +1231,6 @@ toc_sticky: true
   * [미국 유치원 수업 후기10](/palo-alto-log-202009/#Kinder_Class10)
   * [Stanford Bechtel International, 1:1 영어회화 후기22](/palo-alto-log-202009/#EIA_Lesson22)
   * [스연골, 스탠포드 연수 골프 모임 후기1](/palo-alto-log-202009/#Golf_Meeting1)
+
+  * [미국 유치원 수업 후기11](/palo-alto-log-202009/#Kinder_Class11)
+  * [One-on-One 영어회화 수업 후기41](/palo-alto-log-202009/#One-on-One41)
