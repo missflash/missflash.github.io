@@ -1234,3 +1234,4 @@ toc_sticky: true
 
   * [미국 유치원 수업 후기11](/palo-alto-log-202009/#Kinder_Class11)
   * [One-on-One 영어회화 수업 후기41](/palo-alto-log-202009/#One-on-One41)
+  * [Menlo Park 도서관 Conversation Club 후기15](/palo-alto-log-202008/#Conversation_Club15)
