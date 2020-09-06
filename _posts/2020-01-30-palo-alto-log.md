@@ -1245,3 +1245,11 @@ toc_sticky: true
   * [아이들 Wyzant 수업 후기14_15](/palo-alto-log-202009/#Wyzant14_15)
   * [미국 유치원 수업 후기13](/palo-alto-log-202009/#Kinder_Class13)
   * [두 번째 엔진오일 교체 후기](/palo-alto-log-202009/#Engine_Oil_Change)
+
+  Way_to_Lake_Tahoe1
+  Inspiration_Point
+  Baldwin_Beach
+  Camp_Richardson
+  Pope_Beach
+  Way_to_Lake_Tahoe2
+  1Room
