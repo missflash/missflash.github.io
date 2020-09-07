@@ -1253,3 +1253,11 @@ toc_sticky: true
   Pope_Beach
   Way_to_Lake_Tahoe2
   1Room
+
+  BestWestern_1st_Morning
+  Whale_Beach
+  Logan_Shoals_Vista_Point
+  Heavenly_Gondola_Vista_Point
+  Bijou_Community_Park
+  BestWestern_2nd_Night
+  
