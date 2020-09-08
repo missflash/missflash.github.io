@@ -148,6 +148,7 @@ toc_sticky: true
   * [Yellowstone Campground 예약 수정하는 방법](/palo-alto-log-202007/#Modify_Yellowstone)
   * [주유소에서 차량을 청소하는 꿀팁!](/palo-alto-log-202008/#Cleaning_Car)
   * [Tesla Model X 시승 후기!](/palo-alto-log-202008/#Tesla_Driving)
+  * [두 번째 엔진오일 교체 후기](/palo-alto-log-202009/#Engine_Oil_Change)
 * 쇼핑
   * [저렴한 핸드폰 요금제 선택 방법](/palo-alto-log-202001/#Prepaid_Plan)
   * [중고차 구입 방법](/palo-alto-log-202001/#Used_Car)
@@ -334,6 +335,7 @@ toc_sticky: true
   * [미국 유치원 수업 후기12](/palo-alto-log-202009/#Kinder_Class12)
   * [CCIS English Conversation 후기2](/palo-alto-log-202009/#CCIS_English2)
   * [아이들 Wyzant 수업 후기14_15](/palo-alto-log-202009/#Wyzant14_15)
+  * [미국 유치원 수업 후기13](/palo-alto-log-202009/#Kinder_Class13)
 * 여행/장소
   * [커뮤니티 번개 후기1](/palo-alto-log-202002/#Community_Event1)
   * [Half Moon Bay, Pigeon Point, Shark Fin Cove 등 관광 후기](/palo-alto-log-202002/#Half_Moon_Bay)
@@ -581,6 +583,22 @@ toc_sticky: true
   * [Mountain View Farmers Market 나들이 후기](/palo-alto-log-202008/#Mountain_View_Farmers_Market)
   * [어른들도 즐거운 Magical Bridge Playground 방문 후기](/palo-alto-log-202008/#Magical_Bridge_Playground)
   * [San Jose Flea Market 방문 후기](/palo-alto-log-202005/#San_Jose_Flea_Market)
+  * [Labor Day 공휴일을 맞아 Lake Tahoe 방문한 후기](/palo-alto-log-202009/#Way_to_Lake_Tahoe1)
+  * [Lake Tahoe - Inspiration Point 방문 후기](/palo-alto-log-202009/#Inspiration_Point)
+  * [Lake Tahoe - Baldwin Beach 방문 후기](/palo-alto-log-202009/#Baldwin_Beach)
+  * [Lake Tahoe - Camp Richardson 방문 후기](/palo-alto-log-202009/#Camp_Richardson)
+  * [Lake Tahoe - Pope Beach 방문 후기](/palo-alto-log-202009/#Pope_Beach)
+  * [Lake Tahoe 경치 구경하며 이동한 후기](/palo-alto-log-202009/#Way_to_Lake_Tahoe2)
+  * [숙소 예약 실패후 두 가족이 한 방에서 숙박한 후기](/palo-alto-log-202009/#1Room)
+  * [BestWestern 숙소 둘째날 아침 후기](/palo-alto-log-202009/#BestWestern_1st_Morning)
+  * [Lake Tahoe - Whale Beach 방문 후기](/palo-alto-log-202009/#Whale_Beach)
+  * [Lake Tahoe - Logan Shoals Vista Point 방문 후기](/palo-alto-log-202009/#Logan_Shoals_Vista_Point)
+  * [Lake Tahoe - Heavenly Gondola Vista Point 방문 후기](/palo-alto-log-202009/#Heavenly_Gondola_Vista_Point)
+  * [Lake Tahoe - Bijou Community Park 방문 후기](/palo-alto-log-202009/#Bijou_Community_Park)
+  * [BestWestern 숙소 둘째날 저녁 후기](/palo-alto-log-202009/#BestWestern_2nd_Night)
+  * [BestWestern 숙소 셋째날 아침 후기](/palo-alto-log-202009/#BestWestern_2nd_Morning)
+  * [Lake Tahoe - Commons Beach 방문 후기](/palo-alto-log-202009/#Commons_Beach)
+  * [Lake Tahoe에서 집으로 복귀 후기](/palo-alto-log-202009/#Way_to_Home)
 * 요리/식당
   * [호텔 무료 서비스를 즐기는 방법](/palo-alto-log-202002/#RI_MIX)
   * [저녁식사 초대받은 후기1](/palo-alto-log-202002/#Dinner_Invitation1)
@@ -1245,19 +1263,22 @@ toc_sticky: true
   * [아이들 Wyzant 수업 후기14_15](/palo-alto-log-202009/#Wyzant14_15)
   * [미국 유치원 수업 후기13](/palo-alto-log-202009/#Kinder_Class13)
   * [두 번째 엔진오일 교체 후기](/palo-alto-log-202009/#Engine_Oil_Change)
+  * [Labor Day 공휴일을 맞아 Lake Tahoe 방문한 후기](/palo-alto-log-202009/#Way_to_Lake_Tahoe1)
+  * [Lake Tahoe - Inspiration Point 방문 후기](/palo-alto-log-202009/#Inspiration_Point)
+  * [Lake Tahoe - Baldwin Beach 방문 후기](/palo-alto-log-202009/#Baldwin_Beach)
+  * [Lake Tahoe - Camp Richardson 방문 후기](/palo-alto-log-202009/#Camp_Richardson)
+  * [Lake Tahoe - Pope Beach 방문 후기](/palo-alto-log-202009/#Pope_Beach)
+  * [Lake Tahoe 경치 구경하며 이동한 후기](/palo-alto-log-202009/#Way_to_Lake_Tahoe2)
+  * [숙소 예약 실패후 두 가족이 한 방에서 숙박한 후기](/palo-alto-log-202009/#1Room)
+  * [BestWestern 숙소 둘째날 아침 후기](/palo-alto-log-202009/#BestWestern_1st_Morning)
+  * [Lake Tahoe - Whale Beach 방문 후기](/palo-alto-log-202009/#Whale_Beach)
+  * [Lake Tahoe - Logan Shoals Vista Point 방문 후기](/palo-alto-log-202009/#Logan_Shoals_Vista_Point)
+  * [Lake Tahoe - Heavenly Gondola Vista Point 방문 후기](/palo-alto-log-202009/#Heavenly_Gondola_Vista_Point)
+  * [Lake Tahoe - Bijou Community Park 방문 후기](/palo-alto-log-202009/#Bijou_Community_Park)
+  * [BestWestern 숙소 둘째날 저녁 후기](/palo-alto-log-202009/#BestWestern_2nd_Night)
+  * [BestWestern 숙소 셋째날 아침 후기](/palo-alto-log-202009/#BestWestern_2nd_Morning)
+  * [Lake Tahoe - Commons Beach 방문 후기](/palo-alto-log-202009/#Commons_Beach)
+  * [Lake Tahoe에서 집으로 복귀 후기](/palo-alto-log-202009/#Way_to_Home)
 
-  Way_to_Lake_Tahoe1
-  Inspiration_Point
-  Baldwin_Beach
-  Camp_Richardson
-  Pope_Beach
-  Way_to_Lake_Tahoe2
-  1Room
-
-  BestWestern_1st_Morning
-  Whale_Beach
-  Logan_Shoals_Vista_Point
-  Heavenly_Gondola_Vista_Point
-  Bijou_Community_Park
-  BestWestern_2nd_Night
-  
+  Kinder_Class14
+  EIA_Lesson23
