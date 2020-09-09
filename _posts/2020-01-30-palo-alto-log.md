@@ -18,6 +18,8 @@ toc_sticky: true
 ---
 
 # 월별 분류
+* [Palo Alto Log (2020.09)](https://missflash.github.io/palo-alto-log-202009/)
+* [Palo Alto Log (2020.08)](https://missflash.github.io/palo-alto-log-202008/)
 * [Palo Alto Log (2020.07)](https://missflash.github.io/palo-alto-log-202007/)
 * [Palo Alto Log (2020.06)](https://missflash.github.io/palo-alto-log-202006/)
 * [Palo Alto Log (2020.05)](https://missflash.github.io/palo-alto-log-202005/)
@@ -149,6 +151,8 @@ toc_sticky: true
   * [주유소에서 차량을 청소하는 꿀팁!](/palo-alto-log-202008/#Cleaning_Car)
   * [Tesla Model X 시승 후기!](/palo-alto-log-202008/#Tesla_Driving)
   * [두 번째 엔진오일 교체 후기](/palo-alto-log-202009/#Engine_Oil_Change)
+  * [인터넷 송금하려다 Chase Bank 계좌 Block 된 사연](/palo-alto-log-202009/#Chase_Block)
+  * [Chase Bank 지점 방문해 계좌 Block 해제한 사연](/palo-alto-log-202009/#Chase_Release)
 * 쇼핑
   * [저렴한 핸드폰 요금제 선택 방법](/palo-alto-log-202001/#Prepaid_Plan)
   * [중고차 구입 방법](/palo-alto-log-202001/#Used_Car)
@@ -336,6 +340,8 @@ toc_sticky: true
   * [CCIS English Conversation 후기2](/palo-alto-log-202009/#CCIS_English2)
   * [아이들 Wyzant 수업 후기14_15](/palo-alto-log-202009/#Wyzant14_15)
   * [미국 유치원 수업 후기13](/palo-alto-log-202009/#Kinder_Class13)
+  * [미국 유치원 수업 후기14](/palo-alto-log-202009/#Kinder_Class14)
+  * [Stanford Bechtel International, 1:1 영어회화 후기23](/palo-alto-log-202009/#EIA_Lesson23)
 * 여행/장소
   * [커뮤니티 번개 후기1](/palo-alto-log-202002/#Community_Event1)
   * [Half Moon Bay, Pigeon Point, Shark Fin Cove 등 관광 후기](/palo-alto-log-202002/#Half_Moon_Bay)
@@ -1279,8 +1285,11 @@ toc_sticky: true
   * [BestWestern 숙소 셋째날 아침 후기](/palo-alto-log-202009/#BestWestern_2nd_Morning)
   * [Lake Tahoe - Commons Beach 방문 후기](/palo-alto-log-202009/#Commons_Beach)
   * [Lake Tahoe에서 집으로 복귀 후기](/palo-alto-log-202009/#Way_to_Home)
+  * [미국 유치원 수업 후기14](/palo-alto-log-202009/#Kinder_Class14)
+  * [Stanford Bechtel International, 1:1 영어회화 후기23](/palo-alto-log-202009/#EIA_Lesson23)
+  * [인터넷 송금하려다 Chase Bank 계좌 Block 된 사연](/palo-alto-log-202009/#Chase_Block)
+  * [Chase Bank 지점 방문해 계좌 Block 해제한 사연](/palo-alto-log-202009/#Chase_Release)
 
-  Kinder_Class14
-  EIA_Lesson23
-  Chase_Block
-  Chase_Release
+  Kinder_Class15
+  * [One-on-One 영어회화 수업 후기42](/palo-alto-log-202009/#One-on-One42)
+  Blackberry_Farm_Golf_Course2
