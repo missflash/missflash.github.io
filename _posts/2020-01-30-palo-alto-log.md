@@ -1282,3 +1282,5 @@ toc_sticky: true
 
   Kinder_Class14
   EIA_Lesson23
+  Chase_Block
+  Chase_Release
