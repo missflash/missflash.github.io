@@ -1297,3 +1297,7 @@ toc_sticky: true
   * [One-on-One 영어회화 수업 후기42](/palo-alto-log-202009/#One-on-One42)
   * [연수동기들과 Blackberry Farm Golf Course 이용 후기](/palo-alto-log-202009/#Blackberry_Farm_Golf_Course2)
   * [저녁식사 초대한 후기8](/palo-alto-log-202009/#Dinner_Invitation8)
+
+  * [미국 유치원 수업 후기16](/palo-alto-log-202009/#Kinder_Class16)
+  * [CCIS English Conversation 후기3](/palo-alto-log-202009/#CCIS_English3)
+  * [아이들 Wyzant 수업 후기16](/palo-alto-log-202009/#Wyzant16)
