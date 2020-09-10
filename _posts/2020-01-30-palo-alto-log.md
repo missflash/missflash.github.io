@@ -342,6 +342,9 @@ toc_sticky: true
   * [미국 유치원 수업 후기13](/palo-alto-log-202009/#Kinder_Class13)
   * [미국 유치원 수업 후기14](/palo-alto-log-202009/#Kinder_Class14)
   * [Stanford Bechtel International, 1:1 영어회화 후기23](/palo-alto-log-202009/#EIA_Lesson23)
+  * [미국 유치원 수업 후기15](/palo-alto-log-202009/#Kinder_Class15)
+  * [One-on-One 영어회화 수업 후기42](/palo-alto-log-202009/#One-on-One42)
+  * [연수동기들과 Blackberry Farm Golf Course 이용 후기](/palo-alto-log-202009/#Blackberry_Farm_Golf_Course2)
 * 여행/장소
   * [커뮤니티 번개 후기1](/palo-alto-log-202002/#Community_Event1)
   * [Half Moon Bay, Pigeon Point, Shark Fin Cove 등 관광 후기](/palo-alto-log-202002/#Half_Moon_Bay)
@@ -653,6 +656,7 @@ toc_sticky: true
   * [처음으로 방문한 패스트푸드, Jack in the Box 이용 후기](/palo-alto-log-202008/#Jack_in_the_Box)
   * [점심식사 초대받은 후기13](/palo-alto-log-202008/#Lunch_Invitation13)
   * [점심식사 초대받은 후기14](/palo-alto-log-202008/#Lunch_Invitation14)
+  * [저녁식사 초대한 후기8](/palo-alto-log-202009/#Dinner_Invitation8)
 
 ---
 
@@ -1289,7 +1293,6 @@ toc_sticky: true
   * [Stanford Bechtel International, 1:1 영어회화 후기23](/palo-alto-log-202009/#EIA_Lesson23)
   * [인터넷 송금하려다 Chase Bank 계좌 Block 된 사연](/palo-alto-log-202009/#Chase_Block)
   * [Chase Bank 지점 방문해 계좌 Block 해제한 사연](/palo-alto-log-202009/#Chase_Release)
-
   * [미국 유치원 수업 후기15](/palo-alto-log-202009/#Kinder_Class15)
   * [One-on-One 영어회화 수업 후기42](/palo-alto-log-202009/#One-on-One42)
   * [연수동기들과 Blackberry Farm Golf Course 이용 후기](/palo-alto-log-202009/#Blackberry_Farm_Golf_Course2)
