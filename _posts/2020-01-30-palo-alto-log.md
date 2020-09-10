@@ -1290,6 +1290,7 @@ toc_sticky: true
   * [인터넷 송금하려다 Chase Bank 계좌 Block 된 사연](/palo-alto-log-202009/#Chase_Block)
   * [Chase Bank 지점 방문해 계좌 Block 해제한 사연](/palo-alto-log-202009/#Chase_Release)
 
-  Kinder_Class15
+  * [미국 유치원 수업 후기15](/palo-alto-log-202009/#Kinder_Class15)
   * [One-on-One 영어회화 수업 후기42](/palo-alto-log-202009/#One-on-One42)
-  Blackberry_Farm_Golf_Course2
+  * [연수동기들과 Blackberry Farm Golf Course 이용 후기](/palo-alto-log-202009/#Blackberry_Farm_Golf_Course2)
+  * [저녁식사 초대한 후기8](/palo-alto-log-202009/#Dinner_Invitation8)
