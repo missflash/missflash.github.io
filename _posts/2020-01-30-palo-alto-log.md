@@ -345,6 +345,9 @@ toc_sticky: true
   * [미국 유치원 수업 후기15](/palo-alto-log-202009/#Kinder_Class15)
   * [One-on-One 영어회화 수업 후기42](/palo-alto-log-202009/#One-on-One42)
   * [연수동기들과 Blackberry Farm Golf Course 이용 후기](/palo-alto-log-202009/#Blackberry_Farm_Golf_Course2)
+  * [미국 유치원 수업 후기16](/palo-alto-log-202009/#Kinder_Class16)
+  * [CCIS English Conversation 후기3](/palo-alto-log-202009/#CCIS_English3)
+  * [아이들 Wyzant 수업 후기16](/palo-alto-log-202009/#Wyzant16)
 * 여행/장소
   * [커뮤니티 번개 후기1](/palo-alto-log-202002/#Community_Event1)
   * [Half Moon Bay, Pigeon Point, Shark Fin Cove 등 관광 후기](/palo-alto-log-202002/#Half_Moon_Bay)
@@ -1297,7 +1300,6 @@ toc_sticky: true
   * [One-on-One 영어회화 수업 후기42](/palo-alto-log-202009/#One-on-One42)
   * [연수동기들과 Blackberry Farm Golf Course 이용 후기](/palo-alto-log-202009/#Blackberry_Farm_Golf_Course2)
   * [저녁식사 초대한 후기8](/palo-alto-log-202009/#Dinner_Invitation8)
-
   * [미국 유치원 수업 후기16](/palo-alto-log-202009/#Kinder_Class16)
   * [CCIS English Conversation 후기3](/palo-alto-log-202009/#CCIS_English3)
   * [아이들 Wyzant 수업 후기16](/palo-alto-log-202009/#Wyzant16)
