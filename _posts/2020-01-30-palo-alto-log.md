@@ -203,6 +203,7 @@ toc_sticky: true
   * [Walmart 침낭 구입 성공 후기](/palo-alto-log-202007/#Walmart_Success)
   * [미국 백화점 Macy's 첫 이용 후기](/palo-alto-log-202008/#Macys)
   * [Pull-up Station 구매 및 설치 후기](/palo-alto-log-202008/#Pullup_Station)
+  * [San Jose Costco 쇼핑 후기](/palo-alto-log-202005/#San_Jose_Costco)
 * 운동/교육
   * [골프 클럽 구입 후기](/palo-alto-log-202002/#Golf_Lesson0)
   * [Menlo Park 도서관 1:1 영어회화 신청 후기](/palo-alto-log-202002/#Menlo_Park_Library)
@@ -350,7 +351,9 @@ toc_sticky: true
   * [아이들 Wyzant 수업 후기16](/palo-alto-log-202009/#Wyzant16)
   * [미국 유치원 수업 후기17](/palo-alto-log-202009/#Kinder_Class17)
   * [One-on-One 영어회화 수업 후기43](/palo-alto-log-202009/#One-on-One43)
-  * [Blackberry Farm Golf Course 헛걸음 한 사연](/palo-alto-log-202009/#Blackberry_Farm_Golf_Course2)
+  * [Blackberry Farm Golf Course 헛걸음 한 사연](/palo-alto-log-202009/#Blackberry_Farm_Golf_Course3)
+  * [골프 레슨 후기8](/palo-alto-log-202005/#Golf_Lesson8)
+  * [Shoreline Golf Links에서 연습한 후기](/palo-alto-log-202005/#Shoreline_Golf_Links1)
 * 여행/장소
   * [커뮤니티 번개 후기1](/palo-alto-log-202002/#Community_Event1)
   * [Half Moon Bay, Pigeon Point, Shark Fin Cove 등 관광 후기](/palo-alto-log-202002/#Half_Moon_Bay)
@@ -614,6 +617,7 @@ toc_sticky: true
   * [BestWestern 숙소 셋째날 아침 후기](/palo-alto-log-202009/#BestWestern_2nd_Morning)
   * [Lake Tahoe - Commons Beach 방문 후기](/palo-alto-log-202009/#Commons_Beach)
   * [Lake Tahoe에서 집으로 복귀 후기](/palo-alto-log-202009/#Way_to_Home)
+  * [연수동기 세 가족과 Mitchell Park 방문한 후기](/palo-alto-log-202005/#Mitchell_Park1)
 * 요리/식당
   * [호텔 무료 서비스를 즐기는 방법](/palo-alto-log-202002/#RI_MIX)
   * [저녁식사 초대받은 후기1](/palo-alto-log-202002/#Dinner_Invitation1)
@@ -1308,4 +1312,8 @@ toc_sticky: true
   * [아이들 Wyzant 수업 후기16](/palo-alto-log-202009/#Wyzant16)
   * [미국 유치원 수업 후기17](/palo-alto-log-202009/#Kinder_Class17)
   * [One-on-One 영어회화 수업 후기43](/palo-alto-log-202009/#One-on-One43)
-  * [Blackberry Farm Golf Course 헛걸음 한 사연](/palo-alto-log-202009/#Blackberry_Farm_Golf_Course2)
+  * [Blackberry Farm Golf Course 헛걸음 한 사연](/palo-alto-log-202009/#Blackberry_Farm_Golf_Course3)
+  * [골프 레슨 후기8](/palo-alto-log-202005/#Golf_Lesson8)
+  * [San Jose Costco 쇼핑 후기](/palo-alto-log-202005/#San_Jose_Costco)
+  * [Shoreline Golf Links에서 연습한 후기](/palo-alto-log-202005/#Shoreline_Golf_Links1)
+  * [연수동기 세 가족과 Mitchell Park 방문한 후기](/palo-alto-log-202005/#Mitchell_Park1)
