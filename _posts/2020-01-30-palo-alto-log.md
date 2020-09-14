@@ -1317,3 +1317,7 @@ toc_sticky: true
   * [San Jose Costco 쇼핑 후기](/palo-alto-log-202005/#San_Jose_Costco)
   * [Shoreline Golf Links에서 연습한 후기](/palo-alto-log-202005/#Shoreline_Golf_Links1)
   * [연수동기 세 가족과 Mitchell Park 방문한 후기](/palo-alto-log-202005/#Mitchell_Park1)
+
+  * [저녁식사 초대받은 후기9](/palo-alto-log-202009/#Dinner_Invitation9)
+  Blackberry_Fail
+  Deep_Cliff_Fail
