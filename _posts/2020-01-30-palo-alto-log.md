@@ -354,6 +354,8 @@ toc_sticky: true
   * [Blackberry Farm Golf Course 헛걸음 한 사연](/palo-alto-log-202009/#Blackberry_Farm_Golf_Course3)
   * [골프 레슨 후기8](/palo-alto-log-202005/#Golf_Lesson8)
   * [Shoreline Golf Links에서 연습한 후기](/palo-alto-log-202005/#Shoreline_Golf_Links1)
+  * [Blackberry Farm Golf Course 문닫아서 연습 못 한 사연](/palo-alto-log-202009/#Blackberry_Fail)
+  * [Deep Cliff Golf Course 첫 방문 및 연습 못 한 사연](/palo-alto-log-202009/#Deep_Cliff_Fail)
 * 여행/장소
   * [커뮤니티 번개 후기1](/palo-alto-log-202002/#Community_Event1)
   * [Half Moon Bay, Pigeon Point, Shark Fin Cove 등 관광 후기](/palo-alto-log-202002/#Half_Moon_Bay)
@@ -667,6 +669,7 @@ toc_sticky: true
   * [점심식사 초대받은 후기13](/palo-alto-log-202008/#Lunch_Invitation13)
   * [점심식사 초대받은 후기14](/palo-alto-log-202008/#Lunch_Invitation14)
   * [저녁식사 초대한 후기8](/palo-alto-log-202009/#Dinner_Invitation8)
+  * [저녁식사 초대받은 후기9](/palo-alto-log-202009/#Dinner_Invitation9)
 
 ---
 
@@ -1317,7 +1320,8 @@ toc_sticky: true
   * [San Jose Costco 쇼핑 후기](/palo-alto-log-202005/#San_Jose_Costco)
   * [Shoreline Golf Links에서 연습한 후기](/palo-alto-log-202005/#Shoreline_Golf_Links1)
   * [연수동기 세 가족과 Mitchell Park 방문한 후기](/palo-alto-log-202005/#Mitchell_Park1)
-
   * [저녁식사 초대받은 후기9](/palo-alto-log-202009/#Dinner_Invitation9)
-  Blackberry_Fail
-  Deep_Cliff_Fail
+  * [Blackberry Farm Golf Course 문닫아서 연습 못 한 사연](/palo-alto-log-202009/#Blackberry_Fail)
+  * [Deep Cliff Golf Course 첫 방문 및 연습 못 한 사연](/palo-alto-log-202009/#Deep_Cliff_Fail)
+
+  * [미국 유치원 수업 후기18](/palo-alto-log-202009/#Kinder_Class18)
