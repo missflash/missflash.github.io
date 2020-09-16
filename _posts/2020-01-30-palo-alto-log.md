@@ -356,6 +356,10 @@ toc_sticky: true
   * [Shoreline Golf Links에서 연습한 후기](/palo-alto-log-202005/#Shoreline_Golf_Links1)
   * [Blackberry Farm Golf Course 문닫아서 연습 못 한 사연](/palo-alto-log-202009/#Blackberry_Fail)
   * [Deep Cliff Golf Course 첫 방문 및 연습 못 한 사연](/palo-alto-log-202009/#Deep_Cliff_Fail)
+  * [미국 유치원 수업 후기18](/palo-alto-log-202009/#Kinder_Class18)
+  * [미국 유치원 수업 후기19](/palo-alto-log-202009/#Kinder_Class19)
+  * [Stanford Bechtel International, 1:1 영어회화 후기24](/palo-alto-log-202009/#EIA_Lesson24)
+  * [아이들 Wyzant 수업 후기17](/palo-alto-log-202009/#Wyzant17)
 * 여행/장소
   * [커뮤니티 번개 후기1](/palo-alto-log-202002/#Community_Event1)
   * [Half Moon Bay, Pigeon Point, Shark Fin Cove 등 관광 후기](/palo-alto-log-202002/#Half_Moon_Bay)
@@ -1323,7 +1327,7 @@ toc_sticky: true
   * [저녁식사 초대받은 후기9](/palo-alto-log-202009/#Dinner_Invitation9)
   * [Blackberry Farm Golf Course 문닫아서 연습 못 한 사연](/palo-alto-log-202009/#Blackberry_Fail)
   * [Deep Cliff Golf Course 첫 방문 및 연습 못 한 사연](/palo-alto-log-202009/#Deep_Cliff_Fail)
-
   * [미국 유치원 수업 후기18](/palo-alto-log-202009/#Kinder_Class18)
   * [미국 유치원 수업 후기19](/palo-alto-log-202009/#Kinder_Class19)
   * [Stanford Bechtel International, 1:1 영어회화 후기24](/palo-alto-log-202009/#EIA_Lesson24)
+  * [아이들 Wyzant 수업 후기17](/palo-alto-log-202009/#Wyzant17)
