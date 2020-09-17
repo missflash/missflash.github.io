@@ -1337,3 +1337,8 @@ toc_sticky: true
   * [미국 유치원 수업 후기20](/palo-alto-log-202009/#Kinder_Class20)
   * [Los Lagos Golf Course 라운딩 후기](/palo-alto-log-202009/#Los_Lagos_Golf_Course)
   * [저녁식사 초대받은 후기10](/palo-alto-log-202009/#Dinner_Invitation10)
+
+  * [미국 유치원 수업 후기21](/palo-alto-log-202009/#Kinder_Class21)
+  * [미국 초등학교/유치원 수업교재 수령 후기1](/palo-alto-log-202009/#Santa_Rita_Material1)
+  * [CCIS English Conversation 후기4](/palo-alto-log-202009/#CCIS_English4)
+  * [아이들 Wyzant 수업 후기18](/palo-alto-log-202009/#Wyzant18)
