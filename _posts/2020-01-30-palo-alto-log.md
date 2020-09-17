@@ -360,6 +360,8 @@ toc_sticky: true
   * [미국 유치원 수업 후기19](/palo-alto-log-202009/#Kinder_Class19)
   * [Stanford Bechtel International, 1:1 영어회화 후기24](/palo-alto-log-202009/#EIA_Lesson24)
   * [아이들 Wyzant 수업 후기17](/palo-alto-log-202009/#Wyzant17)
+  * [미국 유치원 수업 후기20](/palo-alto-log-202009/#Kinder_Class20)
+  * [Los Lagos Golf Course 라운딩 후기](/palo-alto-log-202009/#Los_Lagos_Golf_Course)
 * 여행/장소
   * [커뮤니티 번개 후기1](/palo-alto-log-202002/#Community_Event1)
   * [Half Moon Bay, Pigeon Point, Shark Fin Cove 등 관광 후기](/palo-alto-log-202002/#Half_Moon_Bay)
@@ -674,6 +676,7 @@ toc_sticky: true
   * [점심식사 초대받은 후기14](/palo-alto-log-202008/#Lunch_Invitation14)
   * [저녁식사 초대한 후기8](/palo-alto-log-202009/#Dinner_Invitation8)
   * [저녁식사 초대받은 후기9](/palo-alto-log-202009/#Dinner_Invitation9)
+  * [저녁식사 초대받은 후기10](/palo-alto-log-202009/#Dinner_Invitation10)
 
 ---
 
@@ -1331,3 +1334,6 @@ toc_sticky: true
   * [미국 유치원 수업 후기19](/palo-alto-log-202009/#Kinder_Class19)
   * [Stanford Bechtel International, 1:1 영어회화 후기24](/palo-alto-log-202009/#EIA_Lesson24)
   * [아이들 Wyzant 수업 후기17](/palo-alto-log-202009/#Wyzant17)
+  * [미국 유치원 수업 후기20](/palo-alto-log-202009/#Kinder_Class20)
+  * [Los Lagos Golf Course 라운딩 후기](/palo-alto-log-202009/#Los_Lagos_Golf_Course)
+  * [저녁식사 초대받은 후기10](/palo-alto-log-202009/#Dinner_Invitation10)
