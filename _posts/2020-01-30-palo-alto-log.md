@@ -1345,3 +1345,5 @@ toc_sticky: true
   * [미국 초등학교/유치원 수업교재 수령 후기1](/palo-alto-log-202009/#Santa_Rita_Material1)
   * [CCIS English Conversation 후기4](/palo-alto-log-202009/#CCIS_English4)
   * [아이들 Wyzant 수업 후기18](/palo-alto-log-202009/#Wyzant18)
+
+  * [미국 유치원 수업 후기22](/palo-alto-log-202009/#Kinder_Class22)
