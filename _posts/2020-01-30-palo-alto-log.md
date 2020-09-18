@@ -87,6 +87,7 @@ toc_sticky: true
   * [Santa Rita 초등학교/유치원에서 아이들 교재 수령한 후기](/palo-alto-log-202008/#Santa_Rita_1st_Visit)
   * [한국의사가 진료하는 소아과에서 TB Test 진행한 후기](/palo-alto-log-202008/#PKS_MD_TB_Test)
   * [TB Test 추가 진행하게 된 사연](/palo-alto-log-202008/#Additional_Test)
+  * [미국 초등학교/유치원 수업교재 수령 후기1](/palo-alto-log-202009/#Santa_Rita_Material1)
 * 생활
   * [렌트카 조기 반납 방법](/palo-alto-log-202002/#Rentcar_Return)
   * [각종 서비스 이용시 최적의 문의 방법](/palo-alto-log-202002/#Customer_Contact)
@@ -362,6 +363,9 @@ toc_sticky: true
   * [아이들 Wyzant 수업 후기17](/palo-alto-log-202009/#Wyzant17)
   * [미국 유치원 수업 후기20](/palo-alto-log-202009/#Kinder_Class20)
   * [Los Lagos Golf Course 라운딩 후기](/palo-alto-log-202009/#Los_Lagos_Golf_Course)
+  * [미국 유치원 수업 후기21](/palo-alto-log-202009/#Kinder_Class21)
+  * [CCIS English Conversation 후기4](/palo-alto-log-202009/#CCIS_English4)
+  * [아이들 Wyzant 수업 후기18](/palo-alto-log-202009/#Wyzant18)
 * 여행/장소
   * [커뮤니티 번개 후기1](/palo-alto-log-202002/#Community_Event1)
   * [Half Moon Bay, Pigeon Point, Shark Fin Cove 등 관광 후기](/palo-alto-log-202002/#Half_Moon_Bay)
@@ -1337,7 +1341,6 @@ toc_sticky: true
   * [미국 유치원 수업 후기20](/palo-alto-log-202009/#Kinder_Class20)
   * [Los Lagos Golf Course 라운딩 후기](/palo-alto-log-202009/#Los_Lagos_Golf_Course)
   * [저녁식사 초대받은 후기10](/palo-alto-log-202009/#Dinner_Invitation10)
-
   * [미국 유치원 수업 후기21](/palo-alto-log-202009/#Kinder_Class21)
   * [미국 초등학교/유치원 수업교재 수령 후기1](/palo-alto-log-202009/#Santa_Rita_Material1)
   * [CCIS English Conversation 후기4](/palo-alto-log-202009/#CCIS_English4)
