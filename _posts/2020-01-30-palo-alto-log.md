@@ -1355,3 +1355,6 @@ toc_sticky: true
   * [Santa Cruz KOA 캠핑장 둘째날 숙박 후기](/palo-alto-log-202009/#Santa_Cruz_2nd_Day)
   * [Santa Cruz KOA 캠핑장 체크아웃 후기](/palo-alto-log-202009/#Santa_Cruz_3rd_Day)
   * [해변이 아름다운 Capitola Beach 방문 후기](/palo-alto-log-202009/#Capitola_Beach)
+
+  * [미국 유치원 수업 후기23](/palo-alto-log-202009/#Kinder_Class23)
+  * [One-on-One 영어회화 수업 후기44](/palo-alto-log-202009/#One-on-One44)
