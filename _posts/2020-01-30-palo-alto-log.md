@@ -367,6 +367,8 @@ toc_sticky: true
   * [CCIS English Conversation 후기4](/palo-alto-log-202009/#CCIS_English4)
   * [아이들 Wyzant 수업 후기18](/palo-alto-log-202009/#Wyzant18)
   * [미국 유치원 수업 후기22](/palo-alto-log-202009/#Kinder_Class22)
+  * [미국 유치원 수업 후기23](/palo-alto-log-202009/#Kinder_Class23)
+  * [One-on-One 영어회화 수업 후기44](/palo-alto-log-202009/#One-on-One44)
 * 여행/장소
   * [커뮤니티 번개 후기1](/palo-alto-log-202002/#Community_Event1)
   * [Half Moon Bay, Pigeon Point, Shark Fin Cove 등 관광 후기](/palo-alto-log-202002/#Half_Moon_Bay)
@@ -635,6 +637,7 @@ toc_sticky: true
   * [Santa Cruz KOA 캠핑장 둘째날 숙박 후기](/palo-alto-log-202009/#Santa_Cruz_2nd_Day)
   * [Santa Cruz KOA 캠핑장 체크아웃 후기](/palo-alto-log-202009/#Santa_Cruz_3rd_Day)
   * [해변이 아름다운 Capitola Beach 방문 후기](/palo-alto-log-202009/#Capitola_Beach)
+  * [미국인 영어선생님 집에 잠깐 방문한 후기](/palo-alto-log-202009/#Pat_House)
 * 요리/식당
   * [호텔 무료 서비스를 즐기는 방법](/palo-alto-log-202002/#RI_MIX)
   * [저녁식사 초대받은 후기1](/palo-alto-log-202002/#Dinner_Invitation1)
@@ -1355,6 +1358,6 @@ toc_sticky: true
   * [Santa Cruz KOA 캠핑장 둘째날 숙박 후기](/palo-alto-log-202009/#Santa_Cruz_2nd_Day)
   * [Santa Cruz KOA 캠핑장 체크아웃 후기](/palo-alto-log-202009/#Santa_Cruz_3rd_Day)
   * [해변이 아름다운 Capitola Beach 방문 후기](/palo-alto-log-202009/#Capitola_Beach)
-
   * [미국 유치원 수업 후기23](/palo-alto-log-202009/#Kinder_Class23)
   * [One-on-One 영어회화 수업 후기44](/palo-alto-log-202009/#One-on-One44)
+  * [미국인 영어선생님 집에 잠깐 방문한 후기](/palo-alto-log-202009/#Pat_House)
