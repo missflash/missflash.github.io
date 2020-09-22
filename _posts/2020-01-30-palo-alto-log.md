@@ -1361,3 +1361,7 @@ toc_sticky: true
   * [미국 유치원 수업 후기23](/palo-alto-log-202009/#Kinder_Class23)
   * [One-on-One 영어회화 수업 후기44](/palo-alto-log-202009/#One-on-One44)
   * [미국인 영어선생님 집에 잠깐 방문한 후기](/palo-alto-log-202009/#Pat_House)
+
+  * [미국 유치원 수업 후기24](/palo-alto-log-202009/#Kinder_Class24)
+  * [Stanford Bechtel International, 1:1 영어회화 후기25](/palo-alto-log-202009/#EIA_Lesson25)
+  * [아이들 Wyzant 수업 후기19](/palo-alto-log-202009/#Wyzant19)
