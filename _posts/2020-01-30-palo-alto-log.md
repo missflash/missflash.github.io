@@ -88,6 +88,7 @@ toc_sticky: true
   * [한국의사가 진료하는 소아과에서 TB Test 진행한 후기](/palo-alto-log-202008/#PKS_MD_TB_Test)
   * [TB Test 추가 진행하게 된 사연](/palo-alto-log-202008/#Additional_Test)
   * [미국 초등학교/유치원 수업교재 수령 후기1](/palo-alto-log-202009/#Santa_Rita_Material1)
+  * [아이들 캘리포니아 영어 테스트 (ELPAC) 진행 후기](/palo-alto-log-202009/#ELPAC_1st)
 * 생활
   * [렌트카 조기 반납 방법](/palo-alto-log-202002/#Rentcar_Return)
   * [각종 서비스 이용시 최적의 문의 방법](/palo-alto-log-202002/#Customer_Contact)
@@ -205,6 +206,8 @@ toc_sticky: true
   * [미국 백화점 Macy's 첫 이용 후기](/palo-alto-log-202008/#Macys)
   * [Pull-up Station 구매 및 설치 후기](/palo-alto-log-202008/#Pullup_Station)
   * [San Jose Costco 쇼핑 후기](/palo-alto-log-202005/#San_Jose_Costco)
+  * [골프 장갑 및 연습공 쇼핑 후기](/palo-alto-log-202009/#Balls_and_Glove)
+  * [깔끔하고 다양한 상품이 가득한 K Market 쇼핑 후기](/palo-alto-log-202009/#K_Market)
 * 운동/교육
   * [골프 클럽 구입 후기](/palo-alto-log-202002/#Golf_Lesson0)
   * [Menlo Park 도서관 1:1 영어회화 신청 후기](/palo-alto-log-202002/#Menlo_Park_Library)
@@ -372,6 +375,9 @@ toc_sticky: true
   * [미국 유치원 수업 후기24](/palo-alto-log-202009/#Kinder_Class24)
   * [Stanford Bechtel International, 1:1 영어회화 후기25](/palo-alto-log-202009/#EIA_Lesson25)
   * [아이들 Wyzant 수업 후기19](/palo-alto-log-202009/#Wyzant19)
+  * [미국 유치원 수업 후기25](/palo-alto-log-202009/#Kinder_Class25)
+  * [One-on-One 영어회화 수업 후기45](/palo-alto-log-202009/#One-on-One45)
+  * [가족들과 함께 골프 연습한 후기](/palo-alto-log-202009/#Solo_Practice)
 * 여행/장소
   * [커뮤니티 번개 후기1](/palo-alto-log-202002/#Community_Event1)
   * [Half Moon Bay, Pigeon Point, Shark Fin Cove 등 관광 후기](/palo-alto-log-202002/#Half_Moon_Bay)
@@ -1367,6 +1373,9 @@ toc_sticky: true
   * [미국 유치원 수업 후기24](/palo-alto-log-202009/#Kinder_Class24)
   * [Stanford Bechtel International, 1:1 영어회화 후기25](/palo-alto-log-202009/#EIA_Lesson25)
   * [아이들 Wyzant 수업 후기19](/palo-alto-log-202009/#Wyzant19)
-
   * [미국 유치원 수업 후기25](/palo-alto-log-202009/#Kinder_Class25)
   * [One-on-One 영어회화 수업 후기45](/palo-alto-log-202009/#One-on-One45)
+  * [아이들 캘리포니아 영어 테스트 (ELPAC) 진행 후기](/palo-alto-log-202009/#ELPAC_1st)
+  * [가족들과 함께 골프 연습한 후기](/palo-alto-log-202009/#Solo_Practice)
+  * [골프 장갑 및 연습공 쇼핑 후기](/palo-alto-log-202009/#Balls_and_Glove)
+  * [깔끔하고 다양한 상품이 가득한 K Market 쇼핑 후기](/palo-alto-log-202009/#K_Market)
