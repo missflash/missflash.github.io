@@ -1379,3 +1379,6 @@ toc_sticky: true
   * [가족들과 함께 골프 연습한 후기](/palo-alto-log-202009/#Solo_Practice)
   * [골프 장갑 및 연습공 쇼핑 후기](/palo-alto-log-202009/#Balls_and_Glove)
   * [깔끔하고 다양한 상품이 가득한 K Market 쇼핑 후기](/palo-alto-log-202009/#K_Market)
+
+  * [미국 유치원 수업 후기26](/palo-alto-log-202009/#Kinder_Class26)
+  Deep_Cliff_Rounding
