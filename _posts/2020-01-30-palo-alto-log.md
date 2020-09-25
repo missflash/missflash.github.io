@@ -378,6 +378,8 @@ toc_sticky: true
   * [미국 유치원 수업 후기25](/palo-alto-log-202009/#Kinder_Class25)
   * [One-on-One 영어회화 수업 후기45](/palo-alto-log-202009/#One-on-One45)
   * [가족들과 함께 골프 연습한 후기](/palo-alto-log-202009/#Solo_Practice)
+  * [미국 유치원 수업 후기26](/palo-alto-log-202009/#Kinder_Class26)
+  * [Deep Cliff Golf Course 라운딩 후기](/palo-alto-log-202009/#Deep_Cliff_Rounding)
 * 여행/장소
   * [커뮤니티 번개 후기1](/palo-alto-log-202002/#Community_Event1)
   * [Half Moon Bay, Pigeon Point, Shark Fin Cove 등 관광 후기](/palo-alto-log-202002/#Half_Moon_Bay)
@@ -1379,6 +1381,5 @@ toc_sticky: true
   * [가족들과 함께 골프 연습한 후기](/palo-alto-log-202009/#Solo_Practice)
   * [골프 장갑 및 연습공 쇼핑 후기](/palo-alto-log-202009/#Balls_and_Glove)
   * [깔끔하고 다양한 상품이 가득한 K Market 쇼핑 후기](/palo-alto-log-202009/#K_Market)
-
   * [미국 유치원 수업 후기26](/palo-alto-log-202009/#Kinder_Class26)
-  Deep_Cliff_Rounding
+  * [Deep Cliff Golf Course 라운딩 후기](/palo-alto-log-202009/#Deep_Cliff_Rounding)
