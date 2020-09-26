@@ -208,6 +208,9 @@ toc_sticky: true
   * [San Jose Costco 쇼핑 후기](/palo-alto-log-202005/#San_Jose_Costco)
   * [골프 장갑 및 연습공 쇼핑 후기](/palo-alto-log-202009/#Balls_and_Glove)
   * [깔끔하고 다양한 상품이 가득한 K Market 쇼핑 후기](/palo-alto-log-202009/#K_Market)
+  * [GoodWill에서 아이들 골프 클럽 중고 구매 후기](/palo-alto-log-202009/#GoodWill_GolfClub)
+  * [Gilroy Premium Outlet 크록스 구입 후기](/palo-alto-log-202009/#Gilroy_Premium_Outlet)
+  * [Dicks에서 아내 골프 클럽 구매 후기](/palo-alto-log-202009/#Golf_Club_Takeout)
 * 운동/교육
   * [골프 클럽 구입 후기](/palo-alto-log-202002/#Golf_Lesson0)
   * [Menlo Park 도서관 1:1 영어회화 신청 후기](/palo-alto-log-202002/#Menlo_Park_Library)
@@ -649,6 +652,7 @@ toc_sticky: true
   * [Santa Cruz KOA 캠핑장 체크아웃 후기](/palo-alto-log-202009/#Santa_Cruz_3rd_Day)
   * [해변이 아름다운 Capitola Beach 방문 후기](/palo-alto-log-202009/#Capitola_Beach)
   * [미국인 영어선생님 집에 잠깐 방문한 후기](/palo-alto-log-202009/#Pat_House)
+  * [Pinnacles National Park 방문 후기](/palo-alto-log-202009/#Pinnacles_National_Park)
 * 요리/식당
   * [호텔 무료 서비스를 즐기는 방법](/palo-alto-log-202002/#RI_MIX)
   * [저녁식사 초대받은 후기1](/palo-alto-log-202002/#Dinner_Invitation1)
@@ -700,6 +704,7 @@ toc_sticky: true
   * [저녁식사 초대한 후기8](/palo-alto-log-202009/#Dinner_Invitation8)
   * [저녁식사 초대받은 후기9](/palo-alto-log-202009/#Dinner_Invitation9)
   * [저녁식사 초대받은 후기10](/palo-alto-log-202009/#Dinner_Invitation10)
+  * [저녁식사 초대받은 후기11](/palo-alto-log-202009/#Dinner_Invitation11)
 
 ---
 
@@ -1383,3 +1388,8 @@ toc_sticky: true
   * [깔끔하고 다양한 상품이 가득한 K Market 쇼핑 후기](/palo-alto-log-202009/#K_Market)
   * [미국 유치원 수업 후기26](/palo-alto-log-202009/#Kinder_Class26)
   * [Deep Cliff Golf Course 라운딩 후기](/palo-alto-log-202009/#Deep_Cliff_Rounding)
+  * [Pinnacles National Park 방문 후기](/palo-alto-log-202009/#Pinnacles_National_Park)
+  * [GoodWill에서 아이들 골프 클럽 중고 구매 후기](/palo-alto-log-202009/#GoodWill_GolfClub)
+  * [Gilroy Premium Outlet 크록스 구입 후기](/palo-alto-log-202009/#Gilroy_Premium_Outlet)
+  * [Dicks에서 아내 골프 클럽 구매 후기](/palo-alto-log-202009/#Golf_Club_Takeout)
+  * [저녁식사 초대받은 후기11](/palo-alto-log-202009/#Dinner_Invitation11)
