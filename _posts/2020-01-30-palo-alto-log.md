@@ -1403,3 +1403,6 @@ toc_sticky: true
   * [저녁식사 초대받은 후기12](/palo-alto-log-202009/#Dinner_Invitation12)
   * [새벽 3시에 화재경보 울려서 대피했던 사연](/palo-alto-log-202009/#Fire_Alarm)
   * [Stanford 연수 아내들 첫 골프 라운딩 후기](/palo-alto-log-202009/#Wife_Rounding_1st)
+
+  * [미국 유치원 수업 후기27](/palo-alto-log-202009/#Kinder_Class27)
+  * [One-on-One 영어회화 수업 후기46](/palo-alto-log-202009/#One-on-One46)
