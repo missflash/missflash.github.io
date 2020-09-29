@@ -387,6 +387,9 @@ toc_sticky: true
   * [Deep Cliff Golf Course 라운딩 후기](/palo-alto-log-202009/#Deep_Cliff_Rounding)
   * [골프 레슨 후기9](/palo-alto-log-202009/#Golf_Lesson9)
   * [Stanford 연수 아내들 첫 골프 라운딩 후기](/palo-alto-log-202009/#Wife_Rounding_1st)
+  * [미국 유치원 수업 후기27](/palo-alto-log-202009/#Kinder_Class27)
+  * [One-on-One 영어회화 수업 후기46](/palo-alto-log-202009/#One-on-One46)
+  * [가족끼리 처음으로 골프연습장 다녀온 사연](/palo-alto-log-202009/#Family_Practice)
 * 여행/장소
   * [커뮤니티 번개 후기1](/palo-alto-log-202002/#Community_Event1)
   * [Half Moon Bay, Pigeon Point, Shark Fin Cove 등 관광 후기](/palo-alto-log-202002/#Half_Moon_Bay)
@@ -1403,6 +1406,6 @@ toc_sticky: true
   * [저녁식사 초대받은 후기12](/palo-alto-log-202009/#Dinner_Invitation12)
   * [새벽 3시에 화재경보 울려서 대피했던 사연](/palo-alto-log-202009/#Fire_Alarm)
   * [Stanford 연수 아내들 첫 골프 라운딩 후기](/palo-alto-log-202009/#Wife_Rounding_1st)
-
   * [미국 유치원 수업 후기27](/palo-alto-log-202009/#Kinder_Class27)
   * [One-on-One 영어회화 수업 후기46](/palo-alto-log-202009/#One-on-One46)
+  * [가족끼리 처음으로 골프연습장 다녀온 사연](/palo-alto-log-202009/#Family_Practice)
