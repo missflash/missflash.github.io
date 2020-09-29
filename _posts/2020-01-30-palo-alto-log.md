@@ -1409,3 +1409,7 @@ toc_sticky: true
   * [미국 유치원 수업 후기27](/palo-alto-log-202009/#Kinder_Class27)
   * [One-on-One 영어회화 수업 후기46](/palo-alto-log-202009/#One-on-One46)
   * [가족끼리 처음으로 골프연습장 다녀온 사연](/palo-alto-log-202009/#Family_Practice)
+
+  * [미국 유치원 수업 후기28](/palo-alto-log-202009/#Kinder_Class28)
+  * [Stanford Bechtel International, 1:1 영어회화 후기26](/palo-alto-log-202009/#EIA_Lesson26)
+  * [아이들 Wyzant 수업 후기20](/palo-alto-log-202009/#Wyzant20)
