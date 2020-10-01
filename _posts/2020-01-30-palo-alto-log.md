@@ -1423,3 +1423,8 @@ toc_sticky: true
   * [One-on-One 영어회화 수업 후기47](/palo-alto-log-202009/#One-on-One47)
   * [Chase 신용카드 발급을 위해 Social Security Card를 Fax로 보낸 사연](/palo-alto-log-202009/#SSN_Fax)
   * [Deep Cliff Golf Course 라운딩 후기2](/palo-alto-log-202009/#Deep_Cliff_Rounding2)
+
+* 2020년 10월
+
+  * [미국 유치원 수업 후기30](/palo-alto-log-202010/#Kinder_Class30)
+  * [CCIS English Conversation 후기5](/palo-alto-log-202010/#CCIS_English5)
