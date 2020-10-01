@@ -1428,3 +1428,4 @@ toc_sticky: true
 
   * [미국 유치원 수업 후기30](/palo-alto-log-202010/#Kinder_Class30)
   * [CCIS English Conversation 후기5](/palo-alto-log-202010/#CCIS_English5)
+  * [아이들 Wyzant 수업 후기21](/palo-alto-log-202010/#Wyzant21)
