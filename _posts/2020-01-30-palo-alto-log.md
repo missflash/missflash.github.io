@@ -397,6 +397,11 @@ toc_sticky: true
   * [미국 유치원 수업 후기29](/palo-alto-log-202009/#Kinder_Class29)
   * [One-on-One 영어회화 수업 후기47](/palo-alto-log-202009/#One-on-One47)
   * [Deep Cliff Golf Course 라운딩 후기2](/palo-alto-log-202009/#Deep_Cliff_Rounding2)
+  * [미국 유치원 수업 후기30](/palo-alto-log-202010/#Kinder_Class30)
+  * [CCIS English Conversation 후기5](/palo-alto-log-202010/#CCIS_English5)
+  * [아이들 Wyzant 수업 후기21](/palo-alto-log-202010/#Wyzant21)
+  * [미국 유치원 수업 후기31](/palo-alto-log-202010/#Kinder_Class31)
+  * [가족 동반 골프연습 후기](/palo-alto-log-202010/#Family_Practice2)
 * 여행/장소
   * [커뮤니티 번개 후기1](/palo-alto-log-202002/#Community_Event1)
   * [Half Moon Bay, Pigeon Point, Shark Fin Cove 등 관광 후기](/palo-alto-log-202002/#Half_Moon_Bay)
@@ -720,6 +725,7 @@ toc_sticky: true
   * [저녁식사 초대받은 후기10](/palo-alto-log-202009/#Dinner_Invitation10)
   * [저녁식사 초대받은 후기11](/palo-alto-log-202009/#Dinner_Invitation11)
   * [저녁식사 초대받은 후기12](/palo-alto-log-202009/#Dinner_Invitation12)
+  * [Chick Fil A 테이크아웃 후기](/palo-alto-log-202010/#Chick_Fil_A)
 
 ---
 
@@ -1425,7 +1431,9 @@ toc_sticky: true
   * [Deep Cliff Golf Course 라운딩 후기2](/palo-alto-log-202009/#Deep_Cliff_Rounding2)
 
 * 2020년 10월
-
   * [미국 유치원 수업 후기30](/palo-alto-log-202010/#Kinder_Class30)
   * [CCIS English Conversation 후기5](/palo-alto-log-202010/#CCIS_English5)
   * [아이들 Wyzant 수업 후기21](/palo-alto-log-202010/#Wyzant21)
+  * [미국 유치원 수업 후기31](/palo-alto-log-202010/#Kinder_Class31)
+  * [가족 동반 골프연습 후기](/palo-alto-log-202010/#Family_Practice2)
+  * [Chick Fil A 테이크아웃 후기](/palo-alto-log-202010/#Chick_Fil_A)
