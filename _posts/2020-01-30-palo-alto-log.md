@@ -402,6 +402,8 @@ toc_sticky: true
   * [아이들 Wyzant 수업 후기21](/palo-alto-log-202010/#Wyzant21)
   * [미국 유치원 수업 후기31](/palo-alto-log-202010/#Kinder_Class31)
   * [가족 동반 골프연습 후기](/palo-alto-log-202010/#Family_Practice2)
+  * [골프 레슨 후기10](/palo-alto-log-202010/#Golf_Lesson10)
+  * [Poplar Creek Golf Course 연습장 이용 후기](/palo-alto-log-202010/#Poplar_Creek_Golf_Course)
 * 여행/장소
   * [커뮤니티 번개 후기1](/palo-alto-log-202002/#Community_Event1)
   * [Half Moon Bay, Pigeon Point, Shark Fin Cove 등 관광 후기](/palo-alto-log-202002/#Half_Moon_Bay)
@@ -726,6 +728,7 @@ toc_sticky: true
   * [저녁식사 초대받은 후기11](/palo-alto-log-202009/#Dinner_Invitation11)
   * [저녁식사 초대받은 후기12](/palo-alto-log-202009/#Dinner_Invitation12)
   * [Chick Fil A 테이크아웃 후기](/palo-alto-log-202010/#Chick_Fil_A)
+  * [저녁식사 초대받은 후기13](/palo-alto-log-202010/#Dinner_Invitation13)
 
 ---
 
@@ -1437,3 +1440,6 @@ toc_sticky: true
   * [미국 유치원 수업 후기31](/palo-alto-log-202010/#Kinder_Class31)
   * [가족 동반 골프연습 후기](/palo-alto-log-202010/#Family_Practice2)
   * [Chick Fil A 테이크아웃 후기](/palo-alto-log-202010/#Chick_Fil_A)
+  * [골프 레슨 후기10](/palo-alto-log-202010/#Golf_Lesson10)
+  * [저녁식사 초대받은 후기13](/palo-alto-log-202010/#Dinner_Invitation13)
+  * [Poplar Creek Golf Course 연습장 이용 후기](/palo-alto-log-202010/#Poplar_Creek_Golf_Course)
