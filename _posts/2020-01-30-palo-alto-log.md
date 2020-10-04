@@ -1443,3 +1443,5 @@ toc_sticky: true
   * [골프 레슨 후기10](/palo-alto-log-202010/#Golf_Lesson10)
   * [저녁식사 초대받은 후기13](/palo-alto-log-202010/#Dinner_Invitation13)
   * [Poplar Creek Golf Course 연습장 이용 후기](/palo-alto-log-202010/#Poplar_Creek_Golf_Course)
+
+  Fitness_Center_Resume
