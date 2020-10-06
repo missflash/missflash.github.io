@@ -406,7 +406,7 @@ toc_sticky: true
   * [Poplar Creek Golf Course 연습장 이용 후기](/palo-alto-log-202010/#Poplar_Creek_Golf_Course)
   * [아파트 Fitness Center 재개 후기](/palo-alto-log-202010/#Fitness_Center_Resume)
   * [미국 유치원 수업 후기32](/palo-alto-log-202010/#Kinder_Class32)
-  * [One-on-One 영어회화 수업 후기48](/palo-alto-log-202009/#One-on-One48)
+  * [One-on-One 영어회화 수업 후기48](/palo-alto-log-202010/#One-on-One48)
   * [가족 동반 골프연습 후기3](/palo-alto-log-202010/#Family_Practice3)
 * 여행/장소
   * [커뮤니티 번개 후기1](/palo-alto-log-202002/#Community_Event1)
@@ -1449,5 +1449,9 @@ toc_sticky: true
   * [Poplar Creek Golf Course 연습장 이용 후기](/palo-alto-log-202010/#Poplar_Creek_Golf_Course)
   * [아파트 Fitness Center 재개 후기](/palo-alto-log-202010/#Fitness_Center_Resume)
   * [미국 유치원 수업 후기32](/palo-alto-log-202010/#Kinder_Class32)
-  * [One-on-One 영어회화 수업 후기48](/palo-alto-log-202009/#One-on-One48)
+  * [One-on-One 영어회화 수업 후기48](/palo-alto-log-202010/#One-on-One48)
   * [가족 동반 골프연습 후기3](/palo-alto-log-202010/#Family_Practice3)
+
+  * [미국 유치원 수업 후기33](/palo-alto-log-202010/#Kinder_Class33)
+  * [Stanford Bechtel International, 1:1 영어회화 후기27](/palo-alto-log-202010/#EIA_Lesson27)
+  * [Poplar Creek Golf Course 라운딩 후기](/palo-alto-log-202010/#Poplar_Rounding)
