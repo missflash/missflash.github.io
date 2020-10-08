@@ -158,6 +158,7 @@ toc_sticky: true
   * [101도로에서 과속으로 경찰단속에 걸린 사연](/palo-alto-log-202009/#Police_Warning)
   * [새벽 3시에 화재경보 울려서 대피했던 사연](/palo-alto-log-202009/#Fire_Alarm)
   * [Chase 신용카드 발급을 위해 Social Security Card를 Fax로 보낸 사연](/palo-alto-log-202009/#SSN_Fax)
+  * [주유소에서 자동차 공기압 무료 충전했던 사연](/palo-alto-log-202010/#How_to_Use_AirPump)
 * 쇼핑
   * [저렴한 핸드폰 요금제 선택 방법](/palo-alto-log-202001/#Prepaid_Plan)
   * [중고차 구입 방법](/palo-alto-log-202001/#Used_Car)
@@ -408,6 +409,12 @@ toc_sticky: true
   * [미국 유치원 수업 후기32](/palo-alto-log-202010/#Kinder_Class32)
   * [One-on-One 영어회화 수업 후기48](/palo-alto-log-202010/#One-on-One48)
   * [가족 동반 골프연습 후기3](/palo-alto-log-202010/#Family_Practice3)
+  * [미국 유치원 수업 후기33](/palo-alto-log-202010/#Kinder_Class33)
+  * [Stanford Bechtel International, 1:1 영어회화 후기27](/palo-alto-log-202010/#EIA_Lesson27)
+  * [Poplar Creek Golf Course 라운딩 후기](/palo-alto-log-202010/#Poplar_Rounding)
+  * [미국 유치원 수업 후기34](/palo-alto-log-202010/#Kinder_Class34)
+  * [One-on-One 영어회화 수업 후기49](/palo-alto-log-202010/#One-on-One49)
+  * [가족 동반 골프연습 후기4](/palo-alto-log-202010/#Family_Practice4)
 * 여행/장소
   * [커뮤니티 번개 후기1](/palo-alto-log-202002/#Community_Event1)
   * [Half Moon Bay, Pigeon Point, Shark Fin Cove 등 관광 후기](/palo-alto-log-202002/#Half_Moon_Bay)
@@ -1451,7 +1458,10 @@ toc_sticky: true
   * [미국 유치원 수업 후기32](/palo-alto-log-202010/#Kinder_Class32)
   * [One-on-One 영어회화 수업 후기48](/palo-alto-log-202010/#One-on-One48)
   * [가족 동반 골프연습 후기3](/palo-alto-log-202010/#Family_Practice3)
-
   * [미국 유치원 수업 후기33](/palo-alto-log-202010/#Kinder_Class33)
   * [Stanford Bechtel International, 1:1 영어회화 후기27](/palo-alto-log-202010/#EIA_Lesson27)
   * [Poplar Creek Golf Course 라운딩 후기](/palo-alto-log-202010/#Poplar_Rounding)
+  * [미국 유치원 수업 후기34](/palo-alto-log-202010/#Kinder_Class34)
+  * [One-on-One 영어회화 수업 후기49](/palo-alto-log-202010/#One-on-One49)
+  * [가족 동반 골프연습 후기4](/palo-alto-log-202010/#Family_Practice4)
+  * [주유소에서 자동차 공기압 무료 충전했던 사연](/palo-alto-log-202010/#How_to_Use_AirPump)
