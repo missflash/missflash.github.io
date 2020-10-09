@@ -415,6 +415,10 @@ toc_sticky: true
   * [미국 유치원 수업 후기34](/palo-alto-log-202010/#Kinder_Class34)
   * [One-on-One 영어회화 수업 후기49](/palo-alto-log-202010/#One-on-One49)
   * [가족 동반 골프연습 후기4](/palo-alto-log-202010/#Family_Practice4)
+  * [미국 유치원 수업 후기35](/palo-alto-log-202010/#Kinder_Class35)
+  * [CCIS English Conversation 후기6](/palo-alto-log-202010/#CCIS_English6)
+  * [아이들 Wyzant 수업 후기22_23](/palo-alto-log-202010/#Wyzant22_23)
+  * [미국 유치원 수업 후기36](/palo-alto-log-202010/#Kinder_Class36)
 * 여행/장소
   * [커뮤니티 번개 후기1](/palo-alto-log-202002/#Community_Event1)
   * [Half Moon Bay, Pigeon Point, Shark Fin Cove 등 관광 후기](/palo-alto-log-202002/#Half_Moon_Bay)
@@ -1465,7 +1469,7 @@ toc_sticky: true
   * [One-on-One 영어회화 수업 후기49](/palo-alto-log-202010/#One-on-One49)
   * [가족 동반 골프연습 후기4](/palo-alto-log-202010/#Family_Practice4)
   * [주유소에서 자동차 공기압 무료 충전했던 사연](/palo-alto-log-202010/#How_to_Use_AirPump)
-
   * [미국 유치원 수업 후기35](/palo-alto-log-202010/#Kinder_Class35)
   * [CCIS English Conversation 후기6](/palo-alto-log-202010/#CCIS_English6)
   * [아이들 Wyzant 수업 후기22_23](/palo-alto-log-202010/#Wyzant22_23)
+  * [미국 유치원 수업 후기36](/palo-alto-log-202010/#Kinder_Class36)
