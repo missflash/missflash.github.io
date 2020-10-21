@@ -89,6 +89,7 @@ toc_sticky: true
   * [TB Test 추가 진행하게 된 사연](/palo-alto-log-202008/#Additional_Test)
   * [미국 초등학교/유치원 수업교재 수령 후기1](/palo-alto-log-202009/#Santa_Rita_Material1)
   * [아이들 캘리포니아 영어 테스트 (ELPAC) 진행 후기](/palo-alto-log-202009/#ELPAC_1st)
+  * [미국 초등학교/유치원 수업교재 수령 후기2](/palo-alto-log-202010/#Santa_Rita_Material2)
 * 생활
   * [렌트카 조기 반납 방법](/palo-alto-log-202002/#Rentcar_Return)
   * [각종 서비스 이용시 최적의 문의 방법](/palo-alto-log-202002/#Customer_Contact)
@@ -422,6 +423,8 @@ toc_sticky: true
   * [미국 유치원 수업 후기36](/palo-alto-log-202010/#Kinder_Class36)
   * [One-on-One 영어회화 수업 후기50](/palo-alto-log-202010/#One-on-One50)
   * [가족 동반 골프연습 후기5](/palo-alto-log-202010/#Family_Practice5)
+  * [Stanford Bechtel International, 1:1 영어회화 후기28](/palo-alto-log-202010/#EIA_Lesson28)
+  * [Deep Cliff Golf Course 라운딩 후기3](/palo-alto-log-202010/#Deep_Cliff_Rounding3)
 * 여행/장소
   * [커뮤니티 번개 후기1](/palo-alto-log-202002/#Community_Event1)
   * [Half Moon Bay, Pigeon Point, Shark Fin Cove 등 관광 후기](/palo-alto-log-202002/#Half_Moon_Bay)
@@ -1655,3 +1658,6 @@ toc_sticky: true
   * [New York 여행 후 무사히 집 도착 후기](/palo-alto-log-202010/#Home_Arrival)
   * [One-on-One 영어회화 수업 후기50](/palo-alto-log-202010/#One-on-One50)
   * [가족 동반 골프연습 후기5](/palo-alto-log-202010/#Family_Practice5)
+  * [미국 초등학교/유치원 수업교재 수령 후기2](/palo-alto-log-202010/#Santa_Rita_Material2)
+  * [Stanford Bechtel International, 1:1 영어회화 후기28](/palo-alto-log-202010/#EIA_Lesson28)
+  * [Deep Cliff Golf Course 라운딩 후기3](/palo-alto-log-202010/#Deep_Cliff_Rounding3)
