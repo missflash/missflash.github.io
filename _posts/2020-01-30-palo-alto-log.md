@@ -425,6 +425,12 @@ toc_sticky: true
   * [가족 동반 골프연습 후기5](/palo-alto-log-202010/#Family_Practice5)
   * [Stanford Bechtel International, 1:1 영어회화 후기28](/palo-alto-log-202010/#EIA_Lesson28)
   * [Deep Cliff Golf Course 라운딩 후기3](/palo-alto-log-202010/#Deep_Cliff_Rounding3)
+  * [미국 유치원 수업 후기37](/palo-alto-log-202010/#Kinder_Class37)
+  * [미국 유치원 English Learners 수업 후기1](/palo-alto-log-202010/#EL_Class1)
+  * [Menlo Park 도서관 Conversation Club 후기16](/palo-alto-log-202010/#Conversation_Club16)
+  * [미국 유치원 수업 후기38](/palo-alto-log-202010/#Kinder_Class38)
+  * [CCIS English Conversation 후기7](/palo-alto-log-202010/#CCIS_English7)
+  * [아이들 Wyzant 수업 후기24_25](/palo-alto-log-202010/#Wyzant24_25)
 * 여행/장소
   * [커뮤니티 번개 후기1](/palo-alto-log-202002/#Community_Event1)
   * [Half Moon Bay, Pigeon Point, Shark Fin Cove 등 관광 후기](/palo-alto-log-202002/#Half_Moon_Bay)
@@ -1661,7 +1667,9 @@ toc_sticky: true
   * [미국 초등학교/유치원 수업교재 수령 후기2](/palo-alto-log-202010/#Santa_Rita_Material2)
   * [Stanford Bechtel International, 1:1 영어회화 후기28](/palo-alto-log-202010/#EIA_Lesson28)
   * [Deep Cliff Golf Course 라운딩 후기3](/palo-alto-log-202010/#Deep_Cliff_Rounding3)
-
   * [미국 유치원 수업 후기37](/palo-alto-log-202010/#Kinder_Class37)
   * [미국 유치원 English Learners 수업 후기1](/palo-alto-log-202010/#EL_Class1)
   * [Menlo Park 도서관 Conversation Club 후기16](/palo-alto-log-202010/#Conversation_Club16)
+  * [미국 유치원 수업 후기38](/palo-alto-log-202010/#Kinder_Class38)
+  * [CCIS English Conversation 후기7](/palo-alto-log-202010/#CCIS_English7)
+  * [아이들 Wyzant 수업 후기24_25](/palo-alto-log-202010/#Wyzant24_25)
