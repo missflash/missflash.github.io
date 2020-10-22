@@ -1663,3 +1663,5 @@ toc_sticky: true
   * [Deep Cliff Golf Course 라운딩 후기3](/palo-alto-log-202010/#Deep_Cliff_Rounding3)
 
   * [미국 유치원 수업 후기37](/palo-alto-log-202010/#Kinder_Class37)
+  * [미국 유치원 English Learners 수업 후기1](/palo-alto-log-202010/#EL_Class1)
+  * [Menlo Park 도서관 Conversation Club 후기16](/palo-alto-log-202010/#Conversation_Club16)
