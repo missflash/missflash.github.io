@@ -432,6 +432,9 @@ toc_sticky: true
   * [CCIS English Conversation 후기7](/palo-alto-log-202010/#CCIS_English7)
   * [아이들 Wyzant 수업 후기24_25](/palo-alto-log-202010/#Wyzant24_25)
   * [미국 유치원 수업 후기39](/palo-alto-log-202010/#Kinder_Class39)
+  * [미국 유치원 직접 등원 후기1](/palo-alto-log-202010/#In_Person_Class1)
+  * [One-on-One 영어회화 수업 후기51](/palo-alto-log-202010/#One-on-One51)
+  * [Los Lagos Golf Course 라운딩 후기2](/palo-alto-log-202010/#Los_Lagos_Golf_Course2)
 * 여행/장소
   * [커뮤니티 번개 후기1](/palo-alto-log-202002/#Community_Event1)
   * [Half Moon Bay, Pigeon Point, Shark Fin Cove 등 관광 후기](/palo-alto-log-202002/#Half_Moon_Bay)
@@ -1693,3 +1696,6 @@ toc_sticky: true
   * [General Sherman Tree 관람 후기](/palo-alto-log-202010/#General_Sherman_Tree)
   * [Visalia KOA 캠핑장 둘째날 숙박 후기](/palo-alto-log-202010/#Visalia_2nd_Night)
   * [Visalia KOA 캠핑장 셋째날 아침 맞이 후기](/palo-alto-log-202010/#Visalia_3rd_Day)
+  * [미국 유치원 직접 등원 후기1](/palo-alto-log-202010/#In_Person_Class1)
+  * [One-on-One 영어회화 수업 후기51](/palo-alto-log-202010/#One-on-One51)
+  * [Los Lagos Golf Course 라운딩 후기2](/palo-alto-log-202010/#Los_Lagos_Golf_Course2)
