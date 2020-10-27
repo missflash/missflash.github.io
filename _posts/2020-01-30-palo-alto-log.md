@@ -1699,3 +1699,6 @@ toc_sticky: true
   * [미국 유치원 직접 등원 후기1](/palo-alto-log-202010/#In_Person_Class1)
   * [One-on-One 영어회화 수업 후기51](/palo-alto-log-202010/#One-on-One51)
   * [Los Lagos Golf Course 라운딩 후기2](/palo-alto-log-202010/#Los_Lagos_Golf_Course2)
+
+  * [미국 유치원 직접 등원 후기2](/palo-alto-log-202010/#In_Person_Class2)
+  * [Stanford Bechtel International, 1:1 영어회화 후기29](/palo-alto-log-202010/#EIA_Lesson29)
