@@ -439,6 +439,9 @@ toc_sticky: true
   * [Stanford Bechtel International, 1:1 영어회화 후기29](/palo-alto-log-202010/#EIA_Lesson29)
   * [Fitness Center 재오픈 한 사연](/palo-alto-log-202010/#Fitness_Reopen)
   * [가족 동반 골프연습 후기6](/palo-alto-log-202010/#Family_Practice6)
+  * [미국 유치원 수업 후기40](/palo-alto-log-202010/#Kinder_Class40)
+  * [One-on-One 영어회화 수업 후기52](/palo-alto-log-202010/#One-on-One52)
+  * [미국 유치원 English Learners 수업 후기2_3](/palo-alto-log-202010/#EL_Class2_3)
 * 여행/장소
   * [커뮤니티 번개 후기1](/palo-alto-log-202002/#Community_Event1)
   * [Half Moon Bay, Pigeon Point, Shark Fin Cove 등 관광 후기](/palo-alto-log-202002/#Half_Moon_Bay)
@@ -1707,3 +1710,6 @@ toc_sticky: true
   * [Stanford Bechtel International, 1:1 영어회화 후기29](/palo-alto-log-202010/#EIA_Lesson29)
   * [Fitness Center 재오픈 한 사연](/palo-alto-log-202010/#Fitness_Reopen)
   * [가족 동반 골프연습 후기6](/palo-alto-log-202010/#Family_Practice6)
+  * [미국 유치원 수업 후기40](/palo-alto-log-202010/#Kinder_Class40)
+  * [One-on-One 영어회화 수업 후기52](/palo-alto-log-202010/#One-on-One52)
+  * [미국 유치원 English Learners 수업 후기2_3](/palo-alto-log-202010/#EL_Class2_3)
