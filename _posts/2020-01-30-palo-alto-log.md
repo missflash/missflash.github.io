@@ -90,6 +90,7 @@ toc_sticky: true
   * [미국 초등학교/유치원 수업교재 수령 후기1](/palo-alto-log-202009/#Santa_Rita_Material1)
   * [아이들 캘리포니아 영어 테스트 (ELPAC) 진행 후기](/palo-alto-log-202009/#ELPAC_1st)
   * [미국 초등학교/유치원 수업교재 수령 후기2](/palo-alto-log-202010/#Santa_Rita_Material2)
+  * [미국 유치원 직접 등원 후기2](/palo-alto-log-202010/#In_Person_Class2)
 * 생활
   * [렌트카 조기 반납 방법](/palo-alto-log-202002/#Rentcar_Return)
   * [각종 서비스 이용시 최적의 문의 방법](/palo-alto-log-202002/#Customer_Contact)
@@ -435,6 +436,9 @@ toc_sticky: true
   * [미국 유치원 직접 등원 후기1](/palo-alto-log-202010/#In_Person_Class1)
   * [One-on-One 영어회화 수업 후기51](/palo-alto-log-202010/#One-on-One51)
   * [Los Lagos Golf Course 라운딩 후기2](/palo-alto-log-202010/#Los_Lagos_Golf_Course2)
+  * [Stanford Bechtel International, 1:1 영어회화 후기29](/palo-alto-log-202010/#EIA_Lesson29)
+  * [Fitness Center 재오픈 한 사연](/palo-alto-log-202010/#Fitness_Reopen)
+  * [가족 동반 골프연습 후기6](/palo-alto-log-202010/#Family_Practice6)
 * 여행/장소
   * [커뮤니티 번개 후기1](/palo-alto-log-202002/#Community_Event1)
   * [Half Moon Bay, Pigeon Point, Shark Fin Cove 등 관광 후기](/palo-alto-log-202002/#Half_Moon_Bay)
@@ -1699,6 +1703,7 @@ toc_sticky: true
   * [미국 유치원 직접 등원 후기1](/palo-alto-log-202010/#In_Person_Class1)
   * [One-on-One 영어회화 수업 후기51](/palo-alto-log-202010/#One-on-One51)
   * [Los Lagos Golf Course 라운딩 후기2](/palo-alto-log-202010/#Los_Lagos_Golf_Course2)
-
   * [미국 유치원 직접 등원 후기2](/palo-alto-log-202010/#In_Person_Class2)
   * [Stanford Bechtel International, 1:1 영어회화 후기29](/palo-alto-log-202010/#EIA_Lesson29)
+  * [Fitness Center 재오픈 한 사연](/palo-alto-log-202010/#Fitness_Reopen)
+  * [가족 동반 골프연습 후기6](/palo-alto-log-202010/#Family_Practice6)
