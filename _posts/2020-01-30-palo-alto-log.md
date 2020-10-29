@@ -442,6 +442,7 @@ toc_sticky: true
   * [미국 유치원 수업 후기40](/palo-alto-log-202010/#Kinder_Class40)
   * [One-on-One 영어회화 수업 후기52](/palo-alto-log-202010/#One-on-One52)
   * [미국 유치원 English Learners 수업 후기2_3](/palo-alto-log-202010/#EL_Class2_3)
+  * [Menlo Park 도서관 Conversation Club 후기17](/palo-alto-log-202010/#Conversation_Club17)
 * 여행/장소
   * [커뮤니티 번개 후기1](/palo-alto-log-202002/#Community_Event1)
   * [Half Moon Bay, Pigeon Point, Shark Fin Cove 등 관광 후기](/palo-alto-log-202002/#Half_Moon_Bay)
@@ -1713,3 +1714,4 @@ toc_sticky: true
   * [미국 유치원 수업 후기40](/palo-alto-log-202010/#Kinder_Class40)
   * [One-on-One 영어회화 수업 후기52](/palo-alto-log-202010/#One-on-One52)
   * [미국 유치원 English Learners 수업 후기2_3](/palo-alto-log-202010/#EL_Class2_3)
+  * [Menlo Park 도서관 Conversation Club 후기17](/palo-alto-log-202010/#Conversation_Club17)
