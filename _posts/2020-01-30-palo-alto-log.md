@@ -1715,3 +1715,9 @@ toc_sticky: true
   * [One-on-One 영어회화 수업 후기52](/palo-alto-log-202010/#One-on-One52)
   * [미국 유치원 English Learners 수업 후기2_3](/palo-alto-log-202010/#EL_Class2_3)
   * [Menlo Park 도서관 Conversation Club 후기17](/palo-alto-log-202010/#Conversation_Club17)
+
+  * [미국 유치원 수업 후기41](/palo-alto-log-202010/#Kinder_Class41)
+  * [미국 유치원 English Learners 수업 후기4](/palo-alto-log-202010/#EL_Class4)
+  * [CCIS English Conversation 후기8](/palo-alto-log-202010/#CCIS_English8)
+  * [공기압 경고등이 다시 떠서 AirPump 재이용한 후기](/palo-alto-log-202010/#AirPump_Again)
+  * [가족 동반 골프연습 후기7](/palo-alto-log-202010/#Family_Practice7)
