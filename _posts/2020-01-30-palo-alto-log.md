@@ -162,6 +162,7 @@ toc_sticky: true
   * [Chase 신용카드 발급을 위해 Social Security Card를 Fax로 보낸 사연](/palo-alto-log-202009/#SSN_Fax)
   * [주유소에서 자동차 공기압 무료 충전했던 사연](/palo-alto-log-202010/#How_to_Use_AirPump)
   * [공항 주차료를 아끼기 위해 선택한 방법](/palo-alto-log-202010/#Temp_Parking1)
+  * [공기압 경고등이 다시 떠서 AirPump 재이용한 후기](/palo-alto-log-202010/#AirPump_Again)
 * 쇼핑
   * [저렴한 핸드폰 요금제 선택 방법](/palo-alto-log-202001/#Prepaid_Plan)
   * [중고차 구입 방법](/palo-alto-log-202001/#Used_Car)
@@ -443,6 +444,10 @@ toc_sticky: true
   * [One-on-One 영어회화 수업 후기52](/palo-alto-log-202010/#One-on-One52)
   * [미국 유치원 English Learners 수업 후기2_3](/palo-alto-log-202010/#EL_Class2_3)
   * [Menlo Park 도서관 Conversation Club 후기17](/palo-alto-log-202010/#Conversation_Club17)
+  * [미국 유치원 수업 후기41](/palo-alto-log-202010/#Kinder_Class41)
+  * [미국 유치원 English Learners 수업 후기4](/palo-alto-log-202010/#EL_Class4)
+  * [CCIS English Conversation 후기8](/palo-alto-log-202010/#CCIS_English8)
+  * [가족 동반 골프연습 후기7](/palo-alto-log-202010/#Family_Practice7)
 * 여행/장소
   * [커뮤니티 번개 후기1](/palo-alto-log-202002/#Community_Event1)
   * [Half Moon Bay, Pigeon Point, Shark Fin Cove 등 관광 후기](/palo-alto-log-202002/#Half_Moon_Bay)
@@ -1715,9 +1720,10 @@ toc_sticky: true
   * [One-on-One 영어회화 수업 후기52](/palo-alto-log-202010/#One-on-One52)
   * [미국 유치원 English Learners 수업 후기2_3](/palo-alto-log-202010/#EL_Class2_3)
   * [Menlo Park 도서관 Conversation Club 후기17](/palo-alto-log-202010/#Conversation_Club17)
-
   * [미국 유치원 수업 후기41](/palo-alto-log-202010/#Kinder_Class41)
   * [미국 유치원 English Learners 수업 후기4](/palo-alto-log-202010/#EL_Class4)
   * [CCIS English Conversation 후기8](/palo-alto-log-202010/#CCIS_English8)
   * [공기압 경고등이 다시 떠서 AirPump 재이용한 후기](/palo-alto-log-202010/#AirPump_Again)
   * [가족 동반 골프연습 후기7](/palo-alto-log-202010/#Family_Practice7)
+
+  * [미국 유치원 수업 후기42](/palo-alto-log-202010/#Kinder_Class42)
