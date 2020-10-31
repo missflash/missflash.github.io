@@ -1727,3 +1727,4 @@ toc_sticky: true
   * [가족 동반 골프연습 후기7](/palo-alto-log-202010/#Family_Practice7)
 
   * [미국 유치원 수업 후기42](/palo-alto-log-202010/#Kinder_Class42)
+  * [저녁식사 초대받은 후기14](/palo-alto-log-202010/#Dinner_Invitation14)
