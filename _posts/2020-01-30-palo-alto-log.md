@@ -163,6 +163,8 @@ toc_sticky: true
   * [주유소에서 자동차 공기압 무료 충전했던 사연](/palo-alto-log-202010/#How_to_Use_AirPump)
   * [공항 주차료를 아끼기 위해 선택한 방법](/palo-alto-log-202010/#Temp_Parking1)
   * [공기압 경고등이 다시 떠서 AirPump 재이용한 후기](/palo-alto-log-202010/#AirPump_Again)
+  * [신용카드 이벤트 문의를 위해 Stanford Federal Credit Union 방문한 사연](/palo-alto-log-202010/#SFCU_Inquiry)
+  * [아이들과 처음으로 Trick or Treat 한 후기](/palo-alto-log-202010/#1st_Trick_or_Treat)
 * 쇼핑
   * [저렴한 핸드폰 요금제 선택 방법](/palo-alto-log-202001/#Prepaid_Plan)
   * [중고차 구입 방법](/palo-alto-log-202001/#Used_Car)
@@ -448,6 +450,8 @@ toc_sticky: true
   * [미국 유치원 English Learners 수업 후기4](/palo-alto-log-202010/#EL_Class4)
   * [CCIS English Conversation 후기8](/palo-alto-log-202010/#CCIS_English8)
   * [가족 동반 골프연습 후기7](/palo-alto-log-202010/#Family_Practice7)
+  * [미국 유치원 수업 후기42](/palo-alto-log-202010/#Kinder_Class42)
+  * [아이들과 함께 아파트 Spa 이용한 후기](/palo-alto-log-202010/#First_Spa)
 * 여행/장소
   * [커뮤니티 번개 후기1](/palo-alto-log-202002/#Community_Event1)
   * [Half Moon Bay, Pigeon Point, Shark Fin Cove 등 관광 후기](/palo-alto-log-202002/#Half_Moon_Bay)
@@ -815,6 +819,10 @@ toc_sticky: true
   * [General Sherman Tree 관람 후기](/palo-alto-log-202010/#General_Sherman_Tree)
   * [Visalia KOA 캠핑장 둘째날 숙박 후기](/palo-alto-log-202010/#Visalia_2nd_Night)
   * [Visalia KOA 캠핑장 셋째날 아침 맞이 후기](/palo-alto-log-202010/#Visalia_3rd_Day)
+  * [Halloween날 Stanford Shopping Center 구경한 후기](/palo-alto-log-202010/#Stanford_Shopping_Center)
+  * [Steve Jobs House 방문 후기](/palo-alto-log-202010/#Steve_Jobs_House)
+  * [Google House 및 Palo Alto 주택가 방문 후기](/palo-alto-log-202010/#Google_House)
+  * [잊지못할 추억이 될 Palo Alto 지역 Halloween 투어 후기](/palo-alto-log-202010/#Trick_or_Treat_Tour)
 * 요리/식당
   * [호텔 무료 서비스를 즐기는 방법](/palo-alto-log-202002/#RI_MIX)
   * [저녁식사 초대받은 후기1](/palo-alto-log-202002/#Dinner_Invitation1)
@@ -870,6 +878,7 @@ toc_sticky: true
   * [저녁식사 초대받은 후기12](/palo-alto-log-202009/#Dinner_Invitation12)
   * [Chick Fil A 테이크아웃 후기](/palo-alto-log-202010/#Chick_Fil_A)
   * [저녁식사 초대받은 후기13](/palo-alto-log-202010/#Dinner_Invitation13)
+  * [저녁식사 초대받은 후기14](/palo-alto-log-202010/#Dinner_Invitation14)
 
 ---
 
@@ -1725,6 +1734,12 @@ toc_sticky: true
   * [CCIS English Conversation 후기8](/palo-alto-log-202010/#CCIS_English8)
   * [공기압 경고등이 다시 떠서 AirPump 재이용한 후기](/palo-alto-log-202010/#AirPump_Again)
   * [가족 동반 골프연습 후기7](/palo-alto-log-202010/#Family_Practice7)
-
   * [미국 유치원 수업 후기42](/palo-alto-log-202010/#Kinder_Class42)
   * [저녁식사 초대받은 후기14](/palo-alto-log-202010/#Dinner_Invitation14)
+  * [신용카드 이벤트 문의를 위해 Stanford Federal Credit Union 방문한 사연](/palo-alto-log-202010/#SFCU_Inquiry)
+  * [Halloween날 Stanford Shopping Center 구경한 후기](/palo-alto-log-202010/#Stanford_Shopping_Center)
+  * [아이들과 처음으로 Trick or Treat 한 후기](/palo-alto-log-202010/#1st_Trick_or_Treat)
+  * [Steve Jobs House 방문 후기](/palo-alto-log-202010/#Steve_Jobs_House)
+  * [Google House 및 Palo Alto 주택가 방문 후기](/palo-alto-log-202010/#Google_House)
+  * [아이들과 함께 아파트 Spa 이용한 후기](/palo-alto-log-202010/#First_Spa)
+  * [잊지못할 추억이 될 Palo Alto 지역 Halloween 투어 후기](/palo-alto-log-202010/#Trick_or_Treat_Tour)
