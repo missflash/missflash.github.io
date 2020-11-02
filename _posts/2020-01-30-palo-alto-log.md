@@ -18,6 +18,8 @@ toc_sticky: true
 ---
 
 # 월별 분류
+* [Palo Alto Log (2020.11)](https://missflash.github.io/palo-alto-log-202011/)
+* [Palo Alto Log (2020.10)](https://missflash.github.io/palo-alto-log-202010/)
 * [Palo Alto Log (2020.09)](https://missflash.github.io/palo-alto-log-202009/)
 * [Palo Alto Log (2020.08)](https://missflash.github.io/palo-alto-log-202008/)
 * [Palo Alto Log (2020.07)](https://missflash.github.io/palo-alto-log-202007/)
@@ -823,6 +825,8 @@ toc_sticky: true
   * [Steve Jobs House 방문 후기](/palo-alto-log-202010/#Steve_Jobs_House)
   * [Google House 및 Palo Alto 주택가 방문 후기](/palo-alto-log-202010/#Google_House)
   * [잊지못할 추억이 될 Palo Alto 지역 Halloween 투어 후기](/palo-alto-log-202010/#Trick_or_Treat_Tour)
+  * [처조카 돌을 기념해 세 번째로 Phoenix 방문한 사연](/palo-alto-log-202011/#3rd_Visit_to_Phoenix)
+  * [Four Points by Sheraton Bakersfield 두 번째 체크인 후기](/palo-alto-log-202011/#Bakersfield_Checkin)
 * 요리/식당
   * [호텔 무료 서비스를 즐기는 방법](/palo-alto-log-202002/#RI_MIX)
   * [저녁식사 초대받은 후기1](/palo-alto-log-202002/#Dinner_Invitation1)
@@ -1743,3 +1747,7 @@ toc_sticky: true
   * [Google House 및 Palo Alto 주택가 방문 후기](/palo-alto-log-202010/#Google_House)
   * [아이들과 함께 아파트 Spa 이용한 후기](/palo-alto-log-202010/#First_Spa)
   * [잊지못할 추억이 될 Palo Alto 지역 Halloween 투어 후기](/palo-alto-log-202010/#Trick_or_Treat_Tour)
+
+* 2020년 11월
+  * [처조카 돌을 기념해 세 번째로 Phoenix 방문한 사연](/palo-alto-log-202011/#3rd_Visit_to_Phoenix)
+  * [Four Points by Sheraton Bakersfield 두 번째 체크인 후기](/palo-alto-log-202011/#Bakersfield_Checkin)
