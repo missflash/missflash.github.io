@@ -826,7 +826,10 @@ toc_sticky: true
   * [Google House 및 Palo Alto 주택가 방문 후기](/palo-alto-log-202010/#Google_House)
   * [잊지못할 추억이 될 Palo Alto 지역 Halloween 투어 후기](/palo-alto-log-202010/#Trick_or_Treat_Tour)
   * [처조카 돌을 기념해 세 번째로 Phoenix 방문한 사연](/palo-alto-log-202011/#3rd_Visit_to_Phoenix)
-  * [Four Points by Sheraton Bakersfield 두 번째 체크인 후기](/palo-alto-log-202011/#Bakersfield_Checkin)
+  * [Four Points by Sheraton Bakersfield 두 번째 체크인 후기](/palo-alto-log-202011/#Bakersfield_CheckIn)
+  * [Four Points by Sheraton Bakersfield 두 번째 체크아웃 후기](/palo-alto-log-202011/#Bakersfield_CheckOut)
+  * [Arizona까지의 장거리 운전 후기&고속도로 주유 팁](/palo-alto-log-202011/#Way_to_Arizona)
+  * [Phoenix 처제네 방문 첫날 후기](/palo-alto-log-202011/#Cs_1st_Night)
 * 요리/식당
   * [호텔 무료 서비스를 즐기는 방법](/palo-alto-log-202002/#RI_MIX)
   * [저녁식사 초대받은 후기1](/palo-alto-log-202002/#Dinner_Invitation1)
@@ -1750,4 +1753,7 @@ toc_sticky: true
 
 * 2020년 11월
   * [처조카 돌을 기념해 세 번째로 Phoenix 방문한 사연](/palo-alto-log-202011/#3rd_Visit_to_Phoenix)
-  * [Four Points by Sheraton Bakersfield 두 번째 체크인 후기](/palo-alto-log-202011/#Bakersfield_Checkin)
+  * [Four Points by Sheraton Bakersfield 두 번째 체크인 후기](/palo-alto-log-202011/#Bakersfield_CheckIn)
+  * [Four Points by Sheraton Bakersfield 두 번째 체크아웃 후기](/palo-alto-log-202011/#Bakersfield_CheckOut)
+  * [Arizona까지의 장거리 운전 후기&고속도로 주유 팁](/palo-alto-log-202011/#Way_to_Arizona)
+  * [Phoenix 처제네 방문 첫날 후기](/palo-alto-log-202011/#Cs_1st_Night)
