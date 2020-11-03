@@ -1757,3 +1757,7 @@ toc_sticky: true
   * [Four Points by Sheraton Bakersfield 두 번째 체크아웃 후기](/palo-alto-log-202011/#Bakersfield_CheckOut)
   * [Arizona까지의 장거리 운전 후기&고속도로 주유 팁](/palo-alto-log-202011/#Way_to_Arizona)
   * [Phoenix 처제네 방문 첫날 후기](/palo-alto-log-202011/#Cs_1st_Night)
+
+  Cs_2nd_Morning
+  Red_Mountain_Park
+  Cs_2nd_Night
