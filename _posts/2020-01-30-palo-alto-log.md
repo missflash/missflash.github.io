@@ -223,6 +223,7 @@ toc_sticky: true
   * [GoodWill에서 아이들 골프 클럽 중고 구매 후기](/palo-alto-log-202009/#GoodWill_GolfClub)
   * [Gilroy Premium Outlet 크록스 구입 후기](/palo-alto-log-202009/#Gilroy_Premium_Outlet)
   * [Dicks에서 아내 골프 클럽 구매 후기](/palo-alto-log-202009/#Golf_Club_Takeout)
+  * [아이들 일일보상으로 최적의 장소, Dollar Tree 쇼핑 후기](/palo-alto-log-202011/#Dollar_Tree_Coupon)
 * 운동/교육
   * [골프 클럽 구입 후기](/palo-alto-log-202002/#Golf_Lesson0)
   * [Menlo Park 도서관 1:1 영어회화 신청 후기](/palo-alto-log-202002/#Menlo_Park_Library)
@@ -454,6 +455,7 @@ toc_sticky: true
   * [가족 동반 골프연습 후기7](/palo-alto-log-202010/#Family_Practice7)
   * [미국 유치원 수업 후기42](/palo-alto-log-202010/#Kinder_Class42)
   * [아이들과 함께 아파트 Spa 이용한 후기](/palo-alto-log-202010/#First_Spa)
+  * [One-on-One 영어회화 수업 후기53](/palo-alto-log-202011/#One-on-One53)
 * 여행/장소
   * [커뮤니티 번개 후기1](/palo-alto-log-202002/#Community_Event1)
   * [Half Moon Bay, Pigeon Point, Shark Fin Cove 등 관광 후기](/palo-alto-log-202002/#Half_Moon_Bay)
@@ -830,6 +832,15 @@ toc_sticky: true
   * [Four Points by Sheraton Bakersfield 두 번째 체크아웃 후기](/palo-alto-log-202011/#Bakersfield_CheckOut)
   * [Arizona까지의 장거리 운전 후기&고속도로 주유 팁](/palo-alto-log-202011/#Way_to_Arizona)
   * [Phoenix 처제네 방문 첫날 후기](/palo-alto-log-202011/#Cs_1st_Night)
+  * [Phoenix 처제네 방문 둘째날 아침 맞이 후기](/palo-alto-log-202011/#Cs_2nd_Morning)
+  * [Red Mountain Park 방문 후기](/palo-alto-log-202011/#Red_Mountain_Park)
+  * [Phoenix 처제네 방문 둘째날 후기](/palo-alto-log-202011/#Cs_2nd_Night)
+  * [Phoenix 처제네 방문 셋째날 아침 맞이 후기](/palo-alto-log-202011/#Cs_3rd_Morning)
+  * [Phoenix Zoo 관람 후기](/palo-alto-log-202011/#Phoenix_Zoo)
+  * [Hole in the Rock 관람 후기](/palo-alto-log-202011/#Hole_in_the_Rock)
+  * [Phoenix 처제네 방문 셋째날 오후 후기](/palo-alto-log-202011/#Cs_3rd_Day)
+  * [Enid Park 산책 후 아이들 싸움 중재 후기](/palo-alto-log-202011/#Enid_Park_Fighting)
+  * [Phoenix 처제네 방문 셋째날 후기](/palo-alto-log-202011/#Cs_3rd_Night)
 * 요리/식당
   * [호텔 무료 서비스를 즐기는 방법](/palo-alto-log-202002/#RI_MIX)
   * [저녁식사 초대받은 후기1](/palo-alto-log-202002/#Dinner_Invitation1)
@@ -1757,7 +1768,14 @@ toc_sticky: true
   * [Four Points by Sheraton Bakersfield 두 번째 체크아웃 후기](/palo-alto-log-202011/#Bakersfield_CheckOut)
   * [Arizona까지의 장거리 운전 후기&고속도로 주유 팁](/palo-alto-log-202011/#Way_to_Arizona)
   * [Phoenix 처제네 방문 첫날 후기](/palo-alto-log-202011/#Cs_1st_Night)
-
-  Cs_2nd_Morning
-  Red_Mountain_Park
-  Cs_2nd_Night
+  * [Phoenix 처제네 방문 둘째날 아침 맞이 후기](/palo-alto-log-202011/#Cs_2nd_Morning)
+  * [Red Mountain Park 방문 후기](/palo-alto-log-202011/#Red_Mountain_Park)
+  * [Phoenix 처제네 방문 둘째날 후기](/palo-alto-log-202011/#Cs_2nd_Night)
+  * [Phoenix 처제네 방문 셋째날 아침 맞이 후기](/palo-alto-log-202011/#Cs_3rd_Morning)
+  * [Phoenix Zoo 관람 후기](/palo-alto-log-202011/#Phoenix_Zoo)
+  * [One-on-One 영어회화 수업 후기53](/palo-alto-log-202011/#One-on-One53)
+  * [Hole in the Rock 관람 후기](/palo-alto-log-202011/#Hole_in_the_Rock)
+  * [아이들 일일보상으로 최적의 장소, Dollar Tree 쇼핑 후기](/palo-alto-log-202011/#Dollar_Tree_Coupon)
+  * [Phoenix 처제네 방문 셋째날 오후 후기](/palo-alto-log-202011/#Cs_3rd_Day)
+  * [Enid Park 산책 후 아이들 싸움 중재 후기](/palo-alto-log-202011/#Enid_Park_Fighting)
+  * [Phoenix 처제네 방문 셋째날 후기](/palo-alto-log-202011/#Cs_3rd_Night)
