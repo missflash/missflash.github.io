@@ -167,6 +167,7 @@ toc_sticky: true
   * [공기압 경고등이 다시 떠서 AirPump 재이용한 후기](/palo-alto-log-202010/#AirPump_Again)
   * [신용카드 이벤트 문의를 위해 Stanford Federal Credit Union 방문한 사연](/palo-alto-log-202010/#SFCU_Inquiry)
   * [아이들과 처음으로 Trick or Treat 한 후기](/palo-alto-log-202010/#1st_Trick_or_Treat)
+  * [East Valley Tires에서 중고 타이어 교체 후기](/palo-alto-log-202011/#East_Valley_Tires)
 * 쇼핑
   * [저렴한 핸드폰 요금제 선택 방법](/palo-alto-log-202001/#Prepaid_Plan)
   * [중고차 구입 방법](/palo-alto-log-202001/#Used_Car)
@@ -456,6 +457,7 @@ toc_sticky: true
   * [미국 유치원 수업 후기42](/palo-alto-log-202010/#Kinder_Class42)
   * [아이들과 함께 아파트 Spa 이용한 후기](/palo-alto-log-202010/#First_Spa)
   * [One-on-One 영어회화 수업 후기53](/palo-alto-log-202011/#One-on-One53)
+  * [One-on-One 영어회화 수업 후기54](/palo-alto-log-202011/#One-on-One54)
 * 여행/장소
   * [커뮤니티 번개 후기1](/palo-alto-log-202002/#Community_Event1)
   * [Half Moon Bay, Pigeon Point, Shark Fin Cove 등 관광 후기](/palo-alto-log-202002/#Half_Moon_Bay)
@@ -841,6 +843,9 @@ toc_sticky: true
   * [Phoenix 처제네 방문 셋째날 오후 후기](/palo-alto-log-202011/#Cs_3rd_Day)
   * [Enid Park 산책 후 아이들 싸움 중재 후기](/palo-alto-log-202011/#Enid_Park_Fighting)
   * [Phoenix 처제네 방문 셋째날 후기](/palo-alto-log-202011/#Cs_3rd_Night)
+  * [Phoenix 처제네 방문 넷째날 아침 맞이 후기](/palo-alto-log-202011/#Cs_4th_Morning)
+  * [McCormick-Stillman Railroad Park 방문 후기](/palo-alto-log-202011/#MS_Railroad_Park)
+  * [Phoenix 처제네 방문 넷째날 후기](/palo-alto-log-202011/#Cs_4th_Night)
 * 요리/식당
   * [호텔 무료 서비스를 즐기는 방법](/palo-alto-log-202002/#RI_MIX)
   * [저녁식사 초대받은 후기1](/palo-alto-log-202002/#Dinner_Invitation1)
@@ -897,6 +902,7 @@ toc_sticky: true
   * [Chick Fil A 테이크아웃 후기](/palo-alto-log-202010/#Chick_Fil_A)
   * [저녁식사 초대받은 후기13](/palo-alto-log-202010/#Dinner_Invitation13)
   * [저녁식사 초대받은 후기14](/palo-alto-log-202010/#Dinner_Invitation14)
+  * [Spinatos Pizzeria and Family Kitchen 식사 후기](/palo-alto-log-202011/#Spinatos_Pizzeria)
 
 ---
 
@@ -1779,3 +1785,9 @@ toc_sticky: true
   * [Phoenix 처제네 방문 셋째날 오후 후기](/palo-alto-log-202011/#Cs_3rd_Day)
   * [Enid Park 산책 후 아이들 싸움 중재 후기](/palo-alto-log-202011/#Enid_Park_Fighting)
   * [Phoenix 처제네 방문 셋째날 후기](/palo-alto-log-202011/#Cs_3rd_Night)
+  * [Phoenix 처제네 방문 넷째날 아침 맞이 후기](/palo-alto-log-202011/#Cs_4th_Morning)
+  * [McCormick-Stillman Railroad Park 방문 후기](/palo-alto-log-202011/#MS_Railroad_Park)
+  * [One-on-One 영어회화 수업 후기54](/palo-alto-log-202011/#One-on-One54)
+  * [Spinatos Pizzeria and Family Kitchen 식사 후기](/palo-alto-log-202011/#Spinatos_Pizzeria)
+  * [East Valley Tires에서 중고 타이어 교체 후기](/palo-alto-log-202011/#East_Valley_Tires)
+  * [Phoenix 처제네 방문 넷째날 후기](/palo-alto-log-202011/#Cs_4th_Night)
