@@ -225,6 +225,8 @@ toc_sticky: true
   * [Gilroy Premium Outlet 크록스 구입 후기](/palo-alto-log-202009/#Gilroy_Premium_Outlet)
   * [Dicks에서 아내 골프 클럽 구매 후기](/palo-alto-log-202009/#Golf_Club_Takeout)
   * [아이들 일일보상으로 최적의 장소, Dollar Tree 쇼핑 후기](/palo-alto-log-202011/#Dollar_Tree_Coupon)
+  * [중고매장 GoodWill 방문 후기](/palo-alto-log-202011/#GoodWill)
+  * [중고매장 GoodWill 보드게임 구입 후기](/palo-alto-log-202011/#Buy_Boardgame)
 * 운동/교육
   * [골프 클럽 구입 후기](/palo-alto-log-202002/#Golf_Lesson0)
   * [Menlo Park 도서관 1:1 영어회화 신청 후기](/palo-alto-log-202002/#Menlo_Park_Library)
@@ -846,6 +848,11 @@ toc_sticky: true
   * [Phoenix 처제네 방문 넷째날 아침 맞이 후기](/palo-alto-log-202011/#Cs_4th_Morning)
   * [McCormick-Stillman Railroad Park 방문 후기](/palo-alto-log-202011/#MS_Railroad_Park)
   * [Phoenix 처제네 방문 넷째날 후기](/palo-alto-log-202011/#Cs_4th_Night)
+  * [Phoenix 처제네 방문 다섯째날 아침 맞이 후기](/palo-alto-log-202011/#Cs_5th_Morning)
+  * [Usery Mountain Regional Park 관람 후기](/palo-alto-log-202011/#Usery_Mountain_Regional_Park)
+  * [Wind Cave Trail 짧은 체험 후기](/palo-alto-log-202011/#Wind_Cave_Trail)
+  * [Phoenix 처제네 방문 다섯째날 오후 후기](/palo-alto-log-202011/#Cs_5th_Day)
+  * [Phoenix 처제네 방문 다섯째날 후기](/palo-alto-log-202011/#Cs_5th_Night)
 * 요리/식당
   * [호텔 무료 서비스를 즐기는 방법](/palo-alto-log-202002/#RI_MIX)
   * [저녁식사 초대받은 후기1](/palo-alto-log-202002/#Dinner_Invitation1)
@@ -1791,10 +1798,10 @@ toc_sticky: true
   * [Spinatos Pizzeria and Family Kitchen 식사 후기](/palo-alto-log-202011/#Spinatos_Pizzeria)
   * [East Valley Tires에서 중고 타이어 교체 후기](/palo-alto-log-202011/#East_Valley_Tires)
   * [Phoenix 처제네 방문 넷째날 후기](/palo-alto-log-202011/#Cs_4th_Night)
-
-  Cs_5th_Morning
-  Usery_Mountain_Regional_Park
-  Wind_Cave_Trail
-  GoodWill
-  Cs_5th_Night
-  
+  * [Phoenix 처제네 방문 다섯째날 아침 맞이 후기](/palo-alto-log-202011/#Cs_5th_Morning)
+  * [Usery Mountain Regional Park 관람 후기](/palo-alto-log-202011/#Usery_Mountain_Regional_Park)
+  * [Wind Cave Trail 짧은 체험 후기](/palo-alto-log-202011/#Wind_Cave_Trail)
+  * [중고매장 GoodWill 방문 후기](/palo-alto-log-202011/#GoodWill)
+  * [Phoenix 처제네 방문 다섯째날 오후 후기](/palo-alto-log-202011/#Cs_5th_Day)
+  * [중고매장 GoodWill 보드게임 구입 후기](/palo-alto-log-202011/#Buy_Boardgame)
+  * [Phoenix 처제네 방문 다섯째날 후기](/palo-alto-log-202011/#Cs_5th_Night)
