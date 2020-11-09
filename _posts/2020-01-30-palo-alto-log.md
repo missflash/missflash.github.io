@@ -1811,3 +1811,7 @@ toc_sticky: true
   * [Phoenix 처제네 방문 여섯째날 아침 맞이 후기](/palo-alto-log-202011/#Cs_6th_Morning)
   * [Arizona에서 12시간동안 1,200km 운전해서 집에 온 후기](/palo-alto-log-202011/#Way_to_Home)
   * [온라인으로 Junior Ranger Badge 수령하는 방법](/palo-alto-log-202011/#Junior_Ranger_Online)
+
+  * [미국 유치원/학교 직접 등원 후기3](/palo-alto-log-202011/#In_Person_Class3)
+  * [One-on-One 영어회화 수업 후기55](/palo-alto-log-202011/#One-on-One55)
+  * [Los Lagos Golf Course 라운딩 후기3](/palo-alto-log-202011/#Los_Lagos_Golf_Course3)
