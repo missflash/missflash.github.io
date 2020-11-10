@@ -93,6 +93,7 @@ toc_sticky: true
   * [아이들 캘리포니아 영어 테스트 (ELPAC) 진행 후기](/palo-alto-log-202009/#ELPAC_1st)
   * [미국 초등학교/유치원 수업교재 수령 후기2](/palo-alto-log-202010/#Santa_Rita_Material2)
   * [미국 유치원 직접 등원 후기2](/palo-alto-log-202010/#In_Person_Class2)
+  * [미국 유치원/학교 직접 등원 후기3](/palo-alto-log-202011/#In_Person_Class3)
 * 생활
   * [렌트카 조기 반납 방법](/palo-alto-log-202002/#Rentcar_Return)
   * [각종 서비스 이용시 최적의 문의 방법](/palo-alto-log-202002/#Customer_Contact)
@@ -460,6 +461,8 @@ toc_sticky: true
   * [아이들과 함께 아파트 Spa 이용한 후기](/palo-alto-log-202010/#First_Spa)
   * [One-on-One 영어회화 수업 후기53](/palo-alto-log-202011/#One-on-One53)
   * [One-on-One 영어회화 수업 후기54](/palo-alto-log-202011/#One-on-One54)
+  * [One-on-One 영어회화 수업 후기55](/palo-alto-log-202011/#One-on-One55)
+  * [Los Lagos Golf Course 라운딩 후기3](/palo-alto-log-202011/#Los_Lagos_Golf_Course3)
 * 여행/장소
   * [커뮤니티 번개 후기1](/palo-alto-log-202002/#Community_Event1)
   * [Half Moon Bay, Pigeon Point, Shark Fin Cove 등 관광 후기](/palo-alto-log-202002/#Half_Moon_Bay)
@@ -913,6 +916,7 @@ toc_sticky: true
   * [저녁식사 초대받은 후기13](/palo-alto-log-202010/#Dinner_Invitation13)
   * [저녁식사 초대받은 후기14](/palo-alto-log-202010/#Dinner_Invitation14)
   * [Spinatos Pizzeria and Family Kitchen 식사 후기](/palo-alto-log-202011/#Spinatos_Pizzeria)
+  * [저녁식사 초대받은 후기15](/palo-alto-log-202011/#Dinner_Invitation15)
 
 ---
 
@@ -1811,7 +1815,7 @@ toc_sticky: true
   * [Phoenix 처제네 방문 여섯째날 아침 맞이 후기](/palo-alto-log-202011/#Cs_6th_Morning)
   * [Arizona에서 12시간동안 1,200km 운전해서 집에 온 후기](/palo-alto-log-202011/#Way_to_Home)
   * [온라인으로 Junior Ranger Badge 수령하는 방법](/palo-alto-log-202011/#Junior_Ranger_Online)
-
   * [미국 유치원/학교 직접 등원 후기3](/palo-alto-log-202011/#In_Person_Class3)
   * [One-on-One 영어회화 수업 후기55](/palo-alto-log-202011/#One-on-One55)
   * [Los Lagos Golf Course 라운딩 후기3](/palo-alto-log-202011/#Los_Lagos_Golf_Course3)
+  * [저녁식사 초대받은 후기15](/palo-alto-log-202011/#Dinner_Invitation15)
