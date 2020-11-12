@@ -463,6 +463,11 @@ toc_sticky: true
   * [One-on-One 영어회화 수업 후기54](/palo-alto-log-202011/#One-on-One54)
   * [One-on-One 영어회화 수업 후기55](/palo-alto-log-202011/#One-on-One55)
   * [Los Lagos Golf Course 라운딩 후기3](/palo-alto-log-202011/#Los_Lagos_Golf_Course3)
+  * [미국 유치원/학교 직접 등원 후기4](/palo-alto-log-202011/#In_Person_Class4)
+  * [Stanford Bechtel International, 1:1 영어회화 후기30](/palo-alto-log-202011/#EIA_Lesson30)
+  * [미국 유치원 수업 후기43](/palo-alto-log-202011/#Kinder_Class43)
+  * [One-on-One 영어회화 수업 후기56](/palo-alto-log-202011/#One-on-One56)
+  * [CCIS English Conversation 후기9](/palo-alto-log-202011/#CCIS_English9)
 * 여행/장소
   * [커뮤니티 번개 후기1](/palo-alto-log-202002/#Community_Event1)
   * [Half Moon Bay, Pigeon Point, Shark Fin Cove 등 관광 후기](/palo-alto-log-202002/#Half_Moon_Bay)
@@ -859,6 +864,12 @@ toc_sticky: true
   * [Phoenix 처제네 방문 여섯째날 아침 맞이 후기](/palo-alto-log-202011/#Cs_6th_Morning)
   * [Arizona에서 12시간동안 1,200km 운전해서 집에 온 후기](/palo-alto-log-202011/#Way_to_Home)
   * [온라인으로 Junior Ranger Badge 수령하는 방법](/palo-alto-log-202011/#Junior_Ranger_Online)
+  * [Muir Woods National Monument 관광 후기](/palo-alto-log-202011/#Muir_Woods_National_Monument)
+  * [Muir Beach Overlook 관광 후기](/palo-alto-log-202011/#Muir_Beach_Overlook)
+  * [낭만이 있는 Sausalito 관광 후기](/palo-alto-log-202011/#Sausalito)
+  * [Golden Gate Observation Deck 관광 후기](/palo-alto-log-202011/#Golden_Gate_Observation_Deck)
+  * [Golden Gate View Point 관광 후기](/palo-alto-log-202011/#Golden_Gate_View_Point)
+  * [Golden Gate Bridge 트레일 후기](/palo-alto-log-202011/#Golden_Gate_Bridge_Trail)
 * 요리/식당
   * [호텔 무료 서비스를 즐기는 방법](/palo-alto-log-202002/#RI_MIX)
   * [저녁식사 초대받은 후기1](/palo-alto-log-202002/#Dinner_Invitation1)
@@ -916,7 +927,8 @@ toc_sticky: true
   * [저녁식사 초대받은 후기13](/palo-alto-log-202010/#Dinner_Invitation13)
   * [저녁식사 초대받은 후기14](/palo-alto-log-202010/#Dinner_Invitation14)
   * [Spinatos Pizzeria and Family Kitchen 식사 후기](/palo-alto-log-202011/#Spinatos_Pizzeria)
-  * [저녁식사 초대받은 후기15](/palo-alto-log-202011/#Dinner_Invitation15)
+  * [저녁식사 초대한 후기15](/palo-alto-log-202011/#Dinner_Invitation15)
+  * [저녁식사 초대받은 후기16](/palo-alto-log-202011/#Dinner_Invitation16)
 
 ---
 
@@ -1818,20 +1830,16 @@ toc_sticky: true
   * [미국 유치원/학교 직접 등원 후기3](/palo-alto-log-202011/#In_Person_Class3)
   * [One-on-One 영어회화 수업 후기55](/palo-alto-log-202011/#One-on-One55)
   * [Los Lagos Golf Course 라운딩 후기3](/palo-alto-log-202011/#Los_Lagos_Golf_Course3)
-  * [저녁식사 초대받은 후기15](/palo-alto-log-202011/#Dinner_Invitation15)
-
+  * [저녁식사 초대한 후기15](/palo-alto-log-202011/#Dinner_Invitation15)
   * [미국 유치원/학교 직접 등원 후기4](/palo-alto-log-202011/#In_Person_Class4)
   * [Stanford Bechtel International, 1:1 영어회화 후기30](/palo-alto-log-202011/#EIA_Lesson30)
-  Muir_Woods_National_Monument
-  Muir_Beach_Overlook
-  Sausalito
-  Golden_Gate_Observation_Deck
-  Golden_Gate_View_Point
-  Golden_Gate_Bridge_Trail
-  Dinner_Invitation16
-
-  Kinder_Class43
-  One-on-One56
-  CCIS_English9
-  Family_Practice8
-  
+  * [Muir Woods National Monument 관광 후기](/palo-alto-log-202011/#Muir_Woods_National_Monument)
+  * [Muir Beach Overlook 관광 후기](/palo-alto-log-202011/#Muir_Beach_Overlook)
+  * [낭만이 있는 Sausalito 관광 후기](/palo-alto-log-202011/#Sausalito)
+  * [Golden Gate Observation Deck 관광 후기](/palo-alto-log-202011/#Golden_Gate_Observation_Deck)
+  * [Golden Gate View Point 관광 후기](/palo-alto-log-202011/#Golden_Gate_View_Point)
+  * [Golden Gate Bridge 트레일 후기](/palo-alto-log-202011/#Golden_Gate_Bridge_Trail)
+  * [저녁식사 초대받은 후기16](/palo-alto-log-202011/#Dinner_Invitation16)
+  * [미국 유치원 수업 후기43](/palo-alto-log-202011/#Kinder_Class43)
+  * [One-on-One 영어회화 수업 후기56](/palo-alto-log-202011/#One-on-One56)
+  * [CCIS English Conversation 후기9](/palo-alto-log-202011/#CCIS_English9)
