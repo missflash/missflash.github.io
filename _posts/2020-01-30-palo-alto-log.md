@@ -1822,3 +1822,16 @@ toc_sticky: true
 
   * [미국 유치원/학교 직접 등원 후기4](/palo-alto-log-202011/#In_Person_Class4)
   * [Stanford Bechtel International, 1:1 영어회화 후기30](/palo-alto-log-202011/#EIA_Lesson30)
+  Muir_Woods_National_Monument
+  Muir_Beach_Overlook
+  Sausalito
+  Golden_Gate_Observation_Deck
+  Golden_Gate_View_Point
+  Golden_Gate_Bridge_Trail
+  Dinner_Invitation16
+
+  Kinder_Class43
+  One-on-One56
+  CCIS_English9
+  Family_Practice8
+  
