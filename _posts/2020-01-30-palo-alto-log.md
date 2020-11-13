@@ -169,6 +169,7 @@ toc_sticky: true
   * [신용카드 이벤트 문의를 위해 Stanford Federal Credit Union 방문한 사연](/palo-alto-log-202010/#SFCU_Inquiry)
   * [아이들과 처음으로 Trick or Treat 한 후기](/palo-alto-log-202010/#1st_Trick_or_Treat)
   * [East Valley Tires에서 중고 타이어 교체 후기](/palo-alto-log-202011/#East_Valley_Tires)
+  * [아파트 Spa에서 한국인 가족 만나서 인사나눈 사연](/palo-alto-log-202011/#Neighbor_Meeting)
 * 쇼핑
   * [저렴한 핸드폰 요금제 선택 방법](/palo-alto-log-202001/#Prepaid_Plan)
   * [중고차 구입 방법](/palo-alto-log-202001/#Used_Car)
@@ -1843,3 +1844,4 @@ toc_sticky: true
   * [미국 유치원 수업 후기43](/palo-alto-log-202011/#Kinder_Class43)
   * [One-on-One 영어회화 수업 후기56](/palo-alto-log-202011/#One-on-One56)
   * [CCIS English Conversation 후기9](/palo-alto-log-202011/#CCIS_English9)
+  * [아파트 Spa에서 한국인 가족 만나서 인사나눈 사연](/palo-alto-log-202011/#Neighbor_Meeting)
