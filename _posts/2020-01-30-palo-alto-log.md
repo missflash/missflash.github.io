@@ -469,6 +469,7 @@ toc_sticky: true
   * [미국 유치원 수업 후기43](/palo-alto-log-202011/#Kinder_Class43)
   * [One-on-One 영어회화 수업 후기56](/palo-alto-log-202011/#One-on-One56)
   * [CCIS English Conversation 후기9](/palo-alto-log-202011/#CCIS_English9)
+  * [미국 유치원 수업 후기44](/palo-alto-log-202011/#Kinder_Class44)
 * 여행/장소
   * [커뮤니티 번개 후기1](/palo-alto-log-202002/#Community_Event1)
   * [Half Moon Bay, Pigeon Point, Shark Fin Cove 등 관광 후기](/palo-alto-log-202002/#Half_Moon_Bay)
@@ -930,6 +931,7 @@ toc_sticky: true
   * [Spinatos Pizzeria and Family Kitchen 식사 후기](/palo-alto-log-202011/#Spinatos_Pizzeria)
   * [저녁식사 초대한 후기15](/palo-alto-log-202011/#Dinner_Invitation15)
   * [저녁식사 초대받은 후기16](/palo-alto-log-202011/#Dinner_Invitation16)
+  * [저녁식사 초대받은 후기17](/palo-alto-log-202011/#Dinner_Invitation17)
 
 ---
 
@@ -1845,3 +1847,5 @@ toc_sticky: true
   * [One-on-One 영어회화 수업 후기56](/palo-alto-log-202011/#One-on-One56)
   * [CCIS English Conversation 후기9](/palo-alto-log-202011/#CCIS_English9)
   * [아파트 Spa에서 한국인 가족 만나서 인사나눈 사연](/palo-alto-log-202011/#Neighbor_Meeting)
+  * [미국 유치원 수업 후기44](/palo-alto-log-202011/#Kinder_Class44)
+  * [저녁식사 초대받은 후기17](/palo-alto-log-202011/#Dinner_Invitation17)
