@@ -1849,3 +1849,6 @@ toc_sticky: true
   * [아파트 Spa에서 한국인 가족 만나서 인사나눈 사연](/palo-alto-log-202011/#Neighbor_Meeting)
   * [미국 유치원 수업 후기44](/palo-alto-log-202011/#Kinder_Class44)
   * [저녁식사 초대받은 후기17](/palo-alto-log-202011/#Dinner_Invitation17)
+
+  Summitpointe_Range1
+  One_Way_Rentcar
