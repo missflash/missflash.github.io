@@ -170,6 +170,7 @@ toc_sticky: true
   * [아이들과 처음으로 Trick or Treat 한 후기](/palo-alto-log-202010/#1st_Trick_or_Treat)
   * [East Valley Tires에서 중고 타이어 교체 후기](/palo-alto-log-202011/#East_Valley_Tires)
   * [아파트 Spa에서 한국인 가족 만나서 인사나눈 사연](/palo-alto-log-202011/#Neighbor_Meeting)
+  * [편도 렌트카 저렴하게 예약한 후기](/palo-alto-log-202011/#One_Way_Rentcar)
 * 쇼핑
   * [저렴한 핸드폰 요금제 선택 방법](/palo-alto-log-202001/#Prepaid_Plan)
   * [중고차 구입 방법](/palo-alto-log-202001/#Used_Car)
@@ -470,6 +471,8 @@ toc_sticky: true
   * [One-on-One 영어회화 수업 후기56](/palo-alto-log-202011/#One-on-One56)
   * [CCIS English Conversation 후기9](/palo-alto-log-202011/#CCIS_English9)
   * [미국 유치원 수업 후기44](/palo-alto-log-202011/#Kinder_Class44)
+  * [Summitpointe Golf Club 골프연습 후기1](/palo-alto-log-202011/#Summitpointe_Range1)
+  * [가족 동반 골프연습 후기8](/palo-alto-log-202011/#Family_Practice8)
 * 여행/장소
   * [커뮤니티 번개 후기1](/palo-alto-log-202002/#Community_Event1)
   * [Half Moon Bay, Pigeon Point, Shark Fin Cove 등 관광 후기](/palo-alto-log-202002/#Half_Moon_Bay)
@@ -1849,6 +1852,6 @@ toc_sticky: true
   * [아파트 Spa에서 한국인 가족 만나서 인사나눈 사연](/palo-alto-log-202011/#Neighbor_Meeting)
   * [미국 유치원 수업 후기44](/palo-alto-log-202011/#Kinder_Class44)
   * [저녁식사 초대받은 후기17](/palo-alto-log-202011/#Dinner_Invitation17)
-
-  Summitpointe_Range1
-  One_Way_Rentcar
+  * [Summitpointe Golf Club 골프연습 후기1](/palo-alto-log-202011/#Summitpointe_Range1)
+  * [편도 렌트카 저렴하게 예약한 후기](/palo-alto-log-202011/#One_Way_Rentcar)
+  * [가족 동반 골프연습 후기8](/palo-alto-log-202011/#Family_Practice8)
