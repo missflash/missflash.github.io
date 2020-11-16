@@ -1855,3 +1855,7 @@ toc_sticky: true
   * [Summitpointe Golf Club 골프연습 후기1](/palo-alto-log-202011/#Summitpointe_Range1)
   * [편도 렌트카 저렴하게 예약한 후기](/palo-alto-log-202011/#One_Way_Rentcar)
   * [가족 동반 골프연습 후기8](/palo-alto-log-202011/#Family_Practice8)
+
+  * [미국 유치원/학교 직접 등원 후기5](/palo-alto-log-202011/#In_Person_Class5)
+  * [One-on-One 영어회화 수업 후기57](/palo-alto-log-202011/#One-on-One57)
+  * [San Jose Municipal Golf Course 라운딩 후기1](/palo-alto-log-202011/#San_Jose_Municipal1)
