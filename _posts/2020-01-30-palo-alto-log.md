@@ -1859,3 +1859,4 @@ toc_sticky: true
   * [미국 유치원/학교 직접 등원 후기5](/palo-alto-log-202011/#In_Person_Class5)
   * [One-on-One 영어회화 수업 후기57](/palo-alto-log-202011/#One-on-One57)
   * [San Jose Municipal Golf Course 라운딩 후기1](/palo-alto-log-202011/#San_Jose_Municipal1)
+  * [저녁식사 초대받은 후기18](/palo-alto-log-202011/#Dinner_Invitation18)
