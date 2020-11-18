@@ -171,6 +171,7 @@ toc_sticky: true
   * [East Valley Tires에서 중고 타이어 교체 후기](/palo-alto-log-202011/#East_Valley_Tires)
   * [아파트 Spa에서 한국인 가족 만나서 인사나눈 사연](/palo-alto-log-202011/#Neighbor_Meeting)
   * [편도 렌트카 저렴하게 예약한 후기](/palo-alto-log-202011/#One_Way_Rentcar)
+  * [미국인 친구 이사 도와준 사연](/palo-alto-log-202011/#Meet_Friend)
 * 쇼핑
   * [저렴한 핸드폰 요금제 선택 방법](/palo-alto-log-202001/#Prepaid_Plan)
   * [중고차 구입 방법](/palo-alto-log-202001/#Used_Car)
@@ -473,6 +474,13 @@ toc_sticky: true
   * [미국 유치원 수업 후기44](/palo-alto-log-202011/#Kinder_Class44)
   * [Summitpointe Golf Club 골프연습 후기1](/palo-alto-log-202011/#Summitpointe_Range1)
   * [가족 동반 골프연습 후기8](/palo-alto-log-202011/#Family_Practice8)
+  * [미국 유치원/학교 직접 등원 후기5](/palo-alto-log-202011/#In_Person_Class5)
+  * [One-on-One 영어회화 수업 후기57](/palo-alto-log-202011/#One-on-One57)
+  * [San Jose Municipal Golf Course 라운딩 후기1](/palo-alto-log-202011/#San_Jose_Municipal1)
+  * [미국 유치원/학교 직접 등원 후기6](/palo-alto-log-202011/#In_Person_Class6)
+  * [Stanford Bechtel International, 1:1 영어회화 후기31](/palo-alto-log-202011/#EIA_Lesson31)
+  * [최신 시설의 Driving Range에서 골프 연습한 후기](/palo-alto-log-202011/#Mariners_Point_Golf_Center)
+  * [Poplar Creek Golf Course 라운딩 후기2](/palo-alto-log-202011/#Poplar_Rounding2)
 * 여행/장소
   * [커뮤니티 번개 후기1](/palo-alto-log-202002/#Community_Event1)
   * [Half Moon Bay, Pigeon Point, Shark Fin Cove 등 관광 후기](/palo-alto-log-202002/#Half_Moon_Bay)
@@ -935,6 +943,7 @@ toc_sticky: true
   * [저녁식사 초대한 후기15](/palo-alto-log-202011/#Dinner_Invitation15)
   * [저녁식사 초대받은 후기16](/palo-alto-log-202011/#Dinner_Invitation16)
   * [저녁식사 초대받은 후기17](/palo-alto-log-202011/#Dinner_Invitation17)
+  * [저녁식사 초대받은 후기18](/palo-alto-log-202011/#Dinner_Invitation18)
 
 ---
 
@@ -1855,8 +1864,12 @@ toc_sticky: true
   * [Summitpointe Golf Club 골프연습 후기1](/palo-alto-log-202011/#Summitpointe_Range1)
   * [편도 렌트카 저렴하게 예약한 후기](/palo-alto-log-202011/#One_Way_Rentcar)
   * [가족 동반 골프연습 후기8](/palo-alto-log-202011/#Family_Practice8)
-
   * [미국 유치원/학교 직접 등원 후기5](/palo-alto-log-202011/#In_Person_Class5)
   * [One-on-One 영어회화 수업 후기57](/palo-alto-log-202011/#One-on-One57)
   * [San Jose Municipal Golf Course 라운딩 후기1](/palo-alto-log-202011/#San_Jose_Municipal1)
   * [저녁식사 초대받은 후기18](/palo-alto-log-202011/#Dinner_Invitation18)
+  * [미국 유치원/학교 직접 등원 후기6](/palo-alto-log-202011/#In_Person_Class6)
+  * [Stanford Bechtel International, 1:1 영어회화 후기31](/palo-alto-log-202011/#EIA_Lesson31)
+  * [미국인 친구 이사 도와준 사연](/palo-alto-log-202011/#Meet_Friend)
+  * [최신 시설의 Driving Range에서 골프 연습한 후기](/palo-alto-log-202011/#Mariners_Point_Golf_Center)
+  * [Poplar Creek Golf Course 라운딩 후기2](/palo-alto-log-202011/#Poplar_Rounding2)
