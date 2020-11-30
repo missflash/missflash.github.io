@@ -483,6 +483,7 @@ toc_sticky: true
   * [Poplar Creek Golf Course 라운딩 후기2](/palo-alto-log-202011/#Poplar_Rounding2)
   * [One-on-One 영어회화 수업 후기58](/palo-alto-log-202011/#One-on-One58)
   * [One-on-One 영어회화 수업 후기59](/palo-alto-log-202011/#One-on-One59)
+  * [가족 동반 골프연습 후기9](/palo-alto-log-202011/#Family_Practice9)
 * 여행/장소
   * [커뮤니티 번개 후기1](/palo-alto-log-202002/#Community_Event1)
   * [Half Moon Bay, Pigeon Point, Shark Fin Cove 등 관광 후기](/palo-alto-log-202002/#Half_Moon_Bay)
@@ -938,6 +939,7 @@ toc_sticky: true
   * [Best Western Prairie 호텔 체크인 후기](/palo-alto-log-202011/#Best_Western_Prairie_CheckIn)
   * [Best Western Prairie 호텔 체크아웃 후기](/palo-alto-log-202011/#Best_Western_Prairie_CheckOut)
   * [Seattle 여행 5일차, 집으로 가는 길](/palo-alto-log-202011/#Way_to_Los_Altos)
+  * [연수동기 가족들과 여행 준비 Zoom 미팅한 사연](/palo-alto-log-202011/#Zoom_Meeting)
 * 요리/식당
   * [호텔 무료 서비스를 즐기는 방법](/palo-alto-log-202002/#RI_MIX)
   * [저녁식사 초대받은 후기1](/palo-alto-log-202002/#Dinner_Invitation1)
@@ -1983,3 +1985,5 @@ toc_sticky: true
   * [Best Western Prairie 호텔 체크인 후기](/palo-alto-log-202011/#Best_Western_Prairie_CheckIn)
   * [Best Western Prairie 호텔 체크아웃 후기](/palo-alto-log-202011/#Best_Western_Prairie_CheckOut)
   * [Seattle 여행 5일차, 집으로 가는 길](/palo-alto-log-202011/#Way_to_Los_Altos)
+  * [가족 동반 골프연습 후기9](/palo-alto-log-202011/#Family_Practice9)
+  * [연수동기 가족들과 여행 준비 Zoom 미팅한 사연](/palo-alto-log-202011/#Zoom_Meeting)
