@@ -1999,6 +1999,8 @@ toc_sticky: true
   * [One-on-One 영어회화 수업 후기60](/palo-alto-log-202011/#One-on-One60)
   * [Stanford Golf Driving Range 연습 후기](/palo-alto-log-202011/#Stanford_Golf_Driving_Range)
   * [Sunnyvale Municipal Golf Course 라운딩 후기1](/palo-alto-log-202011/#Sunnyvale_Municipal1)
+
+* 2020년 12월
   * [미국 유치원/학교 직접 등원 후기8](/palo-alto-log-202012/#In_Person_Class8)
   * [Stanford Bechtel International, 1:1 영어회화 후기32](/palo-alto-log-202012/#EIA_Lesson32)
   * [미국 유치원 수업 후기44](/palo-alto-log-202012/#Kinder_Class45)
