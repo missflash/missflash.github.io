@@ -488,6 +488,10 @@ toc_sticky: true
   * [One-on-One 영어회화 수업 후기60](/palo-alto-log-202011/#One-on-One60)
   * [Stanford Golf Driving Range 연습 후기](/palo-alto-log-202011/#Stanford_Golf_Driving_Range)
   * [Sunnyvale Municipal Golf Course 라운딩 후기1](/palo-alto-log-202011/#Sunnyvale_Municipal1)
+  * [미국 유치원/학교 직접 등원 후기8](/palo-alto-log-202012/#In_Person_Class8)
+  * [Stanford Bechtel International, 1:1 영어회화 후기32](/palo-alto-log-202012/#EIA_Lesson32)
+  * [미국 유치원 수업 후기44](/palo-alto-log-202012/#Kinder_Class45)
+  * [San Jose Municipal Golf Course 라운딩 후기2](/palo-alto-log-202012/#San_Jose_Municipal2)
 * 여행/장소
   * [커뮤니티 번개 후기1](/palo-alto-log-202002/#Community_Event1)
   * [Half Moon Bay, Pigeon Point, Shark Fin Cove 등 관광 후기](/palo-alto-log-202002/#Half_Moon_Bay)
@@ -1995,3 +1999,7 @@ toc_sticky: true
   * [One-on-One 영어회화 수업 후기60](/palo-alto-log-202011/#One-on-One60)
   * [Stanford Golf Driving Range 연습 후기](/palo-alto-log-202011/#Stanford_Golf_Driving_Range)
   * [Sunnyvale Municipal Golf Course 라운딩 후기1](/palo-alto-log-202011/#Sunnyvale_Municipal1)
+  * [미국 유치원/학교 직접 등원 후기8](/palo-alto-log-202012/#In_Person_Class8)
+  * [Stanford Bechtel International, 1:1 영어회화 후기32](/palo-alto-log-202012/#EIA_Lesson32)
+  * [미국 유치원 수업 후기44](/palo-alto-log-202012/#Kinder_Class45)
+  * [San Jose Municipal Golf Course 라운딩 후기2](/palo-alto-log-202012/#San_Jose_Municipal2)
