@@ -231,6 +231,8 @@ toc_sticky: true
   * [아이들 일일보상으로 최적의 장소, Dollar Tree 쇼핑 후기](/palo-alto-log-202011/#Dollar_Tree_Coupon)
   * [중고매장 GoodWill 방문 후기](/palo-alto-log-202011/#GoodWill)
   * [중고매장 GoodWill 보드게임 구입 후기](/palo-alto-log-202011/#Buy_Boardgame)
+  * [음향 문제로 AirPod Pro 무상교환한 사연](/palo-alto-log-202012/#AirPod_Pro_Exchange)
+  * [Amazon에서 구입한 Apple Watch Band 부분 환불받은 사연](/palo-alto-log-202012/#Partial_Refund)
 * 운동/교육
   * [골프 클럽 구입 후기](/palo-alto-log-202002/#Golf_Lesson0)
   * [Menlo Park 도서관 1:1 영어회화 신청 후기](/palo-alto-log-202002/#Menlo_Park_Library)
@@ -490,8 +492,10 @@ toc_sticky: true
   * [Sunnyvale Municipal Golf Course 라운딩 후기1](/palo-alto-log-202011/#Sunnyvale_Municipal1)
   * [미국 유치원/학교 직접 등원 후기8](/palo-alto-log-202012/#In_Person_Class8)
   * [Stanford Bechtel International, 1:1 영어회화 후기32](/palo-alto-log-202012/#EIA_Lesson32)
-  * [미국 유치원 수업 후기44](/palo-alto-log-202012/#Kinder_Class45)
+  * [미국 유치원 수업 후기45](/palo-alto-log-202012/#Kinder_Class45)
   * [San Jose Municipal Golf Course 라운딩 후기2](/palo-alto-log-202012/#San_Jose_Municipal2)
+  * [미국 유치원 수업 후기46](/palo-alto-log-202012/#Kinder_Class46)
+  * [가족 동반 골프연습 후기10](/palo-alto-log-202012/#Family_Practice10)
 * 여행/장소
   * [커뮤니티 번개 후기1](/palo-alto-log-202002/#Community_Event1)
   * [Half Moon Bay, Pigeon Point, Shark Fin Cove 등 관광 후기](/palo-alto-log-202002/#Half_Moon_Bay)
@@ -2003,5 +2007,9 @@ toc_sticky: true
 * 2020년 12월
   * [미국 유치원/학교 직접 등원 후기8](/palo-alto-log-202012/#In_Person_Class8)
   * [Stanford Bechtel International, 1:1 영어회화 후기32](/palo-alto-log-202012/#EIA_Lesson32)
-  * [미국 유치원 수업 후기44](/palo-alto-log-202012/#Kinder_Class45)
+  * [미국 유치원 수업 후기45](/palo-alto-log-202012/#Kinder_Class45)
   * [San Jose Municipal Golf Course 라운딩 후기2](/palo-alto-log-202012/#San_Jose_Municipal2)
+  * [미국 유치원 수업 후기46](/palo-alto-log-202012/#Kinder_Class46)
+  * [음향 문제로 AirPod Pro 무상교환한 사연](/palo-alto-log-202012/#AirPod_Pro_Exchange)
+  * [Amazon에서 구입한 Apple Watch Band 부분 환불받은 사연](/palo-alto-log-202012/#Partial_Refund)
+  * [가족 동반 골프연습 후기10](/palo-alto-log-202012/#Family_Practice10)
