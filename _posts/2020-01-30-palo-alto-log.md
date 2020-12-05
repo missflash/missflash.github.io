@@ -496,6 +496,8 @@ toc_sticky: true
   * [San Jose Municipal Golf Course 라운딩 후기2](/palo-alto-log-202012/#San_Jose_Municipal2)
   * [미국 유치원 수업 후기46](/palo-alto-log-202012/#Kinder_Class46)
   * [가족 동반 골프연습 후기10](/palo-alto-log-202012/#Family_Practice10)
+  * [미국 유치원 수업 후기47](/palo-alto-log-202012/#Kinder_Class47)
+  * [가족들과 함께 Stanford Dish 트레일 후기](/palo-alto-log-202012/#Stanford_Dish)
 * 여행/장소
   * [커뮤니티 번개 후기1](/palo-alto-log-202002/#Community_Event1)
   * [Half Moon Bay, Pigeon Point, Shark Fin Cove 등 관광 후기](/palo-alto-log-202002/#Half_Moon_Bay)
@@ -2013,3 +2015,5 @@ toc_sticky: true
   * [음향 문제로 AirPod Pro 무상교환한 사연](/palo-alto-log-202012/#AirPod_Pro_Exchange)
   * [Amazon에서 구입한 Apple Watch Band 부분 환불받은 사연](/palo-alto-log-202012/#Partial_Refund)
   * [가족 동반 골프연습 후기10](/palo-alto-log-202012/#Family_Practice10)
+  * [미국 유치원 수업 후기47](/palo-alto-log-202012/#Kinder_Class47)
+  * [가족들과 함께 Stanford Dish 트레일 후기](/palo-alto-log-202012/#Stanford_Dish)
