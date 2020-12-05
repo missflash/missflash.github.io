@@ -2017,3 +2017,7 @@ toc_sticky: true
   * [가족 동반 골프연습 후기10](/palo-alto-log-202012/#Family_Practice10)
   * [미국 유치원 수업 후기47](/palo-alto-log-202012/#Kinder_Class47)
   * [가족들과 함께 Stanford Dish 트레일 후기](/palo-alto-log-202012/#Stanford_Dish)
+
+  * [Local 샵에서 엔진오일 교환 후기](/palo-alto-log-202012/#Engine_Oil_Change3)
+  * [IN-N-OUT 테이크아웃해서 점심식사 한 후기](/palo-alto-log-202012/#IN_N_OUT)
+  * [저녁식사 초대한 후기19](/palo-alto-log-202012/#Dinner_Invitation19)
