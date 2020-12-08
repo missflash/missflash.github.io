@@ -2021,3 +2021,7 @@ toc_sticky: true
   * [Local 샵에서 엔진오일 교환 후기](/palo-alto-log-202012/#Engine_Oil_Change3)
   * [IN-N-OUT 테이크아웃해서 점심식사 한 후기](/palo-alto-log-202012/#IN_N_OUT)
   * [저녁식사 초대한 후기19](/palo-alto-log-202012/#Dinner_Invitation19)
+  Lake_Chabot_Golf_Course
+  Boulevard_Burgers
+  Chabot_Park
+  
