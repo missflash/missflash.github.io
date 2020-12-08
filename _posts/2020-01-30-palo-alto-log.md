@@ -172,6 +172,7 @@ toc_sticky: true
   * [아파트 Spa에서 한국인 가족 만나서 인사나눈 사연](/palo-alto-log-202011/#Neighbor_Meeting)
   * [편도 렌트카 저렴하게 예약한 후기](/palo-alto-log-202011/#One_Way_Rentcar)
   * [미국인 친구 이사 도와준 사연](/palo-alto-log-202011/#Meet_Friend)
+  * [Local 샵에서 엔진오일 교환 후기](/palo-alto-log-202012/#Engine_Oil_Change3)
 * 쇼핑
   * [저렴한 핸드폰 요금제 선택 방법](/palo-alto-log-202001/#Prepaid_Plan)
   * [중고차 구입 방법](/palo-alto-log-202001/#Used_Car)
@@ -498,6 +499,9 @@ toc_sticky: true
   * [가족 동반 골프연습 후기10](/palo-alto-log-202012/#Family_Practice10)
   * [미국 유치원 수업 후기47](/palo-alto-log-202012/#Kinder_Class47)
   * [가족들과 함께 Stanford Dish 트레일 후기](/palo-alto-log-202012/#Stanford_Dish)
+  * [연수동기들과 Lake Chabot Golf Course 라운딩 후기](/palo-alto-log-202012/#Lake_Chabot_Golf_Course)
+  * [미국 유치원 직접 등원 후기9_10](/palo-alto-log-202012/#In_Person_Class9_10)
+  * [Stanford Bechtel International, 1:1 영어회화 후기33](/palo-alto-log-202012/#EIA_Lesson33)
 * 여행/장소
   * [커뮤니티 번개 후기1](/palo-alto-log-202002/#Community_Event1)
   * [Half Moon Bay, Pigeon Point, Shark Fin Cove 등 관광 후기](/palo-alto-log-202002/#Half_Moon_Bay)
@@ -954,6 +958,7 @@ toc_sticky: true
   * [Best Western Prairie 호텔 체크아웃 후기](/palo-alto-log-202011/#Best_Western_Prairie_CheckOut)
   * [Seattle 여행 5일차, 집으로 가는 길](/palo-alto-log-202011/#Way_to_Los_Altos)
   * [연수동기 가족들과 여행 준비 Zoom 미팅한 사연](/palo-alto-log-202011/#Zoom_Meeting)
+  * [Chabot Park에서 늦은 점심식사한 후기](/palo-alto-log-202012/#Chabot_Park)
 * 요리/식당
   * [호텔 무료 서비스를 즐기는 방법](/palo-alto-log-202002/#RI_MIX)
   * [저녁식사 초대받은 후기1](/palo-alto-log-202002/#Dinner_Invitation1)
@@ -1015,6 +1020,9 @@ toc_sticky: true
   * [저녁식사 초대받은 후기16](/palo-alto-log-202011/#Dinner_Invitation16)
   * [저녁식사 초대받은 후기17](/palo-alto-log-202011/#Dinner_Invitation17)
   * [저녁식사 초대받은 후기18](/palo-alto-log-202011/#Dinner_Invitation18)
+  * [IN-N-OUT 테이크아웃해서 점심식사 한 후기](/palo-alto-log-202012/#IN_N_OUT)
+  * [저녁식사 초대한 후기19](/palo-alto-log-202012/#Dinner_Invitation19)
+  * [Boulevard Burgers 맛집 테이크아웃 후기](/palo-alto-log-202012/#Boulevard_Burgers)
 
 ---
 
@@ -2017,11 +2025,11 @@ toc_sticky: true
   * [가족 동반 골프연습 후기10](/palo-alto-log-202012/#Family_Practice10)
   * [미국 유치원 수업 후기47](/palo-alto-log-202012/#Kinder_Class47)
   * [가족들과 함께 Stanford Dish 트레일 후기](/palo-alto-log-202012/#Stanford_Dish)
-
   * [Local 샵에서 엔진오일 교환 후기](/palo-alto-log-202012/#Engine_Oil_Change3)
   * [IN-N-OUT 테이크아웃해서 점심식사 한 후기](/palo-alto-log-202012/#IN_N_OUT)
   * [저녁식사 초대한 후기19](/palo-alto-log-202012/#Dinner_Invitation19)
-  Lake_Chabot_Golf_Course
-  Boulevard_Burgers
-  Chabot_Park
-  
+  * [연수동기들과 Lake Chabot Golf Course 라운딩 후기](/palo-alto-log-202012/#Lake_Chabot_Golf_Course)
+  * [Boulevard Burgers 맛집 테이크아웃 후기](/palo-alto-log-202012/#Boulevard_Burgers)
+  * [Chabot Park에서 늦은 점심식사한 후기](/palo-alto-log-202012/#Chabot_Park)
+  * [미국 유치원 직접 등원 후기9_10](/palo-alto-log-202012/#In_Person_Class9_10)
+  * [Stanford Bechtel International, 1:1 영어회화 후기33](/palo-alto-log-202012/#EIA_Lesson33)
