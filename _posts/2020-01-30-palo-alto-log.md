@@ -2033,3 +2033,5 @@ toc_sticky: true
   * [Chabot Park에서 늦은 점심식사한 후기](/palo-alto-log-202012/#Chabot_Park)
   * [미국 유치원 직접 등원 후기9_10](/palo-alto-log-202012/#In_Person_Class9_10)
   * [Stanford Bechtel International, 1:1 영어회화 후기33](/palo-alto-log-202012/#EIA_Lesson33)
+
+  Trans_Fail
