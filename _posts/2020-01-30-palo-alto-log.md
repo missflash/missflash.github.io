@@ -2035,3 +2035,9 @@ toc_sticky: true
   * [Stanford Bechtel International, 1:1 영어회화 후기33](/palo-alto-log-202012/#EIA_Lesson33)
 
   Trans_Fail
+  Kinder_Class48
+  One62
+  EL_Class5
+  Poplar_Rounding3
+  Dinner_Invitation20
+  
