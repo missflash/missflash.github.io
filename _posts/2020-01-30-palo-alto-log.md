@@ -2053,3 +2053,7 @@ toc_sticky: true
   * [미국 유치원 수업 후기49](/palo-alto-log-202012/#Kinder_Class49)
   * [One-on-One 영어회화 수업 후기63](/palo-alto-log-202012/#One-on-One63)
   * [미국 유치원 English Learners 수업 후기6](/palo-alto-log-202012/#EL_Class6)
+
+  * [미국 유치원 수업 후기50](/palo-alto-log-202012/#Kinder_Class50)
+  COVID19_Test
+  Carmax_Inspection
