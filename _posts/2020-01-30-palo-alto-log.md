@@ -174,6 +174,8 @@ toc_sticky: true
   * [미국인 친구 이사 도와준 사연](/palo-alto-log-202011/#Meet_Friend)
   * [Local 샵에서 엔진오일 교환 후기](/palo-alto-log-202012/#Engine_Oil_Change3)
   * [여러기기 동시에 돌리려다 변압기 하나 고장낸 사연](/palo-alto-log-202012/#Trans_Fail)
+  * [자발적 코로나19 검사 후기](/palo-alto-log-202012/#COVID19_Test)
+  * [중고차량 CarMax 견적받은 후기](/palo-alto-log-202012/#CarMax_Inspection)
 * 쇼핑
   * [저렴한 핸드폰 요금제 선택 방법](/palo-alto-log-202001/#Prepaid_Plan)
   * [중고차 구입 방법](/palo-alto-log-202001/#Used_Car)
@@ -511,6 +513,7 @@ toc_sticky: true
   * [미국 유치원 수업 후기49](/palo-alto-log-202012/#Kinder_Class49)
   * [One-on-One 영어회화 수업 후기63](/palo-alto-log-202012/#One-on-One63)
   * [미국 유치원 English Learners 수업 후기6](/palo-alto-log-202012/#EL_Class6)
+  * [미국 유치원 수업 후기50](/palo-alto-log-202012/#Kinder_Class50)
 * 여행/장소
   * [커뮤니티 번개 후기1](/palo-alto-log-202002/#Community_Event1)
   * [Half Moon Bay, Pigeon Point, Shark Fin Cove 등 관광 후기](/palo-alto-log-202002/#Half_Moon_Bay)
@@ -1032,7 +1035,8 @@ toc_sticky: true
   * [IN-N-OUT 테이크아웃해서 점심식사 한 후기](/palo-alto-log-202012/#IN_N_OUT)
   * [저녁식사 초대한 후기19](/palo-alto-log-202012/#Dinner_Invitation19)
   * [Boulevard Burgers 맛집 테이크아웃 후기](/palo-alto-log-202012/#Boulevard_Burgers)
-  * [저녁식사 초대받은 후기19](/palo-alto-log-202012/#Dinner_Invitation19)
+  * [저녁식사 초대받은 후기20](/palo-alto-log-202012/#Dinner_Invitation20)
+  * [저녁식사 초대받은 후기21](/palo-alto-log-202012/#Dinner_Invitation21)
 
 ---
 
@@ -2049,11 +2053,11 @@ toc_sticky: true
   * [One-on-One 영어회화 수업 후기62](/palo-alto-log-202012/#One-on-One62)
   * [미국 유치원 English Learners 수업 후기5](/palo-alto-log-202012/#EL_Class5)
   * [Poplar Creek Golf Course 라운딩 후기3](/palo-alto-log-202012/#Poplar_Rounding3)
-  * [저녁식사 초대받은 후기19](/palo-alto-log-202012/#Dinner_Invitation19)
+  * [저녁식사 초대받은 후기20](/palo-alto-log-202012/#Dinner_Invitation20)
   * [미국 유치원 수업 후기49](/palo-alto-log-202012/#Kinder_Class49)
   * [One-on-One 영어회화 수업 후기63](/palo-alto-log-202012/#One-on-One63)
   * [미국 유치원 English Learners 수업 후기6](/palo-alto-log-202012/#EL_Class6)
-
   * [미국 유치원 수업 후기50](/palo-alto-log-202012/#Kinder_Class50)
-  COVID19_Test
-  Carmax_Inspection
+  * [자발적 코로나19 검사 후기](/palo-alto-log-202012/#COVID19_Test)
+  * [중고차량 CarMax 견적받은 후기](/palo-alto-log-202012/#CarMax_Inspection)
+  * [저녁식사 초대받은 후기21](/palo-alto-log-202012/#Dinner_Invitation21)
