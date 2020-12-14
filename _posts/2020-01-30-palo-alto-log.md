@@ -2061,3 +2061,5 @@ toc_sticky: true
   * [자발적 코로나19 검사 후기](/palo-alto-log-202012/#COVID19_Test)
   * [중고차량 CarMax 견적받은 후기](/palo-alto-log-202012/#CarMax_Inspection)
   * [저녁식사 초대받은 후기21](/palo-alto-log-202012/#Dinner_Invitation21)
+
+  CarMax_Pickup
