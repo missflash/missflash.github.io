@@ -2185,3 +2185,5 @@ toc_sticky: true
   * [Waikiki Resort Hotel 체크아웃 후기](/palo-alto-log-202012/#Waikiki_CheckOut)
   * [대형 밴 렌터카 반납 후기](/palo-alto-log-202012/#Thrifty_Return)
   * [하와이 여행 마무리 후기](/palo-alto-log-202012/#Hawaii_Goodbye)
+
+  Dinner_Invitation22
