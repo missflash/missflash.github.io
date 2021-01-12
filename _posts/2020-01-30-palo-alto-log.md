@@ -2379,6 +2379,9 @@ toc_sticky: true
   * [Universal Studio - Hagrid's Magical Creatures Motorbike Adventure 실패 후기](/palo-alto-log-202012/#Hagrids_Motorbike_Adventure_Fail)
   * [Universal Studio - Skull Island: Reign of Kong 후기](/palo-alto-log-202012/#Reign_of_Kong)
   * [Solara Resort 셋째날 숙박 후기](/palo-alto-log-202012/#Solara_Resort_3rd_Night)
+
+
+* 2021년 1월
   * [Solara Resort 넷째날 아침맞이 후기](/palo-alto-log-202101/#Solara_Resort_4th_Day)
   * [Universal Studio 3일차 후기](/palo-alto-log-202101/#Universal_Studio3)
   * [Universal Studio - Harry Potter and the Forbidden Journey 후기](/palo-alto-log-202101/#Harry_Potter_and_the_Forbidden_Journey)
@@ -2493,3 +2496,6 @@ toc_sticky: true
   * [Florida, MCO 출발 후기](/palo-alto-log-202101/#MCO_Departure)
   * [California, SFO 도착 후기](/palo-alto-log-202101/#SFO_Arrival)
   * [연수동기가 살았던 아파가 있는 Foster City 마지막 방문 후기](/palo-alto-log-202101/#Good_Bye_Foster_City)
+
+  * [미국 유치원 직접 등원 후기11](/palo-alto-log-202101/#In_Person_Class11)
+  * [One-on-One 영어회화 수업 후기64](/palo-alto-log-202101/#One-on-One64)
