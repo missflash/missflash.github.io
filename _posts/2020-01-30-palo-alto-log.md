@@ -178,6 +178,8 @@ toc_sticky: true
   * [중고차량 CarMax 견적받은 후기](/palo-alto-log-202012/#CarMax_Inspection)
   * [연수동기 가족 CarMax 픽업 후기](/palo-alto-log-202012/#CarMax_Pickup)
   * [아이들 세 번째 Sleep Over 후기](/palo-alto-log-202012/#Sleep_Over3)
+  * [한국 복귀전 집안물품 정리 후기](/palo-alto-log-202101/#Housekeeping)
+  * [CarMax 두 번째 견적 진행 후기](/palo-alto-log-202101/#CarMax_2nd)
 * 쇼핑
   * [저렴한 핸드폰 요금제 선택 방법](/palo-alto-log-202001/#Prepaid_Plan)
   * [중고차 구입 방법](/palo-alto-log-202001/#Used_Car)
@@ -518,6 +520,11 @@ toc_sticky: true
   * [미국 유치원 English Learners 수업 후기6](/palo-alto-log-202012/#EL_Class6)
   * [미국 유치원 수업 후기50](/palo-alto-log-202012/#Kinder_Class50)
   * [Summitpointe Golf Club 골프연습 후기2](/palo-alto-log-202012/#Summitpointe_Range2)
+  * [미국 유치원 직접 등원 후기11](/palo-alto-log-202101/#In_Person_Class11)
+  * [One-on-One 영어회화 수업 후기64](/palo-alto-log-202101/#One-on-One64)
+  * [미국 유치원 직접 등원 후기12](/palo-alto-log-202101/#In_Person_Class12)
+  * [Stanford Bechtel International, 1:1 영어회화 후기34](/palo-alto-log-202101/#EIA_Lesson34)
+  * [Santa Rita Elementary School 마지막 수업 픽업 후기](/palo-alto-log-202101/#Last_Class)
 * 여행/장소
   * [커뮤니티 번개 후기1](/palo-alto-log-202002/#Community_Event1)
   * [Half Moon Bay, Pigeon Point, Shark Fin Cove 등 관광 후기](/palo-alto-log-202002/#Half_Moon_Bay)
@@ -2496,6 +2503,10 @@ toc_sticky: true
   * [Florida, MCO 출발 후기](/palo-alto-log-202101/#MCO_Departure)
   * [California, SFO 도착 후기](/palo-alto-log-202101/#SFO_Arrival)
   * [연수동기가 살았던 아파가 있는 Foster City 마지막 방문 후기](/palo-alto-log-202101/#Good_Bye_Foster_City)
-
   * [미국 유치원 직접 등원 후기11](/palo-alto-log-202101/#In_Person_Class11)
   * [One-on-One 영어회화 수업 후기64](/palo-alto-log-202101/#One-on-One64)
+  * [미국 유치원 직접 등원 후기12](/palo-alto-log-202101/#In_Person_Class12)
+  * [Stanford Bechtel International, 1:1 영어회화 후기34](/palo-alto-log-202101/#EIA_Lesson34)
+  * [한국 복귀전 집안물품 정리 후기](/palo-alto-log-202101/#Housekeeping)
+  * [Santa Rita Elementary School 마지막 수업 픽업 후기](/palo-alto-log-202101/#Last_Class)
+  * [CarMax 두 번째 견적 진행 후기](/palo-alto-log-202101/#CarMax_2nd)
