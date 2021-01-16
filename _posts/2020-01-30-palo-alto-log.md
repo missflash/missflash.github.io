@@ -2518,4 +2518,5 @@ toc_sticky: true
   Childrens_Museum_of_Phoenix
   Freestone_Park
   Texas_Roadhouse
-  
+  Morning_Enid_Park
+  Fuddruckers
