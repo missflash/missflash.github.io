@@ -2527,3 +2527,9 @@ toc_sticky: true
   * [스테이크 맛집, Texas Roadhouse 방문 후기](/palo-alto-log-202101/#Texas_Roadhouse)
   * [이른 아침 Enid Park 놀이터 방문 후기](/palo-alto-log-202101/#Morning_Enid_Park)
   * [최고의 수제 햄버거 가게, Fuddruckers 방문 후기](/palo-alto-log-202101/#Fuddruckers)
+
+  Goodbye_Arizona
+  Joshua_Tree_National_Park
+  Cottonwood_Spring
+  Griffith_Observatory
+  Best_Western_Plus_Hollywood_Hills
