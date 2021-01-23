@@ -180,6 +180,10 @@ toc_sticky: true
   * [아이들 세 번째 Sleep Over 후기](/palo-alto-log-202012/#Sleep_Over3)
   * [한국 복귀전 집안물품 정리 후기](/palo-alto-log-202101/#Housekeeping)
   * [CarMax 두 번째 견적 진행 후기](/palo-alto-log-202101/#CarMax_2nd)
+  * [생애 첫 Craigslist 직거래 후기](/palo-alto-log-202101/#Craigslist_Deal)
+  * [CarMax 중고차 판매 후기](/palo-alto-log-202101/#Car_Selling)
+  * [이사 준비 짐정리 후기1](/palo-alto-log-202101/#Relocation_Preparation1)
+  * [이사 준비 짐정리 후기2](/palo-alto-log-202101/#Relocation_Preparation2)
 * 쇼핑
   * [저렴한 핸드폰 요금제 선택 방법](/palo-alto-log-202001/#Prepaid_Plan)
   * [중고차 구입 방법](/palo-alto-log-202001/#Used_Car)
@@ -525,6 +529,8 @@ toc_sticky: true
   * [미국 유치원 직접 등원 후기12](/palo-alto-log-202101/#In_Person_Class12)
   * [Stanford Bechtel International, 1:1 영어회화 후기34](/palo-alto-log-202101/#EIA_Lesson34)
   * [Santa Rita Elementary School 마지막 수업 픽업 후기](/palo-alto-log-202101/#Last_Class)
+  * [Stanford Bechtel International, 1:1 영어회화 후기35](/palo-alto-log-202101/#EIA_Lesson35)
+  * [One-on-One 영어회화 수업 후기65](/palo-alto-log-202101/#One-on-One65)
 * 여행/장소
   * [커뮤니티 번개 후기1](/palo-alto-log-202002/#Community_Event1)
   * [Half Moon Bay, Pigeon Point, Shark Fin Cove 등 관광 후기](/palo-alto-log-202002/#Half_Moon_Bay)
@@ -2545,5 +2551,15 @@ toc_sticky: true
   * [Hollywood Walk of Fame 방문 후기](/palo-alto-log-202101/#Hollywood_Walk_of_Fame)
   * [Dolby Theatre 방문 후기](/palo-alto-log-202101/#Dolby_Theatre)
   * [Lake Hollywood Park에서 Hollywood Sign 초근접 관람 후기](/palo-alto-log-202101/#Lake_Hollywood_Park)
+  * [생애 첫 Craigslist 직거래 후기](/palo-alto-log-202101/#Craigslist_Deal)
+  * [Stanford Bechtel International, 1:1 영어회화 후기35](/palo-alto-log-202101/#EIA_Lesson35)
+  * [CarMax 중고차 판매 후기](/palo-alto-log-202101/#Car_Selling)
+  * [이사 준비 짐정리 후기1](/palo-alto-log-202101/#Relocation_Preparation1)
+  * [One-on-One 영어회화 수업 후기65](/palo-alto-log-202101/#One-on-One65)
+  * [이사 준비 짐정리 후기2](/palo-alto-log-202101/#Relocation_Preparation2)
 
-  Craigslist_Deal
+  Relocation_Day
+  Closing_BOA
+  Closing_Chase
+  Google_Android_Statues_Square
+  * [저녁식사 초대한 후기23](/palo-alto-log-202101/#Dinner_Invitation23)
