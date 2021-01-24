@@ -184,6 +184,12 @@ toc_sticky: true
   * [CarMax 중고차 판매 후기](/palo-alto-log-202101/#Car_Selling)
   * [이사 준비 짐정리 후기1](/palo-alto-log-202101/#Relocation_Preparation1)
   * [이사 준비 짐정리 후기2](/palo-alto-log-202101/#Relocation_Preparation2)
+  * [미국 현지에서 이사 진행한 후기](/palo-alto-log-202101/#Relocation_Day)
+  * [Bank of America Saving 계좌 Closing 후기](/palo-alto-log-202101/#Closing_BOA)
+  * [Chase 계좌 및 신용카드 Closing 후기](/palo-alto-log-202101/#Closing_Chase)
+  * [Stanford Federal Credit Union 상담 후기](/palo-alto-log-202101/#SFCU_Visiting)
+  * [Tesla Model 3, Y 테스트 드라이빙 후기](/palo-alto-log-202101/#Tesla_Test_Driving)
+  * [연수동기 세 가족 Zoom Meeting 후기](/palo-alto-log-202101/#3Family_Zoom_Meeting)
 * 쇼핑
   * [저렴한 핸드폰 요금제 선택 방법](/palo-alto-log-202001/#Prepaid_Plan)
   * [중고차 구입 방법](/palo-alto-log-202001/#Used_Car)
@@ -1213,6 +1219,9 @@ toc_sticky: true
   * [Hollywood Walk of Fame 방문 후기](/palo-alto-log-202101/#Hollywood_Walk_of_Fame)
   * [Dolby Theatre 방문 후기](/palo-alto-log-202101/#Dolby_Theatre)
   * [Lake Hollywood Park에서 Hollywood Sign 초근접 관람 후기](/palo-alto-log-202101/#Lake_Hollywood_Park)
+  * [Google Android Statues Square 방문 후기](/palo-alto-log-202101/#Google_Android_Statues_Square)
+  * [Old Fisherman's Wharf 방문 후기](/palo-alto-log-202101/#Old_Fishermans_Wharf)
+  * [Monterey Marriott 체크인 후기](/palo-alto-log-202101/#Monterey_Marriott_CheckIn)
 * 요리/식당
   * [호텔 무료 서비스를 즐기는 방법](/palo-alto-log-202002/#RI_MIX)
   * [저녁식사 초대받은 후기1](/palo-alto-log-202002/#Dinner_Invitation1)
@@ -1284,6 +1293,7 @@ toc_sticky: true
   * [Zugoi Asian Cuisine 이용 후기](/palo-alto-log-202101/#Zugoi_Asian_Cuisine)
   * [스테이크 맛집, Texas Roadhouse 방문 후기](/palo-alto-log-202101/#Texas_Roadhouse)
   * [최고의 수제 햄버거 가게, Fuddruckers 방문 후기](/palo-alto-log-202101/#Fuddruckers)
+  * [저녁식사 초대한 후기23](/palo-alto-log-202101/#Dinner_Invitation23)
 
 ---
 
@@ -2557,9 +2567,13 @@ toc_sticky: true
   * [이사 준비 짐정리 후기1](/palo-alto-log-202101/#Relocation_Preparation1)
   * [One-on-One 영어회화 수업 후기65](/palo-alto-log-202101/#One-on-One65)
   * [이사 준비 짐정리 후기2](/palo-alto-log-202101/#Relocation_Preparation2)
-
-  Relocation_Day
-  Closing_BOA
-  Closing_Chase
-  Google_Android_Statues_Square
+  * [미국 현지에서 이사 진행한 후기](/palo-alto-log-202101/#Relocation_Day)
+  * [Bank of America Saving 계좌 Closing 후기](/palo-alto-log-202101/#Closing_BOA)
+  * [Chase 계좌 및 신용카드 Closing 후기](/palo-alto-log-202101/#Closing_Chase)
+  * [Google Android Statues Square 방문 후기](/palo-alto-log-202101/#Google_Android_Statues_Square)
   * [저녁식사 초대한 후기23](/palo-alto-log-202101/#Dinner_Invitation23)
+  * [Stanford Federal Credit Union 상담 후기](/palo-alto-log-202101/#SFCU_Visiting)
+  * [Tesla Model 3, Y 테스트 드라이빙 후기](/palo-alto-log-202101/#Tesla_Test_Driving)
+  * [Old Fisherman's Wharf 방문 후기](/palo-alto-log-202101/#Old_Fishermans_Wharf)
+  * [Monterey Marriott 체크인 후기](/palo-alto-log-202101/#Monterey_Marriott_CheckIn)
+  * [연수동기 세 가족 Zoom Meeting 후기](/palo-alto-log-202101/#3Family_Zoom_Meeting)
