@@ -18,6 +18,8 @@ toc_sticky: true
 ---
 
 # 월별 분류
+* [Palo Alto Log (2021.01)](https://missflash.github.io/palo-alto-log-202101/)
+* [Palo Alto Log (2020.12)](https://missflash.github.io/palo-alto-log-202012/)
 * [Palo Alto Log (2020.11)](https://missflash.github.io/palo-alto-log-202011/)
 * [Palo Alto Log (2020.10)](https://missflash.github.io/palo-alto-log-202010/)
 * [Palo Alto Log (2020.09)](https://missflash.github.io/palo-alto-log-202009/)
@@ -190,6 +192,11 @@ toc_sticky: true
   * [Stanford Federal Credit Union 상담 후기](/palo-alto-log-202101/#SFCU_Visiting)
   * [Tesla Model 3, Y 테스트 드라이빙 후기](/palo-alto-log-202101/#Tesla_Test_Driving)
   * [연수동기 세 가족 Zoom Meeting 후기](/palo-alto-log-202101/#3Family_Zoom_Meeting)
+  * [Colonnade 아파트 퇴거 후기](/palo-alto-log-202101/#Goodbye_Colonnade)
+  * [Xfinity 장비 반납 후기](/palo-alto-log-202101/#Xfinity_Return)
+  * [1년간의 연수생활을 마무리 후 SFO 출국 후기](/palo-alto-log-202101/#Goodbye_USA)
+  * [인천국제공항 입국 후기](/palo-alto-log-202101/#ICO_Arrival)
+  * [아쉬웠던 연수 마치고 집에 돌아온 후기](/palo-alto-log-202101/#Come_Back_Home)
 * 쇼핑
   * [저렴한 핸드폰 요금제 선택 방법](/palo-alto-log-202001/#Prepaid_Plan)
   * [중고차 구입 방법](/palo-alto-log-202001/#Used_Car)
@@ -1222,6 +1229,18 @@ toc_sticky: true
   * [Google Android Statues Square 방문 후기](/palo-alto-log-202101/#Google_Android_Statues_Square)
   * [Old Fisherman's Wharf 방문 후기](/palo-alto-log-202101/#Old_Fishermans_Wharf)
   * [Monterey Marriott 체크인 후기](/palo-alto-log-202101/#Monterey_Marriott_CheckIn)
+  * [Monterey Marriott 체크아웃 후기](/palo-alto-log-202101/#Monterey_Marriott_CheckOut)
+  * [17 Mile Drive 투어 후기](/palo-alto-log-202101/#17_Mile_Drive)
+  * [Carmel Beach 투어 후기](/palo-alto-log-202101/#Carmel_Beach)
+  * [마지막 Golden Gate Bridge 관람 후기](/palo-alto-log-202101/#Last_Golden_Gate_Bridge)
+  * [The Lodge at Sonoma Renaissance Resort & Spa 체크인 후기](/palo-alto-log-202101/#Sonoma_Renaissance_CheckIn)
+  * [The Lodge at Sonoma Renaissance Resort & Spa 체크아웃 후기](/palo-alto-log-202101/#Sonoma_Renaissance_CheckOut)
+  * [Sonoma Plaza 관람 후기](/palo-alto-log-202101/#Sonoma_Plaza)
+  * [Napa Valley Welcome Sign 관람 후기](/palo-alto-log-202101/#Napa_Valley_Welcome_Sign)
+  * [Robert Mondavi Winery 관람 후기](/palo-alto-log-202101/#Robert_Mondavi_Winery)
+  * [Opus One Winery 관람 후기](/palo-alto-log-202101/#Opus_One_Winery)
+  * [Twin Peaks 관람 절반 성공 후기](/palo-alto-log-202101/#Twin_Peaks)
+  * [SFO내 China Lounge 이용 후기](/palo-alto-log-202101/#China_Lounge)
 * 요리/식당
   * [호텔 무료 서비스를 즐기는 방법](/palo-alto-log-202002/#RI_MIX)
   * [저녁식사 초대받은 후기1](/palo-alto-log-202002/#Dinner_Invitation1)
@@ -1294,6 +1313,7 @@ toc_sticky: true
   * [스테이크 맛집, Texas Roadhouse 방문 후기](/palo-alto-log-202101/#Texas_Roadhouse)
   * [최고의 수제 햄버거 가게, Fuddruckers 방문 후기](/palo-alto-log-202101/#Fuddruckers)
   * [저녁식사 초대한 후기23](/palo-alto-log-202101/#Dinner_Invitation23)
+  * [생애 첫 Five Guys 이용 후기](/palo-alto-log-202101/#Five_Guys)
 
 ---
 
@@ -2577,10 +2597,21 @@ toc_sticky: true
   * [Old Fisherman's Wharf 방문 후기](/palo-alto-log-202101/#Old_Fishermans_Wharf)
   * [Monterey Marriott 체크인 후기](/palo-alto-log-202101/#Monterey_Marriott_CheckIn)
   * [연수동기 세 가족 Zoom Meeting 후기](/palo-alto-log-202101/#3Family_Zoom_Meeting)
-
-  Monterey_Marriott_CheckOut
-  17_Mile_Drive
-  Carmel_Beach
-  Five_Guys
-  Last_Golden_Gate_Bridge
-  Sonoma_Renaissance_CheckIn
+  * [Monterey Marriott 체크아웃 후기](/palo-alto-log-202101/#Monterey_Marriott_CheckOut)
+  * [17 Mile Drive 투어 후기](/palo-alto-log-202101/#17_Mile_Drive)
+  * [Carmel Beach 투어 후기](/palo-alto-log-202101/#Carmel_Beach)
+  * [생애 첫 Five Guys 이용 후기](/palo-alto-log-202101/#Five_Guys)
+  * [마지막 Golden Gate Bridge 관람 후기](/palo-alto-log-202101/#Last_Golden_Gate_Bridge)
+  * [The Lodge at Sonoma Renaissance Resort & Spa 체크인 후기](/palo-alto-log-202101/#Sonoma_Renaissance_CheckIn)
+  * [The Lodge at Sonoma Renaissance Resort & Spa 체크아웃 후기](/palo-alto-log-202101/#Sonoma_Renaissance_CheckOut)
+  * [Sonoma Plaza 관람 후기](/palo-alto-log-202101/#Sonoma_Plaza)
+  * [Napa Valley Welcome Sign 관람 후기](/palo-alto-log-202101/#Napa_Valley_Welcome_Sign)
+  * [Robert Mondavi Winery 관람 후기](/palo-alto-log-202101/#Robert_Mondavi_Winery)
+  * [Opus One Winery 관람 후기](/palo-alto-log-202101/#Opus_One_Winery)
+  * [Colonnade 아파트 퇴거 후기](/palo-alto-log-202101/#Goodbye_Colonnade)
+  * [Xfinity 장비 반납 후기](/palo-alto-log-202101/#Xfinity_Return)
+  * [Twin Peaks 관람 절반 성공 후기](/palo-alto-log-202101/#Twin_Peaks)
+  * [1년간의 연수생활을 마무리 후 SFO 출국 후기](/palo-alto-log-202101/#Goodbye_USA)
+  * [SFO내 China Lounge 이용 후기](/palo-alto-log-202101/#China_Lounge)
+  * [인천국제공항 입국 후기](/palo-alto-log-202101/#ICO_Arrival)
+  * [아쉬웠던 연수 마치고 집에 돌아온 후기](/palo-alto-log-202101/#Come_Back_Home)
