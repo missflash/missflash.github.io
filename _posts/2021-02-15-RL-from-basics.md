@@ -110,10 +110,10 @@ $q_\pi(s_t,a_t)=r^a_s+\gamma \sum_{s'\in S}P^a_{ss'}\sum_{a'\in A}\pi(a'|s')q_\p
 $v_* (s)=\max_{\pi} v_\pi(s)$<br>
 $q_* (s,a)=\max_{\pi} q_\pi(s,a)$<br>
   * 0단계<br>
-$v_* (s_t)=\max_a E[r_{t+1}+\gamma v_ *(s_{t+1})]$<br>
+$v_* (s_t)=\max_a E[r_{t+1}+\gamma v_ * (s_{t+1})]$<br>
 $q_* (s_t,a_t)=E[r_{t+1}+\gamma \max_{a'} q_ * (s_{t+1},a')]$<br>
   * 1단계<br>
-$v_* (s)=\max_a q_ *(s,a)$<br>
+$v_* (s)=\max_a q_ * (s,a)$<br>
 $q_* (s,a)=r^a_s+\gamma \sum_{s' \in S}P^a_{ss'}v_ * (s')$<br>
   * 2단계<br>
 $v_* (s)=\max_a \left[r^a_s+\gamma \sum_{s' \in S}P^a_{ss'}v_ * (s')\right]$<br>
