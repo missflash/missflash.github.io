@@ -198,7 +198,7 @@ TD로 Q 학습 : $Q(S,A)\leftarrow Q(S,A) + \alpha (R+\gamma Q(S',A')-Q(S,A))$<b
     * 일대다, 다대일 학습 가능
   * 이론적 배경<br>
 $q_* (s,a)=\max_{\pi}q_\pi(s,a)$<br>
-$\pi_* =\text{argmax} _{a} q_ * (s,a)$<br>
+$\pi_* =\text {argmax} _a q_ * (s,a)$<br>
 $q_* (s,a)=r^a_s+\gamma \sum_{s' \in S}P^a_{ss'}\max_a'q_ * (s',a')$<br>
 $q_* (s,a)=E[r+\gamma \max_{a'}q_ * (s,a')]$<br>
 SARSA : $Q(S,A)\leftarrow Q(S,A) + \alpha (R+\gamma Q(S',A')-Q(S,A))$<br>
