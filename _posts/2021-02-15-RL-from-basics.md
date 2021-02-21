@@ -107,17 +107,17 @@ $q_\pi(s_t,a_t)=r^a_s+\gamma \sum_{s'\in S}P^a_{ss'}\sum_{a'\in A}\pi(a'|s')q_\p
 
 * 3.2 벨만 최적 방정식
   * 최적 밸류와 최적 정책<br>
-$v_*(s)=\max_{\pi} v_\pi(s)$<br>
-$q_*(s,a)=\max_{\pi} q_\pi(s,a)$<br>
+$v_* (s)=\max_{\pi} v_\pi(s)$<br>
+$q_* (s,a)=\max_{\pi} q_\pi(s,a)$<br>
   * 0단계<br>
-$v_*(s_t)=\max_a E[r_{t+1}+\gamma v_ *(s_{t+1})]$<br>
-$q_*(s_t,a_t)=E[r_{t+1}+\gamma \max_{a'} q_ *(s_{t+1},a')]$<br>
+$v_* (s_t)=\max_a E[r_{t+1}+\gamma v_ *(s_{t+1})]$<br>
+$q_* (s_t,a_t)=E[r_{t+1}+\gamma \max_{a'} q_ * (s_{t+1},a')]$<br>
   * 1단계<br>
-$v_*(s)=\max_a q_ *(s,a)$<br>
-$q_*(s,a)=r^a_s+\gamma \sum_{s' \in S}P^a_{ss'}v_ *(s')$<br>
+$v_* (s)=\max_a q_ *(s,a)$<br>
+$q_* (s,a)=r^a_s+\gamma \sum_{s' \in S}P^a_{ss'}v_ * (s')$<br>
   * 2단계<br>
-$v_*(s)=\max_a \left[r^a_s+\gamma \sum_{s' \in S}P^a_{ss'}v_ *(s')\right]$<br>
-$q_*(s,a)=r^a_s+\gamma \sum_{s' \in S}P^a_{ss'}\max_a'q_ *(s',a')$<br>
+$v_* (s)=\max_a \left[r^a_s+\gamma \sum_{s' \in S}P^a_{ss'}v_ * (s')\right]$<br>
+$q_* (s,a)=r^a_s+\gamma \sum_{s' \in S}P^a_{ss'}\max_a'q_ * (s',a')$<br>
 
 
 
@@ -197,17 +197,17 @@ TD로 Q 학습 : $Q(S,A)\leftarrow Q(S,A) + \alpha (R+\gamma Q(S',A')-Q(S,A))$<b
     * 사람의 데이터로부터 학습 가능
     * 일대다, 다대일 학습 가능
   * 이론적 배경<br>
-$q_*(s,a)=\max_{\pi}q_\pi(s,a)$<br>
+$q_* (s,a)=\max_{\pi}q_\pi(s,a)$<br>
 $\pi_* =\text{argmax}_{a}q_ *(s,a)$<br>
-$q_*(s,a)=r^a_s+\gamma \sum_{s' \in S}P^a_{ss'}\max_a'q_ *(s',a')$<br>
-$q_*(s,a)=E[r+\gamma \max_{a'}q_ *(s,a')]$<br>
+$q_* (s,a)=r^a_s+\gamma \sum_{s' \in S}P^a_{ss'}\max_a'q_ *(s',a')$<br>
+$q_* (s,a)=E[r+\gamma \max_{a'}q_ *(s,a')]$<br>
 SARSA : $Q(S,A)\leftarrow Q(S,A) + \alpha (R+\gamma Q(S',A')-Q(S,A))$<br>
 Q Learning : $Q(S,A)\leftarrow Q(S,A) + \alpha (R+\gamma \max_{A'}Q(S',A')-Q(S,A))$<br>
   * SARSA vs. Q Learning
     * Behavior Policy : SARSA, Q Learning 모두 $\epsilon$-Greedy 사용
     * Target Policy : SARSA는 $\epsilon$-Greedy, Q Learning은 Greedy 사용<br>
 SARSA : $q_\pi(s_t,a_t)=E_\pi[r_{t+1}+\gamma q_\pi(s_{t+1},a_{t+1})]$<br>
-Q Learning : $q_*(s,a)=E_{s'}[r+\gamma \max_{a'}q_ *(s',a')]$<br>
+Q Learning : $q_* (s,a)=E_{s'}[r+\gamma \max_{a'}q_ *(s',a')]$<br>
     * $E_\pi$는 정책함수 $\pi$를 따라가는 경로에 대해 기댓값 계산
     * $E_{s'}$는 정책함수 $\pi$와 전혀 관련없음 (어떠한 정책을 사용해도 무관)
   * [모델 프리 Q Learning](https://github.com/seungeunrho/RLfrombasics/blob/master/ch6_QLearning.py)
