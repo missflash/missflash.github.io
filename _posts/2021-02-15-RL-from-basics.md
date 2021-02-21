@@ -99,11 +99,11 @@ $q_\pi(s,a)=E_\pi[G_t|S_t=s,A_t=a]$<br>
 $v_\pi(s_t)=E_\pi[r_{t+1}+\gamma v_\pi(s_{t+1})]$<br>
 $q_\pi(s_t,a_t)=E_\pi[r_{t+1}+\gamma q_\pi(s_{t+1},a_{t+1})]$<br>
   * 1단계<br>
-$v_\pi(s_t)=\sum_{a\in A}\pi(a|s)q_\pi(s,a)$<br>
-$q_\pi(s_t,a_t)=r^a_s+\gamma \sum_{s'\in S}P^a_{ss'}v_\pi(s')$<br>
+$v_\pi(s)=\sum_{a\in A}\pi(a|s)q_\pi(s,a)$<br>
+$q_\pi(s,a)=r^a_s+\gamma \sum_{s'\in S}P^a_{ss'}v_\pi(s')$<br>
   * 2단계<br>
-$v_\pi(s_t)=\sum_{a\in A}\pi(a|s)\left(r^a_s+\gamma \sum_{s'\in S}P^a_{ss'}v_\pi(s')\right)$<br>
-$q_\pi(s_t,a_t)=r^a_s+\gamma \sum_{s'\in S}P^a_{ss'}\sum_{a'\in A}\pi(a'|s')q_\pi(s',a')$<br>
+$v_\pi(s)=\sum_{a\in A}\pi(a|s)\left(r^a_s+\gamma \sum_{s'\in S}P^a_{ss'}v_\pi(s')\right)$<br>
+$q_\pi(s,a)=r^a_s+\gamma \sum_{s'\in S}P^a_{ss'}\sum_{a'\in A}\pi(a'|s')q_\pi(s',a')$<br>
 
 * 3.2 벨만 최적 방정식
   * 최적 밸류와 최적 정책<br>
