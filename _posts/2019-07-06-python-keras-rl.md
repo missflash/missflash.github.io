@@ -22,6 +22,8 @@ toc_sticky: true
   * 정책 (Policy)
 * MDP (Markov Decision Process)
 
+
+
 # 2. 강화학습 기초 1: MDP와 벨만 방정식
 * MDP의 구성요소
   * 상태<br>
@@ -73,6 +75,8 @@ $v_\ast(s)=\max_a[q_\ast(s,a)|S_t=s,A_t=a]$ : 큐함수 중 최대를 선택하�
 $v_\ast(s)=\max_a E[R_{t+1}+\gamma v_\ast(S_{t+1})|S_t=s,A_t=a]$ : 벨만 최적 방정식<br>
 $q_\ast(s,a)=E[R_{t+1}+\gamma \max_{a'} q_\ast(S_{t+1},a')|S_t=s,A_t=a]$ : 큐함수에 대한 벨만 최적 방정식<br>
 
+
+
 # 3. 강화학습 기초 2: 그리드월드와 다이내믹 프로그래밍
 * 정책 이터레이션<br>
 $v_\pi(s)=E_\pi[R_{t+1}+\gamma v_\pi(S_{t+1})|S_t=s]$ : 벨만 기대 방정식을 통한 효율적인 가치함수 계산<br>
@@ -85,6 +89,7 @@ $v_{k+1}(s)=\Sigma_{a\in A}\pi(a|s)(R_s^a+\gamma v_k(s'))$ : k번째 가치함�
   * 계산 복잡도
   * 차원의 저주
   * 환경에 대한 완벽한 정보 필요
+
 
 
 # 4. 강화학습 기초 3: 그리드월드와 큐러닝

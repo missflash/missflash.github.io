@@ -37,6 +37,7 @@ $E[Z|\lambda] = \frac {1}{\lambda}$<br>
   * [PyMC를 사용한 베이지안](https://nbviewer.jupyter.org/github/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/blob/master/Chapter1_Introduction/Ch1_Introduction_PyMC3.ipynb)
 
 
+
 # 2. PyMC 더 알아보기
 * 서론
   * Stochastic 변수 : 값이 정해지지 않은 변수

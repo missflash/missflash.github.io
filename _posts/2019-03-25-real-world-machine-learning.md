@@ -25,6 +25,7 @@ toc_sticky: true
   * 데이터 전처리 (Preprocessing the data)
 
 
+
 # 2장 실무현장 데이터
 * [Github Notebook](https://nbviewer.jupyter.org/github/brinkar/real-world-machine-learning/blob/master/Chapter%202%20-%20Data%20Processing.ipynb)
 * 데이터 수집시 고려해야 하는 사항들
@@ -41,6 +42,7 @@ toc_sticky: true
 <script src="https://gist.github.com/missflash/29578dc5eeaef7bcc65e4ad9d4f35eef.js"></script>
 
 
+
 # 3장 모델링과 예측
 * [Github Notebook](https://nbviewer.jupyter.org/github/brinkar/real-world-machine-learning/blob/master/Chapter%203%20-%20Modeling%20and%20prediction.ipynb)
 * $Y = f(X)$
@@ -52,6 +54,7 @@ toc_sticky: true
   * 회귀 : 목표가 수치형일 때
 * 비지도 학습
 * 선형 vs. 비선형
+
 
 
 # 4장 모델 평가와 최적화
@@ -87,6 +90,7 @@ toc_sticky: true
 * 그리드 탐색
 
 
+
 # 5장 특성 추출의 기본
 * 특성 추출을 해야 하는 다섯 가지 이유
   * 데이터를 변형해 목표와 관련 짓기 (Ex. 잔고 대비 대출 비율 등)
@@ -104,6 +108,7 @@ toc_sticky: true
   * 차원 감소
 
 
+
 # 6장 예제: 뉴욕 시 택시 데이터
 * [Github Notebook](https://nbviewer.jupyter.org/github/brinkar/real-world-machine-learning/blob/master/Chapter%206%20-%20NYC%20Taxi%20Full%20Example.ipynb)
 * 데이터
@@ -114,6 +119,7 @@ toc_sticky: true
 * 모델링
   * 선형 모델
   * 비선형 분류기 (Ex. 랜덤 포레스트 등)
+
 
 
 # 7장 고급 특성 추출 기법
@@ -171,6 +177,7 @@ $EdgeScore=\frac{\Sigma(edges)}{res_x*res_y}$
       * 은닉 마르코프 모델
 
 
+
 # 8장 고급 자연 언어 처리 예제: 영화 감상평 평점
 * [Github Notebook](https://nbviewer.jupyter.org/github/brinkar/real-world-machine-learning/blob/master/Chapter%208%20-%20Movie%20Review%20Full%20Example.ipynb)
 * 데이터 및 사용사례 탐구
@@ -207,6 +214,7 @@ $log[p(C_k|x_i)]$ ~ $b+w_kx$<br>
     * RandomForestClassifier 활용
 
 
+
 # 9장 머신러닝 작업 흐름 확장
 * [Github Notebook](https://nbviewer.jupyter.org/github/brinkar/real-world-machine-learning/blob/master/Chapter%209%20-%20Scaling%20ML%20Workflows.ipynb)
 * 확장하기 전에
@@ -232,6 +240,7 @@ $log[p(C_k|x_i)]$ ~ $b+w_kx$<br>
   * 예측속도 높이기
 
 
+
 # 10장 예제: 디지털 디스플레이 광고
 * [Github Notebook](https://nbviewer.jupyter.org/github/brinkar/real-world-machine-learning/blob/master/Chapter%2010%20-%20Advertising%20Example.ipynb)
 * 특성 추출과 모델링 전략
@@ -255,6 +264,7 @@ $S$ 특잇값 : 해당 특성 벡터가 어느정도 독립적인지 확인 가�
   * Stacking (쌓기) : 최종 합의된 예측을 도출하기 위해 로지스틱 회귀 같은 다른 알고리즘 예측을 결합하는 방법
 
 
+
 # 부록. 인기 있는 머신러닝 알고리즘
 * Linear Regression (선형 회귀)
 * Logistic Regression (로지스틱 회귀)
@@ -268,6 +278,7 @@ $S$ 특잇값 : 해당 특성 벡터가 어느정도 독립적인지 확인 가�
 * Neural Network (신경망)
 * Vowpal Wabbit (보우팰 웨빗)
 * XGBoost (엑스지부스트)
+
 
 
 # 참고자료
