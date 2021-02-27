@@ -39,7 +39,7 @@ toc_sticky: true
 * 2.1 마르코프 프로세스 (Markov Process)
   * 마르코프 프로세스 정의
     * 미리 정의된 확률 분포를 따라서 상태와 상태사이를 이동해 다니는 여정<br>
-$MP≡(S,P)$<br>
+$MP\equiv(S,P)$<br>
   * 마르코프 프로세스 구성요소
     * 상태의 집합 $S$<br>
     * 전이 확률 행렬 $P_{SS'}$<br>
@@ -48,7 +48,7 @@ $P[S_{t+1}|S_t]=P[S_{t+1}|S_1,S_2,\cdots,S_t]$
 * 2.2 마르코프 리워드 프로세스 (Markov Reward Process)
   * 마르코프 리워드 프로세스 정의
     * 마르코프 프로세스에 보상의 개념이 추가<br>
-$MRP≡(S,P,R,\gamma)$<br>
+$MRP\equiv(S,P,R,\gamma)$<br>
   * 마르코프 리워드 프로세스 구성요소
     * 상태의 집합 $S$<br>
     * 전이 확률 행렬 $P_{SS'}$<br>
@@ -69,7 +69,7 @@ $v(s)=E[G_t|S_t=s]$<br>
 * 2.3 마르코프 결정 프로세스 (Markov Decision Process)
   * 마르코프 결정 프로세스 정의
     * 마르코프 리워드 프로세스에 에이전트 개념이 추가<br>
-$MDP≡(S,A,P,R,\gamma)$<br>
+$MDP\equiv(S,A,P,R,\gamma)$<br>
   * 마르코프 결정 프로세스 구성요소
     * 상태의 집합 $S$<br>
     * 액션의 집합 $A$<br>
@@ -295,8 +295,106 @@ $Q_{\theta_i}$ : Q Network<br>
 
 # 9. 정책 기반 에이전트
 * 9.1 Policy Gradient
+  * 결정론적 정책 vs. 확률론적 정책
+  * Gradient Ascent<br>
+$J(\theta)=E_{\pi_{\theta}}[\sum_tr_t]=v_{\pi_{\theta}}(s_0)$<br>
+$J(\theta)=\sum_{s\in S}d(s)*v_{\pi_{\theta}}(s)$<br>
+$\theta'\leftarrow\theta+\alpha\nabla_\theta J(\theta)$<br>
+  * 1-Step MDP<br>
+$J(\theta)=\sum_{s\in S}d(s)*v_{\pi_{\theta}}(s)$<br>
+$J(\theta)=\sum_{s\in S}d(s)\sum_{a\in A}\pi_\theta(s,a)*R_{s,a}$<br>
+$\nabla_\theta J(\theta)=\nabla_\theta \sum_{s\in S}d(s)\sum_{a\in A}\pi_\theta(s,a)*R_{s,a}$<br>
+$\nabla_\theta J(\theta)=\sum_{s\in S}d(s)\sum_{a\in A}\nabla_\theta\pi_\theta(s,a)*R_{s,a}$<br>
+$\nabla_\theta J(\theta)=\sum_{s\in S}d(s)\sum_{a\in A}\frac{\pi_\theta(s,a)}{\pi_\theta(s,a)}\nabla_\theta\pi_\theta(s,a)*R_{s,a}$<br>
+$\nabla_\theta J(\theta)=\sum_{s\in S}d(s)\sum_{a\in A}\pi_\theta(s,a)\nabla_\theta log \pi_\theta(s,a)*R_{s,a}$<br>
+$\nabla_\theta J(\theta)=E_{\pi_{\theta}}[\nabla_\theta log \pi_\theta(s,a)*R_{s,a}]$<br>
+  * MDP<br>
+$\nabla_\theta J(\theta)=E_{\pi_{\theta}}[\nabla_\theta log \pi_\theta(s,a)*Q_{\pi_\theta}(s,a)]$<br>
 * 9.2 REINFORCE 알고리즘
+  * 이론적 배경<br>
+$\nabla_\theta J(\theta)=E_{\pi_{\theta}}[\nabla_\theta log \pi_\theta(s,a)*G_t]$<br>
+$Q_{\pi_\theta}(s,a)=E[G_t|s_t=s,a_t=a]$<br>
+  * REINFORCE Pseudo Code<br>
+    * 1) $\pi_\theta(s,a)$ 의 파라미터 $\theta$ 를 랜덤으로 초기화<br>
+    * 2) 에피소드가 끝날때까지 A~C 반복<br>
+      * A) 에이전트의 상태를 초기화 : $s\leftarrow s_0$<br>
+      * B) $\pi_\theta$ 를 이용하여 에피소드 끝까지 진행 ${s_0,a_0,r_0,s_1,a_1,r_1,\cdots,s_T,a_T,r_T}$<br>
+      * C) $t=0~T$ 에 대해 다음 반복<br>
+        * $G_t\leftarrow \sum^T_{i=t} r_i*\gamma^{i-t}$<br>
+        * $\theta\leftarrow \theta+\alpha\nabla_\theta log \pi_\theta(s_t,a_t)*G_t$ : $s$ 에서 $a$ 를 선택할 확률을 $G_t$ 에 비례하게 증가<br>
+  * 참고<br>
+$\nabla_\theta J(\theta)\neq E_{\pi_{\theta}}[\nabla_\theta \pi_\theta(s,a)*G_t]$<br>
+$\nabla_\theta J(\theta)\approx G_t*\nabla_\theta log \pi_\theta(s_t,a_t)$<br>
+$L(\theta)=(\boldsymbol{r+\gamma max_{a'}Q_\theta(s',a')}-Q_\theta(s,a))^2$<br>
+$\nabla_\theta L(\theta)\approx -(\boldsymbol{r+\gamma max_{a'}Q_\theta(s',a')}-Q_\theta(s,a))\nabla_\theta Q_\theta(s,a)$<br>
+$J(\theta)=G_t*log \pi_\theta(s_t,a_t)$ : Maximize 하고 싶은 값 (Gradient Ascent 사용)<br>
+$J(\theta)=-G_t*log \pi_\theta(s_t,a_t)$ : Minimize 하고 싶은 값 (Gradient Descent 사용)<br>
 * 9.3 액터-크리틱
+  * Q 액터-크리틱<br>
+$\nabla_\theta J(\theta)=E_{\pi_{\theta}}[\nabla_\theta log \pi_\theta(s,a)*Q_{\pi_\theta}(s,a)]$<br>
+  * 액터 : 실행할 액션 $a$ 를 선택하는 $\pi_\theta$<br>
+  * 크리틱 : 실행할 액션 $a$ 의 밸류를 평가하는 $Q_w$<br>
+  * Q Actor-Critic Pseudo Code<br>
+    * 1) 정책, 액션-밸류 네트워크의 파라미터 $\theta$ 와 $w$ 초기화<br>
+    * 2) 상태 $s$ 초기화<br>
+    * 3) 액션 $a\sim\pi_\theta(a|s)$<br>
+    * 4) 에피소드가 끝날때까지 A~E 반복<br>
+      * A) $a$ 를 실행하여 보상 $r$ 과 다음 상태 $s'$ 을 얻음<br>
+      * B) $\theta$ 업데이트 : $\theta\leftarrow \theta+\alpha\nabla_\theta log \pi_\theta(s,a)*Q_w(s,a)$<br>
+      * C) 액션 $a'\sim\pi_\theta(a'|s')$<br>
+      * D) $w$ 업데이트 : $w\leftarrow w+\beta(r+\gamma Q_w(s',a')-Q_w(s,a))\nabla_w Q_w(s,a)$<br>
+      * E) $a\leftarrow a', s\leftarrow s'$<br>
+  * 어드밴티지 액터-크리틱<br>
+$A_{\pi_\theta}(s,a)\equiv Q_{\pi_\theta}(s,a)-V_{\pi_\theta}(s)$<br>
+$A_{\pi_\theta}(s,a)$ : Advantage<br>
+$V_{\pi_\theta}(s)$ : Baseline (기저)<br>
+$E_{\pi_{\theta}}[\nabla_\theta log \pi_\theta(s,a)*B(s)]=\sum_{s\in S}d_{\pi_\theta}(s)\sum_{a\in A}\pi_\theta(s,a)\nabla_\theta log \pi_\theta(s,a)*B(s)$<br>
+$\sum_{s\in S}d_{\pi_\theta}(s)\sum_{a\in A}\pi_\theta(s,a)\nabla_\theta log \pi_\theta(s,a)*B(s)=\sum_{s\in S}d_{\pi_\theta}(s)\sum_{a\in A}\pi_\theta(s,a)\frac{\nabla_\theta \pi_\theta(s,a)}{\pi_\theta(s,a)}*B(s)$<br>
+$\sum_{s\in S}d_{\pi_\theta}(s)\sum_{a\in A}\pi_\theta(s,a)\nabla_\theta log \pi_\theta(s,a)*B(s)=\sum_{s\in S}d_{\pi_\theta}(s)\sum_{a\in A}\nabla_\theta \pi_\theta(s,a)*B(s)$<br>
+$\sum_{s\in S}d_{\pi_\theta}(s)\sum_{a\in A}\pi_\theta(s,a)\nabla_\theta log \pi_\theta(s,a)*B(s)=\sum_{s\in S}d_{\pi_\theta}(s)B(s)\sum_{a\in A}\nabla_\theta \pi_\theta(s,a)$<br>
+$\sum_{s\in S}d_{\pi_\theta}(s)\sum_{a\in A}\pi_\theta(s,a)\nabla_\theta log \pi_\theta(s,a)*B(s)=\sum_{s\in S}d_{\pi_\theta}(s)B(s)\nabla_\theta\sum_{a\in A} \pi_\theta(s,a)$<br>
+$\sum_{s\in S}d_{\pi_\theta}(s)\sum_{a\in A}\pi_\theta(s,a)\nabla_\theta log \pi_\theta(s,a)*B(s)=\sum_{s\in S}d_{\pi_\theta}(s)B(s)\nabla_\theta1=0$<br>
+$\therefore E_{\pi_{\theta}}[\nabla_\theta log \pi_\theta(s,a)*B(s)]=0$<br>
+$\nabla_\theta J(\theta)=E_{\pi_{\theta}}[\nabla_\theta log \pi_\theta(s,a)*A_{\pi_\theta}(s,a)]$<br>
+$A_{\pi_\theta}(s,a)=Q_{\pi_\theta}(s,a)-V_{\pi_\theta}(s)$<br>
+$Q_{\pi_\theta}(s,a)\approx Q_w$<br>
+$V_{\pi_\theta}(s)\approx V_\phi(s)$<br>
+    * 정책함수 $\pi_\theta(s,a)$ 의 뉴럴넷 $\theta$<br>
+    * 액션-가치함수 $Q_w(s,a)$ 의 뉴럴넷 $w$<br>
+    * 가치함수 $V_\phi$ 의 뉴럴넷 $\phi$<br>
+  * 어드밴티지 액터-크리틱 Pseudo Code<br>
+    * 1) 3쌍의 뉴럴넷 파라미터 $\theta,w,\phi$ 초기화<br>
+    * 2) 상태 $s$ 초기화<br>
+    * 3) 액션 $a\sim\pi_\theta(a|s)$ 를 샘플링<br>
+    * 4) 에피소드가 끝날때까지 A~F 반복<br>
+      * A) $a$ 를 실행하여 보상 $r$ 과 다음 상태 $s'$ 을 얻음<br>
+      * B) $\theta$ 업데이트 : $\theta\leftarrow \theta+\alpha_1\nabla_\theta log \pi_\theta(s,a)*\{Q_w(s,a)-V_\phi(s)\}$<br>
+      * C) 액션 $a'\sim\pi_\theta(a'|s')$ 를 샘플링<br>
+      * D) $w$ 업데이트 : $w\leftarrow w+\alpha_2(r+\gamma Q_w(s',a')-Q_w(s,a))\nabla_w Q_w(s,a)$<br>
+      * E) $\phi$ 업데이트 : $\phi\leftarrow \phi+\alpha_3(r+\gamma V_\phi(s')-V_\phi(s))\nabla_\phi V_\phi(s)$<br>
+      * F) $a\leftarrow a', s\leftarrow s'$<br>
+  * TD 액터-크리틱<br>
+$\delta=r+\gamma V(s')-V(s)$<br>
+$E_\pi[\delta|s,a]=E_\pi[r+\gamma V(s')-V(s)|s,a]$<br>
+$E_\pi[\delta|s,a]=E_\pi[r+\gamma V(s')|s,a]-V(s)$<br>
+$E_\pi[\delta|s,a]=Q(s,a)-V(s)=A(s,a)$ : $\delta$ 는 $A(s,a)$ 의 불편추정량<br>
+$\nabla_\theta J(\theta)=E_{\pi_{\theta}}[\nabla_\theta log \pi_\theta(s,a)*\delta]$<br>
+  * TD Actor-Critic Pseudo Code<br>
+    * 1) 정책, 밸류 네트워크 파라미터 $\theta,\phi$ 초기화<br>
+    * 2) 액션 $a\sim\pi_\theta(a|s)$ 를 샘플링<br>
+    * 3) 에피소드가 끝날때까지 A~E 반복<br>
+      * A) $a$ 를 실행하여 보상 $r$ 과 다음 상태 $s'$ 을 얻음<br>
+      * B) $\delta$ 계산 : $\delta\leftarrow r+\gamma V_\phi(s')-V_\phi(s)$<br>
+      * C) $\theta$ 업데이트 : $\theta\leftarrow \theta+\alpha_1\nabla_\theta log \pi_\theta(s,a)*\delta$<br>
+      * D) $\phi$ 업데이트 : $\phi\leftarrow \phi+\alpha_2\delta\nabla_\phi V_\phi(s)$<br>
+      * E) $a\leftarrow a', s\leftarrow s'$<br>
+  * [TD Actor-Critic 구현 사례](https://github.com/seungeunrho/RLfrombasics/blob/master/ch9_ActorCritic.py)
+    * loss function 계산시, detach() 함수 반영사실에 주의
+```
+loss = -torch.log(pi_a) * delta.detach() + F.smooth_l1_loss(self.v(s), td_target.detach())
+```
+    * delta.detach()는 $-log\pi_\theta$ 의 Gradient 계산시, $\delta$ 를 상수처리 하기 위함<br>
+    * td_target.detach()는 $V(s)$ 의 Gradient 계산시, TD Target을 상수처리 하기 위함<br>
 
 
 
