@@ -280,7 +280,7 @@ $\theta'=\theta+\alpha(\boldsymbol{r+\gamma max_{a'}Q_\theta(s',a')}-Q_\theta(s,
       * E) $s\leftarrow s'$<br>
     * 에피소드가 끝나면 다시 2로 돌아가서 $\theta$ 가 수렴할 때까지 반복<br>
   * Experience Replay
-    * 상태 전이
+    * 상태 전이 : $e_t=(s_t,a_t,r_t,s_{t+1})$<br>
     * 리플레이 버퍼 : 낱개의 데이터 재사용
     * 상관성 억제 : 다양한 데이터 섞임 (Shuffle)
   * Target Network<br>
