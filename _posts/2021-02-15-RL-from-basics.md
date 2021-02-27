@@ -281,14 +281,14 @@ $\theta'=\theta+\alpha(\boldsymbol{r+\gamma max_{a'}Q_\theta(s',a')}-Q_\theta(s,
     * 에피소드가 끝나면 다시 2로 돌아가서 $\theta$ 가 수렴할 때까지 반복<br>
   * Experience Replay
     * 상태 전이 : $e_t=(s_t,a_t,r_t,s_{t+1})$<br>
-    * 리플레이 버퍼 : 낱개의 데이터 재사용
+    * 리플레이 버퍼 : 낱개의 데이터 재사용 (선입선출)
     * 상관성 억제 : 다양한 데이터 섞임 (Shuffle)
   * Target Network<br>
 $L(\theta)=E[(R+\gamma max_{A'}Q_{\theta_{i}^{-}}(S',A')-Q_{\theta_i} (S,A))^2]$<br>
 $Q_{\theta_{i}^{-}}$ : Target Network<br>
 $Q_{\theta_i}$ : Q Network<br>
 일정 주기마다 $\theta_{i}^{-} \leftarrow \theta_i$<br>
-    * 뉴럴 네트워크를 학습할 때 정답지가 자주 변하는 것은 학습의 안정성을 떨어뜨림
+    * 뉴럴 네트워크를 학습할 때 정답지가 자주 변하는 것은 학습의 안정성을 떨어뜨리기 때문
   * [DQN 구현 사례](https://github.com/seungeunrho/RLfrombasics/blob/master/ch8_DQN.py)
 
 
