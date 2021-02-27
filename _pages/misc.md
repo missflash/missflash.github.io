@@ -148,8 +148,8 @@ git push -u origin master
     * git config --list
   * [Not Works!] 사용자 계정 삭제
     * --git credential-osxkeychain erase
-  * 사용자 비밀번호 변경
-    * git config --global --unset user.password
+  * [Not Works!] 사용자 비밀번호 변경
+    * --git config --global --unset user.password
   * 로컬 경로 확인
     * git init
   * 로컬 경로 이동
