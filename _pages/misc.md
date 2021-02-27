@@ -144,6 +144,12 @@ git push -u origin master
     * Project 디렉토리로 이동
     * git config --global user.name "missflash"
     * git config --global user.email "missflash@gmail.com"
+  * 설정 확인
+    * git config --list
+  * [Not Works!] 사용자 계정 삭제
+    * --git credential-osxkeychain erase
+  * 사용자 비밀번호 변경
+    * git config --global --unset user.password
   * 로컬 경로 확인
     * git init
   * 로컬 경로 이동
