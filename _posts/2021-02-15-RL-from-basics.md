@@ -44,7 +44,7 @@ $MP\equiv(S,P)$<br>
     * 상태의 집합 $S$<br>
     * 전이 확률 행렬 $P_{SS'}$<br>
   * 마르코프 성질<br>
-$P[S_{t+1}|S_t]=P[S_{t+1}|S_1,S_2,\cdots,S_t]$
+$P[S_{t+1}\mid S_t]=P[S_{t+1}\mid S_1,S_2,\cdots,S_t]$
 * 2.2 마르코프 리워드 프로세스 (Markov Reward Process)
   * 마르코프 리워드 프로세스 정의
     * 마르코프 프로세스에 보상의 개념이 추가<br>
@@ -53,7 +53,7 @@ $MRP\equiv(S,P,R,\gamma)$<br>
     * 상태의 집합 $S$<br>
     * 전이 확률 행렬 $P_{SS'}$<br>
     * 보상함수<br>
-$R=E[R_t|S_t=s]$<br>
+$R=E[R_t\mid S_t=s]$<br>
     * 감쇠인자 $\gamma$<br>
   * 에피소드
   * 리턴<br>
@@ -65,7 +65,7 @@ $G_t=R_{t+1}+\gamma R_{t+2}+\gamma^2 R_{t+3}+\cdots$<br>
   * 밸류와 기댓값
   * 에피소드 샘플링 (Monte-Carlo 접근법)
   * 상태 가치 함수<br>
-$v(s)=E[G_t|S_t=s]$<br>
+$v(s)=E[G_t\mid S_t=s]$<br>
 * 2.3 마르코프 결정 프로세스 (Markov Decision Process)
   * 마르코프 결정 프로세스 정의
     * 마르코프 리워드 프로세스에 에이전트 개념이 추가<br>
@@ -74,17 +74,17 @@ $MDP\equiv(S,A,P,R,\gamma)$<br>
     * 상태의 집합 $S$<br>
     * 액션의 집합 $A$<br>
     * 전이 확률 행렬<br>
-$P^a_{SS'}=P[S_{t+1}=s'|S_t=s,A_t=a]$<br>
+$P^a_{SS'}=P[S_{t+1}=s'\mid S_t=s,A_t=a]$<br>
     * 보상함수<br>
-$R^a_s=E[R_{t+1}|S_t=s,A_t=a]$<br>
+$R^a_s=E[R_{t+1}\mid S_t=s,A_t=a]$<br>
     * 감쇠인자 $\gamma$<br>
   * 정책함수와 2가지 가치함수
     * 정책함수<br>
-$\pi(a|s)=P[A_t=a|S_t=s]$<br>
+$\pi(a\mid s)=P[A_t=a\mid S_t=s]$<br>
     * 상태 가치함수<br>
-$v_\pi(s)=E_\pi[r_{t+1}+\gamma r_{t+2}+\gamma^2 r_{t+3}+\cdots|S_t=s]=E_\pi[G_t|S_t=s]$<br>
+$v_\pi(s)=E_\pi[r_{t+1}+\gamma r_{t+2}+\gamma^2 r_{t+3}+\cdots\mid S_t=s]=E_\pi[G_t\mid S_t=s]$<br>
     * 액션 가치함수<br>
-$q_\pi(s,a)=E_\pi[G_t|S_t=s,A_t=a]$<br>
+$q_\pi(s,a)=E_\pi[G_t\mid S_t=s,A_t=a]$<br>
 * 2.4 Prediction과 Control
   * Prediction : 정책 $\pi$가 주어졌을 때 각 상태의 밸류를 평가하는 문제
   * Control : 최적 정책 $\pi^*$ 를 찾는 문제
@@ -99,11 +99,11 @@ $q_\pi(s,a)=E_\pi[G_t|S_t=s,A_t=a]$<br>
 $v_\pi(s_t)=E_\pi[r_{t+1}+\gamma v_\pi(s_{t+1})]$<br>
 $q_\pi(s_t,a_t)=E_\pi[r_{t+1}+\gamma q_\pi(s_{t+1},a_{t+1})]$<br>
   * 1단계<br>
-$v_\pi(s)=\sum_{a\in A}\pi(a|s)q_\pi(s,a)$<br>
+$v_\pi(s)=\sum_{a\in A}\pi(a\mid s)q_\pi(s,a)$<br>
 $q_\pi(s,a)=r^a_s+\gamma \sum_{s'\in S}P^a_{ss'}v_\pi(s')$<br>
   * 2단계<br>
-$v_\pi(s)=\sum_{a\in A}\pi(a|s)\left(r^a_s+\gamma \sum_{s'\in S}P^a_{ss'}v_\pi(s')\right)$<br>
-$q_\pi(s,a)=r^a_s+\gamma \sum_{s'\in S}P^a_{ss'}\sum_{a'\in A}\pi(a'|s')q_\pi(s',a')$<br>
+$v_\pi(s)=\sum_{a\in A}\pi(a\mid s)\left(r^a_s+\gamma \sum_{s'\in S}P^a_{ss'}v_\pi(s')\right)$<br>
+$q_\pi(s,a)=r^a_s+\gamma \sum_{s'\in S}P^a_{ss'}\sum_{a'\in A}\pi(a'\mid s')q_\pi(s',a')$<br>
 
 * 3.2 벨만 최적 방정식
   * 최적 밸류와 최적 정책<br>
@@ -178,7 +178,7 @@ $N=n:r_{t+1}+\gamma r_{t+2}+\gamma^2 r_{t+3}+\cdots+\gamma^nV(s_{t+n})$<br>
 # 6. MDP를 모를 때 최고의 정책 찾기
 * 6.1 몬테카를로 컨트롤
   * MDP를 모르기 때문에 보상과 전이 확률 행렬을 알 수 없음
-$v_\pi(s_t)=\sum_{a\in A}\pi(a|s)\left(r^a_s+\gamma \sum_{s'\in S}P^a_{ss'}v_\pi(s')\right)$<br>
+$v_\pi(s_t)=\sum_{a\in A}\pi(a\mid s)\left(r^a_s+\gamma \sum_{s'\in S}P^a_{ss'}v_\pi(s')\right)$<br>
   * 해결방법
     * 평가 자리에 MC 사용
     * V 대신 Q 사용
@@ -313,7 +313,7 @@ $\nabla_\theta J(\theta)=E_{\pi_\theta}[\nabla_\theta log \pi_\theta(s,a)*Q_{\pi
 * 9.2 REINFORCE 알고리즘
   * 이론적 배경<br>
 $\nabla_\theta J(\theta)=E_{\pi_\theta}[\nabla_\theta log \pi_\theta(s,a)*G_t]$<br>
-$Q_{\pi_\theta}(s,a)=E[G_t|s_t=s,a_t=a]$<br>
+$Q_{\pi_\theta}(s,a)=E[G_t\mid s_t=s,a_t=a]$<br>
   * REINFORCE Pseudo Code<br>
     * 1) $\pi_\theta(s,a)$ 의 파라미터 $\theta$ 를 랜덤으로 초기화<br>
     * 2) 에피소드가 끝날때까지 A~C 반복<br>
@@ -337,11 +337,11 @@ $\nabla_\theta J(\theta)=E_{\pi_\theta}[\nabla_\theta log \pi_\theta(s,a)*Q_{\pi
   * Q Actor-Critic Pseudo Code<br>
     * 1) 정책, 액션-밸류 네트워크의 파라미터 $\theta$ 와 $w$ 초기화<br>
     * 2) 상태 $s$ 초기화<br>
-    * 3) 액션 $a \sim \pi_\theta(a$|$s)$ 를 샘플링<br>
+    * 3) 액션 $a \sim \pi_\theta(a\mid s)$ 를 샘플링<br>
     * 4) 에피소드가 끝날때까지 A~E 반복<br>
       * A) $a$ 를 실행하여 보상 $r$ 과 다음 상태 $s'$ 을 얻음<br>
       * B) $\theta$ 업데이트 : $\theta\leftarrow \theta+\alpha\nabla_\theta log \pi_\theta(s,a)*Q_w(s,a)$<br>
-      * C) 액션 $a' \sim \pi_\theta(a'|s')$ 를 샘플링<br>
+      * C) 액션 $a' \sim \pi_\theta(a'\mid s')$ 를 샘플링<br>
       * D) $w$ 업데이트 : $w\leftarrow w+\beta(r+\gamma Q_w(s',a')-Q_w(s,a))\nabla_w Q_w(s,a)$<br>
       * E) $a\leftarrow a', s\leftarrow s'$<br>
   * 어드밴티지 액터-크리틱<br>
@@ -365,23 +365,23 @@ $V_{\pi_\theta}(s)\approx V_\phi(s)$<br>
   * 어드밴티지 액터-크리틱 Pseudo Code<br>
     * 1) 3쌍의 뉴럴넷 파라미터 $\theta,w,\phi$ 초기화<br>
     * 2) 상태 $s$ 초기화<br>
-    * 3) 액션 $a \sim \pi_\theta(a|s)$ 를 샘플링<br>
+    * 3) 액션 $a \sim \pi_\theta(a\mid s)$ 를 샘플링<br>
     * 4) 에피소드가 끝날때까지 A~F 반복<br>
       * A) $a$ 를 실행하여 보상 $r$ 과 다음 상태 $s'$ 을 얻음<br>
       * B) $\theta$ 업데이트 : $\theta\leftarrow \theta+\alpha_1\nabla_\theta log \pi_\theta(s,a)*\{Q_w(s,a)-V_\phi(s)\}$<br>
-      * C) 액션 $a' \sim \pi_\theta(a'|s')$ 를 샘플링<br>
+      * C) 액션 $a' \sim \pi_\theta(a'\mid s')$ 를 샘플링<br>
       * D) $w$ 업데이트 : $w\leftarrow w+\alpha_2(r+\gamma Q_w(s',a')-Q_w(s,a))\nabla_w Q_w(s,a)$<br>
       * E) $\phi$ 업데이트 : $\phi\leftarrow \phi+\alpha_3(r+\gamma V_\phi(s')-V_\phi(s))\nabla_\phi V_\phi(s)$<br>
       * F) $a\leftarrow a', s\leftarrow s'$<br>
   * TD 액터-크리틱<br>
 $\delta=r+\gamma V(s')-V(s)$<br>
-$E_\pi[\delta|s,a]=E_\pi[r+\gamma V(s')-V(s)|s,a]$<br>
-$E_\pi[\delta|s,a]=E_\pi[r+\gamma V(s')|s,a]-V(s)$<br>
-$E_\pi[\delta|s,a]=Q(s,a)-V(s)=A(s,a)$ : $\delta$ 는 $A(s,a)$ 의 불편추정량<br>
+$E_\pi[\delta\mid s,a]=E_\pi[r+\gamma V(s')-V(s)\mid s,a]$<br>
+$E_\pi[\delta\mid s,a]=E_\pi[r+\gamma V(s')\mid s,a]-V(s)$<br>
+$E_\pi[\delta\mid s,a]=Q(s,a)-V(s)=A(s,a)$ : $\delta$ 는 $A(s,a)$ 의 불편추정량<br>
 $\nabla_\theta J(\theta)=E_{\pi_\theta}[\nabla_\theta log \pi_\theta(s,a)*\delta]$<br>
   * TD Actor-Critic Pseudo Code<br>
     * 1) 정책, 밸류 네트워크 파라미터 $\theta,\phi$ 초기화<br>
-    * 2) 액션 $a \sim \pi_\theta(a|s)$ 를 샘플링<br>
+    * 2) 액션 $a \sim \pi_\theta(a\mid s)$ 를 샘플링<br>
     * 3) 에피소드가 끝날때까지 A~E 반복<br>
       * A) $a$ 를 실행하여 보상 $r$ 과 다음 상태 $s'$ 을 얻음<br>
       * B) $\delta$ 계산 : $\delta\leftarrow r+\gamma V_\phi(s')-V_\phi(s)$<br>
