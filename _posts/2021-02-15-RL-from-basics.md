@@ -337,11 +337,11 @@ $\nabla_\theta J(\theta)=E_{\pi_\theta}[\nabla_\theta log \pi_\theta(s,a)*Q_{\pi
   * Q Actor-Critic Pseudo Code<br>
     * 1) 정책, 액션-밸류 네트워크의 파라미터 $\theta$ 와 $w$ 초기화<br>
     * 2) 상태 $s$ 초기화<br>
-    * 3) 액션 $a \sim \pi_\theta (a|s)$ 를 샘플링<br>
+    * 3) 액션 $a \sim \pi_\theta(a$|$s)$ 를 샘플링<br>
     * 4) 에피소드가 끝날때까지 A~E 반복<br>
       * A) $a$ 를 실행하여 보상 $r$ 과 다음 상태 $s'$ 을 얻음<br>
       * B) $\theta$ 업데이트 : $\theta\leftarrow \theta+\alpha\nabla_\theta log \pi_\theta(s,a)*Q_w(s,a)$<br>
-      * C) 액션 $a' \sim \pi_\theta(a' | s')$ 를 샘플링<br>
+      * C) 액션 $a' \sim \pi_\theta(a'|s')$ 를 샘플링<br>
       * D) $w$ 업데이트 : $w\leftarrow w+\beta(r+\gamma Q_w(s',a')-Q_w(s,a))\nabla_w Q_w(s,a)$<br>
       * E) $a\leftarrow a', s\leftarrow s'$<br>
   * 어드밴티지 액터-크리틱<br>
