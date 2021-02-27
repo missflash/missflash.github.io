@@ -270,14 +270,15 @@ $L(\theta)=E[(\boldsymbol{r+\gamma max_{a'}Q_\theta(s',a')}-Q_\theta(s,a))^2]$<b
 $\theta'=\theta+\alpha(\boldsymbol{r+\gamma max_{a'}Q_\theta(s',a')}-Q_\theta(s,a))\nabla_\theta Q_\theta(s,a)$<br>
   * 미니 배치
   * 딥 Q러닝 Pseudo Code
-    * $Q_\theta$ 의 파라미티 $\theta$ 초기화<br>
-    * 에이전트의 상태 $s$ 를 초기화 ($s\leftarrow s_0$)<br>
-    * 에피소드가 끝날때까지 다음 반복<br>
-      * $Q_\theta$ 에 대한 $\epsilon-greedy$ 를 이용해 액션 $a$ 선택<br>
-      * $a$ 를 실행하여 $r$ 과 $s'$ 관측<br>
-      * $s'$ 에서 $Q_\theta$ 에 대한 $Greedy$ 를 이용하여 액션 $a'$ 선택<br>
-      * $\theta$ 업데이트 : $\theta\leftarrow\theta+\alpha(r+\gamma Q_\theta(s',a')-Q_\theta(s,a))\nabla_\theta Q_\theta(s,a)$<br>
-      * $s\leftarrow s'$<br>
+    * 1) $Q_\theta$ 의 파라미티 $\theta$ 초기화<br>
+    * 2) 에이전트의 상태 $s$ 를 초기화 ($s\leftarrow s_0$)<br>
+    * 3) 에피소드가 끝날때까지 A~E 반복<br>
+      * A) $Q_\theta$ 에 대한 $\epsilon-greedy$ 를 이용해 액션 $a$ 선택<br>
+      * B) $a$ 를 실행하여 $r$ 과 $s'$ 관측<br>
+      * C) $s'$ 에서 $Q_\theta$ 에 대한 $Greedy$ 를 이용해 액션 $a'$ 선택<br>
+      * D) $\theta$ 업데이트 : $\theta\leftarrow\theta+\alpha(r+\gamma Q_\theta(s',a')-Q_\theta(s,a))\nabla_\theta Q_\theta(s,a)$<br>
+      * E) $s\leftarrow s'$<br>
+    * 에피소드가 끝나면 다시 2로 돌아가서 $\theta$ 가 수렴할 때까지 반복<br>
   * Experience Replay
     * 상태 전이
     * 리플레이 버퍼 : 낱개의 데이터 재사용
