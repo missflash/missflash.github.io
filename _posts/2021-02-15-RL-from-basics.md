@@ -368,7 +368,7 @@ $V_{\pi_\theta}\approx V_\phi$<br>
     * 3) 액션 $a \sim \pi_\theta(a\mid s)$ 를 샘플링<br>
     * 4) 에피소드가 끝날때까지 A~F 반복<br>
       * A) $a$ 를 실행하여 보상 $r$ 과 다음 상태 $s'$ 을 얻음<br>
-      * B) $\theta$ 업데이트 : $\theta\leftarrow \theta+\alpha_1\nabla_\theta log \pi_\theta(s,a)*\{Q_w(s,a)-V_\phi(s)\}$<br>
+      * B) $\theta$ 업데이트 : $\theta\leftarrow \theta+\alpha_1\nabla_\theta log \pi_\theta(s,a)* \{ Q_w(s,a)-V_\phi(s) \}$<br>
       * C) 액션 $a' \sim \pi_\theta(a'\mid s')$ 를 샘플링<br>
       * D) $w$ 업데이트 : $w\leftarrow w+\alpha_2(r+\gamma Q_w(s',a')-Q_w(s,a))\nabla_w Q_w(s,a)$<br>
       * E) $\phi$ 업데이트 : $\phi\leftarrow \phi+\alpha_3(r+\gamma V_\phi(s')-V_\phi(s))\nabla_\phi V_\phi(s)$<br>
