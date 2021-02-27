@@ -337,11 +337,11 @@ $\nabla_\theta J(\theta)=E_{\pi_\theta}[\nabla_\theta log \pi_\theta(s,a)*Q_{\pi
   * Q Actor-Critic Pseudo Code<br>
     * 1) 정책, 액션-밸류 네트워크의 파라미터 $\theta$ 와 $w$ 초기화<br>
     * 2) 상태 $s$ 초기화<br>
-    * 3) 액션 $a \sim \pi_\theta(a|s)$<br>
+    * 3) 액션 $a \sim \pi_\theta(a | s)$ 를 샘플링<br>
     * 4) 에피소드가 끝날때까지 A~E 반복<br>
       * A) $a$ 를 실행하여 보상 $r$ 과 다음 상태 $s'$ 을 얻음<br>
       * B) $\theta$ 업데이트 : $\theta\leftarrow \theta+\alpha\nabla_\theta log \pi_\theta(s,a)*Q_w(s,a)$<br>
-      * C) 액션 $a' \sim \pi_\theta(a'|s')$<br>
+      * C) 액션 $a' \sim \pi_\theta(a' | s')$ 를 샘플링<br>
       * D) $w$ 업데이트 : $w\leftarrow w+\beta(r+\gamma Q_w(s',a')-Q_w(s,a))\nabla_w Q_w(s,a)$<br>
       * E) $a\leftarrow a', s\leftarrow s'$<br>
   * 어드밴티지 액터-크리틱<br>
@@ -365,11 +365,11 @@ $V_{\pi_\theta}(s)\approx V_\phi(s)$<br>
   * 어드밴티지 액터-크리틱 Pseudo Code<br>
     * 1) 3쌍의 뉴럴넷 파라미터 $\theta,w,\phi$ 초기화<br>
     * 2) 상태 $s$ 초기화<br>
-    * 3) 액션 $a \sim \pi_\theta(a|s)$ 를 샘플링<br>
+    * 3) 액션 $a \sim \pi_\theta(a | s)$ 를 샘플링<br>
     * 4) 에피소드가 끝날때까지 A~F 반복<br>
       * A) $a$ 를 실행하여 보상 $r$ 과 다음 상태 $s'$ 을 얻음<br>
       * B) $\theta$ 업데이트 : $\theta\leftarrow \theta+\alpha_1\nabla_\theta log \pi_\theta(s,a)*\{Q_w(s,a)-V_\phi(s)\}$<br>
-      * C) 액션 $a' \sim \pi_\theta(a'|s')$ 를 샘플링<br>
+      * C) 액션 $a' \sim \pi_\theta(a' | s')$ 를 샘플링<br>
       * D) $w$ 업데이트 : $w\leftarrow w+\alpha_2(r+\gamma Q_w(s',a')-Q_w(s,a))\nabla_w Q_w(s,a)$<br>
       * E) $\phi$ 업데이트 : $\phi\leftarrow \phi+\alpha_3(r+\gamma V_\phi(s')-V_\phi(s))\nabla_\phi V_\phi(s)$<br>
       * F) $a\leftarrow a', s\leftarrow s'$<br>
@@ -381,7 +381,7 @@ $E_\pi[\delta|s,a]=Q(s,a)-V(s)=A(s,a)$ : $\delta$ 는 $A(s,a)$ 의 불편추정�
 $\nabla_\theta J(\theta)=E_{\pi_\theta}[\nabla_\theta log \pi_\theta(s,a)*\delta]$<br>
   * TD Actor-Critic Pseudo Code<br>
     * 1) 정책, 밸류 네트워크 파라미터 $\theta,\phi$ 초기화<br>
-    * 2) 액션 $a \sim \pi_\theta(a|s)$ 를 샘플링<br>
+    * 2) 액션 $a \sim \pi_\theta(a | s)$ 를 샘플링<br>
     * 3) 에피소드가 끝날때까지 A~E 반복<br>
       * A) $a$ 를 실행하여 보상 $r$ 과 다음 상태 $s'$ 을 얻음<br>
       * B) $\delta$ 계산 : $\delta\leftarrow r+\gamma V_\phi(s')-V_\phi(s)$<br>
