@@ -266,7 +266,7 @@ $Q(s,a)\leftarrow Q(s,a)+\alpha(\boldsymbol{r+\gamma max_{a'}Q(s',a')}-Q(s,a))$<
 $L(\theta)=E[(\boldsymbol{r+\gamma max_{a'}Q_\theta(s',a')}-Q_\theta(s,a))^2]$<br>
 $\theta'=\theta+\alpha(\boldsymbol{r+\gamma max_{a'}Q_\theta(s',a')}-Q_\theta(s,a))\nabla_\theta Q_\theta(s,a)$<br>
   * 미니 배치
-  * 딥 Q러닝 Pseudo Code
+  * 딥 Q러닝 Pseudo Code<br>
 
     * 1. $Q_\theta$ 의 파라미티 $\theta$ 초기화
     * 2. 에이전트의 상태 $s$ 를 초기화 ($s\leftarrow s_0$)
