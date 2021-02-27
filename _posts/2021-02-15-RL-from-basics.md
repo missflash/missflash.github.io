@@ -323,12 +323,12 @@ $Q_{\pi_\theta}(s,a)=E[G_t|s_t=s,a_t=a]$<br>
         * $G_t\leftarrow \sum^T_{i=t} r_i*\gamma^{i-t}$<br>
         * $\theta\leftarrow \theta+\alpha\nabla_\theta log \pi_\theta(s_t,a_t)*G_t$ : $s$ 에서 $a$ 를 선택할 확률을 $G_t$ 에 비례하게 증가<br>
   * 참고<br>
-$\nabla_\theta J(\theta)\neq E_{\pi_\theta}[\nabla_\theta \pi_\theta(s,a)*G_t]$<br>
-$\nabla_\theta J(\theta)\approx G_t*\nabla_\theta log \pi_\theta(s_t,a_t)$<br>
+$\nabla_\theta J(\theta)\neq E_{\pi_\theta}[\nabla_\theta \pi_\theta(s,a) *G_t]$<br>
+$\nabla_\theta J(\theta)\approx G_t *\nabla_\theta log \pi_\theta(s_t,a_t)$<br>
 $L(\theta)=(\boldsymbol{r+\gamma max_{a'}Q_\theta(s',a')}-Q_\theta(s,a))^2$<br>
 $\nabla_\theta L(\theta)\approx -(\boldsymbol{r+\gamma max_{a'}Q_\theta(s',a')}-Q_\theta(s,a))\nabla_\theta Q_\theta(s,a)$<br>
-$J(\theta)=G_t*log \pi_\theta(s_t,a_t)$ : Maximize 하고 싶은 값 (Gradient Ascent 사용)<br>
-$J(\theta)=-G_t*log \pi_\theta(s_t,a_t)$ : Minimize 하고 싶은 값 (Gradient Descent 사용)<br>
+$J(\theta)=G_t *log \pi_\theta(s_t,a_t)$ : Maximize 하고 싶은 값 (Gradient Ascent 사용)<br>
+$J(\theta)=-G_t *log \pi_\theta(s_t,a_t)$ : Minimize 하고 싶은 값 (Gradient Descent 사용)<br>
 * 9.3 액터-크리틱
   * Q 액터-크리틱<br>
 $\nabla_\theta J(\theta)=E_{\pi_\theta}[\nabla_\theta log \pi_\theta(s,a)*Q_{\pi_\theta}(s,a)]$<br>
