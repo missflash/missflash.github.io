@@ -241,6 +241,9 @@ $\nabla_wL(w)=(\frac{\partial L(w)}{\partial w_1},\frac{\partial L(w)}{\partial 
 $w'=w-\alpha*\nabla_wL(w)$<br>
   * 미니 배치
   * [신경망 구현 사례](https://github.com/seungeunrho/RLfrombasics/blob/master/ch7_CosineFitting.py)
+
+
+
 # 8. 가치 기반 에이전트
 * 8.1 밸류 네트워크의 학습
   * 가치 기반 에이전트
