@@ -146,6 +146,8 @@ git push -u origin master
     * git config --global user.email "missflash@gmail.com"
   * 설정 확인
     * git config --list
+  * 사용자 계정 삭제
+    * Mac > 키체인 접근 > 모든 항목 > github.com 삭제
   * [Not Works!] 사용자 계정 삭제
     * --git credential-osxkeychain erase
   * [Not Works!] 사용자 비밀번호 변경
