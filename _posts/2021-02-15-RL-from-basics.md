@@ -297,22 +297,22 @@ $Q_{\theta_i}$ : Q Network<br>
 * 9.1 Policy Gradient
   * 결정론적 정책 vs. 확률론적 정책
   * Gradient Ascent<br>
-$J(\theta)=E_{\pi_{\theta}}[\sum_tr_t]=v_{\pi_{\theta}}(s_0)$<br>
-$J(\theta)=\sum_{s\in S}d(s)*v_{\pi_{\theta}}(s)$<br>
+$J(\theta)=E_{\pi_\theta}[\sum_tr_t]=v_{\pi_\theta}(s_0)$<br>
+$J(\theta)=\sum_{s\in S}d(s)*v_{\pi_\theta}(s)$<br>
 $\theta'\leftarrow\theta+\alpha\nabla_\theta J(\theta)$<br>
   * 1-Step MDP<br>
-$J(\theta)=\sum_{s\in S}d(s)*v_{\pi_{\theta}}(s)$<br>
+$J(\theta)=\sum_{s\in S}d(s)*v_{\pi_\theta}(s)$<br>
 $J(\theta)=\sum_{s\in S}d(s)\sum_{a\in A}\pi_\theta(s,a)*R_{s,a}$<br>
 $\nabla_\theta J(\theta)=\nabla_\theta \sum_{s\in S}d(s)\sum_{a\in A}\pi_\theta(s,a)*R_{s,a}$<br>
 $\nabla_\theta J(\theta)=\sum_{s\in S}d(s)\sum_{a\in A}\nabla_\theta\pi_\theta(s,a)*R_{s,a}$<br>
 $\nabla_\theta J(\theta)=\sum_{s\in S}d(s)\sum_{a\in A}\frac{\pi_\theta(s,a)}{\pi_\theta(s,a)}\nabla_\theta\pi_\theta(s,a)*R_{s,a}$<br>
 $\nabla_\theta J(\theta)=\sum_{s\in S}d(s)\sum_{a\in A}\pi_\theta(s,a)\nabla_\theta log \pi_\theta(s,a)*R_{s,a}$<br>
-$\nabla_\theta J(\theta)=E_{\pi_{\theta}}[\nabla_\theta log \pi_\theta(s,a)*R_{s,a}]$<br>
+$\nabla_\theta J(\theta)=E_{\pi_\theta}[\nabla_\theta log \pi_\theta(s,a)*R_{s,a}]$<br>
   * MDP<br>
-$\nabla_\theta J(\theta)=E_{\pi_{\theta}}[\nabla_\theta log \pi_\theta(s,a)*Q_{\pi_\theta}(s,a)]$<br>
+$\nabla_\theta J(\theta)=E_{\pi_\theta}[\nabla_\theta log \pi_\theta(s,a)*Q_{\pi_\theta}(s,a)]$<br>
 * 9.2 REINFORCE 알고리즘
   * 이론적 배경<br>
-$\nabla_\theta J(\theta)=E_{\pi_{\theta}}[\nabla_\theta log \pi_\theta(s,a)*G_t]$<br>
+$\nabla_\theta J(\theta)=E_{\pi_\theta}[\nabla_\theta log \pi_\theta(s,a)*G_t]$<br>
 $Q_{\pi_\theta}(s,a)=E[G_t|s_t=s,a_t=a]$<br>
   * REINFORCE Pseudo Code<br>
     * 1) $\pi_\theta(s,a)$ 의 파라미터 $\theta$ 를 랜덤으로 초기화<br>
@@ -323,7 +323,7 @@ $Q_{\pi_\theta}(s,a)=E[G_t|s_t=s,a_t=a]$<br>
         * $G_t\leftarrow \sum^T_{i=t} r_i*\gamma^{i-t}$<br>
         * $\theta\leftarrow \theta+\alpha\nabla_\theta log \pi_\theta(s_t,a_t)*G_t$ : $s$ 에서 $a$ 를 선택할 확률을 $G_t$ 에 비례하게 증가<br>
   * 참고<br>
-$\nabla_\theta J(\theta)\neq E_{\pi_{\theta}}[\nabla_\theta \pi_\theta(s,a)*G_t]$<br>
+$\nabla_\theta J(\theta)\neq E_{\pi_\theta}[\nabla_\theta \pi_\theta(s,a)*G_t]$<br>
 $\nabla_\theta J(\theta)\approx G_t*\nabla_\theta log \pi_\theta(s_t,a_t)$<br>
 $L(\theta)=(\boldsymbol{r+\gamma max_{a'}Q_\theta(s',a')}-Q_\theta(s,a))^2$<br>
 $\nabla_\theta L(\theta)\approx -(\boldsymbol{r+\gamma max_{a'}Q_\theta(s',a')}-Q_\theta(s,a))\nabla_\theta Q_\theta(s,a)$<br>
@@ -331,7 +331,7 @@ $J(\theta)=G_t*log \pi_\theta(s_t,a_t)$ : Maximize 하고 싶은 값 (Gradient A
 $J(\theta)=-G_t*log \pi_\theta(s_t,a_t)$ : Minimize 하고 싶은 값 (Gradient Descent 사용)<br>
 * 9.3 액터-크리틱
   * Q 액터-크리틱<br>
-$\nabla_\theta J(\theta)=E_{\pi_{\theta}}[\nabla_\theta log \pi_\theta(s,a)*Q_{\pi_\theta}(s,a)]$<br>
+$\nabla_\theta J(\theta)=E_{\pi_\theta}[\nabla_\theta log \pi_\theta(s,a)*Q_{\pi_\theta}(s,a)]$<br>
   * 액터 : 실행할 액션 $a$ 를 선택하는 $\pi_\theta$<br>
   * 크리틱 : 실행할 액션 $a$ 의 밸류를 평가하는 $Q_w$<br>
   * Q Actor-Critic Pseudo Code<br>
@@ -348,14 +348,14 @@ $\nabla_\theta J(\theta)=E_{\pi_{\theta}}[\nabla_\theta log \pi_\theta(s,a)*Q_{\
 $A_{\pi_\theta}(s,a)\equiv Q_{\pi_\theta}(s,a)-V_{\pi_\theta}(s)$<br>
 $A_{\pi_\theta}(s,a)$ : Advantage<br>
 $V_{\pi_\theta}(s)$ : Baseline (기저)<br>
-$E_{\pi_{\theta}}[\nabla_\theta log \pi_\theta(s,a)*B(s)]=\sum_{s\in S}d_{\pi_\theta}(s)\sum_{a\in A}\pi_\theta(s,a)\nabla_\theta log \pi_\theta(s,a)*B(s)$<br>
+$E_{\pi_\theta}[\nabla_\theta log \pi_\theta(s,a)*B(s)]=\sum_{s\in S}d_{\pi_\theta}(s)\sum_{a\in A}\pi_\theta(s,a)\nabla_\theta log \pi_\theta(s,a)*B(s)$<br>
 $\sum_{s\in S}d_{\pi_\theta}(s)\sum_{a\in A}\pi_\theta(s,a)\nabla_\theta log \pi_\theta(s,a)*B(s)=\sum_{s\in S}d_{\pi_\theta}(s)\sum_{a\in A}\pi_\theta(s,a)\frac{\nabla_\theta \pi_\theta(s,a)}{\pi_\theta(s,a)}*B(s)$<br>
 $\sum_{s\in S}d_{\pi_\theta}(s)\sum_{a\in A}\pi_\theta(s,a)\nabla_\theta log \pi_\theta(s,a)*B(s)=\sum_{s\in S}d_{\pi_\theta}(s)\sum_{a\in A}\nabla_\theta \pi_\theta(s,a)*B(s)$<br>
 $\sum_{s\in S}d_{\pi_\theta}(s)\sum_{a\in A}\pi_\theta(s,a)\nabla_\theta log \pi_\theta(s,a)*B(s)=\sum_{s\in S}d_{\pi_\theta}(s)B(s)\sum_{a\in A}\nabla_\theta \pi_\theta(s,a)$<br>
 $\sum_{s\in S}d_{\pi_\theta}(s)\sum_{a\in A}\pi_\theta(s,a)\nabla_\theta log \pi_\theta(s,a)*B(s)=\sum_{s\in S}d_{\pi_\theta}(s)B(s)\nabla_\theta\sum_{a\in A} \pi_\theta(s,a)$<br>
 $\sum_{s\in S}d_{\pi_\theta}(s)\sum_{a\in A}\pi_\theta(s,a)\nabla_\theta log \pi_\theta(s,a)*B(s)=\sum_{s\in S}d_{\pi_\theta}(s)B(s)\nabla_\theta1=0$<br>
-$\therefore E_{\pi_{\theta}}[\nabla_\theta log \pi_\theta(s,a)*B(s)]=0$<br>
-$\nabla_\theta J(\theta)=E_{\pi_{\theta}}[\nabla_\theta log \pi_\theta(s,a)*A_{\pi_\theta}(s,a)]$<br>
+$\therefore E_{\pi_\theta}[\nabla_\theta log \pi_\theta(s,a)*B(s)]=0$<br>
+$\nabla_\theta J(\theta)=E_{\pi_\theta}[\nabla_\theta log \pi_\theta(s,a)*A_{\pi_\theta}(s,a)]$<br>
 $A_{\pi_\theta}(s,a)=Q_{\pi_\theta}(s,a)-V_{\pi_\theta}(s)$<br>
 $Q_{\pi_\theta}(s,a)\approx Q_w$<br>
 $V_{\pi_\theta}(s)\approx V_\phi(s)$<br>
@@ -378,7 +378,7 @@ $\delta=r+\gamma V(s')-V(s)$<br>
 $E_\pi[\delta|s,a]=E_\pi[r+\gamma V(s')-V(s)|s,a]$<br>
 $E_\pi[\delta|s,a]=E_\pi[r+\gamma V(s')|s,a]-V(s)$<br>
 $E_\pi[\delta|s,a]=Q(s,a)-V(s)=A(s,a)$ : $\delta$ 는 $A(s,a)$ 의 불편추정량<br>
-$\nabla_\theta J(\theta)=E_{\pi_{\theta}}[\nabla_\theta log \pi_\theta(s,a)*\delta]$<br>
+$\nabla_\theta J(\theta)=E_{\pi_\theta}[\nabla_\theta log \pi_\theta(s,a)*\delta]$<br>
   * TD Actor-Critic Pseudo Code<br>
     * 1) 정책, 밸류 네트워크 파라미터 $\theta,\phi$ 초기화<br>
     * 2) 액션 $a\sim\pi_\theta(a|s)$ 를 샘플링<br>
