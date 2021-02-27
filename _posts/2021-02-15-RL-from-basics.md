@@ -357,8 +357,8 @@ $\sum_{s\in S}d_{\pi_\theta}(s)\sum_{a\in A}\pi_\theta(s,a)\nabla_\theta log \pi
 $\therefore E_{\pi_\theta}[\nabla_\theta log \pi_\theta(s,a)* B(s)]=0$<br>
 $\nabla_\theta J(\theta)=E_{\pi_\theta}[\nabla_\theta log \pi_\theta(s,a)*A_{\pi_\theta}(s,a)]$<br>
 $A_{\pi_\theta}(s,a)=Q_{\pi_\theta}(s,a)-V_{\pi_\theta}(s)$<br>
-$Q_{\pi_\theta}(s,a)\approx Q_w$<br>
-$V_{\pi_\theta}(s)\approx V_\phi(s)$<br>
+$Q_{\pi_\theta}\approx Q_w$<br>
+$V_{\pi_\theta}\approx V_\phi$<br>
     * 정책함수 $\pi_\theta(s,a)$ 의 뉴럴넷 $\theta$<br>
     * 액션-가치함수 $Q_w(s,a)$ 의 뉴럴넷 $w$<br>
     * 가치함수 $V_\phi$ 의 뉴럴넷 $\phi$<br>
