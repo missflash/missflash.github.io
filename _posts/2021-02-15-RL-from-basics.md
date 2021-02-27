@@ -302,12 +302,12 @@ $J(\theta)=\sum_{s\in S}d(s)*v_{\pi_\theta}(s)$<br>
 $\theta'\leftarrow\theta+\alpha\nabla_\theta J(\theta)$<br>
   * 1-Step MDP<br>
 $J(\theta)=\sum_{s\in S}d(s)*v_{\pi_\theta}(s)$<br>
-$J(\theta)=\sum_{s\in S}d(s)\sum_{a\in A}\pi_\theta(s,a)$<br>
+$J(\theta)=\sum_{s\in S}d(s)\sum_{a\in A}\pi_\theta(s,a)* R_{s,a}$<br>
   * MDP<br>
 $\nabla_\theta J(\theta)=E_{\pi_\theta}[\nabla_\theta log \pi_\theta(s,a)*Q_{\pi_\theta}(s,a)]$<br>
 * 9.2 REINFORCE 알고리즘
   * 이론적 배경<br>
-$\nabla_\theta J(\theta)=E_{\pi_\theta}[\nabla_\theta log \pi_\theta(s,a)*G_t]$<br>
+$\nabla_\theta J(\theta)=E_{\pi_\theta}[\nabla_\theta log \pi_\theta(s,a)* G_t]$<br>
 $Q_{\pi_\theta}(s,a)=E[G_t|s_t=s,a_t=a]$<br>
   * REINFORCE Pseudo Code<br>
     * 1) $\pi_\theta(s,a)$ 의 파라미터 $\theta$ 를 랜덤으로 초기화<br>
