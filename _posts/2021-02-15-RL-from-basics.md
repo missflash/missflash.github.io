@@ -302,7 +302,6 @@ $J(\theta)=\sum_{s\in S}d(s)*v_{\pi_\theta}(s)$<br>
 $\theta'\leftarrow\theta+\alpha\nabla_\theta J(\theta)$<br>
   * 1-Step MDP<br>
 $J(\theta)=\sum_{s\in S}d(s)*v_{\pi_\theta}(s)$<br>
-$\pi_\theta(s,a)*R_{s,a}$<br>
   * MDP<br>
 $\nabla_\theta J(\theta)=E_{\pi_\theta}[\nabla_\theta log \pi_\theta(s,a)*Q_{\pi_\theta}(s,a)]$<br>
 * 9.2 REINFORCE 알고리즘
