@@ -289,6 +289,9 @@ $Q_{\theta_i}$ : Q Network<br>
 일정 주기마다 $\theta_{i}^{-} \leftarrow \theta_i$<br>
     * 뉴럴 네트워크를 학습할 때 정답지가 자주 변하는 것은 학습의 안정성을 떨어뜨림
   * [DQN 구현 사례](https://github.com/seungeunrho/RLfrombasics/blob/master/ch8_DQN.py)
+
+
+
 # 9. 정책 기반 에이전트
 * 9.1 Policy Gradient
 * 9.2 REINFORCE 알고리즘
