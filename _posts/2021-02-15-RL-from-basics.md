@@ -348,13 +348,13 @@ $\nabla_\theta J(\theta)=E_{\pi_\theta}[\nabla_\theta log \pi_\theta(s,a)*Q_{\pi
 $A_{\pi_\theta}(s,a)\equiv Q_{\pi_\theta}(s,a)-V_{\pi_\theta}(s)$<br>
 $A_{\pi_\theta}(s,a)$ : Advantage<br>
 $V_{\pi_\theta}(s)$ : Baseline (기저)<br>
-$E_{\pi_\theta}[\nabla_\theta log \pi_\theta(s,a)* B(s)]=\sum_{s\in S}d_{\pi_\theta}(s)\sum_{a\in A}\pi_\theta(s,a)\nabla_\theta log \pi_\theta(s,a)* B(s)$<br>
-$\sum_{s\in S}d_{\pi_\theta}(s)\sum_{a\in A}\pi_\theta(s,a)\nabla_\theta log \pi_\theta(s,a)* B(s)=\sum_{s\in S}d_{\pi_\theta}(s)\sum_{a\in A}\pi_\theta(s,a)\frac{\nabla_\theta \pi_\theta(s,a)}{\pi_\theta(s,a)}*B(s)$<br>
-$\sum_{s\in S}d_{\pi_\theta}(s)\sum_{a\in A}\pi_\theta(s,a)\nabla_\theta log \pi_\theta(s,a)* B(s)=\sum_{s\in S}d_{\pi_\theta}(s)\sum_{a\in A}\nabla_\theta \pi_\theta(s,a)* B(s)$<br>
-$\sum_{s\in S}d_{\pi_\theta}(s)\sum_{a\in A}\pi_\theta(s,a)\nabla_\theta log \pi_\theta(s,a)* B(s)=\sum_{s\in S}d_{\pi_\theta}(s)B(s)\sum_{a\in A}\nabla_\theta \pi_\theta(s,a)$<br>
-$\sum_{s\in S}d_{\pi_\theta}(s)\sum_{a\in A}\pi_\theta(s,a)\nabla_\theta log \pi_\theta(s,a)* B(s)=\sum_{s\in S}d_{\pi_\theta}(s)B(s)\nabla_\theta\sum_{a\in A} \pi_\theta(s,a)$<br>
-$\sum_{s\in S}d_{\pi_\theta}(s)\sum_{a\in A}\pi_\theta(s,a)\nabla_\theta log \pi_\theta(s,a)* B(s)=\sum_{s\in S}d_{\pi_\theta}(s)B(s)\nabla_\theta1=0$<br>
-$\therefore E_{\pi_\theta}[\nabla_\theta log \pi_\theta(s,a)* B(s)]=0$<br>
+$E_{\pi_\theta}[\nabla_\theta log \pi_\theta(s,a) *B(s)]=\sum_{s\in S}d_{\pi_\theta}(s)\sum_{a\in A}\pi_\theta(s,a)\nabla_\theta log \pi_\theta(s,a) *B(s)$<br>
+$\sum_{s\in S}d_{\pi_\theta}(s)\sum_{a\in A}\pi_\theta(s,a)\nabla_\theta log \pi_\theta(s,a) *B(s)=\sum_{s\in S}d_{\pi_\theta}(s)\sum_{a\in A}\pi_\theta(s,a)\frac{\nabla_\theta \pi_\theta(s,a)}{\pi_\theta(s,a)}*B(s)$<br>
+$\sum_{s\in S}d_{\pi_\theta}(s)\sum_{a\in A}\pi_\theta(s,a)\nabla_\theta log \pi_\theta(s,a) *B(s)=\sum_{s\in S}d_{\pi_\theta}(s)\sum_{a\in A}\nabla_\theta \pi_\theta(s,a) *B(s)$<br>
+$\sum_{s\in S}d_{\pi_\theta}(s)\sum_{a\in A}\pi_\theta(s,a)\nabla_\theta log \pi_\theta(s,a) *B(s)=\sum_{s\in S}d_{\pi_\theta}(s)B(s)\sum_{a\in A}\nabla_\theta \pi_\theta(s,a)$<br>
+$\sum_{s\in S}d_{\pi_\theta}(s)\sum_{a\in A}\pi_\theta(s,a)\nabla_\theta log \pi_\theta(s,a) *B(s)=\sum_{s\in S}d_{\pi_\theta}(s)B(s)\nabla_\theta\sum_{a\in A} \pi_\theta(s,a)$<br>
+$\sum_{s\in S}d_{\pi_\theta}(s)\sum_{a\in A}\pi_\theta(s,a)\nabla_\theta log \pi_\theta(s,a) *B(s)=\sum_{s\in S}d_{\pi_\theta}(s)B(s)\nabla_\theta1=0$<br>
+$\therefore E_{\pi_\theta}[\nabla_\theta log \pi_\theta(s,a) *B(s)]=0$<br>
 $\nabla_\theta J(\theta)=E_{\pi_\theta}[\nabla_\theta log \pi_\theta(s,a)*A_{\pi_\theta}(s,a)]$<br>
 $A_{\pi_\theta}(s,a)=Q_{\pi_\theta}(s,a)-V_{\pi_\theta}(s)$<br>
 $Q_{\pi_\theta}(s,a)\approx Q_w$<br>
