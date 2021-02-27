@@ -216,16 +216,79 @@ Q Learning : $q_* (s,a)=E_{s'}[r+\gamma \max_{a'}q_ * (s',a')]$<br>
 
 # 7. Deep RL 첫 걸음
 * 7.1 함수를 활용한 근사
+  * 이산적 상태 vs. 연속적인 상태 공간
+  * 근사 함수<br>
+$f(s)=v_\pi (s)$<br>
+  * 최소제곱법
+  * 평균제곱오차 (Mean Squared Error)
+  * 다항함수<br>
+$f(x)=a_0+a_1x+a_2x^2+\cdots+a_nx^n$<br>
+  * 오버피팅 vs. 언더피팅
+  * 함수의 장점 : 일반화
 * 7.2 인공 신경망의 도입
-
-
-
+  * 인공신경망의 구성요소
+    * Input/Output Layer
+    * Hidden Layer
+    * Node
+  * Linear Combination
+  * Non-Linear Activation
+  * RELU (Rectified Linear Unit)
+  * Loss Function
+  * Partial Derivative
+  * Gradient<br>
+$\nabla_wL(w)=(\frac{\partial L(w)}{\partial w_1},\frac{\partial L(w)}{\partial w_2},\cdots,\frac{\partial L(w)}{\partial w_n})$<br>
+  * Gradient Descent<br>
+$w'=w-\alpha*\nabla_wL(w)$<br>
+  * 미니 배치
+  * [신경망 구현 사례](https://github.com/seungeunrho/RLfrombasics/blob/master/ch7_CosineFitting.py)
 # 8. 가치 기반 에이전트
 * 8.1 밸류 네트워크의 학습
+  * 가치 기반 에이전트
+  * 정책 기반 에이전트
+  * Actor-Critic
+  * 밸류 네트워크<br>
+$L(\theta)=E_\pi[(v_{true}(s)-v_\theta (s))^2]$<br>
+$\nabla_\theta L(\theta)=-E_\pi[(v_{true}(s)-v_\theta (s))\nabla_\theta v_\theta(s)]$<br>
+$\nabla_\theta L(\theta)\approx-(v_{true}(s)-v_\theta (s))\nabla_\theta v_\theta(s)$<br>
+$\theta'=\theta-\alpha\nabla_\theta L(\theta)$<br>
+$\theta'=\theta+\alpha(\boldsymbol{v_{true}(s)}-v_\theta (s))\nabla_\theta v_\theta(s)$<br>
+  * 몬테카를로 리턴<br>
+$\theta'=\theta+\alpha(\boldsymbol{G_t}-v_\theta (s_t))\nabla_\theta v_\theta(s_t)$<br>
+  * TD Target<br>
+$\theta'=\theta+\alpha(\boldsymbol{r_{t+1}+\gamma v_\theta(s_{t+1})}-v_\theta (s_t))\nabla_\theta v_\theta(s_t)$<br>
 * 8.2 딥 Q러닝
+  * 가치 기반 에이전트
+    * 명시적 정책이 따로 없음
+    * 내재된 정책 사용 (액션-가치 함수 Q)
+  * 이론적 배경<br>
+$Q_* (s,a)=E_{s'}[r+\gamma max_{a'}Q_ * (s',a')]$<br>
+$Q(s,a)\leftarrow Q(s,a)+\alpha(\boldsymbol{r+\gamma max_{a'}Q(s',a')}-Q(s,a))$<br>
+$L(\theta)=E[(\boldsymbol{r+\gamma max_{a'}Q_\theta(s',a')}-Q_\theta(s,a))^2]$<br>
+$\theta'=\theta+\alpha(\boldsymbol{r+\gamma max_{a'}Q_\theta(s',a')}-Q_\theta(s,a))\nabla_\theta Q_\theta(s,a)$<br>
+  * 미니 배치
+  * 딥 Q러닝 Pseudo Code
 
+    * 1. $Q_\theta$ 의 파라미티 $\theta$ 초기화
+    * 2. 에이전트의 상태 $s$ 를 초기화 ($s\leftarrow s_0$)
+    * 3. 에피소드가 끝날때까지 다음 반복
+      * $Q_\theta$ 에 대한 $\epsilon-greedy$ 를 이용해 액션 $a$ 선택
+      * $a$ 를 실행하여 $r$ 과 $s'$ 관측
+      * $s'$ 에서 $Q_\theta$ 에 대한 $Greedy$ 를 이용하여 액션 $a'$ 선택
+      * $\theta$ 업데이트 : $\theta\leftarrow\theta+\alpha(r+\gamma Q_\theta(s',a')-Q_\theta(s,a))\nabla_\theta Q_\theta(s,a)$
+      * $s\leftarrow s'$
+{: .notice--info}
 
-
+  * Experience Replay
+    * 상태 전이
+    * 리플레이 버퍼 : 낱개의 데이터 재사용
+    * 상관성 억제 : 다양한 데이터 섞임 (Shuffle)
+  * Target Network<br>
+$L(\theta)=E[(R+\gamma max_{A'}Q_{\theta_{i}^{-}}(S',A')-Q_{\theta_i} (S,A))^2]$<br>
+$Q_{\theta_{i}^{-}}$ : Target Network<br>
+$Q_{\theta_i}$ : Q Network<br>
+일정 주기마다 $\theta_{i}^{-} \leftarrow \theta_i$<br>
+    * 뉴럴 네트워크를 학습할 때 정답지가 자주 변하는 것은 학습의 안정성을 떨어뜨림
+  * [DQN 구현 사례](https://github.com/seungeunrho/RLfrombasics/blob/master/ch8_DQN.py)
 # 9. 정책 기반 에이전트
 * 9.1 Policy Gradient
 * 9.2 REINFORCE 알고리즘
