@@ -319,7 +319,7 @@ $Q_{\pi_\theta}(s,a)=E[G_t\mid s_t=s,a_t=a]$<br>
     * 2) 에피소드가 끝날때까지 A~C 반복<br>
       * A) 에이전트의 상태를 초기화 : $s\leftarrow s_0$<br>
       * B) $\pi_\theta$ 를 이용하여 에피소드 끝까지 진행 ${s_0,a_0,r_0,s_1,a_1,r_1,\cdots,s_T,a_T,r_T}$<br>
-      * C) $t=0~T$ 에 대해 다음 반복<br>
+      * C) $t=0\sim T$ 에 대해 다음 반복<br>
         * $G_t\leftarrow \sum^T_{i=t} r_i*\gamma^{i-t}$<br>
         * $\theta\leftarrow \theta+\alpha\nabla_\theta log \pi_\theta(s_t,a_t)*G_t$ : $s$ 에서 $a$ 를 선택할 확률을 $G_t$ 에 비례하게 증가<br>
   * 참고<br>
