@@ -475,7 +475,7 @@ $\pi_{sl}$ 대신 $p$ 사용, $v_{rl}$ 대신 $v$ 사용, $\pi_{roll}$ 은 사�
   * 상대방에 관계없는 Robust한 성능
 * 11.2 비무에 강화학습 적용하기
   * MDP 만들기<br>
-    * 관측치 ($o_t$) : $o_t,o_{t-1},o_{t-2},\cdots,o_1$ 를 이용해 상태 $s_t$ 정의 (대표적인 RNN 기법인 LSTM 이용)<br>
+    * 관측치 ($o_t$) : $o_t,o_{t-1},o_{t-2},\cdots,o_1$ 를 이용해 상태 $s_t$ 정의 (RNN 기법인 LSTM 이용)<br>
     * 액션 ($a_t$) : $a_{skill}, a_{move,target}$ 도입<br>
     * 보상 ($r_t$) : $r_t=r_t^{WIN}+r_t^{HP}$ 정의 (Optimality와 Frequency 고려)<br>
 $r_t^{HP}=(HP_t^{ag}-HP_{t-1}^{ag})-(HP_t^{op}-HP_{t-1}^{op})$ : 나와 적의 체력 차이<br>
