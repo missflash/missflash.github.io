@@ -117,7 +117,7 @@ $v_* (s)=\max_a q_ * (s,a)$<br>
 $q_* (s,a)=r_s^a+\gamma \sum_{s' \in S}P_{ss'}^av_ * (s')$<br>
   * 2단계<br>
 $v_* (s)=\max_a \left[r_s^a+\gamma \sum_{s' \in S}P_{ss'}^av_ * (s')\right]$<br>
-$q_* (s,a)=r_s^a+\gamma \sum_{s' \in S}P_{ss'}^a\max_a'q_ * (s',a')$<br>
+$q_* (s,a)=r_s^a+\gamma \sum_{s' \in S}P_{ss'}^a\max_{a'}q_ * (s',a')$<br>
 
 
 
@@ -199,7 +199,7 @@ TD로 Q 학습 : $Q(S,A)\leftarrow Q(S,A) + \alpha (R+\gamma Q(S',A')-Q(S,A))$<b
   * 이론적 배경<br>
 $q_* (s,a)=\max_{\pi}q_\pi(s,a)$<br>
 $\pi_* =argmax_a q_ * (s,a)$<br>
-$q_* (s,a)=r_s^a+\gamma \sum_{s' \in S}P_{ss'}^a\max_a'q_ * (s',a')$<br>
+$q_* (s,a)=r_s^a+\gamma \sum_{s' \in S}P_{ss'}^a\max_{a'}q_ * (s',a')$<br>
 $q_* (s,a)=E[r+\gamma \max_{a'}q_ * (s,a')]$<br>
 SARSA : $Q(S,A)\leftarrow Q(S,A) + \alpha (R+\gamma Q(S',A')-Q(S,A))$<br>
 Q Learning : $Q(S,A)\leftarrow Q(S,A) + \alpha (R+\gamma \max_{A'}Q(S',A')-Q(S,A))$<br>
@@ -413,13 +413,13 @@ $\nabla_\theta J(\theta)=E_{\pi_\theta}[\nabla_\theta log \pi_\theta(s,a)* \delt
 $\pi_{sl}$ : 컨볼루션 레이어 (13층), Input Feature (19 * 19 * 48), Output (19 * 19)<br>
 $\pi_{roll}$ : 선형결합 레이어 (1층), Input Feature (19 * 19 * 48), Output (19 * 19), $\pi_{sl}$ 의 가벼운 버전<br>
     * 강화학습 : $\pi_{rl}, v$<br>
-$\pi_{rl}$ : $\pi_{rl}$ 과 동일, 자신의 과거 모델들과 Self-Play 진행<br>
+$\pi_{rl}$ : $\pi_{sl}$ 과 동일, 자신의 과거 모델들과 Self-Play 진행<br>
 $\nabla_\theta J(\theta)=E_{\pi_\theta}[\nabla_\theta log \pi_\theta(s,a)* G_t]$ : 보상함수에 REINFORCE 사용<br>
 $v_{\pi_{rl}}(s)=E_{\pi_{rl}}[G_t\mid s_t=s]$<br>
   * MCTS
     * 선택 > 확장 > 시뮬레이션 > 백프로파게이션 반복 진행
     * 선택 : 루트 노드에서 출발하여 리프 노드까지 가는 단계<br>
-$a_t=argmax_a(Q(s_t,a)+u(s_t,a))$ : 경험이 쌓일수록 $$ 의 영향력은 커지고, $$ 의 영향력은 작아짐<br>
+$a_t=argmax_a(Q(s_t,a)+u(s_t,a))$ : 경험이 쌓일수록 $Q(s,a)$ 의 영향력은 커지고, $u(s,a)$ 의 영향력은 작아짐<br>
 $Q(s_t,a)$ : 시뮬레이션 실행 후 얼마나 좋은지 판단<br>
 상태 $s_{78}$ 에서 액션 $a_{33}$ 을 선택하는 경험을 총 100번 경험했다면 각 경험마다 리프 노드에 도달할 것이고, 해당 리프 노드가 $s_L^1,\cdots,s_L^{100}$ 일 경우<br>
 $Q(s_{78},a_{33})=\frac{1}{100}\sum_{i=1}^{100}V(s_L^i)$<br>
