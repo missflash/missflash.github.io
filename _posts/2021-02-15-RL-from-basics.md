@@ -406,6 +406,26 @@ $\nabla_\theta J(\theta)=E_{\pi_\theta}[\nabla_\theta log \pi_\theta(s,a)* \delt
 
 # 10. 알파고와 MCTS
 * 10.1 알파고
+  * 학습 : 이세돌과 경기전 기보 기반 학습
+  * 실시간 플래닝 (MCTS) : 이세돌과 경기중 실시간 플래닝
+  * 학습 단계<br>
+    * 지도학습 : $\pi_{sl}, \pi_{roll}$<br>
+$\pi_{sl}$ : 컨볼루션 레이어 (13층), Input Feature (19 * 19 * 48), Output (19 * 19)<br>
+$\pi_{roll}$ : 선형결합 레이어 (1층), Input Feature (19 * 19 * 48), Output (19 * 19), $\pi_{sl}$ 의 가벼운 버전<br>
+    * 강화학습 : $\pi_{rl}, v$<br>
+$\pi_{rl}$ : $\pi_{rl}$ 과 동일, 자신의 과거 모델들과 Self-Play 진행<br>
+$\nabla_\theta J(\theta)=E_{\pi_\theta}[\nabla_\theta log \pi_\theta(s,a)* G_t]$ : REINFORCE<br>
+$v_{\pi_{rl}}(s)=E_{\pi_{rl}}[G_t\mid s_t=s]$<br>
+  * MCTS
+    * 선택 > 확장 > 시뮬레이션 > 백프로파게이션 반복 진행
+    * 선택<br>
+$a_t=argmax_a(Q(s_t,a)+u(s_t,a))$<br>
+$Q(s_t,a)$ : 시뮬레이션 실행 후 얼마나 좋은지<br>
+상태 $s_{78}$ 에서 액션 $a_{33}$ 을 선택하는 경험을 총 100번 경험했다면, 100번의 경험마다 리프 노드에 도달할 것이고, 각각의 리프 노드가 $s^1_L,\cdots,s^{100}_L$ 일 경우<br>
+$Q(s_{78},a_{33})=\frac{1}{100}\sum^{100}_{i=1}V(s^i_L)$<br>
+$u(s_t,a)$ : 시뮬레이션 실행 전 얼마나 좋을 것이라 추측하는지 (Prior)<br>
+
+
 * 10.2 알파고 제로
 
 
