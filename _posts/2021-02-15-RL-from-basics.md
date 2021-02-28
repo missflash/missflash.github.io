@@ -418,14 +418,27 @@ $\nabla_\theta J(\theta)=E_{\pi_\theta}[\nabla_\theta log \pi_\theta(s,a)* G_t]$
 $v_{\pi_{rl}}(s)=E_{\pi_{rl}}[G_t\mid s_t=s]$<br>
   * MCTS
     * 선택 > 확장 > 시뮬레이션 > 백프로파게이션 반복 진행
-    * 선택<br>
-$a_t=argmax_a(Q(s_t,a)+u(s_t,a))$<br>
+    * 선택 : 루트 노드에서 출발하여 리프 노드까지 가는 단계<br>
+$a_t=argmax_a(Q(s_t,a)+u(s_t,a))$ : 경험이 쌓일수록 $$ 의 영향력은 커지고, $$ 의 영향력은 작아짐<br>
 $Q(s_t,a)$ : 시뮬레이션 실행 후 얼마나 좋은지 판단<br>
 상태 $s_{78}$ 에서 액션 $a_{33}$ 을 선택하는 경험을 총 100번 경험했다면 각 경험마다 리프 노드에 도달할 것이고, 해당 리프 노드가 $s_L^1,\cdots,s_L^{100}$ 일 경우<br>
 $Q(s_{78},a_{33})=\frac{1}{100}\sum_{i=1}^{100}V(s_L^i)$<br>
 $u(s_t,a)$ : 시뮬레이션 실행 전 얼마나 좋을 것이라 추측하는지 판단(Prior)<br>
 $u(s_t,a)\varpropto \frac{P(s,a)}{1+N(s,a)}$<br>
 $P(s,a)=\pi_{sl}(s,a)$ : 사전 확률 (Prior Probability), 시뮬레이션 해보기 전에 각 액션에 확률 부여<br>
+    * 확장 : 리프 노드를 실제 트리의 노드로 확장하는 단계<br>
+$P(s,a)\leftarrow \pi_{sl}(s,a)$<br>
+$N(s,a)\leftarrow 0$<br>
+$Q(s,a)\leftarrow 0$<br>
+    * 시뮬레이션 : 정식 노드가 된 리프 노드의 가치를 평가하는 단계<br>
+리프 노드 $s_L$ 부터 시작해서 게임이 끝날때까지 빠르게 시뮬레이션 ($\pi_{roll}$ 활용)하고, 그 결과인 $z_L$ 을 $s_L$ 의 밸류로 활용<br>
+밸류 네트워크 $v_{rl}(s_L)$ 을 활용<br>
+$V(s_L)=\frac{v_{rl}+z_L}{2}$ 을 최종 밸류로 결정<br>
+    * 백프로파게이션 : 리프 노드에 도달하기까지 지나온 모든 엣지에 대해 $Q(s,a)$ 와 $N(s,a)$ 를 업데이트하는 단계<br>
+$N(s,a)\leftarrow N(s,a)+1$<br>
+$Q(s,a)\leftarrow Q(s,a)+\frac{1}{N(s,a)}(V(s_L)-Q(s,a))$<br>
+    * 가장 좋은 액션을 고르는 기준? $N(s,a)$ 가 가장 큰 액션
+      * 신뢰도를 함께 고려하기 위함
 
 * 10.2 알파고 제로
 
