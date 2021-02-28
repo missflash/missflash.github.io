@@ -262,7 +262,7 @@ $L(\theta)=E_\pi[(v_{true}(s)-v_\theta (s))^2]$<br>
 $\nabla_\theta L(\theta)=-E_\pi[(v_{true}(s)-v_\theta (s))\nabla_\theta v_\theta(s)]$<br>
 $\nabla_\theta L(\theta)\approx-(v_{true}(s)-v_\theta (s))\nabla_\theta v_\theta(s)$<br>
 $\theta'=\theta-\alpha\nabla_\theta L(\theta)$<br>
-$\theta'=\theta+\alpha(\boldsymbol{v_{true}(s)}-v_\theta (s))\nabla_\theta v_\theta(s)$<br>
+$\theta'=\theta+\alpha(\boldsymbol{v_{true}(s)}-v_\theta (s))\nabla_\theta v_\theta(s)$ : $v_{true}(s)$ 모름!<br>
   * 몬테카를로 리턴<br>
 $\theta'=\theta+\alpha(\boldsymbol{G_t}-v_\theta (s_t))\nabla_\theta v_\theta(s_t)$<br>
   * TD Target<br>
@@ -287,12 +287,14 @@ $\theta'=\theta+\alpha(\boldsymbol{r+\gamma max_{a'}Q_\theta(s',a')}-Q_\theta(s,
       * D) $\theta$ 업데이트 : $\theta\leftarrow\theta+\alpha(r+\gamma Q_\theta(s',a')-Q_\theta(s,a))\nabla_\theta Q_\theta(s,a)$<br>
       * E) $s\leftarrow s'$<br>
     * 에피소드가 끝나면 다시 2로 돌아가서 $\theta$ 가 수렴할 때까지 반복<br>
+  * 실제 구현시에는 3-D 대신 $L(\theta)$ 를 사용하면 됨 (라이브러리가 미분 수행)<br>
+$L(\theta)=(\boldsymbol{r+\gamma max_{a'}Q_\theta(s',a')}-Q_\theta(s,a))^2$<br>
   * Experience Replay
     * 상태 전이 : $e_t=(s_t,a_t,r_t,s_{t+1})$<br>
     * 리플레이 버퍼 : 낱개의 데이터 재사용 (선입선출)
     * 상관성 억제 : 다양한 데이터 섞임 (Shuffle)
   * Target Network<br>
-$L(\theta)=E[(R+\gamma max_{A'}Q_{\theta_{i}^{-}}(S',A')-Q_{\theta_i} (S,A))^2]$<br>
+$L(\theta_i)=E[(R+\gamma max_{A'}Q_{\theta_{i}^{-}}(S',A')-Q_{\theta_i} (S,A))^2]$<br>
 $Q_{\theta_{i}^{-}}$ : Target Network<br>
 $Q_{\theta_i}$ : Q Network<br>
 일정 주기마다 $\theta_{i}^{-} \leftarrow \theta_i$<br>
