@@ -186,7 +186,7 @@ $N=n:r_{t+1}+\gamma r_{t+2}+\gamma^2 r_{t+3}+\cdots+\gamma^nV(s_{t+n})$<br>
 # 6. MDP를 모를 때 최고의 정책 찾기
 * 6.1 몬테카를로 컨트롤
   * MDP를 모르기 때문에 보상과 전이 확률 행렬을 알 수 없음
-$v_\pi(s_t)=\sum_{a\in A}\pi(a\mid s)\left(r_s^a+\gamma \sum_{s'\in S}P_{ss'}^av_\pi(s')\right)$<br>
+$v_\pi(s)=\sum_{a\in A}\pi(a\mid s)\left(r_s^a+\gamma \sum_{s'\in S}P_{ss'}^av_\pi(s')\right)$<br>
   * 해결방법
     * 평가 자리에 MC 사용
     * V 대신 Q 사용
@@ -208,7 +208,7 @@ TD로 Q 학습 : $Q(S,A)\leftarrow Q(S,A) + \alpha (R+\gamma Q(S',A')-Q(S,A))$<b
 $q_* (s,a)=\max_{\pi}q_\pi(s,a)$<br>
 $\pi_* =argmax_a q_ * (s,a)$<br>
 $q_* (s,a)=r_s^a+\gamma \sum_{s' \in S}P_{ss'}^a\max_{a'}q_ * (s',a')$<br>
-$q_* (s,a)=E[r+\gamma \max_{a'}q_ * (s,a')]$<br>
+$q_* (s,a)=E_{s'}[r+\gamma \max_{a'}q_ * (s',a')]$<br>
 SARSA : $Q(S,A)\leftarrow Q(S,A) + \alpha (R+\gamma Q(S',A')-Q(S,A))$<br>
 Q Learning : $Q(S,A)\leftarrow Q(S,A) + \alpha (R+\gamma \max_{A'}Q(S',A')-Q(S,A))$<br>
   * SARSA vs. Q Learning
