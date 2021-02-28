@@ -444,7 +444,7 @@ $Q(s,a)\leftarrow Q(s,a)+\frac{1}{N(s,a)}(V(s_L)-Q(s,a))$<br>
   * MCTS : 현재 상태를 인풋으로 받아서 그에 특화된 정책을 내놓는 모듈<br>
     * 각각의 데이터 : $(s_t,\pi_t,z_t)$ 로 구성<br>
 $s_t$ : t시점의 상태<br>
-$pi_t$ : $s_t$ 에서 진행한 MCTS가 알려주는 정답 정책<br>
+$\pi_t$ : $s_t$ 에서 진행한 MCTS가 알려주는 정답 정책<br>
 $z_t$ : 게임 결과값<br>
     * 위 데이터를 이용해 뉴럴넷 $f_\theta$ 학습<br>
 $MCTS(s)=(\pi,z)$<br>
@@ -458,7 +458,7 @@ $v\approx z$<br>
     * 손실함수<br>
 $L(\theta)=(z_t-v_t)^2-\pi_t log(p_t)$<br>
   * 알파고 제로에서의 MCTS
-    * 선택 > 확장 및 평가 > 백프로파게이션<br>
+    * 선택 > 확장 및 평가 > 백프로파게이션 반복 진행<br>
 $\pi_{sl}$ 대신 $p$ 사용, $v_{rl}$ 대신 $v$ 사용, $\pi_{roll}$ 은 사용하지 않음<br>
     * 확장 단계 : $f_\theta$ 아웃풋인 $p$ 이용해 초기화 진행<br>
     * 평가 단계 : $f_\theta$ 아웃풋인 $v$ 이용해 $s_L$ 밸류 평가<br>
