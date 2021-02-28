@@ -74,9 +74,9 @@ $MDP\equiv(S,A,P,R,\gamma)$<br>
     * 상태의 집합 $S$<br>
     * 액션의 집합 $A$<br>
     * 전이 확률 행렬<br>
-$P^a_{SS'}=P[S_{t+1}=s'\mid S_t=s,A_t=a]$<br>
+$P_{SS'}^a=P[S_{t+1}=s'\mid S_t=s,A_t=a]$<br>
     * 보상함수<br>
-$R^a_s=E[R_{t+1}\mid S_t=s,A_t=a]$<br>
+$R_s^a=E[R_{t+1}\mid S_t=s,A_t=a]$<br>
     * 감쇠인자 $\gamma$<br>
   * 정책함수와 2가지 가치함수
     * 정책함수<br>
@@ -100,10 +100,10 @@ $v_\pi(s_t)=E_\pi[r_{t+1}+\gamma v_\pi(s_{t+1})]$<br>
 $q_\pi(s_t,a_t)=E_\pi[r_{t+1}+\gamma q_\pi(s_{t+1},a_{t+1})]$<br>
   * 1단계<br>
 $v_\pi(s)=\sum_{a\in A}\pi(a\mid s)q_\pi(s,a)$<br>
-$q_\pi(s,a)=r^a_s+\gamma \sum_{s'\in S}P^a_{ss'}v_\pi(s')$<br>
+$q_\pi(s,a)=r_s^a+\gamma \sum_{s'\in S}P_{ss'}^av_\pi(s')$<br>
   * 2단계<br>
-$v_\pi(s)=\sum_{a\in A}\pi(a\mid s)\left(r^a_s+\gamma \sum_{s'\in S}P^a_{ss'}v_\pi(s')\right)$<br>
-$q_\pi(s,a)=r^a_s+\gamma \sum_{s'\in S}P^a_{ss'}\sum_{a'\in A}\pi(a'\mid s')q_\pi(s',a')$<br>
+$v_\pi(s)=\sum_{a\in A}\pi(a\mid s)\left(r_s^a+\gamma \sum_{s'\in S}P_{ss'}^av_\pi(s')\right)$<br>
+$q_\pi(s,a)=r_s^a+\gamma \sum_{s'\in S}P_{ss'}^a\sum_{a'\in A}\pi(a'\mid s')q_\pi(s',a')$<br>
 
 * 3.2 벨만 최적 방정식
   * 최적 밸류와 최적 정책<br>
@@ -114,10 +114,10 @@ $v_* (s_t)=\max_a E[r_{t+1}+\gamma v_ * (s_{t+1})]$<br>
 $q_* (s_t,a_t)=E[r_{t+1}+\gamma \max_{a'} q_ * (s_{t+1},a')]$<br>
   * 1단계<br>
 $v_* (s)=\max_a q_ * (s,a)$<br>
-$q_* (s,a)=r^a_s+\gamma \sum_{s' \in S}P^a_{ss'}v_ * (s')$<br>
+$q_* (s,a)=r_s^a+\gamma \sum_{s' \in S}P_{ss'}^av_ * (s')$<br>
   * 2단계<br>
-$v_* (s)=\max_a \left[r^a_s+\gamma \sum_{s' \in S}P^a_{ss'}v_ * (s')\right]$<br>
-$q_* (s,a)=r^a_s+\gamma \sum_{s' \in S}P^a_{ss'}\max_a'q_ * (s',a')$<br>
+$v_* (s)=\max_a \left[r_s^a+\gamma \sum_{s' \in S}P_{ss'}^av_ * (s')\right]$<br>
+$q_* (s,a)=r_s^a+\gamma \sum_{s' \in S}P_{ss'}^a\max_a'q_ * (s',a')$<br>
 
 
 
@@ -178,7 +178,7 @@ $N=n:r_{t+1}+\gamma r_{t+2}+\gamma^2 r_{t+3}+\cdots+\gamma^nV(s_{t+n})$<br>
 # 6. MDP를 모를 때 최고의 정책 찾기
 * 6.1 몬테카를로 컨트롤
   * MDP를 모르기 때문에 보상과 전이 확률 행렬을 알 수 없음
-$v_\pi(s_t)=\sum_{a\in A}\pi(a\mid s)\left(r^a_s+\gamma \sum_{s'\in S}P^a_{ss'}v_\pi(s')\right)$<br>
+$v_\pi(s_t)=\sum_{a\in A}\pi(a\mid s)\left(r_s^a+\gamma \sum_{s'\in S}P_{ss'}^av_\pi(s')\right)$<br>
   * 해결방법
     * 평가 자리에 MC 사용
     * V 대신 Q 사용
@@ -199,7 +199,7 @@ TD로 Q 학습 : $Q(S,A)\leftarrow Q(S,A) + \alpha (R+\gamma Q(S',A')-Q(S,A))$<b
   * 이론적 배경<br>
 $q_* (s,a)=\max_{\pi}q_\pi(s,a)$<br>
 $\pi_* =argmax_a q_ * (s,a)$<br>
-$q_* (s,a)=r^a_s+\gamma \sum_{s' \in S}P^a_{ss'}\max_a'q_ * (s',a')$<br>
+$q_* (s,a)=r_s^a+\gamma \sum_{s' \in S}P_{ss'}^a\max_a'q_ * (s',a')$<br>
 $q_* (s,a)=E[r+\gamma \max_{a'}q_ * (s,a')]$<br>
 SARSA : $Q(S,A)\leftarrow Q(S,A) + \alpha (R+\gamma Q(S',A')-Q(S,A))$<br>
 Q Learning : $Q(S,A)\leftarrow Q(S,A) + \alpha (R+\gamma \max_{A'}Q(S',A')-Q(S,A))$<br>
@@ -320,7 +320,7 @@ $Q_{\pi_\theta}(s,a)=E[G_t\mid s_t=s,a_t=a]$<br>
       * A) 에이전트의 상태를 초기화 : $s\leftarrow s_0$<br>
       * B) $\pi_\theta$ 를 이용하여 에피소드 끝까지 진행 ${s_0,a_0,r_0,s_1,a_1,r_1,\cdots,s_T,a_T,r_T}$<br>
       * C) $t=0\sim T$ 에 대해 다음 반복<br>
-        * $G_t\leftarrow \sum^T_{i=t} r_i*\gamma^{i-t}$<br>
+        * $G_t\leftarrow \sum_{i=t}^T r_i*\gamma^{i-t}$<br>
         * $\theta\leftarrow \theta+\alpha\nabla_\theta log \pi_\theta(s_t,a_t)*G_t$ : $s$ 에서 $a$ 를 선택할 확률을 $G_t$ 에 비례하게 증가<br>
   * 참고<br>
 $\nabla_\theta J(\theta)\neq E_{\pi_\theta}[\nabla_\theta \pi_\theta(s,a) *G_t]$<br>
@@ -422,7 +422,7 @@ $v_{\pi_{rl}}(s)=E_{\pi_{rl}}[G_t\mid s_t=s]$<br>
 $a_t=argmax_a(Q(s_t,a)+u(s_t,a))$<br>
 $Q(s_t,a)$ : 시뮬레이션 실행 후 얼마나 좋은지 판단<br>
 상태 $s_{78}$ 에서 액션 $a_{33}$ 을 선택하는 경험을 총 100번 경험했다면 각 경험마다 리프 노드에 도달할 것이고, 해당 리프 노드가 $s_L^1,\cdots,s_L^{100}$ 일 경우<br>
-$Q(s_{78},a_{33})=\frac{1}{100}\sum^{100}_{i=1}V(s^i_L)$<br>
+$Q(s_{78},a_{33})=\frac{1}{100}\sum_{i=1}^{100}V(s_L^i)$<br>
 $u(s_t,a)$ : 시뮬레이션 실행 전 얼마나 좋을 것이라 추측하는지 판단(Prior)<br>
 $u(s_t,a)\varpropto \frac{P(s,a)}{1+N(s,a)}$<br>
 $P(s,a)=\pi_{sl}(s,a)$ : 사전 확률 (Prior Probability), 시뮬레이션 해보기 전에 각 액션에 확률 부여<br>
