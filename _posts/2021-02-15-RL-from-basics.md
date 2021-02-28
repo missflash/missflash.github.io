@@ -453,7 +453,7 @@ $Q(s,a)\leftarrow Q(s,a)+\frac{1}{N(s,a)}(V(s_L)-Q(s,a))$<br>
 * 10.2 알파고 제로
   * MCTS : 현재 상태를 인풋으로 받아서 그에 특화된 정책을 내놓는 모듈<br>
     * 각각의 데이터 : $(s_t,\pi_t,z_t)$ 로 구성<br>
-$s_t$ : t시점의 상태<br>
+$s_t$ : $t$ 시점의 상태<br>
 $\pi_t$ : $s_t$ 에서 진행한 MCTS가 알려주는 정답 정책<br>
 $z_t$ : 게임 결과값<br>
     * 위 데이터를 이용해 뉴럴넷 $f_\theta$ 학습<br>
@@ -473,7 +473,7 @@ $\pi_{sl}$ 대신 $p$ 사용, $v_{rl}$ 대신 $v$ 사용, $\pi_{roll}$ 은 사�
     * 확장 단계 : $f_\theta$ 아웃풋인 $p$ 이용해 초기화 진행<br>
     * 평가 단계 : $f_\theta$ 아웃풋인 $v$ 이용해 $s_L$ 밸류 평가<br>
     * 랜덤 정책을 이용해서 MCTS를 해보고, 그 중에서 결과가 좋았던 액션을 선택 (MCTS가 선생님 역할 수행)<br>
-    * MCTS 덕분에 뉴럴넷 $f_\theta$ 아웃풋 $p, v$ 도 점점 더 정확해짐<br>
+    * MCTS 덕분에 뉴럴넷 $f_\theta$ 의 아웃풋 $p, v$ 도 점점 더 정확해짐<br>
 
 
 
@@ -490,7 +490,7 @@ $\pi_{sl}$ 대신 $p$ 사용, $v_{rl}$ 대신 $v$ 사용, $\pi_{roll}$ 은 사�
     * 보상 ($r_t$) : $r_t=r_t^{WIN}+r_t^{HP}$ 정의 (Optimality와 Frequency 고려)<br>
 $r_t^{HP}=(HP_t^{ag}-HP_{t-1}^{ag})-(HP_t^{op}-HP_{t-1}^{op})$ : 나와 적의 체력 차이<br>
   * 학습 시스템과 알고리즘
-    * ACER (Actor-Critic with Experiency Replay) 활용 : A3C의 Off-Policy 버전 알고리즘<br>
+    * ACER (Actor-Critic with Experience Replay) 활용 : A3C의 Off-Policy 버전 알고리즘<br>
     * 학습대상 네트워크 : $\pi_{skill}, \pi_{move,target}, Q_{skill}, Q_{move,target}$<br>
     * 여러개의 정책 네트워크를 학습하는 방법<br>
       * 1) 번갈아가며 업데이트하는 방법 : $\pi_{skill}$ 업데이트 후 $\pi_{move,target}$ 업데이트<br>
