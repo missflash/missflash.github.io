@@ -134,7 +134,15 @@ $V\rightarrow V_\pi$<br>
 $\pi \rightarrow \pi_{greedy}$<br>
   * Early Stopping
 * 4.3 최고의 정책 찾기 - 밸류 이터레이션
-  * 벨만 최적 방정식 1단계 활용  
+  * 벨만 최적 방정식 1단계 활용
+  * 문제와 MDP 조건에 따른 구분
+    * 문제가 작다
+      * MDP를 안다
+        * 4장
+      * MDP를 모른다
+        * 5~6장
+    * 문제가 크다
+      * 7~9장
 
 
 
@@ -145,7 +153,7 @@ $\pi \rightarrow \pi_{greedy}$<br>
   * 대수의 법칙 (Law of large numbers)
   * 알고리즘 : 테이블 초기화, 경험 쌓기, 테이블 업데이트, 밸류 계산<br>
 $v_\pi(s_t)\cong\frac{V(s_t)}{N(s_t)}$<br>
-$v(s_t)\leftarrow v(s_t)+\alpha (G_t-V(s_t))$<br>
+$V(s_t)\leftarrow V(s_t)+\alpha (G_t-V(s_t))$<br>
   * [몬테카를로 코드](https://github.com/seungeunrho/RLfrombasics/blob/master/ch5_MCLearning.py)
 * 5.2 Temporal Difference 학습
   * 추측을 추측으로 업데이트하자
@@ -155,8 +163,8 @@ $G_t$ 는 $v_\pi(s_t)$ 의 불편 추정량<br>
 $v_\pi(s_t)=E_\pi[r_{t+1}+\gamma v_\pi(s_{t+1})]$<br>
 TD Target : $r_{t+1}+\gamma v_\pi(s_{t+1})$<br>
   * 알고리즘<br>
-MC : $v(s_t)\leftarrow v(s_t)+\alpha (G_t-V(s_t))$<br>
-TD : $v(s_t)\leftarrow v(s_t)+\alpha (r_{t+1}+\gamma \boldsymbol{V(s_{t+1})}-V(s_t))$<br>
+MC : $V(s_t)\leftarrow V(s_t)+\alpha (G_t-V(s_t))$<br>
+TD : $V(s_t)\leftarrow V(s_t)+\alpha (r_{t+1}+\gamma \boldsymbol{V(s_{t+1})}-V(s_t))$<br>
   * [TD 코드](https://github.com/seungeunrho/RLfrombasics/blob/master/ch5_TDLearning.py)
 * 5.3 몬테카를로 vs TD
   * 학습 시점
