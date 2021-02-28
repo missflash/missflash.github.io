@@ -464,10 +464,34 @@ $\pi_{sl}$ 대신 $p$ 사용, $v_{rl}$ 대신 $v$ 사용, $\pi_{roll}$ 은 사�
     * 평가 단계 : $f_\theta$ 아웃풋인 $v$ 이용해 $s_L$ 밸류 평가<br>
     * 랜덤 정책을 이용해서 MCTS를 해보고, 그 중에서 결과가 좋았던 액션을 선택 (MCTS가 선생님 역할 수행)<br>
     * MCTS 덕분에 뉴럴넷 $f_\theta$ 아웃풋 $p, v$ 도 점점 더 정확해짐<br>
+
+
+
 # 11. 블레이드 & 소울 비무 AI 만들기
 * 11.1 블레이드 & 소울 비무
+  * 거대한 문제 공간
+  * 실시간 게임이 갖는 제약 (cf. 턴제 게임)
+  * 물고 물리는 스킬 관계
+  * 상대방에 관계없는 Robust한 성능
 * 11.2 비무에 강화학습 적용하기
+  * MDP 만들기<br>
+    * 관측치 ($o_t$) : $o_t,o_{t-1},o_{t-2},\cdots,o_1$ 를 이용해 상태 $s_t$ 정의 (대표적인 RNN 기법인 LSTM 이용)<br>
+    * 액션 ($a_t$) : $a_{skill}, a_{move,target}$ 도입<br>
+    * 보상 ($r_t$) : $r_t=r_t^{WIN}+r_t^{HP}$ 정의 (Optimality와 Frequency 고려)<br>
+$r_t^{HP}=(HP_t^{ag}-HP_{t-1}^{ag})-(HP_t^{op}-HP_{t-1}^{op})$ : 나와 적의 체력 차이<br>
+  * 학습 시스템과 알고리즘
+    * ACER (Actor-Critic with Experiency Replay) 활용 : A3C의 Off-Policy 버전 알고리즘<br>
+    * 학습대상 네트워크 : $\pi_{skill}, \pi_{move,target}, Q_{skill}, Q_{move,target}$<br>
+    * 여러개의 정책 네트워크를 학습하는 방법<br>
+      * 1) 번갈아가며 업데이트하는 방법 : $\pi_{skill}$ 업데이트 후 $\pi_{move,target}$ 업데이트<br>
+      * 2) 서로 독립을 가정하고 곱셈을 이용해 계산하는 방법 : $\pi(a_{skill},a_{move,target}\mid s)=\pi_{skill}(a_{skill}\mid s)* \pi_{move,target}(a_{move,target}\mid s)$<br>
+      * 3) 하나씩 순차적으로 선택하는 방법 : $\pi(a_{skill},a_{move,target}\mid s)=\pi_{skill}(a_{skill}\mid s)* \pi_{move,target}(a_{move,target}\mid s,a_{skill})$<br>
+    * 이동 정책 네트워크의 학습 : 한 틱 (0.1초) 동안 움직이는 거리가 매우 제한적이라 한 번 이동 방향이 결정되면, 이후 9틱 동안 같은 방향으로 움직이도록 제한
 * 11.3 전투 스타일 유도를 통한 새로운 방식의 Self-Play 학습
+  * 보상을 통한 전투 스타일 유도 (보상 조절 방법)
+    * HP 비율, 시간, 거리 패널티 설정을 통해 공격형, 수비형, 밸런스형 스타일 학습
+  * 새로운 Self-Play 커리큘럼
+    * 3가지 스타일의 에이전트가 공통의 풀에서 다양한 스타일의 대전 상대를 만날 수 있도록 설정
 
 
 
