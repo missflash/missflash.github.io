@@ -133,7 +133,14 @@ git remote -v<br>
 git pull origin master<br>
 git add .<br>
 git commit -m "$@"<br>
-git push -u origin master
+git push -u origin master<br><br>
+cd /Users/kimsanghun/PycharmProjects/TensorFlowV1/lib/python3.7/site-packages/pyjssp<br>
+git remote add origin https://github.com/missflash/pyjssp.git<br>
+git remote -v<br>
+git pull origin master<br>
+git add .<br>
+git commit -m "$@"<br>
+git push -u origin master<br><br>
 {: .notice--info}
 
 * github 참고사항
@@ -152,7 +159,7 @@ git push -u origin master
     * --git credential-osxkeychain erase
   * [Not Works!] 사용자 비밀번호 변경
     * --git config --global --unset user.password
-  * 로컬 경로 확인
+  * Git 저장소 생성 (.git 디렉토리 생성)
     * git init
   * 로컬 경로 이동
     * cd /Users/kimsanghun/MissFlash/Github
