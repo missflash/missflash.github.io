@@ -128,19 +128,19 @@ git push -u origin master
 
 \#!/bin/sh<br>
 cd /Users/kimsanghun/Dropbox/MissFlash/Personal/Visiting_Scholars/4.Research/Samsung-KAIST<br>
-git remote add origin https://github.com/missflash/Reinforcement_Project.git<br>
+git remote add Reinforcement_Project https://github.com/missflash/Reinforcement_Project.git<br>
 git remote -v<br>
-git pull origin master<br>
+git pull Reinforcement_Project master<br>
 git add .<br>
 git commit -m "$@"<br>
-git push -u origin master<br><br>
+git push -u Reinforcement_Project master<br><br>
 cd /Users/kimsanghun/PycharmProjects/TensorFlowV1/lib/python3.7/site-packages/pyjssp<br>
-git remote add origin https://github.com/missflash/pyjssp.git<br>
+git remote add pyjssp https://github.com/missflash/pyjssp.git<br>
 git remote -v<br>
-git pull origin master<br>
+git pull pyjssp master<br>
 git add .<br>
 git commit -m "$@"<br>
-git push -u origin master<br><br>
+git push -u pyjssp master<br><br>
 {: .notice--info}
 
 * github 참고사항
