@@ -19,6 +19,7 @@ toc_sticky: true
 * 1.2 순차적 의사결정 문제
 * 1.3 보상
   * 보상
+  * 어떻게X, 얼마나O
   * 누적 보상
   * 스칼라 vs. 벡터
   * 희소하고 지연된 보상
@@ -27,7 +28,7 @@ toc_sticky: true
   * 에이전트
   * 환경
   * 상태
-  * 상태 변화
+  * 상태 변화 (환경의 역할)
   * 연속적 vs. 이산적
 * 1.5 강화학습의 위력
   * 병렬성의 힘
@@ -43,7 +44,7 @@ $MP\equiv(S,P)$<br>
   * 마르코프 프로세스 구성요소
     * 상태의 집합 $S$<br>
     * 전이 확률 행렬 $P_{SS'}$<br>
-  * 마르코프 성질<br>
+  * 마르코프 성질 : 미래는 오로지 현재에 의해 결정됨<br>
 $P[S_{t+1}\mid S_t]=P[S_{t+1}\mid S_1,S_2,\cdots,S_t]$
 * 2.2 마르코프 리워드 프로세스 (Markov Reward Process)
   * 마르코프 리워드 프로세스 정의
@@ -56,14 +57,19 @@ $MRP\equiv(S,P,R,\gamma)$<br>
 $R=E[R_t\mid S_t=s]$<br>
     * 감쇠인자 $\gamma$<br>
   * 에피소드
-  * 리턴<br>
+  * 리턴 : 감쇠된 보상의 합<br>
 $G_t=R_{t+1}+\gamma R_{t+2}+\gamma^2 R_{t+3}+\cdots$<br>
+    * 에피소드
+    * 미래에 받을 보상의 합
   * 감쇠인자는 왜 필요할까?
     * 수학적 편의성
     * 사람의 선호 반영 (즉각적인 보상 선호)
     * 미래에 대한 불확실성 반영
   * 밸류와 기댓값
   * 에피소드 샘플링 (Monte-Carlo 접근법)
+    * 리턴은 동일 상태에서도 매번 바뀔 수 있음
+    * 기댓값 사용 필요
+    * 상태 가치 함수
   * 상태 가치 함수<br>
 $v(s)=E[G_t\mid S_t=s]$<br>
 * 2.3 마르코프 결정 프로세스 (Markov Decision Process)
@@ -79,7 +85,7 @@ $P_{SS'}^a=P[S_{t+1}=s'\mid S_t=s,A_t=a]$<br>
 $R_s^a=E[R_{t+1}\mid S_t=s,A_t=a]$<br>
     * 감쇠인자 $\gamma$<br>
   * 정책함수와 2가지 가치함수
-    * 정책함수<br>
+    * 정책함수 : 상태 $s$에서 액션 $a$를 선택할 확률<br>
 $\pi(a\mid s)=P[A_t=a\mid S_t=s]$<br>
     * 상태 가치함수<br>
 $v_\pi(s)=E_\pi[r_{t+1}+\gamma r_{t+2}+\gamma^2 r_{t+3}+\cdots\mid S_t=s]=E_\pi[G_t\mid S_t=s]$<br>
@@ -87,13 +93,15 @@ $v_\pi(s)=E_\pi[r_{t+1}+\gamma r_{t+2}+\gamma^2 r_{t+3}+\cdots\mid S_t=s]=E_\pi[
 $q_\pi(s,a)=E_\pi[G_t\mid S_t=s,A_t=a]$<br>
 * 2.4 Prediction과 Control
   * Prediction : 정책 $\pi$가 주어졌을 때 각 상태의 밸류를 평가하는 문제
-  * Control : 최적 정책 $\pi^*$ 를 찾는 문제
+  * Control : 최적 정책 $\pi^*$ 를 찾는 문제 (누구를 만나도 다 이기는 정책)
   * 최적 가치함수
 
 
 
 # 3. 벨만 방정식
 * 3.1 벨만 기대 방정식
+  * 모델 프리 : 경험을 통해 학습 (모델을 모르기 때문에 경험을 기반으로 학습해야 함)
+  * 모델 기반 : Planning (모델을 알고 있으니까 계획만 수립해도 실제 가치를 평가할 수 있음)
   * 재귀함수
   * 0단계<br>
 $v_\pi(s_t)=E_\pi[r_{t+1}+\gamma v_\pi(s_{t+1})]$<br>
@@ -123,17 +131,22 @@ $q_* (s,a)=r_s^a+\gamma \sum_{s' \in S}P_{ss'}^a\max_{a'}q_ * (s',a')$<br>
 
 # 4. MDP를 알 때의 플래닝
 * 4.1 밸류 평가하기 - 반복적 정책 평가
+  * MDP를 안다는 것
+    * 보상함수를 알고 있음
+    * 전이확률행렬을 알고 있음
+    * $S, A, P, R, \gamma$가 주어짐
   * 플래닝 : MDP에 대한 모든 정보를 알 때, 이를 이용하여 정책을 개선해나가는 과정
   * 테이블 기반 방법론
 * 4.2 최고의 정책 찾기 - 정책 이터레이션
   * 벨만 기대 방정식 1단계 활용  
   * 그리디 정책 (Greedy Policy)
-  * 정책 평가<br>
+  * 정책 평가 : 반복적 정책 평가<br>
 $V\rightarrow V_\pi$<br>
-  * 정책 개선<br>
+  * 정책 개선 : 그리디 정책 생성<br>
 $\pi \rightarrow \pi_{greedy}$<br>
   * Early Stopping
 * 4.3 최고의 정책 찾기 - 밸류 이터레이션
+  * MDP를 모두 아는 상황에서는 최적 밸류를 알면 최적 정책을 얻을 수 있음
   * 벨만 최적 방정식 1단계 활용
   * 문제와 MDP 조건에 따른 구분
     * 문제가 작다
@@ -149,14 +162,27 @@ $\pi \rightarrow \pi_{greedy}$<br>
 # 5. MDP를 모를 때 밸류 평가하기
 * 5.1 몬테카를로 학습
   * 모델 프리
+    * 모델 : 환경의 모델
+    * 모델 프리에서의 Prediction
+      * 몬테카를로
+      * Temporal Difference
+    * 가치 함수 : 리턴의 기댓값 (가치 함수의 정의)
   * 몬테카를로 방법론 예시 : MCTS (Monte Carlo Tree Search), MCMC (Markov Chain Monte Carlo)
   * 대수의 법칙 (Law of large numbers)
-  * 알고리즘 : 테이블 초기화, 경험 쌓기, 테이블 업데이트, 밸류 계산<br>
+  * 몬테카를로 학습 알고리즘1 : 테이블 업데이트
+    * 테이블 초기화, 경험 쌓기, 테이블 업데이트, 밸류 계산 (에피소드 N개가 모두 끝난 뒤 평균 계산)<br>
 $v_\pi(s_t)\cong\frac{V(s_t)}{N(s_t)}$<br>
 $V(s_t)\leftarrow V(s_t)+\alpha (G_t-V(s_t))$<br>
+  * 몬테카를로 학습 알고리즘2 : 조금씩 업데이트
+    * 에피소드가 한 개 끝날때마다 테이블 업데이트
   * [몬테카를로 코드](https://github.com/seungeunrho/RLfrombasics/blob/master/ch5_MCLearning.py)
 * 5.2 Temporal Difference 학습
-  * 추측을 추측으로 업데이트하자
+  * TD 학습
+    * MC는 반드시 종료하는 MDP에만 사용 가능
+    * TD는 추측을 추측으로 업데이트 하는 방식
+    * 리턴은 가치 함수의 불편 추정량 (편향되지 않은 추정량)
+    * 벨만 기대 방정식의 TD Target 활용
+    * 실제 TD Target (불편 추정량)과 우리가 사용한 TD Target (편향)은 같지 않음
   * 이론적 배경<br>
 $v_\pi(s_t)=E_\pi[G_t]$<br>
 $G_t$ 는 $v_\pi(s_t)$ 의 불편 추정량<br>
@@ -171,12 +197,12 @@ TD : $V(s_t)\leftarrow V(s_t)+\alpha (r_{t+1}+\gamma \boldsymbol{V(s_{t+1})}-V(s
     * Episodic MDP : MC, TD 사용 가능
     * Non-Episodic MDP : TD만 사용 가능
   * 편향성 (Bias)
-    * MC : 불편 추정량
-    * 실제 TD Target (불편 추정량)과 우리가 사용하는 TD Target (편향)은 다른 값<br>
+    * MC : 불편 추정량 (가치 함수의 정의로부터 리턴 사용)
+    * TD : 벨만 기대 방정식으로부터 TD Target 사용, 실제 TD Target (불편 추정량)과 우리가 사용하는 TD Target (편향)은 다른 값<br>
 $V(s_{t+1})\ne v_\pi(s_{t+1})$<br>
   * 분산 (Variance)
     * MC : 수십 ~ 수백 개의 확률적 결과, 분산이 큼
-    * TD : 한 Step만 예측, 분산이 작음
+    * TD : 한 Step만 예측, 분산이 작음 (학습에 유리)
 * 5.4 몬테카를로와 TD의 중간?
   * n Step TD<br>
 $N=n:r_{t+1}+\gamma r_{t+2}+\gamma^2 r_{t+3}+\cdots+\gamma^nV(s_{t+n})$<br>
@@ -185,14 +211,22 @@ $N=n:r_{t+1}+\gamma r_{t+2}+\gamma^2 r_{t+3}+\cdots+\gamma^nV(s_{t+n})$<br>
 
 # 6. MDP를 모를 때 최고의 정책 찾기
 * 6.1 몬테카를로 컨트롤
-  * MDP를 모르기 때문에 보상과 전이 확률 행렬을 알 수 없음
+  * 몬테카를로 컨트롤, SARSA, Q Learning
+  * 모델 프리에서 정책 이터레이션을 사용할 수 없는 이유 : 1) 보상함수, 전이확률행렬를 모름 (벨만 기대 방정식에서 사용됨), 2) 정책 개선 단계에서 그리다 정책을 만들 수 없음
+  * MDP를 모르기 때문에 보상과 전이 확률 행렬을 알 수 없음<br>
 $v_\pi(s)=\sum_{a\in A}\pi(a\mid s)\left(r_s^a+\gamma \sum_{s'\in S}P_{ss'}^av_\pi(s')\right)$<br>
   * 해결방법
     * 평가 자리에 MC 사용
     * V 대신 Q 사용
     * Greedy 대신 $\epsilon$-Greedy 사용 (Decaying $\epsilon$-Greedy)
+  * 몬테카를로 컨트롤 구현
+    * 한 에피소드의 경험 축적
+    * 경험한 데이터로 $q(s, a)$ 값 업데이트 (정책 평가)
+    * 업데이트 된 $q(s, a)$ 테이블로 입실론 그리디 수행 (정책 개선)
   * [모델 프리 MC](https://github.com/seungeunrho/RLfrombasics/blob/master/ch6_MCControl.py)
 * 6.2 TD 컨트롤 1 - SARSA
+  * MC 대신 TD 사용해서 정책 평가
+  * 히스토리 전체가 아니라 샘플 트랜지션 하나만 생기면 업데이트 가능
   * MC vs. TD<br>
 TD로 V 학습 : $V(S)\leftarrow V(S) + \alpha (R+\gamma V(S')-V(S))$<br>
 TD로 Q 학습 : $Q(S,A)\leftarrow Q(S,A) + \alpha (R+\gamma Q(S',A')-Q(S,A))$<br>
@@ -200,6 +234,8 @@ TD로 Q 학습 : $Q(S,A)\leftarrow Q(S,A) + \alpha (R+\gamma Q(S',A')-Q(S,A))$<b
 * 6.3 TD 컨트롤 2 - Q러닝
   * On-Policy : Target Policy와 Behavior Policy가 같은 경우
   * Off-Policy : Target Policy와 Behavior Policy가 다른 경우
+  * Target Policy : 강화하고자 하는 목표가 되는 정책
+  * Behavior Policy : 환경과 상호작용하며 경험을 쌓고 있는 정책
   * Off-Policy의 장점
     * 과거의 경험 재사용 가능
     * 사람의 데이터로부터 학습 가능
@@ -218,6 +254,15 @@ SARSA : $q_\pi(s_t,a_t)=E_\pi[r_{t+1}+\gamma q_\pi(s_{t+1},a_{t+1})]$<br>
 Q Learning : $q_* (s,a)=E_{s'}[r+\gamma \max_{a'}q_ * (s',a')]$<br>
     * $E_\pi$는 정책함수 $\pi$를 따라가는 경로에 대해 기댓값 계산
     * $E_{s'}$는 정책함수 $\pi$와 전혀 관련없음 (어떠한 정책을 사용해도 무관)
+  * SARSA
+    * 벨만 기대 방정식에 기원을 두고 있음
+    * 2가지 확률적인 요소 포함
+      * $\pi(a|s)$ : 정책에 의한 확률적인 요소
+      * 전이확률행렬 : 환경에 의한 확률적인 요소
+  * Q Learning
+    * 벨만 최적 방정식에 기원을 두고 있음
+    * $\pi$와 관련 없음 : 어떤 정책을 사용해도 상관없음
+    * 최적 정책은 환경에 의존적임 : 환경이 정해지면 그에 따라 최적 정책도 결정됨
   * [모델 프리 Q Learning](https://github.com/seungeunrho/RLfrombasics/blob/master/ch6_QLearning.py)
 
 
