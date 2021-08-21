@@ -11,7 +11,7 @@ toc_sticky: true
 
 [comment]: <> (포스트 화면 넓게 설정하고 싶을 때 추가, classes: wide)
 
-![RL from Basics (바닥부터 배우는 강화학습)](https://raw.githubusercontent.com/missflash/missflash.github.io/master/_files/RL_from_basics.jpg){: width="30%" height="30%"}
+![RL from Basics (바닥부터 배우는 강화학습)](https://raw.githubusercontent.com/missflash/missflash.github.io/blob/master/_files/RL_from_basics.jpg){: width="30%" height="30%"}
 
 
 # 1. 강화학습이란
