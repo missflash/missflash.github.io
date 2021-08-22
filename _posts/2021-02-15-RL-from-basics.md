@@ -323,6 +323,10 @@ $w'=w-\alpha*\nabla_wL(w)$<br>
   * 가치 기반 에이전트
   * 정책 기반 에이전트
   * Actor-Critic
+  * 손실함수의 정의에 기댓값 사용 이유 : 존재하는 모든 상태를 방문할 수 없음, 정책에 의해 자주 방문하는 상태의 가중치가 높아짐 (중요한 상태의 밸류를 더 정확하게 계산할 수 있음)
+  * 정책 $\pi$을 이용한 샘플 추출 필요
+  * 정답에 해당하는 밸류를 모르기 때문에 몬테카를로 방법의 리턴이나 TD의 TD 타깃 학습 필요
+  * 정답에 해당하는 리턴이나 TD 타깃은 상수임에 주의 : 타깃이 변할 경우 학습이 불안정하게 됨, 실제 구현시에는 TD 타깃에 detach 함수 호출하면 됨
   * 밸류 네트워크<br>
 $L(\theta)=E_\pi[(v_{true}(s)-v_\theta (s))^2]$<br>
 $\nabla_\theta L(\theta)=-E_\pi[(v_{true}(s)-v_\theta (s))\nabla_\theta v_\theta(s)]$<br>
@@ -335,14 +339,15 @@ $\theta'=\theta+\alpha(\boldsymbol{G_t}-v_\theta (s_t))\nabla_\theta v_\theta(s_
 $\theta'=\theta+\alpha(\boldsymbol{r_{t+1}+\gamma v_\theta(s_{t+1})}-v_\theta (s_t))\nabla_\theta v_\theta(s_t)$<br>
 * 8.2 딥 Q러닝
   * 가치 기반 에이전트
-    * 명시적 정책이 따로 없음
-    * 내재된 정책 사용 (액션-가치 함수 Q)
+    * 가치 기반 에이전트에는 명시적 정책이 따로 없음 : 액션 가치 함수 $q(s, a)$ 이용
+    * 이런 정책 함수를 내재된 정책이라고 함
   * 이론적 배경<br>
 $Q_* (s,a)=E_{s'}[r+\gamma max_{a'}Q_ * (s',a')]$<br>
 $Q(s,a)\leftarrow Q(s,a)+\alpha(\boldsymbol{r+\gamma max_{a'}Q(s',a')}-Q(s,a))$<br>
 $L(\theta)=E[(\boldsymbol{r+\gamma max_{a'}Q_\theta(s',a')}-Q_\theta(s,a))^2]$<br>
 $\theta'=\theta+\alpha(\boldsymbol{r+\gamma max_{a'}Q_\theta(s',a')}-Q_\theta(s,a))\nabla_\theta Q_\theta(s,a)$<br>
-  * 미니 배치
+  * 미니 배치 : 기댓값 연산자를 없애기 위해 여러개의 샘플을 뽑아서 그 평균을 이용해 업데이트
+  * 미니 배치 사이즈
   * 딥 Q러닝 Pseudo Code
     * 1) $Q_\theta$ 의 파라미티 $\theta$ 초기화<br>
     * 2) 에이전트의 상태 $s$ 를 초기화 ($s\leftarrow s_0$)<br>
@@ -353,43 +358,63 @@ $\theta'=\theta+\alpha(\boldsymbol{r+\gamma max_{a'}Q_\theta(s',a')}-Q_\theta(s,
       * D) $\theta$ 업데이트 : $\theta\leftarrow\theta+\alpha(r+\gamma Q_\theta(s',a')-Q_\theta(s,a))\nabla_\theta Q_\theta(s,a)$<br>
       * E) $s\leftarrow s'$<br>
     * 에피소드가 끝나면 다시 2로 돌아가서 $\theta$ 가 수렴할 때까지 반복<br>
+  * Off-Policy 학습 : 실행할 액션을 선택하는 행동 정책은 입실론 그리디 정책, 학습 대상인 타깃 정책은 그리디 정책 사용
   * 실제 구현시에는 3-D 대신 $L(\theta)$ 를 사용하면 됨 (라이브러리가 미분 수행)<br>
 $L(\theta)=(\boldsymbol{r+\gamma max_{a'}Q_\theta(s',a')}-Q_\theta(s,a))^2$<br>
   * Experience Replay
+    * 경험 : 여러개의 에피소드로 구성
+    * 에피소드 : 여러개의 상태 전이 (트랜지션)으로 구성
     * 상태 전이 : $e_t=(s_t,a_t,r_t,s_{t+1})$<br>
-    * 리플레이 버퍼 : 낱개의 데이터 재사용 (선입선출)
     * 상관성 억제 : 다양한 데이터 섞임 (Shuffle)
+    * 리플레이 버퍼 : 낱개의 데이터 재사용 (선입선출), 가장 최신 N개의 데이터만 유지, 랜덤하게 미니 배치 구성
+    * 리플레이 버퍼의 장점 : 여러 데이터가 재사용 될 수 있음 (데이터 효율성 향상), 데이터 사이의 상관성을 낮춤
+    * Off-Policy 알고리즘에만 사용 가능
   * Target Network<br>
 $L(\theta_i)=E[(R+\gamma max_{A'}Q_{\theta_{i}^{-}}(S',A')-Q_{\theta_i} (S,A))^2]$<br>
 $Q_{\theta_{i}^{-}}$ : Target Network<br>
 $Q_{\theta_i}$ : Q Network<br>
 일정 주기마다 $\theta_{i}^{-} \leftarrow \theta_i$<br>
     * 뉴럴 네트워크를 학습할 때 정답지가 자주 변하는 것은 학습의 안정성을 떨어뜨리기 때문
+    * 정답을 계산할 때 사용하는 타깃 네트워크와 학습을 받고 있는 Q 네트워크를 구분해서 사용
+    * 타깃 네트워크의 파라미터를 일정 주기마다 업데이트
   * [DQN 구현 사례](https://github.com/seungeunrho/RLfrombasics/blob/master/ch8_DQN.py)
 
 
 
 # 9. 정책 기반 에이전트
 * 9.1 Policy Gradient
-  * 결정론적 정책 vs. 확률론적 정책
+  * 가치 기반 에이전트 : 결정론적 방식으로 액션 결정
+  * 정책 기반 에이전트 : 확률론적 방식으로 액션 결정 (좀 더 유연한 정책)
+  * 액션 공간이 연속적일 경우 가치 기반 에이전트 사용 불가
+  * 환경에 숨겨진 정보가 있거나 환경 자체가 변하는 경우, 정책 기반 에이전트는 유연하게 대처 가능
+  * 정책 기반 에이전트에서 정책 함수의 정답을 구하는 것은 어려움, 손실함수 사용 불가, 정책을 평가하는 기준인 평가함수 $J$ 필요
+  * 평가함수는 상태의 확률 분포와 가치함수의 곱으로 정의
   * Gradient Ascent<br>
 $J(\theta)=E_{\pi_\theta}[\sum_tr_t]=v_{\pi_\theta}(s_0)$<br>
 $J(\theta)=\sum_{s\in S}d(s)*v_{\pi_\theta}(s)$<br>
 $\theta'\leftarrow\theta+\alpha\nabla_\theta J(\theta)$<br>
+  * 모델 프리의 한계
+    * 보상함수와 전이확률행렬을 모름
+    * 모든 상태에 대해 상태가치함수 합산 불가
+    * 기댓값 연산자를 이용해 샘플 기반 방법론으로 풀이 가능!
   * 1-Step MDP<br>
-  $J(\theta)=\sum_{s\in S}d(s)*v_{\pi_\theta}(s)$<br>
-  $J(\theta)=\sum_{s\in S}d(s)\sum_{a\in A}\pi_\theta(s,a) *R_{s,a}$<br>
-  $\nabla_\theta J(\theta)=\nabla_\theta \sum_{s\in S}d(s)\sum_{a\in A}\pi_\theta(s,a) *R_{s,a}$<br>
-  $\nabla_\theta J(\theta)=\sum_{s\in S}d(s)\sum_{a\in A}\nabla_\theta\pi_\theta(s,a) *R_{s,a}$<br>
-  $\nabla_\theta J(\theta)=\sum_{s\in S}d(s)\sum_{a\in A}\frac{\pi_\theta(s,a)}{\pi_\theta(s,a)}\nabla_\theta\pi_\theta(s,a) *R_{s,a}$<br>
-  $\nabla_\theta J(\theta)=\sum_{s\in S}d(s)\sum_{a\in A}\pi_\theta(s,a)\nabla_\theta log \pi_\theta(s,a) *R_{s,a}$<br>
-  $\nabla_\theta J(\theta)=E_{\pi_\theta}[\nabla_\theta log \pi_\theta(s,a) *R_{s,a}]$<br>
+$J(\theta)=\sum_{s\in S}d(s)*v_{\pi_\theta}(s)$<br>
+$J(\theta)=\sum_{s\in S}d(s)\sum_{a\in A}\pi_\theta(s,a) *R_{s,a}$<br>
+$\nabla_\theta J(\theta)=\nabla_\theta \sum_{s\in S}d(s)\sum_{a\in A}\pi_\theta(s,a) *R_{s,a}$<br>
+$\nabla_\theta J(\theta)=\sum_{s\in S}d(s)\sum_{a\in A}\nabla_\theta\pi_\theta(s,a) *R_{s,a}$<br>
+$\nabla_\theta J(\theta)=\sum_{s\in S}d(s)\sum_{a\in A}\frac{\pi_\theta(s,a)}{\pi_\theta(s,a)}\nabla_\theta\pi_\theta(s,a) *R_{s,a}$<br>
+$\nabla_\theta J(\theta)=\sum_{s\in S}d(s)\sum_{a\in A}\pi_\theta(s,a)\nabla_\theta log \pi_\theta(s,a) *R_{s,a}$<br>
+$\nabla_\theta J(\theta)=E_{\pi_\theta}[\nabla_\theta log \pi_\theta(s,a) *R_{s,a}]$<br>
   * MDP<br>
 $\nabla_\theta J(\theta)=E_{\pi_\theta}[\nabla_\theta log \pi_\theta(s,a)*Q_{\pi_\theta}(s,a)]$<br>
+    * 보상함수를 Q로 변경
 * 9.2 REINFORCE 알고리즘
   * 이론적 배경<br>
 $\nabla_\theta J(\theta)=E_{\pi_\theta}[\nabla_\theta log \pi_\theta(s,a)*G_t]$<br>
 $Q_{\pi_\theta}(s,a)=E[G_t\mid s_t=s,a_t=a]$<br>
+    * $Q$대신 샘플인 리턴 사용
+    * 경험을 통해 리턴이 큰 액션의 확률을 증가시키도록 업데이트
+    * Gradient ascent vs. Gradient descent
   * REINFORCE Pseudo Code<br>
     * 1) $\pi_\theta(s,a)$ 의 파라미터 $\theta$ 를 랜덤으로 초기화<br>
     * 2) 에피소드가 끝날때까지 A~C 반복<br>
@@ -408,8 +433,9 @@ $J(\theta)=-G_t *log \pi_\theta(s_t,a_t)$ : Minimize 하고 싶은 값 (Gradient
 * 9.3 액터-크리틱
   * Q 액터-크리틱<br>
 $\nabla_\theta J(\theta)=E_{\pi_\theta}[\nabla_\theta log \pi_\theta(s,a)*Q_{\pi_\theta}(s,a)]$<br>
-  * 액터 : 실행할 액션 $a$ 를 선택하는 $\pi_\theta$<br>
-  * 크리틱 : 실행할 액션 $a$ 의 밸류를 평가하는 $Q_w$<br>
+  * 리턴 대신 Q 사용
+  * 액터 : 정책 함수의 가치를 학습하는 방향으로 업데이트, 실행할 액션 $a$ 를 선택하는 $\pi_\theta$<br>
+  * 크리틱 : Q 평가 결과가 좋으면 강화, 안좋으면 약화하는 방식으로 업데이트, 실행할 액션 $a$ 의 밸류를 평가하는 $Q_w$<br>
   * Q Actor-Critic Pseudo Code<br>
     * 1) 정책, 액션-밸류 네트워크의 파라미터 $\theta$ 와 $w$ 초기화<br>
     * 2) 상태 $s$ 초기화<br>
@@ -455,6 +481,10 @@ $E_\pi[\delta\mid s,a]=E_\pi[r+\gamma V(s')-V(s)\mid s,a]$<br>
 $E_\pi[\delta\mid s,a]=E_\pi[r+\gamma V(s')\mid s,a]-V(s)$<br>
 $E_\pi[\delta\mid s,a]=Q(s,a)-V(s)=A(s,a)$ : $\delta$ 는 $A(s,a)$ 의 불편추정량<br>
 $\nabla_\theta J(\theta)=E_{\pi_\theta}[\nabla_\theta log \pi_\theta(s,a)*\delta]$<br>
+    * 어드밴티지와 기저
+    * 상태 분포 : 정책 Pi를 따라서 움직이는 에이전트가 각 상태에 평균적으로 머무는 비율을 나타내는 분포
+    * 정책 함수, 액션-가치 함수, 가치 함수 3개 학습 필요
+    * 그라디언트 추정치의 변동성을 줄여줌으로써 효율적인 학습 가능
   * TD Actor-Critic Pseudo Code<br>
     * 1) 정책, 밸류 네트워크 파라미터 $\theta,\phi$ 초기화<br>
     * 2) 액션 $a \sim \pi_\theta(a\mid s)$ 를 샘플링<br>
@@ -464,6 +494,8 @@ $\nabla_\theta J(\theta)=E_{\pi_\theta}[\nabla_\theta log \pi_\theta(s,a)*\delta
       * C) $\theta$ 업데이트 : $\theta\leftarrow \theta+\alpha_1\nabla_\theta log \pi_\theta(s,a)*\delta$<br>
       * D) $\phi$ 업데이트 : $\phi\leftarrow \phi+\alpha_2\delta\nabla_\phi V_\phi(s)$<br>
       * E) $a\leftarrow a', s\leftarrow s'$<br>
+  * TD Error의 기댓값이 어드밴티지 (TD Error는 어드밴티지의 불편 추정량)
+  * TD Error를 이용함으로써 정책 함수, 가치 함수 2개만 학습하면 됨
   * [TD Actor-Critic 구현 사례](https://github.com/seungeunrho/RLfrombasics/blob/master/ch9_ActorCritic.py)
     * loss function 계산시, detach() 함수 반영사실에 주의
 ```
@@ -471,6 +503,7 @@ loss = -torch.log(pi_a) * delta.detach() + F.smooth_l1_loss(self.v(s), td_target
 ```
     * delta.detach()는 $\delta$ 를 상수처리 해서 업데이트 되지 않도록 하기 위함<br>
     * td_target.detach()는 TD Target을 상수처리 해서 업데이트 되지 않도록 하기 위함<br>
+    * 정답은 그 자리에 가만히 있고, 예측치가 변하도록 하기 위함<br>
   * Policy Gradient 알고리즘<br>
 $\nabla_\theta J(\theta)=E_{\pi_\theta}[\nabla_\theta log \pi_\theta(s,a)* Q_{\pi_\theta}(s,a)]$ : Policy Gradient Theorem<br>
 $\nabla_\theta J(\theta)=E_{\pi_\theta}[\nabla_\theta log \pi_\theta(s,a)* G_t]$ : REINFORCE<br>
