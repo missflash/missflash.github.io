@@ -269,30 +269,51 @@ Q Learning : $q_* (s,a)=E_{s'}[r+\gamma \max_{a'}q_ * (s',a')]$<br>
 
 # 7. Deep RL 첫 걸음
 * 7.1 함수를 활용한 근사
-  * 이산적 상태 vs. 연속적인 상태 공간
+  * 테이블 방식 접근의 한계
+    * 저장 용량의 한계 : 이산적 상태 vs. 연속적인 상태 공간
+    * 무한의 상태 방문 불가 : 학습 불가
   * 근사 함수<br>
 $f(s)=v_\pi (s)$<br>
   * 최소제곱법
   * 평균제곱오차 (Mean Squared Error)
+  * 피팅
   * 다항함수<br>
 $f(x)=a_0+a_1x+a_2x^2+\cdots+a_nx^n$<br>
-  * 오버피팅 vs. 언더피팅
-  * 함수의 장점 : 일반화
+  * 함수의 피팅
+    * 함수에 데이터를 기록한다.
+    * 데이터 점들을 가장 가깝게 지나도록 함수를 그려본다.
+    * 함수의 파라미터 값을 찾는다.
+    * 함수를 학습한다.
+  * 차수가 높은게 무조건 유리하지 않은 이유
+    * 데이터에 노이즈가 섞여 있음
+    * 데이터에 확률적 요소가 포함되어 있음
+  * 오버 피팅 : 함수가 노이즈에 피팅해버림
+  * 언더 피팅 : 함수의 유연성이 부족해 데이터와의 에러가 큼
+  * 함수의 장점
+    * 일반화
+    * 학습의 결과물을 저장하는데 필요한 용량이 적음
 * 7.2 인공 신경망의 도입
   * 인공신경망의 구성요소
     * Input/Output Layer
-    * Hidden Layer
-    * Node
-  * Linear Combination
-  * Non-Linear Activation
-  * RELU (Rectified Linear Unit)
+    * Hidden Layer : Node로 구성
+  * Node의 동작
+    * Linear Combination : Input의 선형 결합을 통해 새로운 Feature 생성 (Input보다 한층 더 추상화된 Feature)
+    * Non-Linear Activation : Input과 Output의 비선형 관계 대응 (ReLU, Sigmoid 등)
+  * ReLU (Rectified Linear Unit)
   * Loss Function
-  * Partial Derivative
+    * 인공신경망의 학습 : 손실함수의 값이 줄어들도록 파라미터를 수정하는 것
+    * $w$가 $L$($w$)에 미치는 영향력 확인 : 미분 필요
+    * 편미분 (Partial Derivative)
+    * Gradient : 편미분의 벡터 모음
+    * 업데이트 크기 : Learning Rate (Step Size)로 결정
   * Gradient<br>
 $\nabla_wL(w)=(\frac{\partial L(w)}{\partial w_1},\frac{\partial L(w)}{\partial w_2},\cdots,\frac{\partial L(w)}{\partial w_n})$<br>
   * Gradient Descent<br>
 $w'=w-\alpha*\nabla_wL(w)$<br>
-  * 미니 배치
+  * 학습 절차
+    * PyTorch 등에서 자동 미분 라이브러리 활용
+    * 역전파 (Backpropagation)을 통해 함수의 Gradient를 빠르게 계산
+    * 미니 배치 활용
   * [신경망 구현 사례](https://github.com/seungeunrho/RLfrombasics/blob/master/ch7_CosineFitting.py)
 
 
