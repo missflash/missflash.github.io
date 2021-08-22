@@ -180,7 +180,7 @@ git push -u pyjssp master<br><br>
     * git push https://github.com/missflash/missflash.github.io.git master
   * remote 제거
     * git remote remove origin
-  * Commit 삭제 : https://gmlwjd9405.github.io/2018/05/25/git-add-cancle.html
+  * Commit 삭제 : [https://gmlwjd9405.github.io/2018/05/25/git-add-cancle.html](https://gmlwjd9405.github.io/2018/05/25/git-add-cancle.html)
     * git reset --hard HEAD~3
   * 100MB 이상 파일 Commit 불가
   * Your branch is ahead of 'origin/master' by 3 commits 에러 메시지 발생시
