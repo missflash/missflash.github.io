@@ -222,7 +222,7 @@ $v_\pi(s)=\sum_{a\in A}\pi(a\mid s)\left(r_s^a+\gamma \sum_{s'\in S}P_{ss'}^av_\
   * 몬테카를로 컨트롤 구현
     * 한 에피소드의 경험 축적
     * 경험한 데이터로 $q(s, a)$ 값 업데이트 (정책 평가)
-    * 업데이트 된 $q(s, a)$ 테이블로 입실론 그리디 수행 (정책 개선)
+    * 업데이트 된 $q(s, a)$ 테이블로 $\epsilon$-Greedy 수행 (정책 개선)
   * [모델 프리 MC](https://github.com/seungeunrho/RLfrombasics/blob/master/ch6_MCControl.py)
 * 6.2 TD 컨트롤 1 - SARSA
   * MC 대신 TD 사용해서 정책 평가
@@ -358,7 +358,7 @@ $\theta'=\theta+\alpha(\boldsymbol{r+\gamma max_{a'}Q_\theta(s',a')}-Q_\theta(s,
       * D) $\theta$ 업데이트 : $\theta\leftarrow\theta+\alpha(r+\gamma Q_\theta(s',a')-Q_\theta(s,a))\nabla_\theta Q_\theta(s,a)$<br>
       * E) $s\leftarrow s'$<br>
     * 에피소드가 끝나면 다시 2로 돌아가서 $\theta$ 가 수렴할 때까지 반복<br>
-  * Off-Policy 학습 : 실행할 액션을 선택하는 행동 정책은 입실론 그리디 정책, 학습 대상인 타깃 정책은 그리디 정책 사용
+  * Off-Policy 학습 : 실행할 액션을 선택하는 행동 정책은 $\epsilon$-Greedy 정책, 학습 대상인 타깃 정책은 Greedy 정책 사용
   * 실제 구현시에는 3-D 대신 $L(\theta)$ 를 사용하면 됨 (라이브러리가 미분 수행)<br>
 $L(\theta)=(\boldsymbol{r+\gamma max_{a'}Q_\theta(s',a')}-Q_\theta(s,a))^2$<br>
   * Experience Replay
