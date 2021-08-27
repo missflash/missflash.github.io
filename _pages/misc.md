@@ -116,12 +116,20 @@ author_profile: true
 
 \#!/bin/sh<br>
 cd /Users/kimsanghun/MissFlash/Github<br>
-git remote add origin https://github.com/missflash/missflash.github.io.git<br>
+git remote add missflash https://github.com/missflash/missflash.github.io.git<br>
 git remote -v<br>
-git pull origin master<br>
+git pull missflash master<br>
 git add .<br>
 git commit -m "$@"<br>
-git push -u origin master
+git push -u missflash master<br>
+<br>
+cd /Users/kimsanghun/MissFlash/Github_MF_Stuff<br>
+git remote add mf_stuff https://github.com/missflash/MF_Stuff.git<br>
+git remote -v<br>
+git pull mf_stuff master<br>
+git add .<br>
+git commit -m "$@"<br>
+git push -u mf_stuff master<br>
 {: .notice--info}
 
 * github_push2.sh (sh github_push2.sh "Update-Repository.")
