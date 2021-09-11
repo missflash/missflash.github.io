@@ -11,7 +11,7 @@ toc_sticky: true
 
 [comment]: <> (포스트 화면 넓게 설정하고 싶을 때 추가, classes: wide)
 
-* TiVo 최적화 방법 공유
+* TiVo 최적화 방법
   * Ad Hoc 클라이언트 adbLink 설치 : [http://jocala.com/](http://jocala.com/)
     * [Windows](http://jocala.com/downloads/adblw43.exe)
     * [Mac](http://jocala.com/downloads/adblm43.dmg)
