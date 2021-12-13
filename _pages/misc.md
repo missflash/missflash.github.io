@@ -159,7 +159,7 @@ git push -u pyjssp master<br><br>
     * Project 디렉토리로 이동
     * git config --global user.name "missflash"
     * git config --global user.email "missflash@gmail.com"
-    * git config --global credential.helper store
+    * git config --global credential.helper store (로그인 정보는 ~/.git-credentials 에 저장)
   * 설정 확인
     * git config --list
   * 사용자 계정 삭제
