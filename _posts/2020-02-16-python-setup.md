@@ -28,23 +28,30 @@ export PATH
 
 * [PyCharm](https://www.jetbrains.com/pycharm/)
   * 2019.3 버전 설치
-  * 신규 프로젝트 생성 : ~/PyCharmProjects/MF_Python/
+  * 신규 프로젝트 생성 : ~/PyCharmProjects/MF_JSSP/
   * Preferences > Project: TensorFlow > Project Interpreter > Show All > + 표시
-    * Location : /Users/kimsanghun/PycharmProjects/
+    * Location : /Users/kimsanghun/PycharmProjects/MF_JSSP
     * Base Interpreter : /usr/local/bin/python3.7
     * Inherit global site-packages 체크 (Console상에서 설치한 패키지 그대로 상속)
   * 하단 패키지 목록 확인
   * \+ 표시 눌러서 패키지 추가 가능하나 Console에서 추가해야 함
     * PyCharm에서 추가시 Console에서 사용 불가!
+  * JSSP 필요 패키지
+    * pyjssp
+    * torch
+    * torch-scatter
+    * torch-sparse
+    * torch-cluster
+    * torch-geometric
   * requirements.txt 파일 있을 경우, 아래와 같이 필요 라이브러리 Install 가능
     * pip install --upgrade -r requirements.txt
       * 전체 패키지 버전 확인 : pip list
       * 패키지 버전 확인 : pip show tensorflow
-      * 패키지 업데이트 : pip install scikit-learn==0.22.1
+      * 특정 버전 패키지 업데이트 : pip install scikit-learn==0.22.1
   * PyCharm에서 가상환경 변경
     * 설정 > Project > Project Interpreter
   * 터미널에서 가상환경 변경
-    * 가상환경 활성화 : source ~/PycharmProjects/TensorFlowV1/bin/activate
+    * 가상환경 활성화 : source ~/PycharmProjects/MF_JSSP/bin/activate
     * 가상환경 종료 : deactivate
 
 ---
