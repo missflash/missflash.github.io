@@ -39,6 +39,9 @@ export PATH
   * JSSP 필요 패키지
     * pyjssp
     * torch
+      * pip install pytorch==1.8.0+cpu torchvision==0.9.0+cpu torchaudio==0.8.0 -f https://download.pytorch.org/whl/torch_stable.html
+      * pip install torch-scatter torch-sparse torch-cluster -f https://pytorch-geometric.com/whl/torch-1.8.0+cpu.html
+      * pip install torch-geometric
     * torch-scatter
     * torch-sparse
     * torch-cluster
