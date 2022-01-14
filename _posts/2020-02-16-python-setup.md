@@ -57,4 +57,7 @@ export PATH
     * 가상환경 활성화 : source ~/PycharmProjects/MF_JSSP/bin/activate
     * 가상환경 종료 : deactivate
 
+* Python 환경설정 관련
+  * Python 설치 경로 확인 : where python
+  * 설치 경로별 pip 실행 : /Python 설치 경로/bin/python -m pip install 패키지명
 ---
