@@ -199,3 +199,10 @@ git push -u pyjssp master<br><br>
       * git reset --hard origin/master 으로 remote의 버전으로 local 리셋
       * local 수정 파일 다시 복원
       * git push -u origin master 으로 정상 push 시도
+  * 새로운 Repository 추가
+    * 신규 디렉토리 new_project 생성
+    * cd new_project
+    * git init
+    * vi .gitignore
+    * 스크립트 수정
+    * 스크립트 실행 테스트
