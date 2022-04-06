@@ -206,3 +206,8 @@ git push -u pyjssp master<br><br>
     * vi .gitignore
     * 스크립트 수정
     * 스크립트 실행 테스트
+  * Commit 되돌리기
+    * git log --pretty로 되돌릴 Commit의 "해시" 확인
+    * "git reset --hard 해시"로 Commit 복귀
+    * git commit -m "Reset Commit"
+    * git push -u --force pg master
