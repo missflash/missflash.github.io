@@ -9,8 +9,21 @@ classes: wide
 * [Python](https://www.python.org/downloads/release/python-376/)
   * 3.7.6 버전 설치
   * /usr/local/bin 폴더
-  * /Library/Frameworks/Python.framework 폴더
-  * /Applications/Python 3.7 폴더
+  * /Library/Frameworks/Python.framework/Versions/3.7/bin 폴더
+  * /Users/kimsanghun/opt/anaconda3/bin 폴더
+  * /Users/kimsanghun/PycharmProjects/MF_JSSP/bin 폴더
+  * /Users/kimsanghun/PycharmProjects/MF_Python/bin 폴더
+
+* 패키지 설치 경로
+  * (Conda - base) /Users/kimsanghun/opt/anaconda3/lib/python3.8/site-packages
+  * (Native - base) /Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages
+  * (MF_JSSP) /Users/kimsanghun/PycharmProjects/MF_JSSP/lib/python3.7/site-packages
+  * (MF_Python) /Users/kimsanghun/PycharmProjects/MF_Python/lib/python3.7/site-packages
+  * pip show numpy로 경로 확인 가능
+
+* 패키지 설치 백업
+  * (MF_JSSP) /Users/kimsanghun/PycharmProjects/MF_JSSP/bin/pip freeze > ~/MissFlash/requirements_MF_JSSP.txt
+  * (MF_Python) /Users/kimsanghun/PycharmProjects/MF_Python/bin/pip freeze > ~/MissFlash/requirements_MF_Python.txt
 
 * Path 추가
   * vi ~/.bash_profile
@@ -54,7 +67,9 @@ export PATH
   * PyCharm에서 가상환경 변경
     * 설정 > Project > Project Interpreter
   * 터미널에서 가상환경 변경
-    * 가상환경 활성화 : source ~/PycharmProjects/MF_JSSP/bin/activate
+    * 가상환경 활성화
+      * source ~/PycharmProjects/MF_JSSP/bin/activate
+      * source ~/PycharmProjects/MF_Python/bin/activate
     * 가상환경 종료 : deactivate
 
 * Python 환경설정 관련
