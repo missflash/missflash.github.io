@@ -206,8 +206,18 @@ git push -u pyjssp master<br><br>
     * vi .gitignore
     * 스크립트 수정
     * 스크립트 실행 테스트
-  * Commit 되돌리기
+  * Commit 취소하기 (HEAD 위치 변경, 로컬 저장소를 Commit 이전으로 변경)
     * git log --pretty로 되돌릴 Commit의 "해시" 확인
+      * git log --oneline
     * "git reset --hard 해시"로 Commit 복귀
+    * "git clean -n"로 삭제대상 파일 확인
+    * "git clean -f"로 파일 삭제
     * git commit -m "Reset Commit"
     * git push -u --force pg master
+  * Commit 내용 되돌리기
+    * git log --oneline
+    * "git revert 해시"로 Commit 내용 되돌리기
+    * git commit -m "Revert Commit"
+    * git push -u --force pg master
+  * 상태 확인
+    * git status
