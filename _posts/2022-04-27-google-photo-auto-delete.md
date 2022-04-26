@@ -18,7 +18,7 @@ toc_sticky: true
 * Google Chrome 개발자 도구 실행
   * 빈 공간 오른쪽 마우스 > 검사 (Inspect) > Console 탭 실행
 
-# 영어 설정 Google Photo 일괄 삭제 방법
+# 영어 설정
 * Console 창에 스크립트 붙여넣기 후 Enter
 
 ```
@@ -95,7 +95,7 @@ let deleteTask = setInterval(() => {
 }, TIME_CONFIG['delete_cycle']);
 ```
 
-# 한국어 설정 Google Photo 일괄 삭제 방법
+# 한국어 설정
 * Console 창에 스크립트 붙여넣기 후 Enter
 
 ```
