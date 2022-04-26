@@ -20,6 +20,7 @@ toc_sticky: true
 
 # 영어 설정 Google Photo 일괄 삭제 방법
 * Console 창에 스크립트 붙여넣기 후 Enter
+
 ```
 // How many photos to delete?
 // Put a number value, like this
@@ -96,6 +97,7 @@ let deleteTask = setInterval(() => {
 
 # 한국어 설정 Google Photo 일괄 삭제 방법
 * Console 창에 스크립트 붙여넣기 후 Enter
+
 ```
 const maxImageCount = "ALL_PHOTOS";
 
