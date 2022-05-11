@@ -14,7 +14,7 @@ classes: wide
   * /Users/kimsanghun/PycharmProjects/MF_JSSP/bin 폴더
   * /Users/kimsanghun/PycharmProjects/MF_Python/bin 폴더 (A-Lab 프로젝트)
     * cd /Users/kimsanghun/PycharmProjects/MF_Python/bin
-    * source activate MF_Python 
+    * source activate MF_Python
 
 * 패키지 설치 경로
   * (Conda - base) /Users/kimsanghun/opt/anaconda3/lib/python3.8/site-packages
