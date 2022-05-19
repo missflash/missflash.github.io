@@ -179,7 +179,7 @@ $V(s_t)\leftarrow V(s_t)+\alpha (G_t-V(s_t))$<br>
 * 5.2 Temporal Difference 학습
   * TD 학습
     * MC는 반드시 종료하는 MDP에만 사용 가능
-    * TD는 추측을 추측으로 업데이트 하는 방식
+    * TD는 추측을 추측으로 업데이트 하는 방식 (Bootstrap)
     * 리턴은 가치 함수의 불편 추정량 (편향되지 않은 추정량)
     * 벨만 기대 방정식의 TD Target 활용
     * 실제 TD Target (불편 추정량)과 우리가 사용한 TD Target (편향)은 같지 않음
