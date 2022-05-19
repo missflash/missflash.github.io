@@ -504,6 +504,7 @@ loss = -torch.log(pi_a) * delta.detach() + F.smooth_l1_loss(self.v(s), td_target
     * delta.detach()는 $\delta$ 를 상수처리 해서 업데이트 되지 않도록 하기 위함<br>
     * td_target.detach()는 TD Target을 상수처리 해서 업데이트 되지 않도록 하기 위함<br>
     * 정답은 그 자리에 가만히 있고, 예측치가 변하도록 하기 위함<br>
+    * Loss는 정책 네트워크의 손실함수와 밸류 네트워크의 손실함수를 더해서 계산
   * Policy Gradient 알고리즘<br>
 $\nabla_\theta J(\theta)=E_{\pi_\theta}[\nabla_\theta log \pi_\theta(s,a)* Q_{\pi_\theta}(s,a)]$ : Policy Gradient Theorem<br>
 $\nabla_\theta J(\theta)=E_{\pi_\theta}[\nabla_\theta log \pi_\theta(s,a)* G_t]$ : REINFORCE<br>
