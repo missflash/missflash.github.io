@@ -102,7 +102,8 @@ $P(X=k)=\binom {n} {k} p^k (1-p)^{N-k}$<br>
 * 서론
 * 주관적인 사전확률분포 vs. 객관적인 사전확률분포
 * 알아두면 유용한 사전확률분포
-* 예제: 베이지안 MAB (Multi-Armed-Bandits)
+* 예제: 베이지안 MAB (Multi-Armed-Bandits)<br>
+<script src="https://gist.github.com/missflash/e935b305a4c405f1fd0cee79b7212d89.js"></script>
 * 해당 분야 전문가로부터 사전확률분포 유도하기
 * 켤레 사전확률분포
 * 제프리 사전확률분포
