@@ -74,7 +74,8 @@ $P(X=k)=\binom {n} {k} p^k (1-p)^{N-k}$<br>
 
 # 3. MCMC 블랙박스 열기
 * 베이지안 지형
-* 수렴 판정하기
+* 수렴 판정하기<br>
+<script src="https://gist.github.com/missflash/aa7d16e3f87f17664366f3998b2be1fe.js"></script>
 * MCMC에 대한 유용한 팁
 * 결론
 * 참고자료
