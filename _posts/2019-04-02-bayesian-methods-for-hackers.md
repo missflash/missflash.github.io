@@ -85,13 +85,6 @@ $P(X=k)=\binom {n} {k} p^k (1-p)^{N-k}$<br>
 * 서론
 * 큰 수의 법칙
   * 직관<br>
-$\frac{1}{N} \sum_{i=1}^N \;Z_i
-& =\frac{1}{N} \big(  \sum_{ Z_i = c_1}c_1 + \sum_{Z_i=c_2}c_2 \big)
-& = c_1 \sum_{ Z_i = c_1}\frac{1}{N} + c_2 \sum_{ Z_i = c_2}\frac{1}{N}
-& = c_1 \times \text{ (approximate frequency of $c_1$) }
-& \;\;\;\;\;\;\;\;\; + c_2 \times \text{ (approximate frequency of $c_2$) }
-& \approx c_1 \times P(Z = c_1) + c_2 \times P(Z = c_2)
-& = E[Z]$<br>
 <script src="https://gist.github.com/missflash/a26e2ca33fd371a54a05eb6c4ada3edc.js"></script>
 * 작은 수의 혼란
 * 결론
