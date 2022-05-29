@@ -74,7 +74,8 @@ $P(X=k)=\binom {n} {k} p^k (1-p)^{N-k}$<br>
 
 # 3. MCMC 블랙박스 열기
 * 베이지안 지형
-* 수렴 판정하기
+* 수렴 판정하기<br>
+<script src="https://gist.github.com/missflash/aa7d16e3f87f17664366f3998b2be1fe.js"></script>
 * MCMC에 대한 유용한 팁
 * 결론
 * 참고자료
@@ -83,6 +84,8 @@ $P(X=k)=\binom {n} {k} p^k (1-p)^{N-k}$<br>
 # 4. 아무도 알려주지 않는 위대한 이론
 * 서론
 * 큰 수의 법칙
+  * 직관<br>
+<script src="https://gist.github.com/missflash/a26e2ca33fd371a54a05eb6c4ada3edc.js"></script>
 * 작은 수의 혼란
 * 결론
 * 부록
@@ -108,6 +111,8 @@ $P(X=k)=\binom {n} {k} p^k (1-p)^{N-k}$<br>
 * 켤레 사전확률분포
 * 제프리 사전확률분포
 * N이 증가할 때 사전확률분포의 효과
+  * 서로 다른 사전확률분포에서 시작하더라도 표본 크기가 증가함에 따라 사후확률분포는 수렴함<br>
+<script src="https://gist.github.com/missflash/05c86f75c14964440132e9a77890a902.js"></script>
 * 결론
 * 부록
 * 참고자료
