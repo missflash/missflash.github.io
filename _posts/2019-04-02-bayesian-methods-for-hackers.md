@@ -109,8 +109,8 @@ $\frac{1}{N} \sum_{i=1}^N (Z_i - \mu)^2 \rightarrow E[(Z - \mu)^2] = Var(Z)$<br>
 * 서론
 * 손실함수<br>
 $L(\theta, \hat{\theta}) = (\theta - \hat{\theta})^2$<br>
-$L(\theta, \hat{\theta}) = \cases {(\theta - \hat{\theta})^2 & $\hat{\theta} \lt \theta$ \\\\
-c (\theta - \hat{\theta})^2 & $\hat{\theta} \ge \theta, \;\; 0 \lt c \lt 1$ }$<br>
+$L(\theta, \hat{\theta}) = \cases {(\theta - \hat{\theta})^2 & \hat{\theta} \lt \theta \cr
+c (\theta - \hat{\theta})^2 & \hat{\theta} \ge \theta, \;\; 0 \lt c \lt 1 }$<br>
 $L(\theta, \hat{\theta}) = |\theta - \hat{\theta}|$<br>
 $L(\theta, \hat{\theta}) = -\theta \log(\hat{\theta}) - (1 - \theta) \log(1 - \hat{\theta}), \;\; \theta \in {0, 1}, \; \hat{\theta} \in [0, 1]$<br>
 $l(\hat{\theta}) = E_{\theta} \left[ L(\theta, \hat{\theta}) \right]$<br>
