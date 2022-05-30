@@ -84,8 +84,20 @@ $P(X=k)=\binom {n} {k} p^k (1-p)^{N-k}$<br>
 
 # 4. 아무도 알려주지 않는 위대한 이론
 * 서론
-* 큰 수의 법칙
+* 큰 수의 법칙<br>
+$\frac{1}{N} \sum_{i=1}^N Z_i \rightarrow E[Z], \;\;\; N \rightarrow \infty$<br>
   * 직관<br>
+$\frac{1}{N} \sum_{i=1}^N Z_i = \frac{1}{N} \big( \sum_{Z_i = c_1}c_1 + \sum_{Z_i = c_2}c_2 \big) \\\\
+= c_1 \sum_{Z_i = c_1} \frac{1}{N} + c_2 \sum_{Z_i = c_2} \frac{1}{N} \\\\
+= c_1 \times \text{ (approximate frequency of $c_1$) } \\\\
+\;\;\;\;\;\;\;\; + c_2 \times \text{ (approximate frequency of $c_2$) } \\\\
+\approx c_1 \times P(Z = c_1) + c_2 \times P(Z = c_2) \\\\
+= E[Z]$<br>
+$D(N) = \sqrt{ E \left[ \left( \frac{1}{N} \sum_{i=1}^N Z_i - 4.5 \right)^2 \right] }$<br>
+$Y_k = \left( \frac{1}{N} \sum_{i=1}^N Z_i - 4.5 \right)^2$<br>
+$ \frac{1}{N_Y} \sum_{k=1}^{N_Y} Y_k \rightarrow E[Y_k] = E \left[ \left( \frac{1}{N} \sum_{i=1}^N Z_i - 4.5 \right)^2 \right]$<br>
+$\sqrt{\frac{1}{N_Y} \sum_{k=1}^{N_Y} Y_k} \approx D(N)$<br>
+$\frac{1}{N} \sum_{i=1}^N (Z_i - \mu)^2 \rightarrow E[(Z - \mu)^2] = Var(Z)$<br>
 <script src="https://gist.github.com/missflash/a26e2ca33fd371a54a05eb6c4ada3edc.js"></script>
 * 작은 수의 혼란<br>
 <script src="https://gist.github.com/missflash/7d7e789196b847e138f3370a3b002747.js"></script>
@@ -97,22 +109,46 @@ $P(X=k)=\binom {n} {k} p^k (1-p)^{N-k}$<br>
 
 # 5. 오히려 큰 손해를 보시겠습니까?
 * 서론
-* 손실함수
-* 베이지안 방법을 통한 기계학습
+* 손실함수<br>
+$L(\theta, \hat{\theta}) = (\theta - \hat{\theta})^2$<br>
+$L(\theta, \hat{\theta}) = \begin{case} (\theta - \hat{\theta})^2 & \hat{\theta} \lt \theta \\\\
+c (\theta - \hat{\theta})^2 & \hat{\theta} \ge \theta, \;\; 0 \lt c \lt 1 \end{case}$<br>
+$L(\theta, \hat{\theta}) = \cases {(\theta - \hat{\theta})^2 & $\hat{\theta} \lt \theta$ \\\\
+c (\theta - \hat{\theta})^2 & $\hat{\theta} \ge \theta, \;\; 0 \lt c \lt 1$ }$<br>
+$L(\theta, \hat{\theta}) = |\theta - \hat{\theta}|$<br>
+$L(\theta, \hat{\theta}) = -\theta \log(\hat{\theta}) - (1 - \theta) \log(1 - \hat{\theta}), \;\; \theta \in {0, 1}, \; \hat{\theta} \in [0, 1]$<br>
+$l(\hat{\theta}) = E_{\theta} \left[ L(\theta, \hat{\theta}) \right]$<br>
+$\frac{1}{N} \sum_{i=1}^N L(\theta_i, \hat{\theta}) \approx E_{\theta} \left[ L(\theta, \hat{\theta}) \right] = l(\hat{\theta})$<br>
+* 베이지안 방법을 통한 기계학습<br>
+$R_i(x) = \alpha_i + \beta_ix + \epsilon$<br>
+where $\epsilon \sim \text{Normal}(0, \sigma_i)$ and $i$ indexes our posterior samples.<br>
+$\arg \min_{r} E_{R(x)} \left[ L(R(x), r) \right]$<br>
 * 결론
 * 참고자료
 
 
 # 6. 우선순위 바로잡기
 * 서론
-* 주관적인 사전확률분포 vs. 객관적인 사전확률분포
+* 주관적인 사전확률분포 vs. 객관적인 사전확률분포<br>
+$\mu_p = \frac{1}{N} \sum_{i=0}^N X_i$<br>
 * 알아두면 유용한 사전확률분포
+  * 감마분포<br>
+$\text{Exp}(\beta) \sim \text{Gamma}(1, \beta)$<br>
+$F(x \mid \alpha, \beta) = \frac{\beta^{\alpha}x^{\alpha - 1}e^{-\beta x}}{\Gamma(\alpha)}$<br>
+  * 베타분포<br>
+$f_X(x | \alpha, \beta) = \frac{x^{(\alpha - 1)}(1 - x)^{(\beta - 1)}}{B(\alpha, \beta)}$<br>
+Observation : $X \sim \text{Binomial}(N, p)$<br>
+Posterior : $\text{Beta}(1 + X, 1 + N - X)$<br>
 * 예제: 베이지안 MAB (Multi-Armed-Bandits)<br>
 <script src="https://gist.github.com/missflash/e935b305a4c405f1fd0cee79b7212d89.js"></script>
-* 해당 분야 전문가로부터 사전확률분포 유도하기
+* 해당 분야 전문가로부터 사전확률분포 유도하기<br>
+$w_{opt} = \max_{w} \frac{1}{N} \left( \sum_{i=0}^N \mu_i^T w - \frac{\lambda}{2}w^T\Sigma_i w \right)$<br>
+
 * 켤레 사전확률분포
 * 제프리 사전확률분포
-* N이 증가할 때 사전확률분포의 효과
+* N이 증가할 때 사전확률분포의 효과<br>
+$p(\theta | {\textbf X}) \propto \underbrace{p({\textbf X} |\theta)}_{{\textrm likelihood}} \cdot \overbrace{p(\theta)}^{{\textrm prior}}$<br>
+$\log(p(\theta | {\textbf X})) = c + L(\theta; {\textbf X}) +\log(p(\theta))$<br>
   * 서로 다른 사전확률분포에서 시작하더라도 표본 크기가 증가함에 따라 사후확률분포는 수렴함<br>
 <script src="https://gist.github.com/missflash/05c86f75c14964440132e9a77890a902.js"></script>
 * 결론

@@ -223,7 +223,7 @@ $\frac {p(A|D)}{p(B|D)} = \frac {p(H)p(D|H)}{p(B)P(D|B)}$<br>
 * [John Grib 님의 친절한 설명](https://johngrib.github.io/wiki/Oliver-s-blood/) 확인
 * 관련글에서 [나의 공부 방법](https://johngrib.github.io/wiki/my-study-method/) 확인
 * 체계적인 정리 방식에 매료되서 [정리 환경](https://johngrib.github.io/wiki/my-wiki/) 설정 참조
-* 이렇게까지 신경쓸 여력은 없을 것 같아 [Dreamgonfly 님의 글](https://dreamgonfly.github.io/2018/01/27/jekyll-remote-theme.html) 참조 후 Github.io 블로그 개설
+* 이렇게까지 신경쓸 여력은 없을 것 같아 [Dreamgonfly 님의 글](https://dreamgonfly.github.io/2018/01/27/jekyll-remote-theme.html), [공식 문서](https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#remote-theme-method) 참조 후 Github.io 블로그 개설
 * 생각의 정리는 위키가 좋을 것 같아 Github Repository내 Wiki 사용 결정
 * [Markdown 사용법](https://gist.github.com/ihoneymon/652be052a0727ad59601) 숙지 후 첫 페이지 작성
 * 수식 추가를 위해 MathJax 추가 방법 검색 ([Minki Kim님](https://mkkim85.github.io/blog-apply-mathjax-to-jekyll-and-github-pages/), [jamiekang님](https://jamiekang.github.io/2017/04/28/blogging-on-github-with-jekyll/))했으나, Remote Theme 환경에서는 제대로 반영 안되는 문제 발생 ~~(해결방법 찾는중)~~ - [Minki Kim님](https://mkkim85.github.io/blog-apply-mathjax-to-jekyll-and-github-pages/) 글 정독 후 블로그는 성공했으나, Wiki는 여전히 적용안됨
