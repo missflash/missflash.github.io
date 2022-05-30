@@ -230,3 +230,4 @@ $\frac {p(A|D)}{p(B|D)} = \frac {p(H)p(D|H)}{p(B)P(D|B)}$<br>
 * Wiki에서는 생각보다 안되는 제약이 많음 (Mathjax, [Gist](https://gist.github.com/missflash/) 등)
 * [Blog 설정](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) 확인
 * [취미로 코딩하는 개발자](https://devinlife.com/howto/)에서 기타 블로그 설정 참조
+* [MathJax 사용방법](https://www.onemathematicalcat.org/MathJaxDocumentation/MathJaxKorean/TeXSyntax_ko.html#leftarrow), [MathJax 실시간 결과 확인방법](https://www.tuhh.de/MathJax/test/sample-dynamic-2.html)
