@@ -87,12 +87,10 @@ $P(X=k)=\binom {n} {k} p^k (1-p)^{N-k}$<br>
 * 큰 수의 법칙<br>
 $\frac{1}{N} \sum_{i=1}^N Z_i \rightarrow E[Z], \;\;\; N \rightarrow \infty$<br>
   * 직관<br>
-$\frac{1}{N} \sum_{i=1}^N Z_i = \frac{1}{N} \big( \sum_{Z_i = c_1}c_1 + \sum_{Z_i = c_2}c_2 \big) \\\\
-= c_1 \sum_{Z_i = c_1} \frac{1}{N} + c_2 \sum_{Z_i = c_2} \frac{1}{N} \\\\
-= c_1 \times \text{ (approximate frequency of $c_1$) } \\\\
-\;\;\;\;\;\;\;\; + c_2 \times \text{ (approximate frequency of $c_2$) } \\\\
-\approx c_1 \times P(Z = c_1) + c_2 \times P(Z = c_2) \\\\
-= E[Z]$<br>
+$\frac{1}{N} \sum_{i=1}^N Z_i = \frac{1}{N} \big( \sum_{Z_i = c_1}c_1 + \sum_{Z_i = c_2}c_2 \big)$<br>
+$= c_1 \sum_{Z_i = c_1} \frac{1}{N} + c_2 \sum_{Z_i = c_2} \frac{1}{N}$<br>
+$= c_1 \times \text{ (approximate frequency of $c_1$) } + c_2 \times \text{ (approximate frequency of $c_2$) }$<br>
+$\approx c_1 \times P(Z = c_1) + c_2 \times P(Z = c_2) = E[Z]$<br>
 $D(N) = \sqrt{ E \left[ \left( \frac{1}{N} \sum_{i=1}^N Z_i - 4.5 \right)^2 \right] }$<br>
 $Y_k = \left( \frac{1}{N} \sum_{i=1}^N Z_i - 4.5 \right)^2$<br>
 $ \frac{1}{N_Y} \sum_{k=1}^{N_Y} Y_k \rightarrow E[Y_k] = E \left[ \left( \frac{1}{N} \sum_{i=1}^N Z_i - 4.5 \right)^2 \right]$<br>
