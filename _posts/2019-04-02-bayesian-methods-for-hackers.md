@@ -86,7 +86,7 @@ $P(X=k)=\binom {n} {k} p^k (1-p)^{N-k}$<br>
 * 큰 수의 법칙
   * 직관<br>
 <script src="https://gist.github.com/missflash/a26e2ca33fd371a54a05eb6c4ada3edc.js"></script>
-* 작은 수의 혼란
+* 작은 수의 혼란<br>
 <script src="https://gist.github.com/missflash/7d7e789196b847e138f3370a3b002747.js"></script>
 * 결론
 * 부록
