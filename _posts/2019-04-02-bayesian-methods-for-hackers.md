@@ -34,8 +34,7 @@ $Z$ ~ $Exp(\lambda)$<br>
 $E[Z|\lambda] = \frac {1}{\lambda}$<br>
 
 * 컴퓨터를 사용하여 베이지안 추론하기
-  * [PyMC를 사용한 베이지안](https://nbviewer.jupyter.org/github/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/blob/master/Chapter1_Introduction/Ch1_Introduction_PyMC3.ipynb)<br>
-<script src="https://gist.github.com/missflash/791441b86c45f32cda6b052291d5d9b3.js"></script>
+  * [PyMC를 사용한 베이지안](https://nbviewer.jupyter.org/github/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/blob/master/Chapter1_Introduction/Ch1_Introduction_PyMC3.ipynb)
 * 결론
 * 부록
 * 연습문제
@@ -87,8 +86,7 @@ $P(X=k)=\binom {n} {k} p^k (1-p)^{N-k}$<br>
 * 큰 수의 법칙
   * 직관<br>
 <script src="https://gist.github.com/missflash/a26e2ca33fd371a54a05eb6c4ada3edc.js"></script>
-* 작은 수의 혼란<br>
-<script src="https://gist.github.com/missflash/7d7e789196b847e138f3370a3b002747.js"></script>
+* 작은 수의 혼란
 * 결론
 * 부록
 * 연습문제
