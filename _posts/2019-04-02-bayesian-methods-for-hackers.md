@@ -34,7 +34,8 @@ $Z$ ~ $Exp(\lambda)$<br>
 $E[Z|\lambda] = \frac {1}{\lambda}$<br>
 
 * 컴퓨터를 사용하여 베이지안 추론하기
-  * [PyMC를 사용한 베이지안](https://nbviewer.jupyter.org/github/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/blob/master/Chapter1_Introduction/Ch1_Introduction_PyMC3.ipynb)
+  * [PyMC를 사용한 베이지안](https://nbviewer.jupyter.org/github/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/blob/master/Chapter1_Introduction/Ch1_Introduction_PyMC3.ipynb)<br>
+<script src="https://gist.github.com/missflash/791441b86c45f32cda6b052291d5d9b3.js"></script>
 * 결론
 * 부록
 * 연습문제
@@ -55,7 +56,9 @@ $X$ ~ $Bin(N, p)$<br>
 $P(X=k)=\binom {n} {k} p^k (1-p)^{N-k}$<br>
 기댓값 : $Np$<br>
   * 데이터 Import 예시<br>
+<script src="https://gist.github.com/missflash/f7dc4640fb695217997a3766c6ef0223.js"></script>
   * Logistic Function<br>
+<script src="https://gist.github.com/missflash/c3f69cb3ced7ca2d178bec16fa42a4ce.js"></script>
 ![Logistic Function](https://raw.githubusercontent.com/missflash/missflash.github.io/master/_files/logistic_function.png)
   * 정규분포<br>
 정규확률변수 : $X \sim N(\mu, 1/\tau)$<br>
@@ -73,6 +76,7 @@ $P(X=k)=\binom {n} {k} p^k (1-p)^{N-k}$<br>
 # 3. MCMC 블랙박스 열기
 * 베이지안 지형
 * 수렴 판정하기<br>
+<script src="https://gist.github.com/missflash/aa7d16e3f87f17664366f3998b2be1fe.js"></script>
 * MCMC에 대한 유용한 팁
 * 결론
 * 참고자료
@@ -82,7 +86,9 @@ $P(X=k)=\binom {n} {k} p^k (1-p)^{N-k}$<br>
 * 서론
 * 큰 수의 법칙
   * 직관<br>
-* 작은 수의 혼란
+<script src="https://gist.github.com/missflash/a26e2ca33fd371a54a05eb6c4ada3edc.js"></script>
+* 작은 수의 혼란<br>
+<script src="https://gist.github.com/missflash/7d7e789196b847e138f3370a3b002747.js"></script>
 * 결론
 * 부록
 * 연습문제
@@ -102,11 +108,13 @@ $P(X=k)=\binom {n} {k} p^k (1-p)^{N-k}$<br>
 * 주관적인 사전확률분포 vs. 객관적인 사전확률분포
 * 알아두면 유용한 사전확률분포
 * 예제: 베이지안 MAB (Multi-Armed-Bandits)<br>
+<script src="https://gist.github.com/missflash/e935b305a4c405f1fd0cee79b7212d89.js"></script>
 * 해당 분야 전문가로부터 사전확률분포 유도하기
 * 켤레 사전확률분포
 * 제프리 사전확률분포
 * N이 증가할 때 사전확률분포의 효과
   * 서로 다른 사전확률분포에서 시작하더라도 표본 크기가 증가함에 따라 사후확률분포는 수렴함<br>
+<script src="https://gist.github.com/missflash/05c86f75c14964440132e9a77890a902.js"></script>
 * 결론
 * 부록
 * 참고자료
