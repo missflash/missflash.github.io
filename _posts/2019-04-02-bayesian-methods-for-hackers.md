@@ -34,7 +34,8 @@ $Z$ ~ $Exp(\lambda)$<br>
 $E[Z|\lambda] = \frac {1}{\lambda}$<br>
 
 * 컴퓨터를 사용하여 베이지안 추론하기
-  * [PyMC를 사용한 베이지안](https://nbviewer.jupyter.org/github/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/blob/master/Chapter1_Introduction/Ch1_Introduction_PyMC3.ipynb)
+  * [PyMC를 사용한 베이지안](https://nbviewer.jupyter.org/github/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/blob/master/Chapter1_Introduction/Ch1_Introduction_PyMC3.ipynb)<br>
+<script src="https://gist.github.com/missflash/791441b86c45f32cda6b052291d5d9b3.js"></script>
 * 결론
 * 부록
 * 연습문제
