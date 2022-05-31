@@ -115,10 +115,13 @@ $L(\theta, \hat{\theta}) = |\theta - \hat{\theta}|$<br>
 $L(\theta, \hat{\theta}) = -\theta \log(\hat{\theta}) - (1 - \theta) \log(1 - \hat{\theta}), \;\; \theta \in {0, 1}, \; \hat{\theta} \in [0, 1]$<br>
 $l(\hat{\theta}) = E_{\theta} \left[ L(\theta, \hat{\theta}) \right]$<br>
 $\frac{1}{N} \sum_{i=1}^N L(\theta_i, \hat{\theta}) \approx E_{\theta} \left[ L(\theta, \hat{\theta}) \right] = l(\hat{\theta})$<br>
+<script src="https://gist.github.com/missflash/4ffc437b9aaa55bcf0536077564bc030.js"></script>
 * 베이지안 방법을 통한 기계학습<br>
 $R_i(x) = \alpha_i + \beta_ix + \epsilon$<br>
 where $\epsilon \sim \text{Normal}(0, \sigma_i)$ and $i$ indexes our posterior samples.<br>
 $\arg \min_{r} E_{R(x)} \left[ L(R(x), r) \right]$<br>
+  * 예제: 금융예측
+<script src="https://gist.github.com/missflash/2820b2e306066d5fde1209f108d3c3f3.js"></script>
 * 결론
 * 참고자료
 
@@ -154,10 +157,13 @@ $\log(p(\theta | {\textbf X})) = c + L(\theta; {\textbf X}) +\log(p(\theta))$<br
 
 # 7. 베이지안 A/B 테스트
 * 서론
-* 전환율 테스트 개요
-* 선형손실함수 추가하기
+* 전환율 테스트 개요<br>
+<script src="https://gist.github.com/missflash/2dac0c9ce5ad1ef14f97ce3a41b2231e.js"></script>
+* 선형손실함수 추가하기<br>
+<script src="https://gist.github.com/missflash/817f81ed6e678cc85308f2554e11ba1f.js"></script>
 * 전환율을 넘어서: t-검정
-* 증분 추정하기
+* 증분 추정하기<br>
+<script src="https://gist.github.com/missflash/d9bd35a4bfabb6725e3509ca6e67df33.js"></script>
 * 결론
 * 참고자료
 
@@ -172,3 +178,4 @@ $\log(p(\theta | {\textbf X})) = c + L(\theta; {\textbf X}) +\log(p(\theta))$<br
 * [https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers)
 * [https://github.com/gilbutITbook/006775](https://github.com/gilbutITbook/006775)
 * [https://nbviewer.jupyter.org/github/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/tree/master/](https://nbviewer.jupyter.org/github/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/tree/master/)
+* [https://towardsdatascience.com/bayesian-price-optimization-with-pymc3-d1264beb38ee](https://towardsdatascience.com/bayesian-price-optimization-with-pymc3-d1264beb38ee)
