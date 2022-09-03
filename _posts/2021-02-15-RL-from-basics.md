@@ -482,7 +482,7 @@ $E_\pi[\delta\mid s,a]=E_\pi[r+\gamma V(s')\mid s,a]-V(s)$<br>
 $E_\pi[\delta\mid s,a]=Q(s,a)-V(s)=A(s,a)$ : $\delta$ 는 $A(s,a)$ 의 불편추정량<br>
 $\nabla_\theta J(\theta)=E_{\pi_\theta}[\nabla_\theta log \pi_\theta(s,a)*\delta]$<br>
     * 어드밴티지와 기저
-    * 상태 분포 : 정책 Pi를 따라서 움직이는 에이전트가 각 상태에 평균적으로 머무는 비율을 나타내는 분포
+    * 상태 분포 : 정책 $\theta$를 따라서 움직이는 에이전트가 각 상태에 평균적으로 머무는 비율을 나타내는 분포
     * 정책 함수, 액션-가치 함수, 가치 함수 3개 학습 필요
     * 그라디언트 추정치의 변동성을 줄여줌으로써 효율적인 학습 가능
   * TD Actor-Critic Pseudo Code<br>
