@@ -161,6 +161,8 @@ git push -u pyjssp master<br><br>
     * git config --global user.email "missflash@gmail.com"
     * git config --global credential.helper store (로그인 정보는 ~/.git-credentials 에 저장)
     * git config --global color.ui "auto"
+    * git config --global alias.glog "log --oneline --graph"
+      * git glog 로 명령어 alias
   * 설정 확인
     * git config --list
   * 사용자 계정 삭제
