@@ -113,6 +113,7 @@ author_profile: true
 
 # 실행 스크립트
 * github_push.sh (sh github_push.sh "Modify-Post.")
+
 ```
 \#!/bin/sh
 cd /Users/kimsanghun/MissFlash/Github
@@ -133,6 +134,7 @@ git push -u mf_stuff master
 ```
 
 * github_push2.sh (sh github_push2.sh "Update-Repository.")
+
 ```
 \#!/bin/sh
 cd /Users/kimsanghun/Dropbox/MissFlash/Personal/Visiting_Scholars/4.Research/Samsung-KAIST
@@ -228,6 +230,7 @@ git push -u pyjssp master
 # zsh 설정
 * Alias 설정
   * `vi ~/.zshrc`
+
 ```
 alias mf="conda activate missflash"
 alias de="conda deactivate"
@@ -237,10 +240,12 @@ alias shkim="git checkout shkim_dev"
 alias pull="git pull origin main"
 alias project="cd /Users/missflash/MissFlash/Projects/"
 ```
+
   * 수정사항 적용
     * `source ~/.zshrc`
 * 플러그인 설치
   * 플러그인 설치 후 에러 발생시
+
 ```
 git clone https://github.com/zsh-users/zsh-autosuggestions ~/.oh-my-zsh/custom/plugins/zsh-autosuggestions
 git clone https://github.com/zsh-users/zsh-syntax-highlighting ~/.oh-my-zsh/custom/plugins/zsh-syntax-highlighting
