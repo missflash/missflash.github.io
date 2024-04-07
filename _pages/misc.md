@@ -113,42 +113,44 @@ author_profile: true
 
 # 실행 스크립트
 * github_push.sh (sh github_push.sh "Modify-Post.")
+```
+\#!/bin/sh
+cd /Users/kimsanghun/MissFlash/Github
+git remote add missflash https://github.com/missflash/missflash.github.io.git
+git remote -v
+git pull missflash master
+git add .
+git commit -m "$@"
+git push -u missflash master
 
-\#!/bin/sh<br>
-cd /Users/kimsanghun/MissFlash/Github<br>
-git remote add missflash https://github.com/missflash/missflash.github.io.git<br>
-git remote -v<br>
-git pull missflash master<br>
-git add .<br>
-git commit -m "$@"<br>
-git push -u missflash master<br>
-<br>
-cd /Users/kimsanghun/MissFlash/Github_MF_Stuff<br>
-git remote add mf_stuff https://github.com/missflash/MF_Stuff.git<br>
-git remote -v<br>
-git pull mf_stuff master<br>
-git add .<br>
-git commit -m "$@"<br>
-git push -u mf_stuff master<br>
+cd /Users/kimsanghun/MissFlash/Github_MF_Stuff
+git remote add mf_stuff https://github.com/missflash/MF_Stuff.git
+git remote -v
+git pull mf_stuff master
+git add .
+git commit -m "$@"
+git push -u mf_stuff master
+```
 {: .notice--info}
 
 * github_push2.sh (sh github_push2.sh "Update-Repository.")
-
-\#!/bin/sh<br>
-cd /Users/kimsanghun/Dropbox/MissFlash/Personal/Visiting_Scholars/4.Research/Samsung-KAIST<br>
-git remote add Reinforcement_Project https://github.com/missflash/Reinforcement_Project.git<br>
-git remote -v<br>
-git pull Reinforcement_Project master<br>
-git add .<br>
-git commit -m "$@"<br>
-git push -u Reinforcement_Project master<br><br>
-cd /Users/kimsanghun/PycharmProjects/TensorFlowV1/lib/python3.7/site-packages/pyjssp<br>
-git remote add pyjssp https://github.com/missflash/pyjssp.git<br>
-git remote -v<br>
-git pull pyjssp master<br>
-git add .<br>
-git commit -m "$@"<br>
-git push -u pyjssp master<br><br>
+```
+\#!/bin/sh
+cd /Users/kimsanghun/Dropbox/MissFlash/Personal/Visiting_Scholars/4.Research/Samsung-KAIST
+git remote add Reinforcement_Project https://github.com/missflash/Reinforcement_Project.git
+git remote -v
+git pull Reinforcement_Project master
+git add .
+git commit -m "$@"
+git push -u Reinforcement_Project master
+cd /Users/kimsanghun/PycharmProjects/TensorFlowV1/lib/python3.7/site-packages/pyjssp
+git remote add pyjssp https://github.com/missflash/pyjssp.git
+git remote -v
+git pull pyjssp master
+git add .
+git commit -m "$@"
+git push -u pyjssp master
+```
 {: .notice--info}
 
 * github 참고사항
@@ -224,3 +226,27 @@ git push -u pyjssp master<br><br>
     * git push -u --force pg master
   * 상태 확인
     * git status
+
+# zsh 설정
+* Alias 설정
+  * `vi ~/.zshrc`
+```
+alias mf="conda activate missflash"
+alias de="conda deactivate"
+alias ll="ls -al"
+alias main="git checkout main"
+alias shkim="git checkout shkim_dev"
+alias pull="git pull origin main"
+alias project="cd /Users/missflash/MissFlash/Projects/"
+```
+  * 수정사항 적용
+    * `source ~/.zshrc`
+* 플러그인 설치
+  * 플러그인 설치 후 에러 발생시
+```
+git clone https://github.com/zsh-users/zsh-autosuggestions ~/.oh-my-zsh/custom/plugins/zsh-autosuggestions
+git clone https://github.com/zsh-users/zsh-syntax-highlighting ~/.oh-my-zsh/custom/plugins/zsh-syntax-highlighting
+git clone https://github.com/zsh-users/zsh-history-substring-search ~/.oh-my-zsh/custom/plugins/zsh-history-substring-search
+git clone https://github.com/zsh-users/zsh-completions ~/.oh-my-zsh/custom/plugins/zsh-completions
+source ~/.zshrc
+```
