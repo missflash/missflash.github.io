@@ -131,7 +131,6 @@ git add .
 git commit -m "$@"
 git push -u mf_stuff master
 ```
-{: .notice--info}
 
 * github_push2.sh (sh github_push2.sh "Update-Repository.")
 ```
@@ -151,81 +150,80 @@ git add .
 git commit -m "$@"
 git push -u pyjssp master
 ```
-{: .notice--info}
 
 * github 참고사항
   * sh 실행
-    * cd /Users/kimsanghun/MissFlash
-    * sh github_push.sh "Modify-Post."
+    * `cd /Users/kimsanghun/MissFlash`
+    * `sh github_push.sh "Modify-Post."`
   * 초기 설정
     * Project 디렉토리로 이동
-    * git config --global user.name "missflash"
-    * git config --global user.email "missflash@gmail.com"
-    * git config --global credential.helper store (로그인 정보는 ~/.git-credentials 에 저장)
-    * git config --global color.ui "auto"
-    * git config --global alias.glog "log --oneline --graph"
-      * git glog 로 명령어 alias
+    * `git config --global user.name "missflash"`
+    * `git config --global user.email "missflash@gmail.com"`
+    * `git config --global credential.helper store` (로그인 정보는 `~/.git-credentials` 에 저장)
+    * `git config --global color.ui "auto"`
+    * `git config --global alias.glog "log --oneline --graph"`
+      * `git glog` 로 명령어 alias
   * 설정 확인
-    * git config --list
+    * `git config --list`
   * 사용자 계정 삭제
-    * Mac > 키체인 접근 > 모든 항목 > github.com 삭제
+    * Mac > 키체인 접근 > 모든 항목 > `github.com` 삭제
   * [Not Works!] 사용자 계정 삭제
-    * --git credential-osxkeychain erase
+    * `--git credential-osxkeychain erase`
   * [Not Works!] 사용자 비밀번호 변경
-    * --git config --global --unset user.password
-  * Git 저장소 생성 (.git 디렉토리 생성)
-    * git init
+    * `--git config --global --unset user.password`
+  * Git 저장소 생성 (`.git` 디렉토리 생성)
+    * `git init`
   * 로컬 경로 이동
-    * cd /Users/kimsanghun/MissFlash/Github
+    * `cd /Users/kimsanghun/MissFlash/Github`
   * 리모트 저장소 연결
-    * git remote add origin https://github.com/missflash/missflash.github.io.git
+    * `git remote add origin https://github.com/missflash/missflash.github.io.git`
   * 리모트 저장소 확인
-    * git remote -v
+    * `git remote -v`
   * 다운로드
-    * git pull origin master
-    * git pull https://github.com/missflash/missflash.github.io.git master
-    * // -- fatal: refusing to merge unrelated histories 에러 발생시 아래 명령 수행
-    * // git pull origin master --allow-unrelated-histories
-  * 로컬 경로 모든 파일 업로드 (\_post 폴더에 글 작성 후)
-    * git add .
-    * git commit -m "."
+    * `git pull origin master`
+    * `git pull https://github.com/missflash/missflash.github.io.git master`
+    * // `-- fatal: refusing to merge unrelated histories` 에러 발생시 아래 명령 수행
+    * // `git pull origin master --allow-unrelated-histories`
+  * 로컬 경로 모든 파일 업로드 (`\_post` 폴더에 글 작성 후)
+    * `git add .`
+    * `git commit -m "."`
   * 업로드
-    * git push -u origin master
-    * git push https://github.com/missflash/missflash.github.io.git master
+    * `git push -u origin master`
+    * `git push https://github.com/missflash/missflash.github.io.git master`
   * remote 제거
-    * git remote remove origin
+    * `git remote remove origin`
   * Commit 삭제 : [https://gmlwjd9405.github.io/2018/05/25/git-add-cancle.html](https://gmlwjd9405.github.io/2018/05/25/git-add-cancle.html)
-    * git reset --hard HEAD~3
+    * `git reset --hard HEAD~3`
   * 100MB 이상 파일 Commit 불가
-  * Your branch is ahead of 'origin/master' by 3 commits 에러 메시지 발생시
-    * git push -u origin master 으로 정상 push 시도
+  * `Your branch is ahead of 'origin/master' by 3 commits` 에러 메시지 발생시
+    * `git push -u origin master` 으로 정상 push 시도
     * 위 방법으로 안될 경우,
       * local 수정 파일을 다른 경로로 이동
-      * git reset --hard origin/master 으로 remote의 버전으로 local 리셋
-      * local 수정 파일 다시 복원
-      * git push -u origin master 으로 정상 push 시도
+      * `git reset --hard origin/master` 으로 `remote`의 버전으로 `local` 리셋
+      * `local` 수정 파일 다시 복원
+      * `git push -u origin master` 으로 정상 `push` 시도
   * 새로운 Repository 추가
     * 신규 디렉토리 new_project 생성
-    * cd new_project
-    * git init
-    * vi .gitignore
+    * `cd new_project`
+    * `git init`
+    * `vi .gitignore`
     * 스크립트 수정
     * 스크립트 실행 테스트
   * Commit 취소하기 (HEAD 위치 변경, 로컬 저장소를 Commit 이전으로 변경)
-    * git log --pretty로 되돌릴 Commit의 "해시" 확인
-      * git log --oneline
-    * "git reset --hard 해시"로 Commit 복귀
-    * "git clean -n"로 삭제대상 파일 확인
-    * "git clean -f"로 파일 삭제
-    * git commit -m "Reset Commit"
-    * git push -u --force pg master
+    * `git log --pretty`로 되돌릴 Commit의 "해시" 확인
+      * `git log --oneline`
+    * `git reset --hard 해시`로 Commit 복귀
+    * `git clean -n`로 삭제대상 파일 확인
+    * `git clean -f`로 파일 삭제
+    * `git commit -m "Reset Commit"`
+    * `git push -u --force pg master`
   * Commit 내용 되돌리기
-    * git log --oneline
-    * "git revert 해시"로 Commit 내용 되돌리기
-    * git commit -m "Revert Commit"
-    * git push -u --force pg master
+    * `git log --oneline`
+    * `git revert 해시`로 Commit 내용 되돌리기
+    * `git commit -m "Revert Commit"`
+    * `git push -u --force pg master`
   * 상태 확인
-    * git status
+    * `git status`
 
 # zsh 설정
 * Alias 설정
